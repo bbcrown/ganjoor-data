@@ -160,6 +160,16 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
+      "RhymeLetters": "وزیما",
+      "PlainText": "زان فراخ آمد چنان روزی ما\r\nکه دریدن شد قبادوزی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان فراخ آمد چنان روزی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دریدن شد قبادوزی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
       "RhymeLetters": "دیدگان",
       "PlainText": "تو چه دانی قدر آب دیدگان\r\nعاشق نانی تو چون نادیدگان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو چه دانی قدر آب دیدگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاشق نانی تو چون نادیدگان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -181,29 +191,9 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وزیما",
-      "PlainText": "زان فراخ آمد چنان روزی ما\r\nکه دریدن شد قبادوزی ما",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان فراخ آمد چنان روزی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دریدن شد قبادوزی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "",
       "PlainText": "زان فراخ آمد چنان روزی ما\r\nکه دریدن شد قبادوزی ما\r\nاز برون در میان بازارم\r\nوز درون خلوتی است با یارم",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان فراخ آمد چنان روزی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دریدن شد قبادوزی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز برون در میان بازارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز درون خلوتی است با یارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ودی",
-      "PlainText": "اذکرونی اگر نفرمودی\r\nزهره ی نام او کرا بودی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاذکرونی اگر نفرمودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهره‌ی نام او کرا بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -248,6 +238,16 @@
       "CoupletsCount": 1
     },
     {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ودی",
+      "PlainText": "اذکرونی اگر نفرمودی\r\nزهره ی نام او کرا بودی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاذکرونی اگر نفرمودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهره‌ی نام او کرا بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
       "Index": 9,
       "Number": 9,
       "SectionType": "Couplet",
@@ -255,6 +255,16 @@
       "RhymeLetters": "ام",
       "PlainText": "طبع را افسردگی بخشد مدام\r\nمولوی باور ندارد این کلام",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبع را افسردگی بخشد مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمولوی باور ندارد این کلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انی",
+      "PlainText": "بقیاسات عقل یونانی\r\nنرسد کس به ذوق ایمانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقیاسات عقل یونانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرسد کس به ذوق ایمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -283,30 +293,10 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انی",
-      "PlainText": "بقیاسات عقل یونانی\r\nنرسد کس به ذوق ایمانی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقیاسات عقل یونانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرسد کس به ذوق ایمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 9,
-      "Number": 9,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
       "RhymeLetters": "",
       "PlainText": "بقیاسات عقل یونانی\r\nنرسد کس به ذوق ایمانی\r\nسر گفتار ما مجازی نیست\r\nباز کن دیده کاین به بازی نیست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقیاسات عقل یونانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرسد کس به ذوق ایمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر گفتار ما مجازی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز کن دیده کاین به بازی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 10,
-      "Number": 10,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ای",
-      "PlainText": "عقل خود کیست تا بمنطق رای\r\nره برد با جناب پاک خدای",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل خود کیست تا بمنطق رای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره برد با جناب پاک خدای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 10,
@@ -344,6 +334,16 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
+      "RhymeLetters": "ای",
+      "PlainText": "عقل خود کیست تا بمنطق رای\r\nره برد با جناب پاک خدای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل خود کیست تا بمنطق رای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره برد با جناب پاک خدای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
       "RhymeLetters": "شقی",
       "PlainText": "علم نبود غیر علم عاشقی\r\nمابقی تلبیس ابلیس شقی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم نبود غیر علم عاشقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمابقی تلبیس ابلیس شقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
@@ -357,6 +357,16 @@
       "RhymeLetters": "وی",
       "PlainText": "هر که نبود مبتلای ماه روی\r\nاسم او از لوح انسانی بشوی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که نبود مبتلای ماه روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسم او از لوح انسانی بشوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لیبودی",
+      "PlainText": "گر بمنطق کس ولی بودی\r\nشیخ سنت ابوعلی بودی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بمنطق کس ولی بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیخ سنت ابوعلی بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -388,26 +398,6 @@
       "RhymeLetters": "لیبودی",
       "PlainText": "گر بمنطق کس ولی بودی\r\nشیخ سنت ابوعلی بودی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بمنطق کس ولی بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیخ سنت ابوعلی بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "لیبودی",
-      "PlainText": "گر بمنطق کس ولی بودی\r\nشیخ سنت ابوعلی بودی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بمنطق کس ولی بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیخ سنت ابوعلی بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 12,
-      "Number": 12,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "چشم عقل از حقایق ایمان\r\nهست چون چشم اکمه از الوان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم عقل از حقایق ایمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست چون چشم اکمه از الوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -447,6 +437,16 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "ان",
+      "PlainText": "چشم عقل از حقایق ایمان\r\nهست چون چشم اکمه از الوان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم عقل از حقایق ایمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست چون چشم اکمه از الوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
       "PlainText": "سینه ی خالی زمهر گلرخان\r\nکهنه انبانی است پر از استخوان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه ی خالی زمهر گلرخان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکهنه انبانی است پر از استخوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
@@ -473,16 +473,6 @@
     },
     {
       "Index": 13,
-      "Number": 13,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "کس",
-      "PlainText": "عادت ما نیست رنجیدن ز کس\r\nور بیازارد نگوییمش بکس",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعادت ما نیست رنجیدن ز کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور بیازارد، نگوئیمش بکس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 13,
       "Number": 14,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -491,6 +481,16 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام یاقوت و شراب لعل خاصان را رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعام را کهنه سفال و دردئی اندر خور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کس",
+      "PlainText": "عادت ما نیست رنجیدن ز کس\r\nور بیازارد نگوییمش بکس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعادت ما نیست رنجیدن ز کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور بیازارد، نگوئیمش بکس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
     },
     {
       "Index": 13,
@@ -514,6 +514,16 @@
     },
     {
       "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یادما",
+      "PlainText": "ور برآرد دود از بنیاد ما\r\nآه آتش بار ناید یاد ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور برآرد دود از بنیاد ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه آتش بار ناید یاد ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 14,
       "Number": 15,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -522,16 +532,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباده خواهی باش تا از خم برون آرم که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچه در جام و سبو دارم، مهیا آتش است.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 1
-    },
-    {
-      "Index": 14,
-      "Number": 14,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "یادما",
-      "PlainText": "ور برآرد دود از بنیاد ما\r\nآه آتش بار ناید یاد ما",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور برآرد دود از بنیاد ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه آتش بار ناید یاد ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
     },
     {
       "Index": 14,
@@ -565,16 +565,6 @@
     },
     {
       "Index": 15,
-      "Number": 15,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "افعی دهر اگر بزند بر دلت مترس\r\nکور است زهر و مهره بیک جای در دهان\r\nتو بغیر علم عشق ار دل نهی\r\nسنگ استنجا به شیطان میدهی\r\nورنه ما شوریدگان در یک سجود\r\nبیخ ظالم را براندازیم زود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافعی دهر اگر بزند بر دلت مترس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکور است زهر و مهره بیک جای در دهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بغیر علم عشق ار دل نهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنگ استنجا به شیطان میدهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورنه ما شوریدگان در یک سجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخ ظالم را براندازیم زود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 15,
       "Number": 16,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -583,6 +573,16 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیری زدی و زخم دل آسوده شد از آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهان ای طبیب خسته دلان مرهم دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "افعی دهر اگر بزند بر دلت مترس\r\nکور است زهر و مهره بیک جای در دهان\r\nتو بغیر علم عشق ار دل نهی\r\nسنگ استنجا به شیطان میدهی\r\nورنه ما شوریدگان در یک سجود\r\nبیخ ظالم را براندازیم زود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافعی دهر اگر بزند بر دلت مترس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکور است زهر و مهره بیک جای در دهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بغیر علم عشق ار دل نهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنگ استنجا به شیطان میدهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورنه ما شوریدگان در یک سجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخ ظالم را براندازیم زود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
     },
     {
       "Index": 15,
@@ -606,6 +606,16 @@
     },
     {
       "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "رخصت اریابد زما باد سحر\r\nعالمی در دم کند زیر و زبر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخصت اریابد زما باد سحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالمی در دم کند زیر و زبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 16,
       "Number": 17,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -614,16 +624,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن ملک بودم و فردوس برین جایم بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآدم آورد و در این دیر خراب آبادم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 1
-    },
-    {
-      "Index": 16,
-      "Number": 16,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "رخصت اریابد زما باد سحر\r\nعالمی در دم کند زیر و زبر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخصت اریابد زما باد سحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالمی در دم کند زیر و زبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
     },
     {
       "Index": 16,

@@ -44,9 +44,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "زید بنده بود از روی خبر\r\nمر ورا بخریده بد خیر البشر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزید بنده بود از روی خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر ورا بخریده بُد خیر البشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رشود",
+      "PlainText": "از دلی تا بر حق او کافر شود\r\nهم موحد با دل دیگر شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دلی تا بر حق او کافر شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم موحد با دل دیگر شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -54,19 +54,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رشود",
-      "PlainText": "از دلی تا بر حق او کافر شود\r\nهم موحد با دل دیگر شود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دلی تا بر حق او کافر شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم موحد با دل دیگر شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ودهاست",
-      "PlainText": "گفته اند این بر مثل فرموده است\r\nدر عرب یا این مثالی بوده است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفته اند این بر مثل فرموده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عرب یا این مثالی بوده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "زید بنده بود از روی خبر\r\nمر ورا بخریده بد خیر البشر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزید بنده بود از روی خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر ورا بخریده بُد خیر البشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -80,13 +70,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "فت",
-      "PlainText": "حارثه پس با ابوطالب بگفت\r\nگو برادر زاده ات را در نهفت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحارثه پس با ابوطالب بگفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو برادر زاده ات را در نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ودهاست",
+      "PlainText": "گفته اند این بر مثل فرموده است\r\nدر عرب یا این مثالی بوده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفته اند این بر مثل فرموده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عرب یا این مثالی بوده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -100,13 +90,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رش",
-      "PlainText": "که بود هم جفت کس هم مادرش\r\nتا حرام آید از این بر شوهرش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه بود هم جفت کس هم مادرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا حرام آید از این بر شوهرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "فت",
+      "PlainText": "حارثه پس با ابوطالب بگفت\r\nگو برادر زاده ات را در نهفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحارثه پس با ابوطالب بگفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو برادر زاده ات را در نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -120,13 +110,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "پس پیمبر گفت آسوده است زید\r\nهر کجا خواهد رود بی بند و قید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس پیمبر گفت آسوده است زید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کجا خواهد رود بی بند و قید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رش",
+      "PlainText": "که بود هم جفت کس هم مادرش\r\nتا حرام آید از این بر شوهرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه بود هم جفت کس هم مادرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا حرام آید از این بر شوهرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -140,13 +130,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "هم پسر خوانده نباشد چون پسر\r\nعارضی نبود چو اصلی در اثر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم پسر خوانده نباشد چون پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعارضی نبود چو اصلی در اثر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ید",
+      "PlainText": "پس پیمبر گفت آسوده است زید\r\nهر کجا خواهد رود بی بند و قید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس پیمبر گفت آسوده است زید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کجا خواهد رود بی بند و قید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -160,13 +150,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ندمناست",
-      "PlainText": "حارثه گفت او نه فرزند من است\r\nگفت پیغمبر که دلبند من است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحارثه گفت او نه فرزند من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت پیغمبر که دلبند من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "هم پسر خوانده نباشد چون پسر\r\nعارضی نبود چو اصلی در اثر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم پسر خوانده نباشد چون پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعارضی نبود چو اصلی در اثر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -177,6 +167,16 @@
       "RhymeLetters": "اق",
       "PlainText": "بد ظهار اندر عرب بالاتفاق\r\nهم در آن ایام در حکم طلاق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبُد ظهار اندر عرب بالاتفاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم در آن ایّام در حکم طلاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ندمناست",
+      "PlainText": "حارثه گفت او نه فرزند من است\r\nگفت پیغمبر که دلبند من است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحارثه گفت او نه فرزند من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت پیغمبر که دلبند من است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

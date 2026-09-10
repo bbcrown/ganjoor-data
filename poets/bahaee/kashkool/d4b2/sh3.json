@@ -397,9 +397,9 @@
       "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "م",
-      "PlainText": "آذری چون آب در زنجیر بودن تا بکی\r\nچون صبا یک ره هوای سرو آزادی کنیم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذری چون آب در زنجیر بودن تا بکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون صبا یک ره هوای سرو آزادی کنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "کهازهمایبهمردارمیلنپسندند",
+      "PlainText": "مجوی دنیی اگر اهل همتی خسرو\r\nکه از همای به مردار میل نپسندند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجوی دنیی اگر اهل همتی خسرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از همای به مردار میل نپسندند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -407,19 +407,9 @@
       "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "کهازهمایبهمردارمیلنپسندند",
-      "PlainText": "مجوی دنیی اگر اهل همتی خسرو\r\nکه از همای به مردار میل نپسندند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجوی دنیی اگر اهل همتی خسرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از همای به مردار میل نپسندند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 15,
-      "Number": 15,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "کهخوشمردانهرفتیجانمنعاشقچنینباشد",
-      "PlainText": "حلالت باد هر عشرت که کردی آذری در عشق\r\nکه خوش مردانه رفتی جان من عاشق چنین باشد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلالت باد هر عشرت که کردی آذری در عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خوش مردانه رفتی جان من عاشق چنین باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "م",
+      "PlainText": "آذری چون آب در زنجیر بودن تا بکی\r\nچون صبا یک ره هوای سرو آزادی کنیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذری چون آب در زنجیر بودن تا بکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون صبا یک ره هوای سرو آزادی کنیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -430,6 +420,16 @@
       "RhymeLetters": "د",
       "PlainText": "تا گفت بلی دل به بلای تو در افتاد\r\nهرگز زبلای تو نرست این چه بلا بود",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا گفت بلی، دل به بلای تو در افتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز زبلای تو نرست این چه بلا بود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کهخوشمردانهرفتیجانمنعاشقچنینباشد",
+      "PlainText": "حلالت باد هر عشرت که کردی آذری در عشق\r\nکه خوش مردانه رفتی جان من عاشق چنین باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلالت باد هر عشرت که کردی آذری در عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خوش مردانه رفتی جان من عاشق چنین باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {

@@ -1,8 +1,8 @@
 {
   "SchemaVersion": 1,
-  "GeneratedAtUtc": "2026-08-16T12:20:22.3558565Z",
-  "PoetsCount": 234,
-  "PoemsCount": 132591,
+  "GeneratedAtUtc": "2026-09-01T05:06:57.6351851Z",
+  "PoetsCount": 240,
+  "PoemsCount": 135319,
   "IdIndexShardSize": 2000,
   "UrlTemplates": {
     "Poet": "poets/{poetSlug}/poet.json",
@@ -1182,6 +1182,36 @@
       "Id": 235,
       "Nickname": "فتحعلی‌شاه",
       "FullUrl": "/fathalishah"
+    },
+    {
+      "Id": 236,
+      "Nickname": "عمادی شهریاری",
+      "FullUrl": "/emadi"
+    },
+    {
+      "Id": 237,
+      "Nickname": "ناصر بجه‌ای",
+      "FullUrl": "/bajeyee"
+    },
+    {
+      "Id": 238,
+      "Nickname": "یوسف خوسفی",
+      "FullUrl": "/khusfi"
+    },
+    {
+      "Id": 239,
+      "Nickname": "نعیم فراشری",
+      "FullUrl": "/frasheri"
+    },
+    {
+      "Id": 240,
+      "Nickname": "علی اشتری",
+      "FullUrl": "/ashtari"
+    },
+    {
+      "Id": 241,
+      "Nickname": "واقف لاهوری",
+      "FullUrl": "/waqif"
     }
   ]
 }
