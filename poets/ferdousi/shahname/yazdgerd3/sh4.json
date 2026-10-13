@@ -1,8 +1,8 @@
 {
   "Id": 1927,
   "CatId": 96,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۴",
+  "Title": "بخش ۴ - پاسخ سعد به نامهٔ رستم: دعوت به اسلام، آمدن شعبه و برگزیدن نبرد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۴ - پاسخ سعد به نامهٔ رستم: دعوت به اسلام، آمدن شعبه و برگزیدن نبرد",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,53 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 327,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای که به پیشواز فرستاده می‌رود و نامهٔ پاسخ می‌نویسد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده‌ای که نامهٔ رستم را نزد سعد می‌آورد"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 288,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر اسلام که در نامهٔ سعد از او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 691,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در نامه به پذیرفتن دین فراخوانده می‌شود"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 491,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ عرب که با ظاهری ساده نزد رستم می‌رود"
     }
   ]
 }

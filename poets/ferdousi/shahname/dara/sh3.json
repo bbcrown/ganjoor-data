@@ -1,8 +1,8 @@
 {
   "Id": 1632,
   "CatId": 66,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۳",
+  "Title": "بخش ۳ - سکندر در کسوت فرستاده نزد دارا، نگهداشت جام‌ها، شناخته شدن و گریز شبانه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۳ - سکندر در کسوت فرستاده نزد دارا، نگهداشت جام‌ها، شناخته شدن و گریز شبانه",
   "FullUrl": "/ferdousi/shahname/dara/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2130,6 +2130,35 @@
       "CoupletIndex": 77,
       "SectionIndex1": 0,
       "SectionIndex2": 79
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه رومیان که خود در جامهٔ فرستاده نزد دارا می‌رود (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه رومیان که در جامهٔ فرستاده نزد دارا می‌رود"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که فرستادهٔ سکندر را می‌پذیرد و می‌پرسد"
     }
   ]
 }

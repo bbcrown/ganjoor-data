@@ -176,5 +176,15 @@
       "CoupletIndex": 9,
       "SectionIndex1": 0
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 689,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

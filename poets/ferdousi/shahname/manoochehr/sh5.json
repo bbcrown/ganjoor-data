@@ -1,8 +1,8 @@
 {
   "Id": 1382,
   "CatId": 41,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۵",
+  "Title": "بخش ۵ - گفتگوی مهراب و سیندخت دربارهٔ سام و زال و عاشق شدن رودابه ندیده زال را",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۵ - گفتگوی مهراب و سیندخت دربارهٔ سام و زال و عاشق شدن رودابه ندیده زال را",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,51 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بارگاه بازمی‌گردد و همسرش از او دربارهٔ زال می‌پرسد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زال که فقط در نسب او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان موسپید و نامدار که مهراب او را می‌ستاید و رودابه دلبستهٔ اوست."
     }
   ]
 }

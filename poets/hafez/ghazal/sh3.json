@@ -137,7 +137,7 @@
       "Text": "حَدیث از مُطرب و مِی گو و رازِ دَهر کمتر جو",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "CoupletSummary": "زیاد\nدنبال ِ راز ِ دهر نباش. خوش باش و در باره‌یِ مطرب و می حرف بزن. سخن ِ تازه بگو از مطرب و می. در\nباره‌ی\nاسرار و رازهای دنیا زیاد فکر نکن که نه تا حالا کسی با ابزار ِ خِرَد و دانش\nتوانسته کلید ِ این معما را بگشاید و نه کسی بعد از این خواهد توانست! دَم را به\nشادی بگذران و حدیث از مطرب و می بگو."
+      "CoupletSummary": "زیاد\nدنبال ِ راز ِ دهر نباش. خوش باش و در باره‌یِ مطرب و می حرف بزن. سخن ِ تازه بگو از مطرب و می. در\nباره‌ی\nاسرار و رازهای دنیا زیاد فکر نکن که نه تا حالا کسی با ابزار ِ خِرَد و دانش نتوانسته کلید ِ این معما را بگشاید و نه کسی بعد از این خواهد توانست! دَم را به\nشادی بگذران و حدیث از مطرب و می بگو."
     },
     {
       "VOrder": 16,
@@ -160,6 +160,36 @@
       "Text": "که بر نظمِ تو اَفشانَد فَلَک عِقد ثُریّا را",
       "CoupletIndex": 8,
       "SectionIndex1": 0
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 37,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 38,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 1,
+      "LocationId": 152,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 1,
+      "LocationId": 153,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

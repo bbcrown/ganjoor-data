@@ -1,8 +1,8 @@
 {
   "Id": 88010,
   "CatId": 53,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۷",
+  "Title": "بخش ۱۷ - بازگشت رستم از توران، استقبال و بزم کیخسرو، بخشش و رفتن به زابلستان",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۷ - بازگشت رستم از توران، استقبال و بزم کیخسرو، بخشش و رفتن به زابلستان",
   "FullUrl": "/ferdousi/shahname/khaghan/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,116 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بازگشته به ایران؛ شاه از او استقبال می‌کند و کارهایش را می‌ستایند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که به پیشواز رستم می‌رود و از جنگ می‌پرسد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که به ایوان شاه می‌آیند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که رستم را می‌ستاید و کارهایش را بازمی‌گوید."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در بارگاه شاه."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که به ایوان شاه می‌آیند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در بارگاه شاه."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه شاه و حاضر در بارگاه."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که شاه دربارهٔ او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 545,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم در کشتی او را بر خاک افکند."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم آرزوی دیدار چهرهٔ او را دارد."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام رزمی که روایتش در این بخش به پایان می‌رسد."
     }
   ]
 }

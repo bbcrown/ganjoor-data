@@ -44,9 +44,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وس",
-      "PlainText": "توسعه بدهید یعنی در جلوس\r\nیکدگر را بی ز انکار و عبوس",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوسعه بدهید یعنی در جلوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکدگر را بی ز انکار و عبوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ود",
+      "PlainText": "داده هر چه بود او را از وجود\r\nدادی ار هم چیزی او را باز بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداده هر چه بود او را از وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادی ار هم چیزی او را باز بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -54,19 +54,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "داده هر چه بود او را از وجود\r\nدادی ار هم چیزی او را باز بود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداده هر چه بود او را از وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادی ار هم چیزی او را باز بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ون",
-      "PlainText": "بد صفی را یک دلی لبریز خون\r\nآب چشم آن هم ببرد از تن برون",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبُد صفی را یک دلی لبریز خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب چشم آن هم ببرد از تن برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وس",
+      "PlainText": "توسعه بدهید یعنی در جلوس\r\nیکدگر را بی ز انکار و عبوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوسعه بدهید یعنی در جلوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکدگر را بی ز انکار و عبوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -80,13 +70,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ور",
-      "PlainText": "از مکان و رزق و هم شرح صدور\r\nهمچنین اندر بهشت و در قبور",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مکان و رزق و هم شرح صدور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنین اندر بهشت و در قبور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ون",
+      "PlainText": "بد صفی را یک دلی لبریز خون\r\nآب چشم آن هم ببرد از تن برون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبُد صفی را یک دلی لبریز خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب چشم آن هم ببرد از تن برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -100,13 +90,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "سالها شد که ندارم زو خبر\r\nتا چه آن سرگشته را آمد به سر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسالها شد که ندارم زو خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چه آن سرگشته را آمد به سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ور",
+      "PlainText": "از مکان و رزق و هم شرح صدور\r\nهمچنین اندر بهشت و در قبور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مکان و رزق و هم شرح صدور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنین اندر بهشت و در قبور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -120,13 +110,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ازشمادرامتثالامراو",
-      "PlainText": "یرفع االله الذین آمنوا\r\nاز شما در امتثال امر او",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیَرْفَعِ االلهُ الَّذِینَ آمَنُواْ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شما در امتثال امر او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "سالها شد که ندارم زو خبر\r\nتا چه آن سرگشته را آمد به سر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسالها شد که ندارم زو خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چه آن سرگشته را آمد به سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -140,13 +130,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "در خراباتش نهادم بر کنار\r\nزآنکه گفتندم در اینجا سر میار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خراباتش نهادم بر کنار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه گفتندم در اینجا سر میار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ازشمادرامتثالامراو",
+      "PlainText": "یرفع االله الذین آمنوا\r\nاز شما در امتثال امر او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیَرْفَعِ االلهُ الَّذِینَ آمَنُواْ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شما در امتثال امر او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -160,13 +150,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ید",
-      "PlainText": "حق بود دانا بر آنچه میکنید\r\nقدر فعل خود جزاء داده شوید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق بود دانا بر آنچه میکنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدر فعل خود جزاء داده شوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "در خراباتش نهادم بر کنار\r\nزآنکه گفتندم در اینجا سر میار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خراباتش نهادم بر کنار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه گفتندم در اینجا سر میار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -180,13 +170,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یدهرا",
-      "PlainText": "تا بپرسم حال آن شوریده را\r\nگوی چوگان محبت دیده را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بپرسم حال آن شوریده را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوی چوگانِ محبّت دیده را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ید",
+      "PlainText": "حق بود دانا بر آنچه میکنید\r\nقدر فعل خود جزاء داده شوید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق بود دانا بر آنچه میکنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدر فعل خود جزاء داده شوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -200,13 +190,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 11,
-      "Number": 11,
+      "Index": 10,
+      "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اع",
-      "PlainText": "بی ز شغلی می نمودند اجتماع\r\nدادی او را هر کس از حرفی صداع",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ز شغلی می نمودند اجتماع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادی او را هر کس از حرفی صُداع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یدهرا",
+      "PlainText": "تا بپرسم حال آن شوریده را\r\nگوی چوگان محبت دیده را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بپرسم حال آن شوریده را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوی چوگانِ محبّت دیده را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -220,13 +210,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "دوست",
-      "PlainText": "من چه دارم تا دهم در راه دوست\r\nبشنوم تا زآن دهان آواز دوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن چه دارم تا دهم در راه دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنوم تا زآن دهان آواز دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اع",
+      "PlainText": "بی ز شغلی می نمودند اجتماع\r\nدادی او را هر کس از حرفی صداع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی ز شغلی می نمودند اجتماع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادی او را هر کس از حرفی صُداع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -240,13 +230,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "آمد آیت کای گروه مؤمنان\r\nراز چون گویید با فخر زمان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد آیت کای گروه مؤمنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراز چون گویید با فخر زمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "دوست",
+      "PlainText": "من چه دارم تا دهم در راه دوست\r\nبشنوم تا زآن دهان آواز دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن چه دارم تا دهم در راه دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنوم تا زآن دهان آواز دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -260,13 +250,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 14,
-      "Number": 14,
+      "Index": 13,
+      "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ول",
-      "PlainText": "آری اندر راز ماندی با رسول\r\nچون نبودت صدقه در کوی قبول",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری اندر راز ماندی با رسول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نبودت صدقه در کوی قبول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "آمد آیت کای گروه مؤمنان\r\nراز چون گویید با فخر زمان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد آیت کای گروه مؤمنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراز چون گویید با فخر زمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -280,13 +270,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 15,
-      "Number": 15,
+      "Index": 14,
+      "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "می بترسیدید آیا خود شما\r\nکه دهید از راز گفتن صدقه ها",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی بترسیدید آیا خود شما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دهید از راز گفتن صدقه ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ول",
+      "PlainText": "آری اندر راز ماندی با رسول\r\nچون نبودت صدقه در کوی قبول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری اندر راز ماندی با رسول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نبودت صدقه در کوی قبول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -297,6 +287,16 @@
       "RhymeLetters": "ر",
       "PlainText": "دادن این صدقه باشد در سیر\r\nمر شما را بهتر و پاکیزه تر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدادن این صدقه باشد در سیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر شما را بهتر و پاکیزه تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "می بترسیدید آیا خود شما\r\nکه دهید از راز گفتن صدقه ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی بترسیدید آیا خود شما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دهید از راز گفتن صدقه ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

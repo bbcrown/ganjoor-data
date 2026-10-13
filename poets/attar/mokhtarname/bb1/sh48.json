@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "اندگانداریتو",
-      "PlainText": "هم در بر خود خواندگان داری تو\r\nهم از در خود راندگان داری تو\r\nهم خوانده و هم رانده فرو ماندهاند\r\nای بس که فرو ماندگان داری تو",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم در بر خود خواندگان داری تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم از درِ خود راندگان داری تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم خوانده و هم رانده فرو ماندهاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای بس که فرو ماندگان داری تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "هم در بر خود خواندگان داری تو\r\nهم از در خود راندگان داری تو\r\nهم خوانده و هم رانده فرو مانده اند\r\nای بس که فرو ماندگان داری تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم در بر خود خواندگان داری تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم از درِ خود راندگان داری تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم خوانده و هم رانده فرو مانده‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای بس که فرو ماندگان داری تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -44,7 +44,7 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "هم خوانده و هم رانده فرو ماندهاند",
+      "Text": "هم خوانده و هم رانده فرو مانده‌اند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: بسیاری از کسانی که به آن‌ها توجه نشده و در جامعه نادیده گرفته شده‌اند، در حال حاضر در وضعیتی قرار دارند که تو خود درگیر آن‌ها هستی و به نوعی آنها را در کنار خود داری."

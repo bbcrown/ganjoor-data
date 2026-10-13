@@ -1,8 +1,8 @@
 {
   "Id": 88004,
   "CatId": 53,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۱",
+  "Title": "بخش ۱۱ - نامهٔ پیروزی رستم به کیخسرو، آمدن فریبرز با اسیران و نیایش شاه برای جان رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۱ - نامهٔ پیروزی رستم به کیخسرو، آمدن فریبرز با اسیران و نیایش شاه برای جان رستم",
   "FullUrl": "/ferdousi/shahname/khaghan/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1563,6 +1563,80 @@
       "CoupletIndex": 56,
       "SectionIndex1": 0,
       "SectionIndex2": 58
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 19,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر خسرو‌نژاد که نامه را می‌برد و نزد شاه می‌رود."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریبرز، فقط در نام او آمده است. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه برای او برده می‌شود. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که همراه می‌رود، به راه می‌افتد و به سران سخن می‌گوید. (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که تهمتن مخاطبشان می‌کند."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که تهمتن مخاطبشان می‌کند."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که تهمتن مخاطبشان می‌کند."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گور او برای تهدید دشمن به یاد آمده است. (نام در متن: سیاوش)"
     }
   ]
 }

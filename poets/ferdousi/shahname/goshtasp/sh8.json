@@ -1,8 +1,8 @@
 {
   "Id": 1534,
   "CatId": 59,
-  "Title": "بخش ۸ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۸ - سخن دقیقی",
+  "Title": "بخش ۸ - سخن دقیقی: رسیدن پاسخ گشتاسپ به ارجاسپ و لشکرکشی عظیم توران به ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۸ - سخن دقیقی: رسیدن پاسخ گشتاسپ به ارجاسپ و لشکرکشی عظیم توران به ایران",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,134 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ فرستادگان را می‌راند و نامهٔ تهدید به ارجاسپ می‌نویسد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 206,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه او را می‌خواند و فرستادگان را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ترک؛ فرستادگان نزد او می‌روند و نامه را می‌خواند. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر یا نیای شاهی که نامه از طرف گشتاسپ نوشته شده است."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای سپاهیان ایرانی که تبارشان به او می‌رسد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسه آمده؛ سپاه ایران از تبار او نیست."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و سوار گزیدهٔ لشکر گشتاسپ."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد برگزیدهٔ سپاه گشتاسپ."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو برادر شاه که لشکر هزارسواره گزید"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 207,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر دیگر شاه که یک دست از لشکر را گرفت"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالخورده‌ای ترک که سپاه را به سپهبدی به او سپردند"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 203,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): غارتگری که درفش پیل‌پیکر به او داده شد."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 209,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیری که دیده‌بان و پیشرو سپاه شد"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 210,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترکی که پشت سپاه را نگه می‌داشت"
     }
   ]
 }

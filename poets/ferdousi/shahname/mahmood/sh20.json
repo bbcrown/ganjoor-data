@@ -1,8 +1,8 @@
 {
   "Id": 88079,
   "CatId": 57,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۰",
+  "Title": "بخش ۲۰ - نامه به کیخسرو در گنگ، پذیرایی خاقان و فغفور، و سرپیچی شاه مکران",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۰ - نامه به کیخسرو در گنگ، پذیرایی خاقان و فغفور، و سرپیچی شاه مکران",
   "FullUrl": "/ferdousi/shahname/mahmood/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2481,6 +2481,98 @@
       "CoupletIndex": 90,
       "SectionIndex1": 0,
       "SectionIndex2": 92
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه تاجدار که گردنش زده شد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامه را به نزد کیخسرو می‌برد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار که نامهٔ نیا را می‌گیرد و به جنگ می‌رود."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نوذر است و سپاه به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): باغ او جای ریختن خونش است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کیخسرو می‌خواهد خونش را به کینهٔ سیاوش بریزد."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که کیخسرو به او پیام می‌فرستد."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از فرمانروایانی که کیخسرو به او پیام می‌فرستد."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 577,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای مکران که فرستاده را خوار می‌کند و با گستاخی پاسخ می‌دهد."
+    },
+    {
+      "CoupletIndex": 75,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در مکران می‌ماند."
     }
   ]
 }

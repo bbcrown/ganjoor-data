@@ -1,8 +1,8 @@
 {
   "Id": 1623,
   "CatId": 64,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۵",
+  "Title": "بخش ۵ - نبرد داراب با رومیان، آفرین و بخشش رشنواد و باژ فرستادن قیصر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۵ - نبرد داراب با رومیان، آفرین و بخشش رشنواد و باژ فرستادن قیصر",
   "FullUrl": "/ferdousi/shahname/homa/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,44 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 11,
+      "PersonId": 243,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار سپاه ایران که داراب را می‌ستاید و به او پاداش می‌دهد."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با لقب «خداوند رخش» در مقایسه با داراب یاد شده است."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 368,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان صاحب رخش که برای مقایسه با داراب یاد شده است."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم؛ از جنگ ایرانیان درمانده می‌شود و باژ و پیشکش می‌فرستد."
     }
   ]
 }

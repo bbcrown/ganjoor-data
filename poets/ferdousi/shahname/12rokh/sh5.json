@@ -1,8 +1,8 @@
 {
   "Id": 88027,
   "CatId": 56,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۵",
+  "Title": "بخش ۵ - گزارش گیو از بی‌آشتی پیران، آرایش دو سپاه و سه شبانه‌روز ایستادن بی‌نبرد",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۵ - گزارش گیو از بی‌آشتی پیران، آرایش دو سپاه و سه شبانه‌روز ایستادن بی‌نبرد",
   "FullUrl": "/ferdousi/shahname/12rokh/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2913,6 +2913,242 @@
       "CoupletIndex": 106,
       "SectionIndex1": 0,
       "SectionIndex2": 108
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهدار ایرانی که سپاه را برای نبرد آماده و آرایش می‌دهد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز که گزارش گفت‌وگو با دشمن را به پدر می‌رساند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای توران که سپاه از نزد او آمده است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که با سپاه خود به جنگ ایرانیان می‌آید."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه برای توصیف تیرگی و هراس جهان در شب نبرد آمده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده میمنهٔ لشکر"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردستهٔ تخمهٔ گیوگان که به یاری فریبرز برمی‌خیزد"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهدار تخت کیان"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده میسرهٔ لشکر به فرمان پهلوان"
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی که همراه رهام به میسره می‌رود"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد رزمجو که همراه رهام می‌رود"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاوری که با گیو می‌رود"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاوری که با گیو می‌رود"
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ایستاده پشت سر سالار"
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ایستاده در پیش"
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رزم‌دیده‌ای که در سمت چپ سالار جای دارد"
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 555,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیرگیری که در سمت راست سالار جای دارد"
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرماندهٔ قلبگاه سپاه"
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 146,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان فراخوانده‌شده برای فرماندهی بخشی از سپاه"
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 556,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که همراه اندریمان خوانده می‌شود"
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان فرمانده با سی‌هزار سوار"
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان فرمانده با سی‌هزار سوار"
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه با ده‌هزار نیزه‌ور بر میمنه"
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 140,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه با نیزه‌وران بر میمنه"
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 557,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه با ده‌هزار نیزه‌ور بر میمنه"
+    },
+    {
+      "CoupletIndex": 89,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با ده‌هزار سوار ختنی در کمین می‌نشیند"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1697,
   "CatId": 68,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۱",
+  "Title": "بخش ۱۱ - آمدن سباک از جهرم سوی اردشیر، سوگند به اوستا و زند و گریختن بهمن تا استخر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۱ - آمدن سباک از جهرم سوی اردشیر، سوگند به اوستا و زند و گریختن بهمن تا استخر",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,62 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 295,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جهرم که پیش اردشیر می‌آید و با او همراه می‌شود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن اردشیر که در جنگ شکست می‌خورد و به صطخر می‌گریزد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 376,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند اردوان و دشمن اردشیر که شکست می‌خورد و به صطخر می‌گریزد (احتمالاً همنامِ «بهمن» با کد 221؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهبد پیروز که با لشکر بر بهمن می‌تازد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 296,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار همراه لشکر جهانگیر در راه."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سباک از او بیزار شده و پدر بهمن است"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1463,
   "CatId": 48,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۵",
+  "Title": "بخش ۵ - زادن سهراب، پرسش از تهمینه دربارهٔ پدر و عزم لشکرکشی به ایران و توران",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۵ - زادن سهراب، پرسش از تهمینه دربارهٔ پدر و عزم لشکرکشی به ایران و توران",
   "FullUrl": "/ferdousi/shahname/sohrab/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -861,6 +861,89 @@
       "CoupletIndex": 30,
       "SectionIndex1": 0,
       "SectionIndex2": 32
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر تهمینه و رستم که در ده‌سالگی بی‌همتا می‌شود"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 129,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر شاه و مادر سهراب که راز پدر او را می‌گوید"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نامور رستم که به شیر مانند شده است"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان نامور رستم و سهراب"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور و پدر سهراب که نامه و نشان برایش فرستاده بود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان رستم و سهراب"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که به سهراب هشدار می‌دهد و سهراب می‌خواهد تختش را بگیرد"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران که سهراب می‌خواهد او را از ایران براند"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سهراب می‌خواهد او را از تخت براند (نام در متن: کاووس)"
     }
   ]
 }

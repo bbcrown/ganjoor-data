@@ -58,5 +58,47 @@
       "CoupletIndex": 6,
       "CoupletSummary": "هوش مصنوعی: این حوزه‌ها که بعد از مبحث اخلاط ذکر شدند و ما در اینجا به طور مختصر توضیح داده‌ایم، مربوط به محاسبات میافارقین هستند."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 100,
+      "LunarYear": 438,
+      "LunarMonth": 3,
+      "LunarDay": 14,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 101,
+      "LunarYear": 438,
+      "LunarMonth": 3,
+      "LunarDay": 15,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 102,
+      "LunarYear": 438,
+      "LunarMonth": 5,
+      "LunarDay": 12,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 103,
+      "LunarYear": 438,
+      "LunarMonth": 5,
+      "LunarDay": 20,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

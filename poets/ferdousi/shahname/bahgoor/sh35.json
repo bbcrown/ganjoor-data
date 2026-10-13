@@ -1,8 +1,8 @@
 {
   "Id": 1804,
   "CatId": 83,
-  "Title": "بخش ۳۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۵",
+  "Title": "بخش ۳۵ - کشتن کرگ خونریز هند به دست بهرام، بریدن سر او و آفرین شنگلِ دل‌غمگین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۵ - کشتن کرگ خونریز هند به دست بهرام، بریدن سر او و آفرین شنگلِ دل‌غمگین",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh35",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,17 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در هند کرگ را با تیر و خنجر می‌کشد"
     }
   ]
 }

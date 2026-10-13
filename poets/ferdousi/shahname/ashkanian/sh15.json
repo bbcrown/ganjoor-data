@@ -1,8 +1,8 @@
 {
   "Id": 1701,
   "CatId": 68,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۵",
+  "Title": "بخش ۱۵ - دختر هفتواد و کرم سیب: فزونی رشتن، توانگری خاندان و سپاه بر میر کجاران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۵ - دختر هفتواد و کرم سیب: فزونی رشتن، توانگری خاندان و سپاه بر میر کجاران",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,17 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 10,
+      "PersonId": 298,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی بی‌چیز با هفت پسر و یک دختر، پدر دخترِ ریسنده"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88080,
   "CatId": 57,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۱",
+  "Title": "بخش ۲۱ - پیروزی کیخسرو بر شاه مکران، خاکسپاری او، گذر از دریا و زاری بر بارهٔ سیاوش",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۱ - پیروزی کیخسرو بر شاه مکران، خاکسپاری او، گذر از دریا و زاری بر بارهٔ سیاوش",
   "FullUrl": "/ferdousi/shahname/mahmood/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2967,6 +2967,71 @@
       "CoupletIndex": 108,
       "SectionIndex1": 0,
       "SectionIndex2": 110
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان لشکر ایران که در جنگ با دشمن درمی‌آویزد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایران که در قلب لشکر جای می‌گیرد"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بدسگالان، در سخن شاه به‌عنوان تبار بدکاران یاد می‌شود (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه فرمانروا که سپاه را از مکران و دریا می‌گذراند و به خشکی می‌رساند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه سرزمین گشوده‌شده را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خسرو دربارهٔ او جست‌وجو می‌کند؛ با مردمش در گنگ است."
+    },
+    {
+      "CoupletIndex": 97,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر خسرو؛ سازندهٔ باروی گنگ‌دژ، به ناحق کشته شد. (نام در متن: سیاوش)"
     }
   ]
 }

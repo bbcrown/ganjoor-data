@@ -4885,5 +4885,106 @@
       "SectionIndex1": 0,
       "SectionIndex2": 181
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 406,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنگوی دانا که دستور قباد و گنجور او شد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 627,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار ایران که به سخن مزدک گوش می‌دهد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 407,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده‌ای که پاسخ می‌دهد و ماجرای گفت‌وگو با شاه را بازمی‌گوید."
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 405,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به گفتهٔ مزدک بر دین او نیست و از دین سر می‌کشد. (نام در متن: کسری)"
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 408,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد پارسی اهل اصطخر که با سی یار به درگاه آمد"
+    },
+    {
+      "CoupletIndex": 98,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر دینی که دین او ممکن است به کاستی افتد"
+    },
+    {
+      "CoupletIndex": 100,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش برای راه و آیین پیشین یاد شده است"
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 409,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از گواهان پیمان کسری"
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از گواهان پیمان کسری"
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 411,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از گواهان پیمان کسری"
+    },
+    {
+      "CoupletIndex": 153,
+      "PersonId": 319,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبدی که نامهٔ قباد با مُهر زرین به او سپرده شد. (نام در متن: رام برزین)"
+    }
   ]
 }

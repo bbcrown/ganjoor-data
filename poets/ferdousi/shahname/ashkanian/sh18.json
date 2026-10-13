@@ -1,8 +1,8 @@
 {
   "Id": 1704,
   "CatId": 68,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۸",
+  "Title": "بخش ۱۸ - تاراج گنج اردشیر به دست مهرک نوش‌زاد و فرود تیر هشدار از بام دژ بر خوان شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۸ - تاراج گنج اردشیر به دست مهرک نوش‌زاد و فرود تیر هشدار از بام دژ بر خوان شاه",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,35 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 299,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی بدنژاد از جهرم که به اردشیر خیانت و دشمنی کرد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که در تنگنا بر لب آبگیر مانده است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 300,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامی که در پیام روی تیر در پیوند با دژ آمده است."
     }
   ]
 }

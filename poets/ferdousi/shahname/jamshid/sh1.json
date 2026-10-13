@@ -2023,5 +2023,15 @@
       "SectionIndex1": 0,
       "SectionIndex2": 75
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 6,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

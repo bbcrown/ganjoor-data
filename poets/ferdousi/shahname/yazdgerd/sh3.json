@@ -3805,5 +3805,97 @@
       "SectionIndex1": 0,
       "SectionIndex2": 141
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ در خشکسالی گنج و انبارها را می‌بخشد و پس از آن شهر می‌سازد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین باشکوه که با همهٔ فر خود مُرد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیش‌رو سپاه در جنگ."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 50,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پشت سر پیروز با لشکر می‌راند."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 397,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کهتر پسر پیروز که بر تخت می‌نشیند."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 398,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد پارسی نامدار که دستور بلاش می‌شود."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 399,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر خاقان و فرمانروای ترکان که به پیروز نامه می‌نویسد."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که نشان و عهد مرزی را برپا کرد."
+    },
+    {
+      "CoupletIndex": 112,
+      "PersonId": 400,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در جنگ با سپاه خوشنواز به کنده می‌افتد و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر پیروزشاه که با او در کنده کشته می‌شود."
+    }
   ]
 }

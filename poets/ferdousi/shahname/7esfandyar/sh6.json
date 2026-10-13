@@ -1,8 +1,8 @@
 {
   "Id": 1565,
   "CatId": 60,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۶",
+  "Title": "بخش ۶ - خان چهارم اسفندیار: هشدار گرگسار، کشتن سیمرغ و جشن پیروزی",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۶ - خان چهارم اسفندیار: هشدار گرگسار، کشتن سیمرغ و جشن پیروزی",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,44 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و شهریار لشکر که با سیمرغ می‌جنگد و او را می‌کشد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترک اسیرشده که اسفندیار را از سیمرغ و کوهش آگاه می‌کند"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرغ بزرگ کوهی با دو بچه که با اسفندیار می‌جنگد"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرده‌سرای را پس از شنیدن آوای کرنای می‌آورد."
     }
   ]
 }

@@ -997,5 +997,79 @@
       "SectionIndex1": 0,
       "SectionIndex2": 37
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جام او در توصیف تخت روان خورشید یاد شده است."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 549,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در استعاره، فرمانروای قلم که شمشیر می‌دهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 633,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در استعاره، فرمانروای سخن که بر مُلک چیره می‌شود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 634,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شاعر را به آفرینش عشقی نو فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 260,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه در افروختن شمع عشق یاد شده است."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه در آموختن درس روح یاد شده است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 636,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به مُهر سلیمانی اشاره شده است."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 197,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای یادآوری بازگرفتن مزد از او مثال آمده است."
+    }
   ]
 }

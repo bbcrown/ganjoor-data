@@ -1,8 +1,8 @@
 {
   "Id": 1515,
   "CatId": 58,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۶",
+  "Title": "بخش ۶ - اندوه گشتاسپ در سایهٔ درخت روستا، مهمانی کدخدای نژاد آفریدون و گذشتن ماه‌ها",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۶ - اندوه گشتاسپ در سایهٔ درخت روستا، مهمانی کدخدای نژاد آفریدون و گذشتن ماه‌ها",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -537,6 +537,26 @@
       "CoupletIndex": 18,
       "SectionIndex1": 0,
       "SectionIndex2": 20
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد جوانِ غمگین که در روستا مهمان کدخدا می‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کدخدا نژاد خود را به او می‌رساند. (نام در متن: آفریدون)"
     }
   ]
 }

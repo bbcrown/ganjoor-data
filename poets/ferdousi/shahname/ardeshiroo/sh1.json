@@ -1,8 +1,8 @@
 {
   "Id": 1918,
   "CatId": 90,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر شیروی » بخش ۱",
+  "Title": "بخش ۱ - بر تخت نشستن اردشیر، خطبهٔ داد و دین و سپردن سپاه به پیروز خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر شیروی » بخش ۱ - بر تخت نشستن اردشیر، خطبهٔ داد و دین و سپردن سپاه به پیروز خسرو",
   "FullUrl": "/ferdousi/shahname/ardeshiroo/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -294,6 +294,17 @@
       "CoupletIndex": 9,
       "SectionIndex1": 0,
       "SectionIndex2": 11
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 377,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جوانی که بر تخت نشسته و با بزرگان سخن می‌گوید."
     }
   ]
 }

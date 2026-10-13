@@ -1,8 +1,8 @@
 {
   "Id": 1744,
   "CatId": 77,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۲",
+  "Title": "بخش ۱۲ - تاختن شاپور به مرز روم، گرفتاری قیصر، کین‌خواهی یانس و گریز او، کشتار رومیان و سوختن صلیب",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۲ - تاختن شاپور به مرز روم، گرفتاری قیصر، کین‌خواهی یانس و گریز او، کشتار رومیان و سوختن صلیب",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,44 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روم؛ در جنگ گرفتار می‌شود و گنجش به شاپور می‌رسد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ به روم می‌تازد و سپاه روم را شکست می‌دهد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 321,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر قیصر؛ برای کین‌خواهی به جنگ شاپور می‌رود و می‌گریزد."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 283,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر دین رومیان که به دین او اشاره می‌شود."
     }
   ]
 }

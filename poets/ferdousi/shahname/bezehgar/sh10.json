@@ -1,8 +1,8 @@
 {
   "Id": 1762,
   "CatId": 82,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۰",
+  "Title": "بخش ۱۰ - مرگ یزدگرد و سوگند مهان بر رد تخمه‌اش، آشوب تاج‌خواهان و شاهی خسرو پیر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۰ - مرگ یزدگرد و سوگند مهان بر رد تخمه‌اش، آشوب تاج‌خواهان و شاهی خسرو پیر",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,134 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری که درگذشته و در دخمه نهاده شده است؛ ایرانیان او را ناپاک و بیدادگر می‌خوانند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان گرد، پسر گشسپ، از گردآمدگان در پارس. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیل‌کش که در پارس بر دخمهٔ یزدگرد گرد آمد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 328,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیری که در انجمن سخن می‌گوید؛ نام گشسپ در بیت ۳ پدر قارن است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 380,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان گرد و پسر گشسپ، از بزرگان گردآمده در پارس. (احتمالاً همنامِ «قارن کاوگان» با کد 42؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 98,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی گردآمده بر دخمهٔ یزدگرد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 329,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرزبان و پهلوانی که در شمار بزرگان و مدعیان شاهی آمده است."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان اسپ‌افگن از گرزبان، حاضر در گردهمایی پارس."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند یزدگرد و سرافراز، نامزد شاهی که ایرانیان نمی‌خواهند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که سخن از او می‌گشایند؛ پیوند او با بهرام در سخن گشسپ است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 331,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مدعیان شاهی پس از مرگ یزدگرد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 332,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زرین‌کلاه، از مدعیان شاهی پس از مرگ یزدگرد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 381,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مدعیان شاهی پس از مرگ یزدگرد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی جوانمرد و روشن‌دل از تخمهٔ سرفرازان که تاج و گاه به او سپرده شد. (نام در متن: پیر خسرو)"
     }
   ]
 }

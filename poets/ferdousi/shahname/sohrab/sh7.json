@@ -1,8 +1,8 @@
 {
   "Id": 1465,
   "CatId": 48,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۷",
+  "Title": "بخش ۷ - نبرد گردآفرید با سهراب، آشکار شدن روی و موی و رهایی به فریب در دژ",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۷ - نبرد گردآفرید با سهراب، آشکار شدن روی و موی و رهایی به فریب در دژ",
   "FullUrl": "/ferdousi/shahname/sohrab/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2103,6 +2103,53 @@
       "CoupletIndex": 76,
       "SectionIndex1": 0,
       "SectionIndex2": 78
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گردآفرید."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 134,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زنی جنگاور و نامدار که از دژ بیرون آمد و با سهراب جنگید."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کارش مایهٔ ننگ گردآفرید شد"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان توران که با گردآفرید می‌جنگد"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که گردآفرید هشدار می‌دهد با شنیدن خبر به جنگ برمی‌خیزد."
     }
   ]
 }

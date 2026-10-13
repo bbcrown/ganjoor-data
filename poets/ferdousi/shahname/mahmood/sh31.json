@@ -1,8 +1,8 @@
 {
   "Id": 88090,
   "CatId": 57,
-  "Title": "بخش ۳۱",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۱",
+  "Title": "بخش ۳۱ - نیایش پنج‌هفته‌ای کیخسرو، خواب سروش و فرمان ترک جهان و نشستن بی‌تاج بر تخت",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۱ - نیایش پنج‌هفته‌ای کیخسرو، خواب سروش و فرمان ترک جهان و نشستن بی‌تاج بر تخت",
   "FullUrl": "/ferdousi/shahname/mahmood/sh31",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,17 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 12,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور غیبی که در خواب به شاه پند می‌دهد"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87993,
   "CatId": 52,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۵",
+  "Title": "بخش ۱۵ - نبرد پیادهٔ رستم با اشکبوس: کشتن او، سوگند کاموس و بامداد کارزار",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۵ - نبرد پیادهٔ رستم با اشکبوس: کشتن او، سوگند کاموس و بامداد کارزار",
   "FullUrl": "/ferdousi/shahname/kamoos/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3912,6 +3912,206 @@
       "CoupletIndex": 143,
       "SectionIndex1": 0,
       "SectionIndex2": 145
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 532,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان کُشانی که از ایرانیان هماورد می‌خواهد و با رستم می‌جنگد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با اشکبوس می‌جنگد، ناکام می‌ماند و به کوه می‌گریزد"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار ایرانی در قلب سپاه که رستم را پیاده فرستاده است"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که پیاده با اشکبوس می‌جنگد و اسب او را می‌کشد"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه توران که شاهد نبرد است و با پیران سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای چین در سپاه توران که تیر رستم را می‌بیند و می‌هراسد."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که از نام جنگاور ایرانی می‌پرسد و برادرش هومان است."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که از کشته‌شدن اشکبوس شادمان می‌شود."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 132,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر پیران که پیشتر با طوس جنگیده است."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که پیران از او بیمی ندارد."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که پیران از او بیمی ندارد."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 528,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه دشمن که پیران نزد او می‌رود"
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه دشمن که پیران نزد او می‌رود"
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 533,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سوار بر رخشی بزرگ، پرورندهٔ سیاوش، که پیران او را وصف می‌کند."
+    },
+    {
+      "CoupletIndex": 88,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در گذشته از آن پهلوان در رزمگاه‌ها پیچان و گریان شده است."
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آن پهلوان او را پرورده و به کین او می‌جنگد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 334,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران حاضر در انجمن نزد خاقان"
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 389,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان هندی حاضر در انجمن"
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 534,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران حاضر در انجمن نزد خاقان"
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 535,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه سند و از سران حاضر در انجمن"
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 544,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرداری از سقلاب که در شورای جنگ حاضر است."
+    },
+    {
+      "CoupletIndex": 141,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که زمین را گنج او می‌دانند"
     }
   ]
 }

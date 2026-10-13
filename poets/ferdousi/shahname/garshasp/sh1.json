@@ -1,8 +1,8 @@
 {
   "Id": 1420,
   "CatId": 44,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۱",
+  "Title": "بخش ۱ - تاج‌گذاری گرشاسپ، حملهٔ دوبارهٔ افراسیاب و آمادگی رستم برای نبرد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۱ - تاج‌گذاری گرشاسپ، حملهٔ دوبارهٔ افراسیاب و آمادگی رستم برای نبرد",
   "FullUrl": "/ferdousi/shahname/garshasp/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1428,6 +1428,88 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 80,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گرشاسپ؛ مرگ او تخت را بی‌شاه می‌کند و ترکان را به تاختن می‌کشاند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 81,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ترکان؛ پس از مرگ زو لشکر می‌کشد و به ایران می‌تازد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 61,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کینه‌توز و دلتنگ از اغریرث؛ با پیام تند افراسیاب را به لشکرکشی برمی‌انگیزد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 70,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر کشته‌شده؛ پشنگ از دوری او اندوهگین است و یادش می‌کند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان؛ ایرانیان از او چاره می‌خواهند و او به رستم می‌اندیشد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیشین که زال پس از او پهلوان شد."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان نوخاستهٔ زال؛ زال او را برای نبرد با افراسیاب برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 63,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نام‌برده‌ای که خواست کین تخمهٔ او در گفتار زال آمده است."
     }
   ]
 }

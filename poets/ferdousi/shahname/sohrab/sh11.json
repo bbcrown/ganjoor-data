@@ -1,8 +1,8 @@
 {
   "Id": 1469,
   "CatId": 48,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۱",
+  "Title": "بخش ۱۱ - رسیدن سپاه کاووس به در دژ، بیم هومان و بی‌پروایی سهراب و می نوشیدن او",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۱ - رسیدن سپاه کاووس به در دژ، بیم هومان و بی‌پروایی سهراب و می نوشیدن او",
   "FullUrl": "/ferdousi/shahname/sohrab/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -699,6 +699,53 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که همراه گیو لشکر را آماده می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که به دستور شاه آمادهٔ حرکت لشکر می‌شود."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای در دژ که لشکر را می‌نگرد و به هومان دلداری می‌دهد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه سهراب که با دیدن لشکر بزرگ بیمناک می‌شود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سهراب به بخت او تکیه می‌کند و وعدهٔ پیروزی می‌دهد."
     }
   ]
 }

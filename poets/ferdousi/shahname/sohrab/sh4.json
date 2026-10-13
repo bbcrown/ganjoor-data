@@ -1,8 +1,8 @@
 {
   "Id": 1462,
   "CatId": 48,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۴",
+  "Title": "بخش ۴ - شب دیدار رستم و تهمینه، پیمان ازدواج و سپردن مهره",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۴ - شب دیدار رستم و تهمینه، پیمان ازدواج و سپردن مهره",
   "FullUrl": "/ferdousi/shahname/sohrab/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,53 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 129,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر شاه سمنگان که رستم را برمی‌گزیند و از او فرزند می‌خواهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان شیردل که شبانه به خوابگاه تهمینه می‌آید و با او پیمان می‌بندد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 130,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر تهمینه که دخترش را به رستم می‌دهد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که بلندی قامت در مقایسه با او سنجیده می‌شود."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 129,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که شب را با رستم می‌گذراند و گریان از او جدا می‌شود."
     }
   ]
 }

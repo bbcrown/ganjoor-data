@@ -1,8 +1,8 @@
 {
   "Id": 1727,
   "CatId": 72,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام اورمزد » بخش ۱",
+  "Title": "بخش ۱ - نشستن بهرام بر تخت زر پس از مرگ پدر، آفرین مهتران، اندرز پرهیز و گشودن گنج",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام اورمزد » بخش ۱ - نشستن بهرام بر تخت زر پس از مرگ پدر، آفرین مهتران، اندرز پرهیز و گشودن گنج",
   "FullUrl": "/ferdousi/shahname/bahram/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,17 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که پس از مرگ پدر بر تخت می‌نشیند و به بزرگان پند می‌دهد."
     }
   ]
 }

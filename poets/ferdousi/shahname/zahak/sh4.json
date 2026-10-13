@@ -727,5 +727,57 @@
       "SectionIndex1": 0,
       "SectionIndex2": 27
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ستمگر که جهان را پر از گفت‌وگو و تنگی کرده است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامور پیشین که فرّ او با فریدون سنجیده می‌شود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 25,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 22,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 23,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

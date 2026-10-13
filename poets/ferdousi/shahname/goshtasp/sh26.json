@@ -1,8 +1,8 @@
 {
   "Id": 1552,
   "CatId": 59,
-  "Title": "بخش ۲۶ - سخن فردوسی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۶ - سخن فردوسی",
+  "Title": "بخش ۲۶ - ستایش محمود غزنوی و سخن فردوسی دربارهٔ نظم شاهنامه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۶ - ستایش محمود غزنوی و سخن فردوسی دربارهٔ نظم شاهنامه",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh26",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -915,6 +915,17 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 34
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 25,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و پادشاه جهاندار که نامهٔ شاهنامه به نام او آراسته می‌شود"
     }
   ]
 }

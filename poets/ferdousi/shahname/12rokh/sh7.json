@@ -1,8 +1,8 @@
 {
   "Id": 88029,
   "CatId": 56,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۷",
+  "Title": "بخش ۷ - گفتگوی هومان و پیران: شتاب جنگ، هشدار از گودرز و کوه، و پیمان رزم سپیده‌دم",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۷ - گفتگوی هومان و پیران: شتاب جنگ، هشدار از گودرز و کوه، و پیمان رزم سپیده‌دم",
   "FullUrl": "/ferdousi/shahname/12rokh/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,62 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر هومان و سالار سپاه توران که او را به درنگ و سنجش می‌خواند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی، برادر پیران، که شیرگونه نزد او می‌آید و خواهان جنگ است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که پیران پهلوان و رد او شمرده می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانیان که در این نبرد حضور ندارد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایرانیان که سپاهش با ترکان روبه‌روست."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی با جاه، مردانگی و رای هشیوار."
     }
   ]
 }

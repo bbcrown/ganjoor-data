@@ -376,5 +376,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 14
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که از آیین پیامبر عرب می‌پرسد و از پاسخ می‌جوشد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 288,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر عرب که پادشاه دربارهٔ دعوی و دینش می‌پرسد. (نام در متن: احمد)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که استاد را می‌ستاید و از او نکته‌ای می‌خواهد."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1461,
   "CatId": 48,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۳",
+  "Title": "بخش ۳ - ورود رستم به سمنگان، پذیرایی شاه و وعدهٔ یافتن رخش",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۳ - ورود رستم به سمنگان، پذیرایی شاه و وعدهٔ یافتن رخش",
   "FullUrl": "/ferdousi/shahname/sohrab/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,17 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پیاده به سمنگان می‌رسد؛ رخشش گم شده و مهمان شاه می‌شود."
     }
   ]
 }

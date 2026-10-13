@@ -1,8 +1,8 @@
 {
   "Id": 1368,
   "CatId": 40,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۱",
+  "Title": "بخش ۱۱ - نابینا شدن فریدون از داغ ایرج",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۱ - نابینا شدن فریدون از داغ ایرج",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,26 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر ایرج؛ چشم‌به‌راه پسر بود و با دیدن سر او سوگوار شد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر فریدون و شاه جوان؛ کشته شد و سرش را در تابوت زر آوردند."
     }
   ]
 }

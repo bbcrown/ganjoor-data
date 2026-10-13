@@ -1,8 +1,8 @@
 {
   "Id": 1711,
   "CatId": 69,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۴",
+  "Title": "بخش ۴ - اندوه بی‌پسری اردشیر، اعتراف دستور با حقهٔ خون و آزمون شناخت شاپور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۴ - اندوه بی‌پسری اردشیر، اعتراف دستور با حقهٔ خون و آزمون شناخت شاپور",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,44 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر هفت‌ساله و پنهان‌مانده‌ی شاه از دختر اردوان"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 291,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختری که مادر شاپور است"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 302,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختری که پسری زاد و مادر شاپور است"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر شاپور، پنجاه‌ویک‌ساله و بی‌پسر در دیدار؛ با وزیر سخن می‌گوید"
     }
   ]
 }

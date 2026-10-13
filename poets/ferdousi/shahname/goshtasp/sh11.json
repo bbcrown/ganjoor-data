@@ -1,8 +1,8 @@
 {
   "Id": 1537,
   "CatId": 59,
-  "Title": "بخش ۱۱ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۱ - سخن دقیقی",
+  "Title": "بخش ۱۱ - سخن دقیقی: آرایش سپاه ایران و توران برای نبرد بزرگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۱ - سخن دقیقی: آرایش سپاه ایران و توران برای نبرد بزرگ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -861,6 +861,80 @@
       "CoupletIndex": 30,
       "SectionIndex1": 0,
       "SectionIndex2": 32
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در آغاز می‌گوید سپیده دمیده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که لشکر را آماده می‌کند و زریر را فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد گشتاسپ که درفش می‌گیرد و لشکر را می‌آراید."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پنجاه هزار سوار گزیده به او داده می‌شود."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پشت لشکر ایران به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که لشکرش را می‌آراید. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 203,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرداری با کوس بزرگ و درفش رنگین در سپاه چین."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر جهاندیدهٔ جادو که سپهدار لشکر می‌شود."
     }
   ]
 }

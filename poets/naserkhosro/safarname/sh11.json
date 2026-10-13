@@ -30,5 +30,27 @@
       "CoupletIndex": 2,
       "CoupletSummary": "هوش مصنوعی: به من گفتند که در این شهر زلزله‌ای رخ داده است، در شب پنجشنبه هفدهم ربیع الاول سال ۴۳۴ هجری. در آن زمان، برخی از شهرها به حالت خراب درآمدند و برخی دیگر آسیب ندیدند. همچنین گفته شد که چهل هزار نفر در این حادثه جان باخته بودند."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 13,
+      "LunarYear": 438,
+      "LunarMonth": 2,
+      "LunarDay": 20,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 74,
+      "LunarYear": 438,
+      "LunarMonth": 2,
+      "LunarDay": 14,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

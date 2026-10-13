@@ -1,8 +1,8 @@
 {
   "Id": 1839,
   "CatId": 88,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴",
+  "Title": "بخش ۴ - شنیدن بهرام از داغ و مرگ هرمز، تاختن به نهروان و تدبیر آشتی خسرو بی‌سپاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴ - شنیدن بهرام از داغ و مرگ هرمز، تاختن به نهروان و تدبیر آشتی خسرو بی‌سپاه",
   "FullUrl": "/ferdousi/shahname/parviz/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1995,6 +1995,116 @@
       "CoupletIndex": 72,
       "SectionIndex1": 0,
       "SectionIndex2": 74
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهداری که با لشکر به جنگ خسرو تا نهروان آمد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با سپاه به جنگ خسرو می‌آید و در قلب سپاه جای دارد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با بزرگان دربارهٔ جنگ با بهرام رایزنی می‌کند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان همراه خسرو که در رایزنی حاضر است."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان درباری که خسرو با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان نشسته با شاه ایران در رایزنی."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان نشسته در انجمن شاه ایران."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان نشسته با شاه ایران در رایزنی."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 420,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ارمینیه، حاضر در رایزنی با خسرو."
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 328,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه بهرام در سپاه او (نام در متن: آذرگشسپ)"
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 416,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سپاه بهرام، سمت چپ او می‌راند."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یلان همراه بهرام که پر از کینه می‌رود."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1605,
   "CatId": 61,
-  "Title": "بخش ۳۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۳۱",
+  "Title": "بخش ۳۱ - نامهٔ پوزش رستم به گشتاسپ، بازگشت بهمن از زابل و نامیدن او به اردشیر",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۳۱ - نامهٔ پوزش رستم به گشتاسپ، بازگشت بهمن از زابل و نامیدن او به اردشیر",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh31",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1752,6 +1752,62 @@
       "CoupletIndex": 63,
       "SectionIndex1": 0,
       "SectionIndex2": 65
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور اسفندیار و نبیرهٔ گشتاسپ؛ نزد رستم در زابلستان پرورش می‌یابد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان که بهمن را پرورد و به گشتاسپ نامه نوشت."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که نامهٔ رستم را دریافت می‌کند و پاسخ می‌نویسد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نزد گشتاسپ به سخنان رستم گواهی می‌دهد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهمن؛ رستم دربارهٔ او با کینه و کارزار سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دانا و آگاه که شاهی بهمن را پیش‌بینی می‌کند."
     }
   ]
 }

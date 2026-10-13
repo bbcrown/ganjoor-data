@@ -1,8 +1,8 @@
 {
   "Id": 1380,
   "CatId": 41,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۳",
+  "Title": "بخش ۳ - بازگشت زال از پیش سیمرغ و بزرگداشت او",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۳ - بازگشت زال از پیش سیمرغ و بزرگداشت او",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3399,6 +3399,60 @@
       "CoupletIndex": 124,
       "SectionIndex1": 0,
       "SectionIndex2": 126
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سام را به درگاه می‌پذیرد و فرمان می‌دهد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ که از کوه نزد شاه می‌آید و پدر دستان است"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در بارگاه شاه در کنار او می‌نشیند (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجود داستانی که در ماجرای زال و کوه بلند یاد می‌شود"
     }
   ]
 }

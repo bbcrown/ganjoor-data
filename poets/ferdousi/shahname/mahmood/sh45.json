@@ -1,8 +1,8 @@
 {
   "Id": 88104,
   "CatId": 57,
-  "Title": "بخش ۴۵",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۵",
+  "Title": "بخش ۴۵ - وداع کیخسرو در چشمه، ناپدید شدنش با برآمدن خورشید و سوگ بیهودهٔ یاران",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۵ - وداع کیخسرو در چشمه، ناپدید شدنش با برآمدن خورشید و سوگ بیهودهٔ یاران",
   "FullUrl": "/ferdousi/shahname/mahmood/sh45",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -726,6 +726,35 @@
       "CoupletIndex": 25,
       "SectionIndex1": 0,
       "SectionIndex2": 27
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامور که در کنار چشمه با بزرگان وداع می‌کند و ناپدید می‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان شاه که پیشنهاد می‌کند شب را کنار چشمه بمانند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به نامداران دربارهٔ بزرگی و ویژگی‌های شاه سخن می‌گوید."
     }
   ]
 }

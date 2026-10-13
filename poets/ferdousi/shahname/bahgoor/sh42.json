@@ -1,8 +1,8 @@
 {
   "Id": 1811,
   "CatId": 83,
-  "Title": "بخش ۴۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۲",
+  "Title": "بخش ۴۲ - آمدن شنگل به ایران، دیدار با بهرام و دختر، و بزم و نخچیر دو شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۲ - آمدن شنگل به ایران، دیدار با بهرام و دختر، و بزم و نخچیر دو شاه",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh42",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,53 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 310,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با شنگل پیمان نو می‌بندد و به پیشواز او می‌رود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 394,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از هفت شاهی که با سپاه همراه شنگل آمدند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 30,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کامگار از همراهان شنگل."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 395,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامدار از همراهان شنگل."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به شکار می‌رود و شاه هندوستان را همراه می‌برد"
     }
   ]
 }

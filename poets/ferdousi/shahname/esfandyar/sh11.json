@@ -1,8 +1,8 @@
 {
   "Id": 1585,
   "CatId": 61,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۱",
+  "Title": "بخش ۱۱ - فرمان رستم به ساختن بزم شاهانه، آمدن بی‌سلاح به هیرمند و خشم اسفندیار بر بهمن",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۱ - فرمان رستم به ساختن بزم شاهانه، آمدن بی‌سلاح به هیرمند و خشم اسفندیار بر بهمن",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,80 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان کنار هیرمند که سخنش را بهمن برای اسفندیار می‌برد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور اسفندیار که پاسخ رستم را می‌آورد و سرزنش می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم که او را از ستیز با اسفندیار باز می‌دارد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم که به همراه زواره نزد زال فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در کابلستان؛ زواره برای رساندن پیام رستم نزد او می‌رود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزادهٔ جنگجوی رزمخواه که به نزدیکی رستم رسیده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی پیشین که شکوه روزگارش مایهٔ مقایسه است."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب راز اسفندیار دربارهٔ رستم."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1440,
   "CatId": 46,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۱",
+  "Title": "بخش ۱۱ - خان هفتم رستم: کشتن دیو سپید، درمان چشم کاووس و گشودن مازندران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۱ - خان هفتم رستم: کشتن دیو سپید، درمان چشم کاووس و گشودن مازندران",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1995,6 +1995,125 @@
       "CoupletIndex": 72,
       "SectionIndex1": 0,
       "SectionIndex2": 74
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 106,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): راهنمای رستم که راه غار دیو را نشان می‌دهد و بسته شده است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با دیوان می‌جنگد و دیو سپید را می‌کشد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 102,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو بزرگ و سیاه‌روی در غار که رستم او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که رستم جگر دیو را به سوی او می‌برد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 100,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای مازندران که باید از تخت برکنده شود و به او پیام فرستند"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران و نامداران همراه کاووس و رستم"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه کاووس"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه کاووس"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه کاووس"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه کاووس"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران و نامداران همراه کاووس و رستم"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر از همراهان کاووس و رستم"
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که رستم به نام او «پور زال» خوانده می‌شود"
     }
   ]
 }

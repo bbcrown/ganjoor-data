@@ -2590,5 +2590,52 @@
       "SectionIndex1": 0,
       "SectionIndex2": 96
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 16,
+      "PersonId": 175,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرشته‌ای که در کنار خدا یاور شاه دانسته شده است"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و جهاندار ستوده‌شده، دلیر در نبرد و بخشنده"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 174,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شخصیتی بلندپایه و ستوده که مسند و نشستنگاهش یاد شده است"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بیداردل و دادگر که برای ستایش و مقایسه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیکار او موضوع داستان پیش رو است"
+    }
   ]
 }

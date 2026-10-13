@@ -1,8 +1,8 @@
 {
   "Id": 1798,
   "CatId": 83,
-  "Title": "بخش ۲۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۹",
+  "Title": "بخش ۲۹ - بخشش کشور بر پهلوانان، نکوهش بیداد یزدگرد و پیمان داد شاه با زیردستان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۹ - بخشش کشور بر پهلوانان، نکوهش بیداد یزدگرد و پیمان داد شاه با زیردستان",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1725,6 +1725,35 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 17,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که همراه کاوس به‌عنوان نمونه یاد می‌شود (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که همراه جم به‌عنوان نمونه یاد می‌شود (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر شاهِ سخنگو که بدکنش خوانده شده و شاه برای بخشایش او سخن می‌گوید."
     }
   ]
 }

@@ -1726,5 +1726,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 64
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق درگذشته که گوینده او را برادرخوانده خود می‌خواند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوقی که گوینده از او جز آوازی نشنیده و خسرو را از دل‌بستن به او برحذر می‌دارد."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تمثیل خر و عیسی به او اشاره شده است."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به خواب او برای مقایسه و تمثیل اشاره شده است."
+    }
   ]
 }

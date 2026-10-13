@@ -1,8 +1,8 @@
 {
   "Id": 1654,
   "CatId": 67,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۵",
+  "Title": "بخش ۱۵ - نامهٔ جنگ‌افروز اسکندر به فور هندی و رسیدن فرستاده به درگاه او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۵ - نامهٔ جنگ‌افروز اسکندر به فور هندی و رسیدن فرستاده به درگاه او",
   "FullUrl": "/ferdousi/shahname/eskandar/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,26 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 263,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار هند که نامهٔ اسکندر برایش فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهنشاه و فرستندهٔ نامه به فور که با لشکر به هند آمده است. (نام در متن: اسکندر)"
     }
   ]
 }

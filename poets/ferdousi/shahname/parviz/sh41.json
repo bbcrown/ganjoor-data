@@ -1,8 +1,8 @@
 {
   "Id": 1876,
   "CatId": 88,
-  "Title": "بخش ۴۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۱",
+  "Title": "بخش ۴۱ - درکشیده شدن دختر خاتون به دم شیر کپی و پیمان بهرام بر کشتن اژدها",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۱ - درکشیده شدن دختر خاتون به دم شیر کپی و پیمان بهرام بر کشتن اژدها",
   "FullUrl": "/ferdousi/shahname/parviz/sh41",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1806,6 +1806,80 @@
       "CoupletIndex": 65,
       "SectionIndex1": 0,
       "SectionIndex2": 67
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 458,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دد غول‌پیکر کوه چین که دختر خاتون را ربود و خورد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 459,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که دخترش را شیر کپی برد و از بهرام یاری خواست"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین و پدر دختر کشته‌شده (نام در متن: خاقان)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و جهاندار چین که دخترش به دست شیر کپی کشته شد"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که زمانی شاه بود و به چین آمده است (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار ایرانی که با سپاه به چین آمده است (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 457,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد جنگی که بهرام با او جنگید"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 460,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اژدهای کوه چین که مردم را آزار می‌دهد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1763,
   "CatId": 82,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۱",
+  "Title": "بخش ۱۱ - آگاهی بهرام گور از مرگ پدر و سوگند سپاه، یاری منذر و تاختن به ایرانِ بی‌شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۱ - آگاهی بهرام گور از مرگ پدر و سوگند سپاه، یاری منذر و تاختن به ایرانِ بی‌شاه",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,35 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند شاه درگذشته؛ پس از مرگ پدر سوگوار است و در یمن به سر می‌برد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تازیان یمن؛ به فرمان منذر لشکری گرد می‌آورد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تازیان یمن؛ پیمان یاری با بهرام می‌بندد و فرمانده لشکر است."
     }
   ]
 }

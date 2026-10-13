@@ -1915,5 +1915,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 71
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 21,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که جام او برای سنجش با تخت خسرو یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 645,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ کسی که از گنج دنیا بهره‌ای نبرد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که پرویز در گنج‌افشانی از او پیشی گرفت."
+    }
   ]
 }

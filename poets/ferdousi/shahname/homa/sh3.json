@@ -1,8 +1,8 @@
 {
   "Id": 1621,
   "CatId": 64,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۳",
+  "Title": "بخش ۳ - آگاهی داراب از گوهر خویش نزد زن گازر، پیوستن به سپاه رشنواد و جوشیدن شیر همای",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۳ - آگاهی داراب از گوهر خویش نزد زن گازر، پیوستن به سپاه رشنواد و جوشیدن شیر همای",
   "FullUrl": "/ferdousi/shahname/homa/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1320,6 +1320,35 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 242,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گازر و همسرش پرسش می‌کند، اسب می‌خرد و به سپاه می‌پیوندد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 623,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که خبر یورش رومیان را می‌شنود و سپاه را می‌بیند."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 243,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که سپاه را برای نبرد با رومیان گرد می‌آورد."
     }
   ]
 }

@@ -943,5 +943,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 35
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که در مداین فرزند می‌زاید و برای خسرو بی‌قرار است و به قصر می‌رود."
+    }
   ]
 }

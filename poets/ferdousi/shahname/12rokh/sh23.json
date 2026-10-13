@@ -1,8 +1,8 @@
 {
   "Id": 88045,
   "CatId": 56,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۳",
+  "Title": "بخش ۲۳ - هماوردی گرازه و سیامک تورانی، کشتن سیامک و بازگشت پیروزمند با درفش",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۳ - هماوردی گرازه و سیامک تورانی، کشتن سیامک و بازگشت پیروزمند با درفش",
   "FullUrl": "/ferdousi/shahname/12rokh/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -348,6 +348,26 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 13
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 2,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): هماورد گرازه در نبرد؛ اسبش به دست گرازه افتاد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در نبرد حریف را بر زمین می‌کوبد و پیروز می‌شود."
     }
   ]
 }

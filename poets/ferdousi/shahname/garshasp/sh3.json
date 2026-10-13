@@ -1,8 +1,8 @@
 {
   "Id": 1422,
   "CatId": 44,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۳",
+  "Title": "بخش ۳ -\u00A0آرایش سپاه زال و افراسیاب در خوار ری و برگزیدن کیقباد برای پادشاهی ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۳ -\u00A0آرایش سپاه زال و افراسیاب در خوار ری و برگزیدن کیقباد برای پادشاهی ایران",
   "FullUrl": "/ferdousi/shahname/garshasp/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -537,6 +537,52 @@
       "CoupletIndex": 18,
       "SectionIndex1": 0,
       "SectionIndex2": 20
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پیشاپیش سپاه از زابلستان حرکت می‌کند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): لشکرکشی او از زابلستان را افراسیاب می‌شنود."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با شنیدن خبر زال، لشکر به سوی خوار ری می‌آورد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای کیقباد و سرسلسلهٔ تبار او."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 83,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

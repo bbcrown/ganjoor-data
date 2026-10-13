@@ -161,5 +161,21 @@
       "CoupletIndex": 8,
       "SectionIndex1": 0
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 156,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 165,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

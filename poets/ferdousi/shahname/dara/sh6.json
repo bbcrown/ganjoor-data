@@ -1,8 +1,8 @@
 {
   "Id": 1635,
   "CatId": 66,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۶",
+  "Title": "بخش ۶ - شکست سوم دارا، زنهار سکندر در اصطخر و رای مهتران به نامه و مدارا",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۶ - شکست سوم دارا، زنهار سکندر در اصطخر و رای مهتران به نامه و مدارا",
   "FullUrl": "/ferdousi/shahname/dara/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,26 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از سکندر شکست می‌خورد و به کرمان می‌گریزد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه رومی که با لشکر به نبرد دارا می‌آید و پیروز می‌شود"
     }
   ]
 }

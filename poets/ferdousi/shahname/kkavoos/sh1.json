@@ -1,8 +1,8 @@
 {
   "Id": 1430,
   "CatId": 46,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱",
+  "Title": "بخش ۱ - وسوسهٔ دیو رامشگر و تصمیم کاووس برای لشکرکشی به مازندران و فراخواندن زال",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱ - وسوسهٔ دیو رامشگر و تصمیم کاووس برای لشکرکشی به مازندران و فراخواندن زال",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1012,7 +1012,7 @@
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "SectionIndex2": 2,
-      "CoupletSummary": "هوش مصنوعی: وقتی درختی با قامت بلند و استوار می‌شود، از آسمان به او توجه می‌شود و انتخابش می‌کنند."
+      "CoupletSummary": "وقتی یک درخت تنومند رشد می کند ، اگر از آسمان آسیبی به آن برسد"
     },
     {
       "VOrder": 2,
@@ -2670,6 +2670,161 @@
       "CoupletIndex": 97,
       "SectionIndex1": 0,
       "SectionIndex2": 99
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 10,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه که پس از پدر بر تخت نشست و آهنگ مازندران کرد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که کاووس خود را از او برتر می‌شمارد. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که کاووس خود را از او برتر می‌شمارد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که کاووس خود را از او برتر می‌شمارد."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و مهتر ایرانی که چاره می‌جوید و پیام به زال می‌فرستد."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و پهلوانانی که گفتند ما کهتریم."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و پهلوانانی که گفتند ما کهتریم."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و پهلوانانی که گفتند ما کهتریم."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و پهلوانانی که گفتند ما کهتریم."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و پهلوانانی که گفتند ما کهتریم."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیو، از بزرگانی که گفتند ما کهتریم."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پردانش و پرفسون که از او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که اگر ممکن بود، این کار را می‌کرد."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زال."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیمروز که پیام بزرگان برای او فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی بد که شاه را از راه راست منحرف کرده است. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه زال در رنج‌های گذشته، شیر ناخورده‌سیر."
     }
   ]
 }

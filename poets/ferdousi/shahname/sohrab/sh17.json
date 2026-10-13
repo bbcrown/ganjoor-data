@@ -1,8 +1,8 @@
 {
   "Id": 1475,
   "CatId": 48,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۷",
+  "Title": "بخش ۱۷ - گفت‌وگوی سهراب با هومان، پیشنهاد آشتی، و رهایی رستم در کشتی نخست به فریب",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۷ - گفت‌وگوی سهراب با هومان، پیشنهاد آشتی، و رهایی رستم در کشتی نخست به فریب",
   "FullUrl": "/ferdousi/shahname/sohrab/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1968,6 +1968,35 @@
       "CoupletIndex": 71,
       "SectionIndex1": 0,
       "SectionIndex2": 73
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که برای نبرد آماده می‌شود و با سهراب کشتی می‌گیرد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوان و نیرومند که با رستم می‌جنگد و او را نمی‌شناسد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه سهراب که با او دربارهٔ رستم سخن می‌گوید."
     }
   ]
 }

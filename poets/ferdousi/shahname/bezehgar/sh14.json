@@ -1,8 +1,8 @@
 {
   "Id": 1766,
   "CatId": 82,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۴",
+  "Title": "بخش ۱۴ - رد شاهی بهرام، گزینش ناموران از صد تا چهار و نمودن خستگان یزدگرد به منذر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۴ - رد شاهی بهرام، گزینش ناموران از صد تا چهار و نمودن خستگان یزدگرد به منذر",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,35 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مدعی پادشاهی که با ایرانیان و بزرگان دربارهٔ شاهی گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 323,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام که ایرانیان از او آسیب و زخم دیده‌اند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از ایرانیان دلیل ناخشنودی را می‌پرسد و با بهرام سخن می‌گوید."
     }
   ]
 }

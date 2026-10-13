@@ -1,8 +1,8 @@
 {
   "Id": 1857,
   "CatId": 88,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۲",
+  "Title": "بخش ۲۲ - طالع‌بینی قیصر با زیج فلاطون، نوید سی‌وهشت سال شاهی خسرو و فرستادن سپاه و گنج",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۲ - طالع‌بینی قیصر با زیج فلاطون، نوید سی‌وهشت سال شاهی خسرو و فرستادن سپاه و گنج",
   "FullUrl": "/ferdousi/shahname/parviz/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,44 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه را می‌خواند و با دستور و ستاره‌شمر مشورت می‌کند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که ستاره‌شمر پیش‌بینی می‌کند شاهی به او می‌رسد و به سوی خاقان می‌رود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که خسرو به سوی مرز او می‌رود"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 388,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اخترشناسی که بنیاد زیج‌های کهن به او نسبت داده شده است."
     }
   ]
 }

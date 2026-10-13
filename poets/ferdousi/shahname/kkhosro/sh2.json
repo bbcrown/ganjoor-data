@@ -1,8 +1,8 @@
 {
   "Id": 87954,
   "CatId": 50,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کیخسرو شصت سال بود » بخش ۲",
+  "Title": "بخش ۲ - گردش کیخسرو در ایران و نیایش آذرگشسپ، سوگند کین افراسیاب و یاری پهلوانان به جنگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کیخسرو شصت سال بود » بخش ۲ - گردش کیخسرو در ایران و نیایش آذرگشسپ، سوگند کین افراسیاب و یاری پهلوانان به جنگ",
   "FullUrl": "/ferdousi/shahname/kkhosro/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2211,6 +2211,107 @@
       "CoupletIndex": 80,
       "SectionIndex1": 0,
       "SectionIndex2": 82
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به نخجیر می‌رود، کشور را آباد می‌کند و نزد کاووس سوگند می‌خورد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان و گرانمایگانی که نزد شاه آمدند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که نزد شاه آمدند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان از همراهان شاه که از لشکر بیرون رفت."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر از همراهان شاه که از لشکر بیرون رفت."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که نزد شاه آمدند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که همراه شاه به نخجیر می‌رود و در گفتگو حاضر است."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه سرافراز که میزبان است و از افراسیاب و ایران ویران سخن می‌گوید. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم در نشست با کاووس. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که ایران را ویران کرده و کاووس از او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که افراسیاب با او بدی کرده است. (نام در متن: سیاوش)"
     }
   ]
 }

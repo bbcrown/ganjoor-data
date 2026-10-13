@@ -1078,5 +1078,133 @@
       "SectionIndex1": 0,
       "SectionIndex2": 40
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): باد مسیحا در تشبیه نسیم شب آمده است."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): قبلهٔ او برای مقایسه با دل شاه یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تخت او برای مقایسه با تخت شاه یاد می‌شود. (نام در متن: افریدون)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فروغ رویش ذهن شاه را پر کرده و پیام برایش می‌رسد."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مانند گنجور در خدمت پیش تخت شاه ایستاده است."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 658,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 659,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 660,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 661,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 662,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 663,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 664,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 665,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از ده دلبر نشسته گرد آفتاب بت‌پرستان."
+    }
   ]
 }

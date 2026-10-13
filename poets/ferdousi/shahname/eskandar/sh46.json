@@ -1,8 +1,8 @@
 {
   "Id": 1685,
   "CatId": 67,
-  "Title": "بخش ۴۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۶",
+  "Title": "بخش ۴۶ - مویهٔ مادر و روشنک بر مرگ اسکندر، به خاک سپردن صندوق و تأمل در فرجام جهان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۶ - مویهٔ مادر و روشنک بر مرگ اسکندر، به خاک سپردن صندوق و تأمل در فرجام جهان",
   "FullUrl": "/ferdousi/shahname/eskandar/sh46",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,71 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جهاندار درگذشته که مادر و روشنک در سوگش سخن می‌گویند"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 256,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با درد در سوگ شاه سخن می‌گوید و از دارا می‌پرسد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهاندار پیشین که گیتی بر او تکیه داشت"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شهریاران نامور پیشین. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 263,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شهریاران گذشته‌ای که روشنک یادشان می‌کند"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 273,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شهریاران گذشته‌ای که روشنک یادشان می‌کند"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 287,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شهریاران پیشین که نامش یاد می‌شود."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1455,
   "CatId": 47,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۹",
+  "Title": "بخش ۹ - نجات کاووس از سقوط، سرزنش گودرز و توبهٔ چهل‌روزهٔ شاه",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۹ - نجات کاووس از سقوط، سرزنش گودرز و توبهٔ چهل‌روزهٔ شاه",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,53 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه سپاه که گودرز با او سخن می‌گوید؛ داستان رزم او در پایان وعده داده می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه رستم و گیو با لشکری بزرگ."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه رستم و طوس در جست‌وجوی کاووس."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده که کاووس را سرزنش می‌کند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سرزنش می‌شود، پشیمان می‌گردد و سپس بخشوده می‌شود. (نام در متن: کاووس)"
     }
   ]
 }

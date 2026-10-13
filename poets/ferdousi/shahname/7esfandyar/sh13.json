@@ -1,8 +1,8 @@
 {
   "Id": 1572,
   "CatId": 60,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۳",
+  "Title": "بخش ۱۳ - شب خروش پاسبان و نبرد اسفندیار، کشتن ارجاسپ، بر دار کردن اندریمان و سوزاندن توران",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۳ - شب خروش پاسبان و نبرد اسفندیار، کشتن ارجاسپ، بر دار کردن اندریمان و سوزاندن توران",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1860,6 +1860,53 @@
       "CoupletIndex": 67,
       "SectionIndex1": 0,
       "SectionIndex2": 69
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ پاسبان نام او را در شب فریاد می‌زند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که از فریاد پاسبان نگران می‌شود و به لشکر فرمان بازگشت می‌دهد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 146,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب کهرم در رایزنی شبانه."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ایرانی که با سپاهش به نبرد می‌آید و پیروز می‌شود."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین ایران که ارجاسپ خونش را ریخته بود."
     }
   ]
 }

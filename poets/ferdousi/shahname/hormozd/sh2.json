@@ -5560,5 +5560,124 @@
       "SectionIndex1": 0,
       "SectionIndex2": 206
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 412,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر مرزبان هری، جهان‌دیده و سخن‌دان که گفتار شاه را بازمی‌گوید"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بر تخت نشست و سخنرانی آغازین دادگرانه کرد (نام در متن: هرمز)"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 405,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین؛ ایزدگشسب، برزمهر و ماه‌آذر دبیران و دستوران او بودند."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 387,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر خردمند و باشکوه، یکی از سه دستور"
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر خردمند نوشین‌روان که هرمز او را به زندان انداخت."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 414,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر خردمند و روشن‌دل، سومین دستور نوشین‌روان."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 415,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد پاک‌سرشت که برای ایزدگشسب زندانی خوراک فرستاد."
+    },
+    {
+      "CoupletIndex": 128,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتری که شاه او را شبانه فراخواند و با او سخن گفت (نام در متن: بهرام آذرمهان)"
+    },
+    {
+      "CoupletIndex": 133,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهان که شاه دربارهٔ او از بهرام می‌پرسد (نام در متن: سیمای برزین)"
+    },
+    {
+      "CoupletIndex": 135,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بدنهادان و بداندیشان در سخن شاه (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 159,
+      "PersonId": 405,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهنشاه و پدر هرمز؛ دربارِ جانشینی با بزرگان رایزنی کرد."
+    },
+    {
+      "CoupletIndex": 187,
+      "PersonId": 604,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنجور شاه که به فرمان هرمز صندوق مهرشده را می‌آورد."
+    },
+    {
+      "CoupletIndex": 204,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کهن که بهرام نژاد هرمز را از او نمی‌داند."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88049,
   "CatId": 56,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۷",
+  "Title": "بخش ۲۷ - رخ هفتم: نبرد هجیر با سپهرم، کشتن او به تیغ و بستن پیکرش بر زین",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۷ - رخ هفتم: نبرد هجیر با سپهرم، کشتن او به تیغ و بستن پیکرش بر زین",
   "FullUrl": "/ferdousi/shahname/12rokh/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -375,6 +375,44 @@
       "CoupletIndex": 12,
       "SectionIndex1": 0,
       "SectionIndex2": 14
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور گودرز و سوار هفتم که سپهرم را در نبرد شکست می‌دهد و می‌بندد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهرم از خویشان اوست."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 140,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار نامور از خویشان افراسیاب که در نبرد با هجیر کشته یا اسیر می‌شود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر هجیر است."
     }
   ]
 }

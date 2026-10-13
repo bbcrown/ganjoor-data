@@ -916,5 +916,52 @@
       "SectionIndex1": 0,
       "SectionIndex2": 34
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 288,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبری که این بخش به ستایش او اختصاص دارد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 576,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نخستین انسان؛ پیامبر از نظر معنوی کیمیای خاک او شمرده شده است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 631,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توصیف ممدوح به او تشبیه و اشاره شده است."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 266,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبری که در سپاه پیامبر از هم‌ردیفان او شمرده شده است. (نام در متن: خلیل)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 632,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبری که در بارگاه پیامبر در جایگاه چاووش آمده است."
+    }
   ]
 }

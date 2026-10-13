@@ -1,8 +1,8 @@
 {
   "Id": 1933,
   "CatId": 96,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۰",
+  "Title": "بخش ۱۰ - نامهٔ ماهوی به بیژن، هزیمت شاه جهان و نهان شدنش در آسیا نزد آسیابان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۰ - نامهٔ ماهوی به بیژن، هزیمت شاه جهان و نهان شدنش در آسیا نزد آسیابان",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2265,6 +2265,71 @@
       "CoupletIndex": 82,
       "SectionIndex1": 0,
       "SectionIndex2": 84
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سمرقند که ماهوی از او یاری خواست و برسام را فرستاد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 229,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بیژن؛ نژاد پهلوان از او و بیژن است."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 493,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در جنگ رها می‌شود و در آسیا پنهان می‌گردد. (نام در متن: شاه جهان)"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 499,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار بیژن که با ده هزار سوار به مرو فرستاده شد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرکردگان سپاه ترکان که با خان همراه است. (نام در متن: فغفور چین)"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 612,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار سپاه ترکان."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 494,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگی که کسان را در پی شاه می‌فرستد و آسیابان را بازجویی می‌کند."
     }
   ]
 }

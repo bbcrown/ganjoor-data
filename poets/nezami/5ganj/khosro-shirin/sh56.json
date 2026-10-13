@@ -727,5 +727,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 27
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 671,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق آشفتهٔ شیرین که او را نزد شاه می‌آورند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوقه‌ای که عشق و غم او کوه‌کن را از خود بی‌خود کرده است."
+    }
   ]
 }

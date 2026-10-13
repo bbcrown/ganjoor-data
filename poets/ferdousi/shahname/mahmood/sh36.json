@@ -1,8 +1,8 @@
 {
   "Id": 88095,
   "CatId": 57,
-  "Title": "بخش ۳۶",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۶",
+  "Title": "بخش ۳۶ - پوزش زال از شاه و آشتی، آراستن خرگاه و درفش کاویانی در هامون",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۶ - پوزش زال از شاه و آشتی، آراستن خرگاه و درفش کاویانی در هامون",
   "FullUrl": "/ferdousi/shahname/mahmood/sh36",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,98 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده که از شاه پوزش می‌خواهد و مخاطب فرمان او می‌شود"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان، فرمان شاه را اجرا می‌کند و در سپاه به دست چپ زال است"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و نامداران سپاه"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و نامداران سپاه"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و نامداران سپاه"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان سپاه که پیش‌پیش می‌ایستد"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر که پیش‌پیش در سپاه ایستاده است"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان سپاه که پیش‌پیش می‌ایستد"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان سپاه که پشت سر زال جای دارد"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان سپاه که پشت سر زال جای دارد"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88025,
   "CatId": 56,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳",
+  "Title": "بخش ۳ - آگاهی از لشکر افراسیاب، بسیج کیخسرو و گسیل چهار سپاه به جنگ توران",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳ - آگاهی از لشکر افراسیاب، بسیج کیخسرو و گسیل چهار سپاه به جنگ توران",
   "FullUrl": "/ferdousi/shahname/12rokh/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,233 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از لشکرکشی توران آگاه می‌شود و سپاه فرامی‌خواند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای توران و بدگوهر که به ایران سپاه می‌فرستد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرز توران به او سپرده شد و سپاه همراهش گشت."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیردل و سپهدار پنجاه‌هزار سوار تورانی در مرز خوارزم."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و پهلوانان حاضر در رازگویی با شاه. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان حاضر در نشست راز با شاه."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان حاضر در نشست راز با شاه."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیو و از نامداران حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیر دمان و از پهلوانان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یل و پهلوان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در نشست با شاه. (نام در متن: زنگه)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند گیو و از پهلوانان حاضر در نشست با شاه."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران؛ سپاه را گرد می‌آورد و سرداران را به جنگ می‌فرستد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه فرمان می‌دهد به او کلاه و نگین بدهند."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد خسرو نژاد که الانان و غزدژ به او داده و سپاهی سپرده می‌شود. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار سی هزار سوار که به فرمان شاه به خوارزم می‌رود."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و از پهلوانان همراه گودرز."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه گودرز."
     }
   ]
 }

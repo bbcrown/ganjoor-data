@@ -1,8 +1,8 @@
 {
   "Id": 1865,
   "CatId": 88,
-  "Title": "بخش ۳۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۰",
+  "Title": "بخش ۳۰ - چوبینه نامه خواند و پند پیران نپذیرفت، به آذربایجان تاخت و خسرو به جنگ رومیان تن داد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۰ - چوبینه نامه خواند و پند پیران نپذیرفت، به آذربایجان تاخت و خسرو به جنگ رومیان تن داد",
   "FullUrl": "/ferdousi/shahname/parviz/sh30",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -537,6 +537,35 @@
       "CoupletIndex": 18,
       "SectionIndex1": 0,
       "SectionIndex2": 20
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامه را می‌خواند و آماده رفتن می‌شود؛ ایرانیان او را از رفتن بازمی‌دارند. (نام در متن: چوبینه)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر و از همراهان بر اسب‌نشسته برای دیدن لشکر (نام در متن: ایزدگشسپ)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که همراه گردان برای دیدن لشکر رومی اسب می‌نشیند"
     }
   ]
 }

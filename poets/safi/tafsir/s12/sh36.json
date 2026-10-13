@@ -305,9 +305,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وی",
-      "PlainText": "زآنکه باشد قوه های حس قوی\r\nنیستشان ره بر بساط معنوی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه باشد قوّه های حس قوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیستشان ره بر بساط معنوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "یا که آیدشان قیامت ناگهان\r\nوین جماعت بیخبر باشند از آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که آیدشان قیامت ناگهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین جماعت بیخبر باشند از آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -315,19 +315,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "یا که آیدشان قیامت ناگهان\r\nوین جماعت بیخبر باشند از آن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که آیدشان قیامت ناگهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین جماعت بیخبر باشند از آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 17,
-      "Number": 17,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اد",
-      "PlainText": "ای محمد ص گو که در کار معاد\r\nراه من باشد همانا بر رشاد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای محمّد (ص) گو که در کار معاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه من باشد همانا بر رشاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وی",
+      "PlainText": "زآنکه باشد قوه های حس قوی\r\nنیستشان ره بر بساط معنوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه باشد قوّه های حس قوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیستشان ره بر بساط معنوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -341,13 +331,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 18,
-      "Number": 18,
+      "Index": 17,
+      "Number": 17,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ام",
-      "PlainText": "همچو محبوسی که بیند در منام\r\nشد خلاص از بند و زندان یافت کام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچو محبوسی که بیند در منام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد خلاص از بند و زندان یافت کام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اد",
+      "PlainText": "ای محمد ص گو که در کار معاد\r\nراه من باشد همانا بر رشاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای محمّد (ص) گو که در کار معاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه من باشد همانا بر رشاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -361,13 +351,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 19,
-      "Number": 19,
+      "Index": 18,
+      "Number": 18,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وی",
-      "PlainText": "وآنکه از من کرده است او پیروی\r\nبر بصیرت باشد از عقل قوی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنکه از من کرده است او پیروی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بصیرت باشد از عقل قوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ام",
+      "PlainText": "همچو محبوسی که بیند در منام\r\nشد خلاص از بند و زندان یافت کام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچو محبوسی که بیند در منام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد خلاص از بند و زندان یافت کام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -381,13 +371,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 20,
-      "Number": 20,
+      "Index": 19,
+      "Number": 19,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ام",
-      "PlainText": "همچنین بینند اندر هر مقام\r\nخواب با واقع مطابق این عوام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنین بینند اندر هر مقام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواب با واقع مطابق این عوام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وی",
+      "PlainText": "وآنکه از من کرده است او پیروی\r\nبر بصیرت باشد از عقل قوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنکه از من کرده است او پیروی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بصیرت باشد از عقل قوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -401,13 +391,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 21,
-      "Number": 21,
+      "Index": 20,
+      "Number": 20,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "سابق از تو نی فرستادیم ما\r\nبر رسالت جز رجالی ز اقتضا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسابق از تو نی فرستادیم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رسالت جز رجالی ز اقتضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ام",
+      "PlainText": "همچنین بینند اندر هر مقام\r\nخواب با واقع مطابق این عوام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنین بینند اندر هر مقام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواب با واقع مطابق این عوام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -421,13 +411,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 22,
-      "Number": 22,
+      "Index": 21,
+      "Number": 21,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "یا که علت باشد آن را اضطرار\r\nزآنکه مضطر نیستش با نفس کار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که علت باشد آن را اضطرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه مضطر نیستش با نفس کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ا",
+      "PlainText": "سابق از تو نی فرستادیم ما\r\nبر رسالت جز رجالی ز اقتضا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسابق از تو نی فرستادیم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رسالت جز رجالی ز اقتضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -441,13 +431,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 23,
-      "Number": 23,
+      "Index": 22,
+      "Number": 22,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "سیر نکنند ایچ آیا در زمین\r\nپس ببینند از تعلق وز یقین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسِیر نکنند ایچ آیا در زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس ببینند از تعلق وز یقین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "یا که علت باشد آن را اضطرار\r\nزآنکه مضطر نیستش با نفس کار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که علت باشد آن را اضطرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه مضطر نیستش با نفس کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -461,13 +451,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 24,
-      "Number": 24,
+      "Index": 23,
+      "Number": 23,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یف",
-      "PlainText": "گردد آثار طبیعت بس ضعیف\r\nپس به واقع برخورد روح لطیف",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردد آثار طبیعت بس ضعیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس به واقع برخورد روح لطیف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ین",
+      "PlainText": "سیر نکنند ایچ آیا در زمین\r\nپس ببینند از تعلق وز یقین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسِیر نکنند ایچ آیا در زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس ببینند از تعلق وز یقین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -481,13 +471,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 25,
-      "Number": 25,
+      "Index": 24,
+      "Number": 24,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "همچو قریۀ عاد و هم ارض ثمود\r\nکاهل بینش را از آن عبرت فزود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچو قریۀ عاد و هم ارض ثمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاهل بینش را از آن عبرت فزود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یف",
+      "PlainText": "گردد آثار طبیعت بس ضعیف\r\nپس به واقع برخورد روح لطیف",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردد آثار طبیعت بس ضعیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس به واقع برخورد روح لطیف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -501,13 +491,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 26,
-      "Number": 26,
+      "Index": 25,
+      "Number": 25,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ام",
-      "PlainText": "یا که باشد ظالمی کش در منام\r\nحق کند اتمام حجت لاکلام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که باشد ظالمی کش در منام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق کند اتمام حجت لاکلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ود",
+      "PlainText": "همچو قریۀ عاد و هم ارض ثمود\r\nکاهل بینش را از آن عبرت فزود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچو قریۀ عاد و هم ارض ثمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاهل بینش را از آن عبرت فزود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -521,13 +511,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 27,
-      "Number": 27,
+      "Index": 26,
+      "Number": 26,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ط",
-      "PlainText": "بر جهان مشعوف بودند از غلط\r\nعاقبت آن بودشان نهج و نمط",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر جهان مشعوف بودند از غلط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاقبت آن بودشان نهج و نمط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ام",
+      "PlainText": "یا که باشد ظالمی کش در منام\r\nحق کند اتمام حجت لاکلام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که باشد ظالمی کش در منام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق کند اتمام حجت لاکلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -541,13 +531,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 28,
-      "Number": 28,
+      "Index": 27,
+      "Number": 27,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "هم",
-      "PlainText": "مجملی بود این تعقل کن بفهم\r\nمابقی را گر ز فهمت هست سهم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجملی بود این تعقل کن بفهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمابقی را گر ز فهمت هست سهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ط",
+      "PlainText": "بر جهان مشعوف بودند از غلط\r\nعاقبت آن بودشان نهج و نمط",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر جهان مشعوف بودند از غلط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاقبت آن بودشان نهج و نمط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -558,6 +548,16 @@
       "RhymeLetters": "رت",
       "PlainText": "هست بس بهتر سرای آخرت\r\nآنکه را پرهیزد او بی معذرت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست بس بهتر سرای آخرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه را پرهیزد او بی معذرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هم",
+      "PlainText": "مجملی بود این تعقل کن بفهم\r\nمابقی را گر ز فهمت هست سهم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجملی بود این تعقل کن بفهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمابقی را گر ز فهمت هست سهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

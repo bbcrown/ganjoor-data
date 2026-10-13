@@ -1,8 +1,8 @@
 {
   "Id": 1556,
   "CatId": 59,
-  "Title": "بخش ۳۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳۰",
+  "Title": "بخش ۳۰ - آمدن جاماسپ نزد اسفندیارِ دربند، شکستن زنجیر به زور بازو و آراستن سلاح",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳۰ - آمدن جاماسپ نزد اسفندیارِ دربند، شکستن زنجیر به زور بازو و آراستن سلاح",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh30",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2292,6 +2292,116 @@
       "CoupletIndex": 83,
       "SectionIndex1": 0,
       "SectionIndex2": 85
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بندی در دژ که از گشتاسپ دلگیر است"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر اسفندیار که بر بام دژ نگهبانی می‌دهد و جاماسپ را می‌بیند (نام در متن: نوش آذر)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خردمند ایرانی که به دژ می‌آید و اسفندیار را به کین‌خواهی می‌خواند"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران و دشمن ایران که اسفندیار با تلخی از او یاد می‌کند. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهنشاه ایران و پدر اسفندیار که او را به بند کرده است."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 220,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران، دشمن ایران که کشتارهایی کرده است (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو بدی که در سخن اسفندیار به‌عنوان مقایسه و نکوهش یاد می‌شود. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 214,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که سخنش مایهٔ بیداد گشتاسپ بر اسفندیار شد"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیر و پرستنده، پدر گشتاسپ و نیای اسفندیار که ترکان او را کشتند."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بانوانی که جاماسپ برای برانگیختن کین‌خواهی یادشان می‌کند"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 225,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بانوانی که جاماسپ برای برانگیختن کین‌خواهی یادشان می‌کند (نام در متن: به‌آفرید)"
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر اسفندیار که تنش زخمی و دلش پر از درد است."
     }
   ]
 }

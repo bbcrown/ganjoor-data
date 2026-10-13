@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "انرسد",
-      "PlainText": "هر قطره به کنْه در دریا نرسد\r\nهر ذره به آفتاب والا نرسد\r\nدر راه تو جمله قدمها برسید\r\nتا هیچکسی در تو رسید یا نرسد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر قطره به کُنْهِ دُرِّ دریا نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ذرّه به آفتاب والا نرسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راه تو جملهٔ قدمها برسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا هیچکسی در تو رسید یا نرسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "هر قطره به کنه در دریا نرسد\r\nهر ذره به آفتاب والا نرسد\r\nدر راه تو جمله قدم ها برسید\r\nتا هیچکسی در تو رسد یا نرسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر قطره به کُنْهِ دُرِّ دریا نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ذرّه به آفتاب والا نرسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راه تو جملهٔ قدم‌ها برسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا هیچکسی در تو رسد یا نرسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -44,7 +44,7 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "در راه تو جملهٔ قدمها برسید",
+      "Text": "در راه تو جملهٔ قدم‌ها برسید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: در مسیر تو، همهٔ قدم‌ها به هم پیوسته‌اند تا هیچ‌کس نتواند به تو نزدیکی یا دوری کند."
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "تا هیچکسی در تو رسید یا نرسد",
+      "Text": "تا هیچکسی در تو رسد یا نرسد",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

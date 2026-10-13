@@ -3481,5 +3481,97 @@
       "SectionIndex1": 0,
       "SectionIndex2": 129
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سوگ شاه آشفته است و انگشت خود را می‌گزد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 646,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مرگ شاه ناامید و لرزان است و فریاد برمی‌آورد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در کنار پادشاهان دیگر برای یادآوری ناپایداری جهان نام برده می‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر خسرو که در سوگ او خود را بر پیکرش می‌کشد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 479,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گمان می‌برد شیرین به او دل‌بسته است. (نام در متن: شیرویه)"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 388,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شب و روز می‌گریست و دلیل گریه‌اش را جدایی جسم و جان گفت. (نام در متن: افلاطون)"
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه آمده است؛ خر او را از زین بیرون می‌برد."
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان گذشته که به خاک رفته‌اند."
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان گذشته که به خاک رفته‌اند."
+    },
+    {
+      "CoupletIndex": 116,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاعر که خود را مخاطب قرار می‌دهد و به خاموشی می‌خواند."
+    }
   ]
 }

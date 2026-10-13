@@ -5128,5 +5128,70 @@
       "SectionIndex1": 0,
       "SectionIndex2": 190
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 21,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به جنگ رفت و برایش سوگواری شد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 401,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان شیرازی و مرزبان زابلستان، نگهبان تخت بلاش."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در پندهای نامه یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در پندهای نامه یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در پندهای نامه یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهاندار و نیای شاه کشته‌شده؛ پدر خوشنواز نزد او بود."
+    },
+    {
+      "CoupletIndex": 153,
+      "PersonId": 50,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه که از بند رها شد و به ایران بازگشت"
+    }
   ]
 }

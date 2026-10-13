@@ -1,8 +1,8 @@
 {
   "Id": 1613,
   "CatId": 62,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۸",
+  "Title": "بخش ۸ - وصیت گشتاسپ نزد جاماسپ، سپردن تخت به بهمن و مرگ و دخمهٔ شاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۸ - وصیت گشتاسپ نزد جاماسپ، سپردن تخت به بهمن و مرگ و دخمهٔ شاه",
   "FullUrl": "/ferdousi/shahname/shqad/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,62 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که روزگارش به سر آمده و داستانش پایان یافته است (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که صد و بیست سال پادشاهی کرد و در می‌گذرد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گشتاسپ او را پیش تخت می‌آورد و با او سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کار او دل گشتاسپ را داغدار و سوگوار کرد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رازدار بهمن و مرد دانا"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جانشین گشتاسپ که تخت و گنج به او سپرده می‌شود"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 52175,
   "CatId": 87,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۸",
+  "Title": "بخش ۸ - بستن پرموده و نهفتن خواسته، خلعت زنانِ شاه به بهرام و روی‌گردانی سپاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۸ - بستن پرموده و نهفتن خواسته، خلعت زنانِ شاه به بهرام و روی‌گردانی سپاه",
   "FullUrl": "/ferdousi/shahname/hormozd/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5775,6 +5775,152 @@
       "CoupletIndex": 212,
       "SectionIndex1": 0,
       "SectionIndex2": 214
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان خشمگین که به خاقان تازیانه زد و سپس پشیمان شد (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان که بهرام را نکوهش کرد و میانجی شد (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان که خشم بهرام را نابخردانه می‌داند و نزد او میانجی می‌شود."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 357,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که گفتگوی بهرام و خاقان دربارهٔ او می‌گذرد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ترکان که بهرام به او تازیانه زد و سپس او را بخشید"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 318,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد بزرگ که در کنار سپهدار حاضر است."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از روزگار او و ارجاسب گنج‌های دژ گرد آمده بود."
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کمر او نخستین چیز از گنج‌های دژ است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوشواره را به لهراسب داد."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوشواره را از کیخسرو گرفت و به گشتاسب داد. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوشواره را از لهراسب دریافت کرد. (نام در متن: گشتاسب)"
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 511,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خاقان و موبد او؛ شاه در پایان با او سخن می‌گوید. (نام در متن: پیداگشسب)"
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 509,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ آورندهٔ خواسته که شاه او را می‌نوازد و جا می‌دهد."
+    },
+    {
+      "CoupletIndex": 112,
+      "PersonId": 328,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر شاه که دربارهٔ چوبینه به شاه هشدار می‌دهد. (نام در متن: آیین گشسب)"
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 510,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که شاه از او دربارهٔ دیده‌هایش پرسید."
+    },
+    {
+      "CoupletIndex": 155,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامهٔ سرزنش و خلعت زنانه را برای بهرام فرستاد. (نام در متن: هرمز)"
     }
   ]
 }

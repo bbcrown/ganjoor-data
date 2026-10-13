@@ -1078,5 +1078,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 40
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 38,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب خسرو که از او می‌خواهد جانش را نیرو دهد"
+    }
   ]
 }

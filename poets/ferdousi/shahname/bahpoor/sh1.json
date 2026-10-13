@@ -916,5 +916,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 34
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 310,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه خردمند و دادگر که پس از پدر بر تخت نشست و بی‌پسر درگذشت"
+    }
   ]
 }

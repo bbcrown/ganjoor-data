@@ -1,8 +1,8 @@
 {
   "Id": 1849,
   "CatId": 88,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۴",
+  "Title": "بخش ۱۴ - شب نوشتن عهد پادشاهی بهرام، تاج‌گذاری و رفتن ناهمداستانان به نزد خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۴ - شب نوشتن عهد پادشاهی بهرام، تاج‌گذاری و رفتن ناهمداستانان به نزد خسرو",
   "FullUrl": "/ferdousi/shahname/parviz/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -726,6 +726,26 @@
       "CoupletIndex": 25,
       "SectionIndex1": 0,
       "SectionIndex2": 27
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عهدنامهٔ پادشاهی خود را می‌نویسد، بر تخت می‌نشیند و تاج بر سر می‌نهد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخالفان پادشاهی بهرام باید نزد او بروند."
     }
   ]
 }

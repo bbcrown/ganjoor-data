@@ -1,8 +1,8 @@
 {
   "Id": 1855,
   "CatId": 88,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۰",
+  "Title": "بخش ۲۰ - نامهٔ پاسخ قیصر به خسرو: وعدهٔ سلاح و زر و سپاه برای گذشتن آرام به ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۰ - نامهٔ پاسخ قیصر به خسرو: وعدهٔ سلاح و زر و سپاه برای گذشتن آرام به ایران",
   "FullUrl": "/ferdousi/shahname/parviz/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -375,6 +375,17 @@
       "CoupletIndex": 12,
       "SectionIndex1": 0,
       "SectionIndex2": 14
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم که نامهٔ پاسخ می‌نویسد و پیامی برای خسرو می‌فرستد"
     }
   ]
 }

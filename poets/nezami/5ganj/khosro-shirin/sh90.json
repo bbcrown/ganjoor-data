@@ -4318,5 +4318,70 @@
       "SectionIndex1": 0,
       "SectionIndex2": 160
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی شبستان که شاه به یاد او باده می‌نوشد و برایش پیام می‌فرستد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خنیاگر بزم شاه که شاه از او می‌خواهد بنوازد"
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 227,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در وصف شراب چینیان، به فریبندگی‌اش اشاره شده است."
+    },
+    {
+      "CoupletIndex": 96,
+      "PersonId": 279,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه در مقایسه با او که ماهی در آب حیات انداخت، توصیف شده است."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همایون را از شاه به عنوان بخشش دریافت می‌کند."
+    },
+    {
+      "CoupletIndex": 115,
+      "PersonId": 646,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب فرمان پیوند ختن‌خاتون."
+    },
+    {
+      "CoupletIndex": 150,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که در پیری به گذشته و ناپایداری جهان می‌اندیشد. (نام در متن: خسرو پرویز)"
+    }
   ]
 }

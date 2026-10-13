@@ -1,8 +1,8 @@
 {
   "Id": 52171,
   "CatId": 87,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۴",
+  "Title": "بخش ۴ - رای بهرام بر رزم با ساوه شاه، سپردن درفش رستم و تاختن به دشت هری",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۴ - رای بهرام بر رزم با ساوه شاه، سپردن درفش رستم و تاختن به دشت هری",
   "FullUrl": "/ferdousi/shahname/hormozd/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5424,6 +5424,143 @@
       "CoupletIndex": 199,
       "SectionIndex1": 0,
       "SectionIndex2": 201
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با بهرام دربارهٔ جنگ و آشتی مشورت می‌کند. (نام در متن: هرمز)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و جنگجو؛ به او سپهسالاری لشکر ایران داده می‌شود. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 424,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن ایران که سپاه بسیار دارد و موضوع جنگ یا آشتی است."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 506,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرنامدار جنگی که پیش صف می‌آید و نیای خود را می‌گوید."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار سپاه که نگهبانی بنه و آراستن میسره و میمنه را بر عهده دارد."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 507,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار که پشت سپاه می‌ایستد و به دلیری شیرافکن است."
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کهن که در هاماوران به بند افتاد و رستم او را رهانید. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با دوازده هزار سوار کاوس را از بند رهانید."
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرنامداران آزادگان که برای کین سیاوش دوازده هزار سوار آورد."
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گودرز برای کین او لشکر آورد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پرمایه که با دوازده هزار جنگی بر ارجاسب چاره کرد."
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 259,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیری جوان، سخنور و یادگیر که همراه سپهبد فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 614,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر جوان، سخنور و یادگیر که هرمز او را می‌ستاید."
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شاه نزد بهرام با نامه و هدیه. (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شاه نزد بهرام با نامه و پیام."
     }
   ]
 }

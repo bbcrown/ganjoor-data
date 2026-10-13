@@ -1,8 +1,8 @@
 {
   "Id": 1431,
   "CatId": 46,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۲",
+  "Title": "بخش ۲ - پند زال به کاووس دربارهٔ پرهیز از لشکرکشی به مازندران و رد شدن آن توسط شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۲ - پند زال به کاووس دربارهٔ پرهیز از لشکرکشی به مازندران و رد شدن آن توسط شاه",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,125 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپیدمو که نزد کاووس می‌آید و او را از رفتن به مازندران بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نشسته بر اورنگ که قصد لشکرکشی به مازندران دارد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سرفراز که کاووس درباره‌اش می‌پرسد و قرار است نگهبان ایران باشد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیشین که از جهان رفته و گنج و کاخ به جا گذاشته است."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که زال او را یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 80,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که زال او را یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که به مازندران لشکر نکشید."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که کاووس خود را برتر از او می‌شمارد. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که کاووس خود را برتر از او می‌شمارد. (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که همراه زال بیرون می‌آیند."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که با زال همراه می‌شوند."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه زال است و به او درود و سپاس می‌گوید."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که با زال همراه می‌شوند."
     }
   ]
 }

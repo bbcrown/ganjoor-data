@@ -1,8 +1,8 @@
 {
   "Id": 88015,
   "CatId": 55,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۶",
+  "Title": "بخش ۶ - نامهٔ کیخسرو به رستم برای رهایی بیژن، سفر گیو به زابل و آمدن پهلوان به ایران",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۶ - نامهٔ کیخسرو به رستم برای رهایی بیژن، سفر گیو به زابل و آمدن پهلوان به ایران",
   "FullUrl": "/ferdousi/shahname/bizhan/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3966,6 +3966,197 @@
       "CoupletIndex": 145,
       "SectionIndex1": 0,
       "SectionIndex2": 147
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زادهٔ نامدار که شاه به او نامه می‌نویسد و از او یاری می‌خواهد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه به رستم می‌نویسد و نامه را مهر می‌کند (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهانی که نام رستم را بر نگین نوشته‌اند"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان شاه که به رستم امید دارد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن؛ حامل نامه نزد رستم"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تنها پسر گیو که در بند است و باید رها شود"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دستان"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان که به پیشواز گیو می‌آید (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که رستم از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که رستم از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که رستم از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که رستم از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که رستم از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که رستم از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 551,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که رستم از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در گفتار گیو از بدبختی خود به او اشاره می‌شود"
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کین‌خواهی او به‌عنوان تلاشی گذشته یاد می‌شود. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 109,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که بر خوان رستم نشستند."
+    },
+    {
+      "CoupletIndex": 109,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که بر خوان رستم نشستند."
+    },
+    {
+      "CoupletIndex": 138,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که برای پذیره‌شدن رستم خبر می‌شوند"
+    },
+    {
+      "CoupletIndex": 140,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آیین او برای آراستن پذیره‌شدن یادآوری می‌شود (نام در متن: کاوس)"
     }
   ]
 }

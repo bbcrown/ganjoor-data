@@ -1,8 +1,8 @@
 {
   "Id": 1724,
   "CatId": 70,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور پسر اردشیر سی و یک سال بود » بخش ۳",
+  "Title": "بخش ۳ - بستر مرگ شاپور: اندرز به اورمزد در داد، بخشش و گرایش به یزدان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور پسر اردشیر سی و یک سال بود » بخش ۳ - بستر مرگ شاپور: اندرز به اورمزد در داد، بخشش و گرایش به یزدان",
   "FullUrl": "/ferdousi/shahname/shapoor/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -456,6 +456,44 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 17
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که پس از سی سال پادشاهی، پسرش را پند می‌دهد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 215,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند و جانشین شاه که پدر او را پند می‌دهد. (نام در متن: هرمزد)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دفتر او به عنوان سرمشق شاهی یاد شده است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پندهای شاه از او به یادگار مانده است."
     }
   ]
 }

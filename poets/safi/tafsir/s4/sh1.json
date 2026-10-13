@@ -45,9 +45,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "می بپرهیزید از پروردگار\r\nکآفرید از نفس واحد بیشمار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی بپرهیزید از پروردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآفرید از نفس واحد بیشمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "و",
+      "PlainText": "حفظ تقوی پس کنید آنسان که او\r\nحفظتان کرد از مکاره مو به مو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ تقوی پس کنید آنسان که او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحفظتان کرد از مکاره مو به مو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -55,19 +55,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "و",
-      "PlainText": "حفظ تقوی پس کنید آنسان که او\r\nحفظتان کرد از مکاره مو به مو",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ تقوی پس کنید آنسان که او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحفظتان کرد از مکاره مو به مو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "م",
-      "PlainText": "برحذر باشید از قطع رحم\r\nهم ز اموال یتیمان در مهم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرحذر باشید از قطع رحم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ز اموال یتیمان در مهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "می بپرهیزید از پروردگار\r\nکآفرید از نفس واحد بیشمار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی بپرهیزید از پروردگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآفرید از نفس واحد بیشمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -81,13 +71,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ردحق",
-      "PlainText": "خلقتان از نفس واحد کرد حق\r\nهم ز غیب اندر شهود آورد حق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلقتان از نفس واحد کرد، حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ز غیب اندر شهود آورد، حق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "م",
+      "PlainText": "برحذر باشید از قطع رحم\r\nهم ز اموال یتیمان در مهم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرحذر باشید از قطع رحم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ز اموال یتیمان در مهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -101,13 +91,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "مال و اموالی که ناپاک است و بد\r\nدور دارید آن ز مال پاک خود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمال و اموالی که ناپاک است و بد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور دارید آن ز مال پاک خود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ردحق",
+      "PlainText": "خلقتان از نفس واحد کرد حق\r\nهم ز غیب اندر شهود آورد حق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلقتان از نفس واحد کرد، حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ز غیب اندر شهود آورد، حق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -121,13 +111,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ش",
-      "PlainText": "نفس واحد آدم کامل روش\r\nجفت او حوای کامل پرورش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس واحد آدم کامل روش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجفت او حوّای کامل پرورش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "د",
+      "PlainText": "مال و اموالی که ناپاک است و بد\r\nدور دارید آن ز مال پاک خود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمال و اموالی که ناپاک است و بد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور دارید آن ز مال پاک خود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -141,13 +131,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "م",
-      "PlainText": "معنی لاتأکلوا أموالهم\r\nگوش کن بر جای سر مگذار دم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعنی لَاتَأکُلُواْ أموالَهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش کن بر جای سر مگذار دم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ش",
+      "PlainText": "نفس واحد آدم کامل روش\r\nجفت او حوای کامل پرورش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس واحد آدم کامل روش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجفت او حوّای کامل پرورش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -161,13 +151,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "منتشر شد زین دو نفس متصل\r\nاز رجال و از نساء معتدل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنتشر شد زین دو نفس متصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رجال و از نساء معتدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "م",
+      "PlainText": "معنی لاتأکلوا أموالهم\r\nگوش کن بر جای سر مگذار دم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعنی لَاتَأکُلُواْ أموالَهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش کن بر جای سر مگذار دم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -181,13 +171,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یم",
-      "PlainText": "ور که دارید از خلاف قسط بیم\r\nیعنی از اجحاف در مال یتیم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور که دارید از خلاف قسط بیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی از اجحاف در مال یتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ل",
+      "PlainText": "منتشر شد زین دو نفس متصل\r\nاز رجال و از نساء معتدل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنتشر شد زین دو نفس متصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رجال و از نساء معتدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -201,13 +191,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 11,
-      "Number": 11,
+      "Index": 10,
+      "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ندها",
-      "PlainText": "میخورید از نام او سوگندها\r\nهم به عرق خویشی و پیوندها",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخورید از نام او سوگندها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم به عِرق خویشی و پیوندها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یم",
+      "PlainText": "ور که دارید از خلاف قسط بیم\r\nیعنی از اجحاف در مال یتیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور که دارید از خلاف قسط بیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی از اجحاف در مال یتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -221,13 +211,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 12,
-      "Number": 12,
+      "Index": 11,
+      "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ک",
-      "PlainText": "از دو و سه تا چهار از بعد یک\r\nور که از تعدیلتان بیم است و شک",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دو و سه تا چهار از بعد یک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور که از تعدیلتان بیم است و شک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ندها",
+      "PlainText": "میخورید از نام او سوگندها\r\nهم به عرق خویشی و پیوندها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخورید از نام او سوگندها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم به عِرق خویشی و پیوندها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -241,13 +231,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یب",
-      "PlainText": "گر نباشد او به هر حالی رقیب\r\nچون رسید از نطفه بر عقل ادیب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نباشد او به هر حالی رقیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون رسید از نطفه بر عقل ادیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ک",
+      "PlainText": "از دو و سه تا چهار از بعد یک\r\nور که از تعدیلتان بیم است و شک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دو و سه تا چهار از بعد یک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور که از تعدیلتان بیم است و شک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -261,13 +251,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 14,
-      "Number": 14,
+      "Index": 13,
+      "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ور",
-      "PlainText": "این بود نزدیک تر بر ترک جور\r\nگر کنید از عقل دور اندیش شور",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بود نزدیک تر بر ترک جور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر کنید از عقل دور اندیش شُور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یب",
+      "PlainText": "گر نباشد او به هر حالی رقیب\r\nچون رسید از نطفه بر عقل ادیب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نباشد او به هر حالی رقیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون رسید از نطفه بر عقل ادیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -281,13 +271,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 15,
-      "Number": 15,
+      "Index": 14,
+      "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
-      "PlainText": "هم شما باشید اندر جهر و سر\r\nبا وی اندر طاعت و تقوی مصر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم شما باشید اندر جهر و سِرّ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا وی اندر طاعت و تقوی مصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ور",
+      "PlainText": "این بود نزدیک تر بر ترک جور\r\nگر کنید از عقل دور اندیش شور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بود نزدیک تر بر ترک جور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر کنید از عقل دور اندیش شُور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -301,13 +291,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 16,
-      "Number": 16,
+      "Index": 15,
+      "Number": 15,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "ور که بگذارند چیزی ز اختیار\r\nبر شما آن طیب است و سازگار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور که بگذارند چیزی ز اختیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شما آن طیّب است و سازگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "هم شما باشید اندر جهر و سر\r\nبا وی اندر طاعت و تقوی مصر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم شما باشید اندر جهر و سِرّ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا وی اندر طاعت و تقوی مصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -321,13 +311,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 17,
-      "Number": 17,
+      "Index": 16,
+      "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "یافتید اینگونه تا رشد و نمود\r\nآمدید از غیب مطلق در شهود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیافتید اینگونه تا رشد و نمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمدید از غیب مطلق در شهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "ور که بگذارند چیزی ز اختیار\r\nبر شما آن طیب است و سازگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور که بگذارند چیزی ز اختیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شما آن طیّب است و سازگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -338,6 +328,16 @@
       "RhymeLetters": "لاف",
       "PlainText": "هست در تنزیل این آیت خلاف\r\nهر یک آید در بیان  بی اختلاف",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست در تنزیل این آیت خلاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر یک آید در بیان ، بی اختلاف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "یافتید اینگونه تا رشد و نمود\r\nآمدید از غیب مطلق در شهود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیافتید اینگونه تا رشد و نمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمدید از غیب مطلق در شهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

@@ -1,8 +1,8 @@
 {
   "Id": 1768,
   "CatId": 82,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۶",
+  "Title": "بخش ۱۶ - وعدهٔ داد و بخشش بهرام، پذیرش شاهی او و نهادن تاج میان دو شیر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۶ - وعدهٔ داد و بخشش بهرام، پذیرش شاهی او و نهادن تاج میان دو شیر",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,44 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در انجمن وعدهٔ دادگری می‌دهد و بزرگان او را می‌ستایند."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یاور و پشتیبان بهرام در میان لشکر تازیان."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی از نژاد پیشین که برای شاهی‌اش آفرین خواندند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که دو شیر ژیان را بسته به موبد سپرد."
     }
   ]
 }

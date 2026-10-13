@@ -1,8 +1,8 @@
 {
   "Id": 1501,
   "CatId": 49,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲۲",
+  "Title": "بخش ۲۲ - نامهٔ کیخسرو بر نیزه، گشودن دژ به فر یزدان، بنای آذرگشسپ و تاجگذاری به دست کاووس",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲۲ - نامهٔ کیخسرو بر نیزه، گشودن دژ به فر یزدان، بنای آذرگشسپ و تاجگذاری به دست کاووس",
   "FullUrl": "/ferdousi/shahname/siavosh/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2481,6 +2481,89 @@
       "CoupletIndex": 90,
       "SectionIndex1": 0,
       "SectionIndex2": 92
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر کشوادگان که خبر بازگشت طوس و فریبرز به او می‌رسد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه فریبرز بازگشت و نتوانست به دژ برسد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه طوس بازگشت و نتوانست به دژ برسد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جهانجو که با سپاه به دژ آمد و نامه نوشت."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی بد که کیخسرو از بند او رسته و دژ را شاید از او بداند. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 12,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نامه به‌طور فرضی از حضور او در دژ سخن می‌رود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان کیخسرو نامه را بر نیزه به دیوار دژ می‌برد."
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای کیخسرو که شادمان به پیشوازش می‌رود (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 81,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خسرو در چهره فقط به او می‌ماند؛ کاووس بر او آفرین می‌خواند. (نام در متن: سیاوش)"
     }
   ]
 }

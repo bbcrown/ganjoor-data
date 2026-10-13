@@ -21,5 +21,70 @@
       "CoupletIndex": 0,
       "CoupletSummary": "هوش مصنوعی: گوینده این داستان، ابوالفضل بیهقی، دبیر، درباره دیدارش می‌گوید که پس از درگذشت سلطان محمود غزنوی، پسر بزرگ او، امیر مسعود، در سپاهان بود و قصد داشت به همدان و بغداد سفر کند. در این میان، افرادی مهم و تاثیرگذار در دولت محمود، از جمله امیر علی قریب، حاجب بزرگ، و سایر مقامات، تصمیم گرفتند که پسر کوچک سلطان، امیر ابو احمد محمد، را به عنوان پادشاه بر تخت سلطنت نشانند. امیر علی قریب که از مقامات معتبر بود، مسئول امور دولت شد. وقتی امیر مسعود تصمیم به ترک بغداد گرفت و به دیگر شهرها سفر کرد، امیر علی به همراه دیگر مقامات، امیر محمد را در مکانی به نام قلعه کوهتیز نگه داشتند و نامه‌ای به درگاه امیر مسعود برای توضیح اقداماتشان ارسال کردند."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 2,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 5,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 6,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 7,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 12,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 21,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 68,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 159,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 160,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1423,
   "CatId": 44,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۴",
+  "Title": "بخش ۴ -\u00A0فرمان زال به رستم برای آوردن کیقباد از البرزکوه و نشاندن او بر تخت شاهی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۴ -\u00A0فرمان زال به رستم برای آوردن کیقباد از البرزکوه و نشاندن او بر تخت شاهی",
   "FullUrl": "/ferdousi/shahname/garshasp/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -213,6 +213,35 @@
       "CoupletIndex": 6,
       "SectionIndex1": 0,
       "SectionIndex2": 8
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرخنده‌ای که به رستم فرمان می‌دهد به البرز برود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که زال او را به سوی البرز می‌فرستد تا کیقباد را بیاورد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 83,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که رستم باید به نزدش برود و او را به شاهی بخواند."
     }
   ]
 }

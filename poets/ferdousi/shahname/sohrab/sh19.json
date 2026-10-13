@@ -1,8 +1,8 @@
 {
   "Id": 1477,
   "CatId": 48,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۹",
+  "Title": "بخش ۱۹ - درخواست نوشداروی رستم از کاووس و امتناع شاه از درمان سهراب",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۹ - درخواست نوشداروی رستم از کاووس و امتناع شاه از درمان سهراب",
   "FullUrl": "/ferdousi/shahname/sohrab/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,44 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور پهلوان نزد کاووس و بازگرداننده پاسخ او به رستم"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که از او نوشدارو خواسته می‌شود و با بخشش آن مخالفت می‌کند (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که فرزند خود را زخمی کرده و نوشدارو می‌خواهد"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 73,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن رستم برای مقایسه با شهریار یاد شده است"
     }
   ]
 }

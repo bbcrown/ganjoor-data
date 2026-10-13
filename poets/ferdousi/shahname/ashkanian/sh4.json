@@ -1,8 +1,8 @@
 {
   "Id": 1690,
   "CatId": 68,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۴",
+  "Title": "بخش ۴ - زاده شدن و هنرآموزی اردشیر، نامهٔ اردوان و فرستادنش با هدایا به درگاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۴ - زاده شدن و هنرآموزی اردشیر، نامهٔ اردوان و فرستادنش با هدایا به درگاه",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,44 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند بابک؛ جوانی هنرمند و برومند که اردوان او را به دربار می‌خواند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که دربارهٔ اردشیر می‌شنود و نامه‌ای به بابک می‌نویسد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 248,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اردشیر در روز بزم به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 292,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر اردشیر که نامهٔ اردوان را می‌خواند و پسر را با هدیه روانه می‌کند."
     }
   ]
 }

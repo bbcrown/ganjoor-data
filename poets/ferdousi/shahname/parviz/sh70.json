@@ -1,8 +1,8 @@
 {
   "Id": 1905,
   "CatId": 88,
-  "Title": "بخش ۷۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۰",
+  "Title": "بخش ۷۰ - راه بستن سرکش بر باربد، نواختن سه سرود نهان بر سرو و مهتر شدن او بر رامشگران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۰ - راه بستن سرکش بر باربد، نواختن سه سرود نهان بر سرو و مهتر شدن او بر رامشگران",
   "FullUrl": "/ferdousi/shahname/parviz/sh70",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1860,6 +1860,53 @@
       "CoupletIndex": 67,
       "SectionIndex1": 0,
       "SectionIndex2": 69
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بیست‌وهشت سال شاهی کرده و رامشگر گزیده دارد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رامشگر تازه‌رسیده که از درگاه راه نمی‌یابد و در باغ برای شاه می‌نوازد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 475,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رامشگر درگاه شاه که از آمدن باربد دل‌تیره می‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 476,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): باغبان شاه که به باربد جا و پنهان‌گاه می‌دهد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 558,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رزمگاه او در تشبیه شاخه‌های سرو آمده است"
     }
   ]
 }

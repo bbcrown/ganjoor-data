@@ -1,8 +1,8 @@
 {
   "Id": 88052,
   "CatId": 56,
-  "Title": "بخش ۳۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۰",
+  "Title": "بخش ۳۰ - نبرد برته با کهرم، دو نیم گشتن او تا سینه و خالی ماندن پهن‌دشت از ترکان",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۰ - نبرد برته با کهرم، دو نیم گشتن او تا سینه و خالی ماندن پهن‌دشت از ترکان",
   "FullUrl": "/ferdousi/shahname/12rokh/sh30",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -456,6 +456,35 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 17
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور تیغ‌زن که در نبرد با برته دو نیم می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 518,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با کهرم جنگید، او را با تیغ دو نیم کرد و دربندش کرد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار توران که در این جنگ در میدان سواری نمی‌بیند."
     }
   ]
 }

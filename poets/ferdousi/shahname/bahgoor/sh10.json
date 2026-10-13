@@ -1,8 +1,8 @@
 {
   "Id": 1779,
   "CatId": 83,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۰",
+  "Title": "بخش ۱۰ - شکار بهرام در نخچیرگاه، جشن شبانهٔ دختران آسیابان و خواستگاری چهار دوشیزهٔ بی‌چیز",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۰ - شکار بهرام در نخچیرگاه، جشن شبانهٔ دختران آسیابان و خواستگاری چهار دوشیزهٔ بی‌چیز",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1968,6 +1968,80 @@
       "CoupletIndex": 71,
       "SectionIndex1": 0,
       "SectionIndex2": 73
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه شکارچی که شبانگاه به جشن دختران آسیابان می‌رسد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 221,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که آتش‌افروزی و سور به او نسبت داده شده است"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختران چامهٔ رزم او را می‌خوانند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 345,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از چهار دختر آسیابان."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 346,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از چهار دختر آسیابان."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 347,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از چهار دختر آسیابان."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 348,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از چهار دختر آسیابان."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آسیابان پیر و پدر دختران، که از آمدن شاه شگفت‌زده می‌شود."
     }
   ]
 }

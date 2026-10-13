@@ -1,8 +1,8 @@
 {
   "Id": 1698,
   "CatId": 68,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۲",
+  "Title": "بخش ۱۲ - شکست و کشتن اردوان، زناشویی اردشیر با دختر او و بنیاد شارستان گور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۲ - شکست و کشتن اردوان، زناشویی اردشیر با دختر او و بنیاد شارستان گور",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,53 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از اردشیر شکست می‌خورد، اسیر می‌شود و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیروز که اردوان را شکست می‌دهد و فرمان کشتنش را می‌دهد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی که اردوان را گرفتار کرد و نزد اردشیر برد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 297,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دژخیمی که به فرمان اردشیر اردوان را به دو نیم کرد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 295,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگی که تن اردوان را شست و برایش دخمه ساخت."
     }
   ]
 }

@@ -403,5 +403,15 @@
       "CoupletIndex": 40,
       "CoupletSummary": "هوش مصنوعی: هر استادی که در علم شعر مهارت دارد و کمی تفکر کند، متوجه می‌شود که من در وضعیت دشواری قرار دارم. خداحافظ."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 37,
+      "LunarYear": 504,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

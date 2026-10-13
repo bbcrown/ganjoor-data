@@ -1,8 +1,8 @@
 {
   "Id": 1914,
   "CatId": 89,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۳",
+  "Title": "بخش ۳ - گریستن شیروی از خون پدر، گفت‌وگو با گردنکشان دژم، مهلت یک ماه و نخوردن خسرو جز از دست شیرین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۳ - گریستن شیروی از خون پدر، گفت‌وگو با گردنکشان دژم، مهلت یک ماه و نخوردن خسرو جز از دست شیرین",
   "FullUrl": "/ferdousi/shahname/shirooye/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,35 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 479,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جوان، گریان و ترسان از تاج و تخت؛ به خوالیگران درباره‌ٔ خسرو فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر شیروی؛ خوراکش را نمی‌خورد و جز از دست شیرین نمی‌خورد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خوراک خسرو از دست او بود و با خوردن او شادمان می‌شد"
     }
   ]
 }

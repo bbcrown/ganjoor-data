@@ -1,8 +1,8 @@
 {
   "Id": 1474,
   "CatId": 48,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۶",
+  "Title": "بخش ۱۶ - شب پیش از نبرد فردا: گزارش رستم از زور سهراب و وصیت به زواره",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۶ - شب پیش از نبرد فردا: گزارش رستم از زور سهراب و وصیت به زواره",
   "FullUrl": "/ferdousi/shahname/sohrab/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1779,6 +1779,89 @@
       "CoupletIndex": 64,
       "SectionIndex1": 0,
       "SectionIndex2": 66
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوان و نیرومند که در جنگ با ایرانیان بسیار می‌کشد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که به فرمان شاه سپاه را از جنگیدن بازمی‌دارد"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که از نیرو و بالای سهراب نزد کاووس سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با رستم دربارهٔ جنگ سهراب گفتگو می‌کند"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار ایرانی که سهراب بر او می‌تازد و ترگش می‌افتد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در صحنهٔ نبرد با طوس از اسب فرود می‌آید"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که رستم را نزد خود می‌پذیرد و دعا می‌کند (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر رستم؛ نگران نزد او می‌آید و سفارش‌ها را می‌شنود"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که رستم می‌خواهد برادرش و دیگران نزد او بروند (نام در متن: دستان)"
     }
   ]
 }

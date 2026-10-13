@@ -1,8 +1,8 @@
 {
   "Id": 1573,
   "CatId": 60,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۴",
+  "Title": "بخش ۱۴ - نامهٔ اسفندیار به گشتاسپ پس از پیروزی و پاسخ شاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۴ - نامهٔ اسفندیار به گشتاسپ پس از پیروزی و پاسخ شاه",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,62 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در دعا و آفرین از او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که نامه به او نوشته می‌شود و برایش دعا می‌شود"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه ارجاسپ در رویین‌دژ که نابود شد"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ نامه که مهر او بر نامه نهاده شد"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سنجش درخت بارورتر از آنچه او کاشت یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که سواران هیون به نزد او می‌رسند (نام در متن: تهمتن)"
     }
   ]
 }

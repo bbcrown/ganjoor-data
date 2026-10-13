@@ -1,8 +1,8 @@
 {
   "Id": 88034,
   "CatId": 56,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۲",
+  "Title": "بخش ۱۲ - نامهٔ گودرز به کیخسرو از حال سپاه و تهدید افراسیاب، رسیدن هجیر، نواخت و نیایش شاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۲ - نامهٔ گودرز به کیخسرو از حال سپاه و تهدید افراسیاب، رسیدن هجیر، نواخت و نیایش شاه",
   "FullUrl": "/ferdousi/shahname/12rokh/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,116 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنانی از او در نامه گزارش می‌شود و احتمال لشکرخواهی‌اش مطرح است"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه برای او نوشته و فرستاده می‌شود (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده‌ای که ماجرایش در نامه گزارش می‌شود"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجویی که در نامه از او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجویی که در نامه از او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نبرد با گرزداران توران کاری کرد که در نامه آمده است"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با لشکر به نزدیک آب می‌آید و از گذر او از جیحون بیم است"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با لقب «دیوبند» یاد می‌شود و کردارش در نامه آمده است"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کردار او در نامه گزارش می‌شود (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با صفت «هوشمند» یاد شده و از کردارش خبر می‌خواهند."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان هشیار، پور پهلوان، پیک نامه به نزد شاه"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه است و خسرو از او جویای حال می‌شود."
     }
   ]
 }

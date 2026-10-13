@@ -1,8 +1,8 @@
 {
   "Id": 1373,
   "CatId": 40,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۶",
+  "Title": "بخش ۱۶ - جنگ نخستین سلم و تور با سپاه ایران",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۶ - جنگ نخستین سلم و تور با سپاه ایران",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,35 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهسالار که لشکر را آراست و در جنگ پیروز بود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه دشمن که به فکر شبیخون افتاد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه دشمن که به فکر شبیخون افتاد."
     }
   ]
 }

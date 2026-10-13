@@ -1,8 +1,8 @@
 {
   "Id": 1568,
   "CatId": 60,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۹",
+  "Title": "بخش ۹ - چارهٔ اسفندیار: درآمدن به رویین‌دژ در جامهٔ خرادِ بازارگان و فریفتن ارجاسپ",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۹ - چارهٔ اسفندیار: درآمدن به رویین‌دژ در جامهٔ خرادِ بازارگان و فریفتن ارجاسپ",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2265,6 +2265,62 @@
       "CoupletIndex": 82,
       "SectionIndex1": 0,
       "SectionIndex2": 84
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبد که نقشهٔ ورود به دژ در لباس بازرگان را می‌چیند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نزد اسفندیار می‌رود و در طرح فریب دژ همراه اوست."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهِ دژ؛ بازرگان ساختگی با ارمغان نزد او می‌رود. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام بازرگانی که نزد ارجاسپ آمده است."
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ارجاسپ دربارهٔ خبر او از ایران می‌پرسد."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ارجاسپ در سوگند خود خویشتن را به او مانند می‌کند. (نام در متن: اهرمن)"
     }
   ]
 }

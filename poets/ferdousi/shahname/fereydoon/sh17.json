@@ -1,8 +1,8 @@
 {
   "Id": 1374,
   "CatId": 40,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۷",
+  "Title": "بخش ۱۷ - شبیخون بر سپاه منوچهر و کشته شدن تور",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۷ - شبیخون بر سپاه منوچهر و کشته شدن تور",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,35 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از نقشهٔ شبیخون آگاه می‌شود و کمین می‌نهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپاه به او سپرده می‌شود. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "کشته شدن تور به دست منوچهر"
     }
   ]
 }

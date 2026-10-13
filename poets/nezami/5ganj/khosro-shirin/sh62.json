@@ -2023,5 +2023,70 @@
       "SectionIndex1": 0,
       "SectionIndex2": 75
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرگ او بهانهٔ فرستادن پیام تلخ خسرو به شیرین شد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که با خبر مرگ مریم هم شاد و هم نگران شد و نامه‌ای می‌نویسد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر خسرو که پادشاهی‌اش سر آمد و با زهر درگذشت. (نام در متن: مریم (همسر خسرو))"
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه و تسلی همراه نام مریم آمده است"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه باستانی که تنها‌ماندنش با خورشید سنجیده شده است"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرغ افسانه‌ای بی‌جفت که مخاطب به او مانند شده است"
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 405,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در سوگ یار تسلی می‌یابد و به بقایش دعا می‌شود"
+    }
   ]
 }

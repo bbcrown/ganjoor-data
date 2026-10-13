@@ -1,8 +1,8 @@
 {
   "Id": 1680,
   "CatId": 67,
-  "Title": "بخش ۴۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۱",
+  "Title": "بخش ۴۱ - گذر اسکندر از کوه خارا به دریای ژرف، دیدار گوش‌بستر و آمدن مردم شارستان با پیشکش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۱ - گذر اسکندر از کوه خارا به دریای ژرف، دیدار گوش‌بستر و آمدن مردم شارستان با پیشکش",
   "FullUrl": "/ferdousi/shahname/eskandar/sh41",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -942,6 +942,53 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهسالار لشکر؛ سپاه را به بابل می‌برد و با گوش‌بستر سخن می‌گوید. (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهسالار که لشکر به بابل و سپس به کنار دریا می‌برد"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 286,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد پرموی با گوش‌های بزرگ که شهر کنار دریا را می‌شناسد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): چهرهٔ او بر ایوان‌های شارستان نگاشته شده است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگ‌جوی بزرگ؛ چهرهٔ او بر دیوارهای شارستان نگاشته شده است."
     }
   ]
 }

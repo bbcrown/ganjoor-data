@@ -1,8 +1,8 @@
 {
   "Id": 1716,
   "CatId": 69,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۹",
+  "Title": "بخش ۹ - خردمندی اردشیر: نهادن آیین سپاه و دیوان، گستردن داد و آبادانی کشور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۹ - خردمندی اردشیر: نهادن آیین سپاه و دیوان، گستردن داد و آبادانی کشور",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3534,6 +3534,17 @@
       "CoupletIndex": 129,
       "SectionIndex1": 0,
       "SectionIndex2": 131
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار خردمند که سپاه و دیوان را سامان می‌دهد و به کارداران اندرز می‌دهد."
     }
   ]
 }

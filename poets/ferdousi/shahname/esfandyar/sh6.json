@@ -1,8 +1,8 @@
 {
   "Id": 1580,
   "CatId": 61,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۶",
+  "Title": "بخش ۶ - حرکت اسفندیار، فال ناخجستهٔ شتر و بریدن سرش، اردوزدن کنار هیرمند و رای فرستادن رسول به رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۶ - حرکت اسفندیار، فال ناخجستهٔ شتر و بریدن سرش، اردوزدن کنار هیرمند و رای فرستادن رسول به رستم",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,35 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار لشکر؛ شتر را می‌کشد و در هیرمند فرود می‌آید و از مأموریت رستم سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیر و گرزدار که ایران به او زنده است."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به اسفندیار پاسخ می‌دهد و راه و آزرم مردان را به او یادآور می‌شود."
     }
   ]
 }

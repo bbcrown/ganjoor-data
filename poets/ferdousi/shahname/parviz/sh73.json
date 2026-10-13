@@ -1,8 +1,8 @@
 {
   "Id": 1908,
   "CatId": 88,
-  "Title": "بخش ۷۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۳",
+  "Title": "بخش ۷۳ - بیداد خسرو، نامهٔ گراز به قیصر، فریب شاه در راندن روم و شوریدن سپاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۳ - بیداد خسرو، نامهٔ گراز به قیصر، فریب شاه در راندن روم و شوریدن سپاه",
   "FullUrl": "/ferdousi/shahname/parviz/sh73",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3075,6 +3075,62 @@
       "CoupletIndex": 112,
       "SectionIndex1": 0,
       "SectionIndex2": 114
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهنشاه ایران که بیدادگر شده و گراز از او می‌ترسد (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نزدیک شاه و بارخواه درگاه که از مردم مال می‌ستاند (نام در متن: زاد فرخ)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 478,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کارگزار شاه ستمگر که از مردم مال می‌ستاند و نزد شاه گرامی بود. (نام در متن: زاد فرخ)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 119,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و نگهبان روم که به قیصر نامه نوشت و شاه را برانگیخت"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که به نامهٔ گراز لشکر آورد"
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 609,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شهریار رنجیده و با ده هزار تیغ‌زن در جایی است"
     }
   ]
 }

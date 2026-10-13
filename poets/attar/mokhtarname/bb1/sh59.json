@@ -20,7 +20,7 @@
       "VerseType": "First",
       "RhymeLetters": "انبیشارزد",
       "PlainText": "ملک غم تو هر دو جهان بیش ارزد\r\nدرد تو شفاء جاودان بیش ارزد\r\nمن خاک در توام که خاک در تو\r\nیک ذره به صد هزار جان بیش ارزد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملکِ غم تو هر دو جهان بیش ارزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردِ تو شفاء جاودان بیش ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن خاکِ دَرِ توام، که خاکِ درِ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذره به صد هزار جان بیش ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملکِ غم تو هر دو جهان بیش ارزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردِ تو شفاءِ جاودان بیش ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن خاکِ دَرِ توام، که خاکِ درِ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذره به صد هزار جان بیش ارزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -37,7 +37,7 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "دردِ تو شفاء جاودان بیش ارزد",
+      "Text": "دردِ تو شفاءِ جاودان بیش ارزد",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },

@@ -1,8 +1,8 @@
 {
   "Id": 1442,
   "CatId": 46,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۳",
+  "Title": "بخش ۱۳ - پاسخ گستاخانهٔ شاه مازندران و تصمیم رستم برای بردن پیام تهدیدآمیز",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۳ - پاسخ گستاخانهٔ شاه مازندران و تصمیم رستم برای بردن پیام تهدیدآمیز",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,44 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ رستم را فرا می‌خواند و دستور نوشتن نامه می‌دهد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ ایرانیان که پاسخ را می‌آورد و گزارش گفتگو را به کاووس می‌دهد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایران که می‌خواهد پیام‌آور شود و نامه‌ای تند بفرستد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که در نفرین نامه نام او آمده است."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1758,
   "CatId": 82,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۶",
+  "Title": "بخش ۶ - بازگشت بهرام به استخر، گلایهٔ پنهان از پدر و پند منذر به شکیبایی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۶ - بازگشت بهرام به استخر، گلایهٔ پنهان از پدر و پند منذر به شکیبایی",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1644,6 +1644,26 @@
       "CoupletIndex": 59,
       "SectionIndex1": 0,
       "SectionIndex2": 61
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه‌زاده‌ای که نزد منذر بود و بعد نزد پدر بازگشت و از شاه گله کرد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بهرام که او را نزد شاه آورد و پیام‌رسان نامه‌ها شد."
     }
   ]
 }

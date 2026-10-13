@@ -1,8 +1,8 @@
 {
   "Id": 88093,
   "CatId": 57,
-  "Title": "بخش ۳۴",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۴",
+  "Title": "بخش ۳۴ - پند زال به کیخسرو: نکوهش رای دیو و زنهار از رفتن فرّ و تخت شاهی",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۴ - پند زال به کیخسرو: نکوهش رای دیو و زنهار از رفتن فرّ و تخت شاهی",
   "FullUrl": "/ferdousi/shahname/mahmood/sh34",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,62 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیر و جهان‌دیده که شاه را اندرز می‌دهد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه یزدان‌پرست پیشین که به کار نادرست دست نبرد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه یزدان‌پرست پیشین که به کار نادرست دست نبرد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تورانی شاه."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاه که خواست از آسمان بگذرد و نگون شد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی بدکنش که گرویدن به او هشدار داده شده است. (نام در متن: آهرمن)"
     }
   ]
 }

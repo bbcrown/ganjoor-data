@@ -1,8 +1,8 @@
 {
   "Id": 52174,
   "CatId": 87,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۷",
+  "Title": "بخش ۷ - شبیخون بهرام بر سپاه پرموده، گریختن خاقان به دز و زینهار خواستن از پیروزشاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۷ - شبیخون بهرام بر سپاه پرموده، گریختن خاقان به دز و زینهار خواستن از پیروزشاه",
   "FullUrl": "/ferdousi/shahname/hormozd/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4317,6 +4317,89 @@
       "CoupletIndex": 158,
       "SectionIndex1": 0,
       "SectionIndex2": 160
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایران؛ باغ را ترک می‌کند و شبیخون می‌زند. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 509,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ترکان که از بهرام می‌گریزد و فرزند ساوه‌شاه است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یلی که بهرام به او فرمان می‌دهد در دیوار باغ رخنه کند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بهرام هنگام بیرون رفتن از باغ. (نام در متن: ایزد گشسب)"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 424,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سرش بریده شد؛ پرموده یادگار اوست."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 447,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که فرمان یافت سه هزار سوار از جنگیان برگزیند."
+    },
+    {
+      "CoupletIndex": 106,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بلندمرتبه که نامه به نزد او می‌رود و ایرانیان را می‌خواند."
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 615,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که به پیام بهرام پاسخ می‌دهد و زینهار می‌خواهد"
+    },
+    {
+      "CoupletIndex": 127,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در نامه آمده و در پناه گوینده است (نام در متن: بهرمزد)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87997,
   "CatId": 53,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۴",
+  "Title": "بخش ۴ - پیران نزد رستم: گله از خون سیاوش و پیشنهاد آشتی، لاف شنگل و صف‌آرایی دو سپاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۴ - پیران نزد رستم: گله از خون سیاوش و پیشنهاد آشتی، لاف شنگل و صف‌آرایی دو سپاه",
   "FullUrl": "/ferdousi/shahname/khaghan/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -7692,6 +7692,350 @@
       "CoupletIndex": 283,
       "SectionIndex1": 0,
       "SectionIndex2": 285
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلی که با پیران گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار که به دیدار رستم می‌آید و از رنج و دشواری خود می‌گوید."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که پیران را به دیدار فراخوانده است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که پیران از فرمان و جنگ‌آوری او نگران است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که پیران او را پنهانی در خانه نگه داشته است."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خسروان یادگار مانده و حال او پرسیده می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان رستم که حال او پرسیده می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان رستم که حال او پرسیده می‌شود."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیران را چون پدر می‌داشت و او را از بدی‌ها پناه می‌داد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 154,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تخمهٔ ترکان که کشته شده و مایهٔ اندوه گوینده است"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تورانی که گودرز از آنان دردمند است"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از ایرانیان که از هومان و همراهانش آزرده است"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تورانی که گودرز از آنان دردمند است"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که پیران می‌خواهد با او سخن گوید"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 389,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان که پیران می‌خواهد با او سخن گوید"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران لشکر که پیران می‌خواهد به او خبر دهد."
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای رستم که تبار او به وی می‌رسد (نام در متن: نیرم)"
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که در شمار سواران جنگی ایران آمده است."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که همراه گودرز، گیو و طوس نام برده شده است."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که در شمار سواران جنگی ایران آمده است."
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران توران که گوینده برای او دل‌نگران است."
+    },
+    {
+      "CoupletIndex": 98,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که خویشانش برای او دادخواهی و کینه‌خواهی می‌کنند."
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 67,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کم‌خرد که به فرمان او سیاوش کشته شد."
+    },
+    {
+      "CoupletIndex": 149,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ترک همراه پیران."
+    },
+    {
+      "CoupletIndex": 149,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ترک همراه پیران."
+    },
+    {
+      "CoupletIndex": 163,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که رستم فراخوانده است."
+    },
+    {
+      "CoupletIndex": 163,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که رستم فراخوانده است؛ نیو خوانده شده."
+    },
+    {
+      "CoupletIndex": 163,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که رستم فراخوانده است."
+    },
+    {
+      "CoupletIndex": 163,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که رستم فراخوانده است."
+    },
+    {
+      "CoupletIndex": 164,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار کارآزموده در جمع پهلوانان."
+    },
+    {
+      "CoupletIndex": 164,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان فروزندهٔ کارزار در جمع پهلوانان."
+    },
+    {
+      "CoupletIndex": 174,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه فرنگیس رهایی یافت؛ در خواب افراسیاب به دست او کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 218,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تنها برای مقایسه با بدی گوینده آمده است."
+    },
+    {
+      "CoupletIndex": 237,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرز رستم به او نسبت داده شده است."
+    },
+    {
+      "CoupletIndex": 249,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر طوس"
+    },
+    {
+      "CoupletIndex": 251,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده قلب سپاه توران با پیلان بسیار"
+    },
+    {
+      "CoupletIndex": 252,
+      "PersonId": 544,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار دلاور شیرگیر در میمنهٔ سپاه توران"
+    },
+    {
+      "CoupletIndex": 253,
+      "PersonId": 538,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگ‌دیده‌ای که در میسرهٔ سپاه توران است."
     }
   ]
 }

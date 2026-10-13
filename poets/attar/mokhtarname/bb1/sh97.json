@@ -20,7 +20,7 @@
       "VerseType": "First",
       "RhymeLetters": "ارانهست",
       "PlainText": "یا رب جان را بیم گنه کاران هست\r\nدل را شب و روز ماتم یاران هست\r\nگفتی که به بیچارگی و عجز درآی\r\nبیچارگی و عجز به خرواران هست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب جان را بیم گنه کاران هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را شب و روز ماتم یاران هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که به بیچارگی و عجز درآی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچارگی و عجز به خرواران هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب جان را بیم گنه‌کاران هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را شب و روز ماتم یاران هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که به بیچارگی و عجز درآی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچارگی و عجز به خرواران هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "یا رب جان را بیم گنه کاران هست",
+      "Text": "یا رب جان را بیم گنه‌کاران هست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: ای پروردگار، جانم از گناهکاران ترس دارد و دل من همیشه به خاطر از دست دادن دوستانم غمگین است."

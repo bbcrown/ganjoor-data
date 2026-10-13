@@ -1,8 +1,8 @@
 {
   "Id": 1710,
   "CatId": 69,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۳",
+  "Title": "بخش ۳ - چارهٔ موبد در رهانیدن ماهروی از کشتن، بریدن خایه و سپردن حقهٔ زینهار به اردشیر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۳ - چارهٔ موبد در رهانیدن ماهروی از کشتن، بریدن خایه و سپردن حقهٔ زینهار به اردشیر",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,17 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی بی‌پسر که فرمان کشتن ماه را داده است."
     }
   ]
 }

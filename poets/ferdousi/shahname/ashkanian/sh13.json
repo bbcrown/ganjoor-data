@@ -1,8 +1,8 @@
 {
   "Id": 1699,
   "CatId": 68,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۳",
+  "Title": "بخش ۱۳ - شکست اردشیر در رزم کردان، پناه شبانه نزد شبانان و گزینش سی‌هزار سوار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۳ - شکست اردشیر در رزم کردان، پناه شبانه نزد شبانان و گزینش سی‌هزار سوار",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,17 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که پس از شکست در جنگ، به سوی شبانان و ده پناه می‌برد و لشکر گرد می‌آورد."
     }
   ]
 }

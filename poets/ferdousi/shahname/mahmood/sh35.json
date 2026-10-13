@@ -1,8 +1,8 @@
 {
   "Id": 88094,
   "CatId": 57,
-  "Title": "بخش ۳۵",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۵",
+  "Title": "بخش ۳۵ - پاسخ کیخسرو به زال: دفاع از نژاد و کین پدر، بیم دوزخ و عزم ترک تخت",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۵ - پاسخ کیخسرو به زال: دفاع از نژاد و کین پدر، بیم دوزخ و عزم ترک تخت",
   "FullUrl": "/ferdousi/shahname/mahmood/sh35",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,116 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران و گوینده؛ پاسخ زال را می‌دهد و از تخت‌ودیهیم خسته است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده و جهاندیده که با کیخسرو سخن می‌گوید و او را سرزنش می‌کند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که درد و رنج او دستاویز زال برای ماندن کیخسرو است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر کیخسرو که کیخسرو کین او را خواسته است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای کیخسرو؛ به ساختن صندوق و گم‌کردن پایگاه اشاره می‌شود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تخمهٔ مادری کیخسرو؛ ایرانیان از او می‌ترسیدند."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای کیخسرو که نبیرهٔ او به شمار می‌آید."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نسب کیخسرو یاد می‌شود و جنگ با او اشاره شده است."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که کیخسرو بیم دارد چون او پایگاهش را از دست بدهد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستمگر ناپاک که جهان از جور او به تنگ آمد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیری که جهان از ستم او سیر شد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 142,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که کیخسرو با او جنگیده است."
     }
   ]
 }

@@ -47,7 +47,7 @@
       "Text": "ما در پیاله عکس رخِ یار دیده‌ایم",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "CoupletSummary": "ما در پیاله (جهان) چهره یار (خداوند)را دیده ایم( یعنی به هر چه نگاه میکنیم به شکلی تصویر خداوند را میبینیم) ای بی خبر از این لذت وصل همیشگی و. لذت رحظه لحظه ما از زندگی"
+      "CoupletSummary": "ما در پیاله (جهان) چهره یار را دیده ایم، ای بی خبر از این لذت وصل همیشگی و. لذت رحظه لحظه ما از زندگی"
     },
     {
       "VOrder": 4,
@@ -175,6 +175,16 @@
       "Text": "هستند غرقِ نعمتِ حاجی‌قوامِ ما",
       "CoupletIndex": 9,
       "SectionIndex1": 0
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 689,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

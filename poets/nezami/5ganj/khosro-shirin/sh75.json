@@ -2077,5 +2077,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 77
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیباروی خلخی که زمین را می‌بوسد و به شاه پاسخ می‌دهد. (نام در متن: شمسهٔ خوبان خلخ)"
+    }
   ]
 }

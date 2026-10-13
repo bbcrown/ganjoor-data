@@ -1,8 +1,8 @@
 {
   "Id": 1512,
   "CatId": 58,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۳",
+  "Title": "بخش ۳ - رفتن گشتاسپ به کابل، بازگرداندن زریر، جشن آشتی با لهراسپ و گله از تاج کاوسیان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۳ - رفتن گشتاسپ به کابل، بازگرداندن زریر، جشن آشتی با لهراسپ و گله از تاج کاوسیان",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,44 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای خشمگین که از پدر رنجیده و با برادر و لشکریان دیدار می‌کند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و برادر گشتاسپ که با سپاه نزد او می‌آید."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در طالع گشتاسپ به او همانند دانسته شده است."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر گشتاسپ که به پیشواز او می‌رود."
     }
   ]
 }

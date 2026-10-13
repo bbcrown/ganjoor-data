@@ -1,8 +1,8 @@
 {
   "Id": 88006,
   "CatId": 53,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۳",
+  "Title": "بخش ۱۳ - آگاهی افراسیاب از شکست کاموس و خاقان چین، انجمن موبدان و خلعت رستم در سغد",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۳ - آگاهی افراسیاب از شکست کاموس و خاقان چین، انجمن موبدان و خلعت رستم در سغد",
   "FullUrl": "/ferdousi/shahname/khaghan/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1212,6 +1212,80 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه توران که از شکست سپاه نگران می‌شود و با بزرگان مشورت می‌کند"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه توران که در جنگ با ایرانیان شکست خورده است"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه توران که در جنگ شکست خورده است"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران لشکر توران که در جنگ شکست خورده است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با گروهی نامدار از این سوی به راه ختن می‌رود"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و پیشرو سپاه که تورانیان از او می‌ترسند"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 100,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که رستم در گذشته با او جنگیده است."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نزد رستم می‌رسد و خلعت شهریار را به او می‌رساند"
     }
   ]
 }

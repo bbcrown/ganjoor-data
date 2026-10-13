@@ -1,8 +1,8 @@
 {
   "Id": 1754,
   "CatId": 82,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۲",
+  "Title": "بخش ۲ - زادن بهرام، پیشگویی شهریاری هفت کشور و آمدن نعمان و منذر برای پرورش او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۲ - زادن بهرام، پیشگویی شهریاری هفت کشور و آمدن نعمان و منذر برای پرورش او",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,62 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر بهرام؛ برای پرورش فرزندش دانایان را گرد می‌آورد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر تازه‌زادهٔ شاه که ستاره‌شمران برای او شهریاری پیش‌بینی می‌کنند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 12,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستاره‌شمر هندی، مایه‌ور و بافر، سرور هندوان."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 324,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستاره‌شمر پارسی و دانا که بر آسمان چیره بود."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران عرب که شبانه نزد شاه می‌رود."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران عرب که همراه نعمان می‌رود."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1592,
   "CatId": 61,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۸",
+  "Title": "بخش ۱۸ - مفاخرهٔ رستم با اسفندیار: یاد هفت‌خوان و هاماوران، زورآزمایی دست و وعدهٔ نبرد",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۸ - مفاخرهٔ رستم با اسفندیار: یاد هفت‌خوان و هاماوران، زورآزمایی دست و وعدهٔ نبرد",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1698,6 +1698,134 @@
       "CoupletIndex": 61,
       "SectionIndex1": 0,
       "SectionIndex2": 63
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان گوینده که کارهای گذشتهٔ خود را برای اسفندیار بازمی‌گوید."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گشتاسپ؛ مخاطب رستم و گفت‌وگو با اوست."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 73,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بندیان مازندران که رستم او را رها کرد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در بند بود و رستم او را رها کرد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بندیان مازندران که رستم او را رها کرد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم دل و مغزش را کند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بندیان که رستم او را از بند آورد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در زمان رویدادهای یادشده در ایران بود و جهان را پر از درد کرد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند کاوس و پدر کیخسرو. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی پاک و راد که لهراسپ را بر تخت نشاند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کیخسرو تاج را به او سپرد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر اسفندیار."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم وعده می‌دهد اسفندیار را به نزد او ببرد."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که رستم از او یاد می‌کند و جانش را شاد می‌خواهد."
     }
   ]
 }

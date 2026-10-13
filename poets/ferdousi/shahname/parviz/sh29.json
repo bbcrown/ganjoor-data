@@ -1,8 +1,8 @@
 {
   "Id": 1864,
   "CatId": 88,
-  "Title": "بخش ۲۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۹",
+  "Title": "بخش ۲۹ - نامهٔ پنهانی بهرام به مهتران، خیانت فرستاده و پاسخ فریبندهٔ خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۹ - نامهٔ پنهانی بهرام به مهتران، خیانت فرستاده و پاسخ فریبندهٔ خسرو",
   "FullUrl": "/ferdousi/shahname/parviz/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,125 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای که نامه‌هایی به مهتران می‌نویسد و خسرو او را دشمن می‌داند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 446,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد نامجو و دانا از لشکر که نیک‌خواه بهرام بود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران نامدار که نامه به او نوشته می‌شود. (نام در متن: بگستهم)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران نامدار که نامه به او نوشته می‌شود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران نامدار که نامه به او نوشته می‌شود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یلان نامدار که نامه به او نوشته می‌شود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار و یل نامدار که نامه به او نوشته می‌شود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 377,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تبار بابک؛ با شمشیرش جهان دگرگون شد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 291,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران پیشین که نامه از او آغاز سخن می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 330,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی با اندیشهٔ ناپاک که با سوفزای بدرفتاری کرد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 401,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد نامور که پیروز بدخواهانه با او رفتار کرد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از بند رها شد و بدخواه خوانده شده است."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب نامه و فرستندهٔ نامه‌ها؛ سپاهی دارد و نامه برای او فرستاده می‌شود."
     }
   ]
 }

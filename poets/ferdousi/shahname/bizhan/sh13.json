@@ -1,8 +1,8 @@
 {
   "Id": 88022,
   "CatId": 55,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۳",
+  "Title": "بخش ۱۳ - لشکرکشی افراسیاب بر رستم، آرایش رزم و گریز شاه توران با هزار اسیر",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۳ - لشکرکشی افراسیاب بر رستم، آرایش رزم و گریز شاه توران با هزار اسیر",
   "FullUrl": "/ferdousi/shahname/bizhan/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2130,6 +2130,143 @@
       "CoupletIndex": 77,
       "SectionIndex1": 0,
       "SectionIndex2": 79
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که سپاه را برای جنگ با رستم آماده می‌کند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 165,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کردار او مایهٔ ننگ و انگیزهٔ جنگ نزد تورانیان است؛ بعد در قلب سپاه ایران است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): افراسیاب فرمان بستن کوس را به او می‌دهد و چپ لشکر را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار سپاه ایران که لشکر را آراسته می‌کند و بر افراسیاب فریاد می‌زند."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 547,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بنه و بار با او به جای امن فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در میمنهٔ سپاه رستم."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی در میمنهٔ سپاه"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در میسرهٔ سپاه."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در میسرهٔ سپاه. (نام در متن: زنگه)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 620,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پشت لشکر ایران ایستاده است"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): افراسیاب جناح راست لشکر توران را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه شیده، فرماندهٔ قلب سپاه توران."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گرسیوز، فرماندهٔ قلب سپاه توران."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که همراه رهام و فرهاد به چپ لشکر توران حمله می‌کند."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که همراه گرگین و رهام به چپ لشکر توران می‌تازد."
     }
   ]
 }

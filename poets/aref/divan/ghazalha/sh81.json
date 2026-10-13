@@ -172,5 +172,28 @@
       "CoupletIndex": 9,
       "SectionIndex1": 0
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "LocationId": 13,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 7,
+      "LocationId": 8654,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 9,
+      "LocationId": 19,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1668,
   "CatId": 67,
-  "Title": "بخش ۲۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۹",
+  "Title": "بخش ۲۹ - پند فیلسوف بر سکندر، فروبردن کشتی به کام ماهی کوهسان و جنگ با شیران نیستان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۹ - پند فیلسوف بر سکندر، فروبردن کشتی به کام ماهی کوهسان و جنگ با شیران نیستان",
   "FullUrl": "/ferdousi/shahname/eskandar/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,17 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و فرمانده سپاه که در راه با دریا و شگفتی‌ها روبه‌رو می‌شود"
     }
   ]
 }

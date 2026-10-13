@@ -1,8 +1,8 @@
 {
   "Id": 1809,
   "CatId": 83,
-  "Title": "بخش ۴۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۰",
+  "Title": "بخش ۴۰ - تعقیب شنگل تا کنار دریا، نکوهش سپینود، آشتی با بهرام و سوگند وفای دو شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۰ - تعقیب شنگل تا کنار دریا، نکوهش سپینود، آشتی با بهرام و سوگند وفای دو شاه",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh40",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,26 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 393,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه ایرانیان که به گفتهٔ پیک، دختر شاه را برده‌اند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهنشاه ایران و توران، پهلوانی دلیر که با شنگل گفتگو و آشتی می‌کند."
     }
   ]
 }

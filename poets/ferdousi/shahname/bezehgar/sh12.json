@@ -1,8 +1,8 @@
 {
   "Id": 1764,
   "CatId": 82,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۲",
+  "Title": "بخش ۱۲ - فرستادن جوانوی نزد منذر، خیرگی از دیدار بهرام گور و اندرز آشتی بی‌جنگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۲ - فرستادن جوانوی نزد منذر، خیرگی از دیدار بهرام گور و اندرز آشتی بی‌جنگ",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1428,6 +1428,35 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 333,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر سخن‌گوی و فرستادهٔ ایرانیان نزد منذر و بهرام"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه عرب که ایرانیان پیام و نامه را به نزد او می‌فرستند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و شاه بلندبالا که فرستاده را می‌پذیرد و به او پاسخ می‌دهد. (نام در متن: بهرام)"
     }
   ]
 }

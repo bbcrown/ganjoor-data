@@ -45,9 +45,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "کی",
-      "PlainText": "آید اشکالی در این باب اندکی\r\nبر کسی کش نیست آگاهی یکی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآید اشکالی در این باب اندکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کسی کش نیست آگاهی یکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ستگی",
+      "PlainText": "با پیمبر بودشان پیوستگی\r\nبعد از آن کز جنگشان بد خستگی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا پیمبر بودشان پیوستگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعد از آن کز جنگشان بُد خستگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -55,19 +55,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ستگی",
-      "PlainText": "با پیمبر بودشان پیوستگی\r\nبعد از آن کز جنگشان بد خستگی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا پیمبر بودشان پیوستگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعد از آن کز جنگشان بُد خستگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "لال",
-      "PlainText": "وآنکه احسان کرد و پرهیز از ضلال\r\nمزد او باشد بزرگ از ذوالجلال",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنکه احسان کرد و پرهیز از ضلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمزد او باشد بزرگ از ذوالجلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "کی",
+      "PlainText": "آید اشکالی در این باب اندکی\r\nبر کسی کش نیست آگاهی یکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآید اشکالی در این باب اندکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کسی کش نیست آگاهی یکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -81,13 +71,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "خواست یعنی بود عالم حق بر آن\r\nنی که خواهد بهر مخلوقی زیان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواست یعنی بود عالِم، حق بر آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی که خواهد بهر مخلوقی زیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "لال",
+      "PlainText": "وآنکه احسان کرد و پرهیز از ضلال\r\nمزد او باشد بزرگ از ذوالجلال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنکه احسان کرد و پرهیز از ضلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمزد او باشد بزرگ از ذوالجلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -98,6 +88,16 @@
       "RhymeLetters": "ان",
       "PlainText": "گفت ایشان را همانا مردمان\r\nمجتمع شد بر شما ناس ای مهان",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت ایشان را همانا مردمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمجتمع شد بر شما ناس ای مهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "خواست یعنی بود عالم حق بر آن\r\nنی که خواهد بهر مخلوقی زیان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواست یعنی بود عالِم، حق بر آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی که خواهد بهر مخلوقی زیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -305,9 +305,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "شدند",
-      "PlainText": "تابع خوشنودی ایزد شدند\r\nدر شداید ناصر احمدص شدند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتابع خوشنودی ایزد شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شداید ناصر احمد(ص) شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رند",
+      "PlainText": "کفر را آنانکه بر ایمان خرند\r\nروزگار خود به باطل می برند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکفر را آنانکه بر ایمان خرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزگار خود به باطل می برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -315,19 +315,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رند",
-      "PlainText": "کفر را آنانکه بر ایمان خرند\r\nروزگار خود به باطل می برند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکفر را آنانکه بر ایمان خرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزگار خود به باطل می برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 17,
-      "Number": 17,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "رر",
-      "PlainText": "چیزی از آن بر خدا نارد ضرر\r\nبلکه ایشان را عذاب است و شرر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیزی از آن بر خدا نارد ضرر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه ایشان را عذاب است و شرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "شدند",
+      "PlainText": "تابع خوشنودی ایزد شدند\r\nدر شداید ناصر احمدص شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتابع خوشنودی ایزد شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شداید ناصر احمد(ص) شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -341,13 +331,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 18,
-      "Number": 18,
+      "Index": 17,
+      "Number": 17,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "نشان",
-      "PlainText": "یعنی اندر علم حق ایمانشان\r\nبود ثابت و اعتلاء و شأنشان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی اندر علم حق ایمانشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود ثابت و اعتلاء و شأنشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رر",
+      "PlainText": "چیزی از آن بر خدا نارد ضرر\r\nبلکه ایشان را عذاب است و شرر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیزی از آن بر خدا نارد ضرر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه ایشان را عذاب است و شرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -361,13 +351,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 19,
-      "Number": 19,
+      "Index": 18,
+      "Number": 18,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "راست",
-      "PlainText": "یا که مهلت بهر ایشان بهتر است\r\nبلکه این مهلت عذاب و کیفر است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که مهلت بهر ایشان بهتر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه این مهلت عذاب و کیفر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "نشان",
+      "PlainText": "یعنی اندر علم حق ایمانشان\r\nبود ثابت و اعتلاء و شأنشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی اندر علم حق ایمانشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود ثابت و اعتلاء و شأنشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -381,13 +371,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 20,
-      "Number": 20,
+      "Index": 19,
+      "Number": 19,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یاند",
-      "PlainText": "یعنی آنان را که همجنس وی اند\r\nدر نفاق و بددلی محکم پی اند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی آنان را که همجنس وی اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نفاق و بَددلی محکم پی اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "راست",
+      "PlainText": "یا که مهلت بهر ایشان بهتر است\r\nبلکه این مهلت عذاب و کیفر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا که مهلت بهر ایشان بهتر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه این مهلت عذاب و کیفر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -401,13 +391,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 21,
-      "Number": 21,
+      "Index": 20,
+      "Number": 20,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "شاست",
-      "PlainText": "عمر بیش ار باشد از دانش خوش است\r\nور نه هر آنش جحیم و آتش است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر بیش ار باشد از دانش خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه هر آنش جحیم و آتش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یاند",
+      "PlainText": "یعنی آنان را که همجنس وی اند\r\nدر نفاق و بددلی محکم پی اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی آنان را که همجنس وی اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نفاق و بَددلی محکم پی اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -421,13 +411,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 22,
-      "Number": 22,
+      "Index": 21,
+      "Number": 21,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "باست",
-      "PlainText": "آنکه ترسد از خدا او غالب است\r\nکی ز تخویف شیاطین هارب است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه ترسد از خدا او غالب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی ز تخویف شیاطین هارب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "شاست",
+      "PlainText": "عمر بیش ار باشد از دانش خوش است\r\nور نه هر آنش جحیم و آتش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر بیش ار باشد از دانش خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه هر آنش جحیم و آتش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -441,13 +431,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 23,
-      "Number": 23,
+      "Index": 22,
+      "Number": 22,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "لی",
-      "PlainText": "یعنی از شرک و نفاق و بددلی\r\nکه شمایید اندر آن از جاهلی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی از شرک و نفاق و بَددلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شمایید اندر آن از جاهلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "باست",
+      "PlainText": "آنکه ترسد از خدا او غالب است\r\nکی ز تخویف شیاطین هارب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه ترسد از خدا او غالب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی ز تخویف شیاطین هارب است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -461,13 +451,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 24,
-      "Number": 24,
+      "Index": 23,
+      "Number": 23,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "زآنکه چیزی بر خدا ناید زیان\r\nاز نفاق و کفر و کین این و آن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه چیزی بر خدا ناید زیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نفاق و کفر و کین این و آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "لی",
+      "PlainText": "یعنی از شرک و نفاق و بددلی\r\nکه شمایید اندر آن از جاهلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی از شرک و نفاق و بَددلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شمایید اندر آن از جاهلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -481,13 +471,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 25,
-      "Number": 25,
+      "Index": 24,
+      "Number": 24,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یب",
-      "PlainText": "تا شناسید آن هنرها را ز عیب\r\nنیک و بد را بنگرید از چشم غیب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شناسید آن هنرها را ز عیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیک و بد را بنگرید از چشم غیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "زآنکه چیزی بر خدا ناید زیان\r\nاز نفاق و کفر و کین این و آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه چیزی بر خدا ناید زیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نفاق و کفر و کین این و آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -498,6 +488,16 @@
       "RhymeLetters": "رت",
       "PlainText": "خواست حق تا نبود اندر مقدرت\r\nبهر ایشان بهره ای در آخرت",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواست حق تا نبود اندر مقدرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر ایشان بهره ای در آخرت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یب",
+      "PlainText": "تا شناسید آن هنرها را ز عیب\r\nنیک و بد را بنگرید از چشم غیب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شناسید آن هنرها را ز عیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیک و بد را بنگرید از چشم غیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

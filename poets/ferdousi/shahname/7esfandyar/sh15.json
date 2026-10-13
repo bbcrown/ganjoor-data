@@ -1,8 +1,8 @@
 {
   "Id": 1574,
   "CatId": 60,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۵",
+  "Title": "بخش ۱۵ - سوزاندن رویین‌دژ، آوردن گنج و اسیران ارجاسپ و جشن بازگشت اسفندیار نزد گشتاسپ",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۵ - سوزاندن رویین‌دژ، آوردن گنج و اسیران ارجاسپ و جشن بازگشت اسفندیار نزد گشتاسپ",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1607,6 +1607,35 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 59
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که گنج ارجاسپ را می‌گیرد و پیروز به ایران بازمی‌گردد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که گنج و دارایی‌اش به دست اسفندیار می‌افتد. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران و پدر اسفندیار که به پیشواز او می‌رود."
     }
   ]
 }

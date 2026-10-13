@@ -1,8 +1,8 @@
 {
   "Id": 88082,
   "CatId": 57,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۳",
+  "Title": "بخش ۲۳ - بازگشت کیخسرو از بلخ، دیدار با کاووس و نیایش دو شاه در آذرگشسب",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۳ - بازگشت کیخسرو از بلخ، دیدار با کاووس و نیایش دو شاه در آذرگشسب",
   "FullUrl": "/ferdousi/shahname/mahmood/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1914,6 +1914,62 @@
       "CoupletIndex": 69,
       "SectionIndex1": 0,
       "SectionIndex2": 71
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیر و نیای شاه نو که به پیشواز او می‌آید (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که برای مقایسه با شاه نو آمده"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که برای مقایسه با شاه نو آمده"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن ستایش‌آمیز شاه به‌صورت فرضی یاد می‌شود (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و نبیرهٔ کاووس؛ از نیا چاره می‌جوید و در آتشکده نیایش می‌کند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که نشانی از او نیافته‌اند و از بازگشتش بیم دارند."
     }
   ]
 }

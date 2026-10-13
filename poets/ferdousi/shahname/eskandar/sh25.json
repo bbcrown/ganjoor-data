@@ -1,8 +1,8 @@
 {
   "Id": 1664,
   "CatId": 67,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۵",
+  "Title": "بخش ۲۵ - بار یافتن اسکندر نزد قیدافه، شفاعت پسر کهتر و پیام باژ و تهدید سپاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۵ - بار یافتن اسکندر نزد قیدافه، شفاعت پسر کهتر و پیام باژ و تهدید سپاه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,44 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه‌بانو و مادر دو پسر که با سکندر گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 274,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو فرزند قیدافه که در پیش مادر ایستاده است."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 277,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو فرزند قیدافه که اسپ‌افگن خوانده شده است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 276,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر از مادر می‌خواهد او را شاد و خشنود بدرقه کند."
     }
   ]
 }

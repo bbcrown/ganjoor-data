@@ -1,8 +1,8 @@
 {
   "Id": 1493,
   "CatId": 49,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۴",
+  "Title": "بخش ۱۴ - خبر قتل سیاوش، سوگ کاووس و رستم، کشتن سودابه و آغاز کین با سر بریدن ورازاد و سرخه",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۴ - خبر قتل سیاوش، سوگ کاووس و رستم، کشتن سودابه و آغاز کین با سر بریدن ورازاد و سرخه",
   "FullUrl": "/ferdousi/shahname/siavosh/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4749,6 +4749,197 @@
       "CoupletIndex": 174,
       "SectionIndex1": 0,
       "SectionIndex2": 176
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ با شنیدن خبر مرگ سیاوش سوگوار می‌شود و به سرزنش رستم گوش می‌دهد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بی‌گناه کشته می‌شود و ایرانیان و پهلوانان برای او سوگوارند. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی سوگوار سیاوش."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی سوگوار سیاوش."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی سوگوار سیاوش."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر ایرانی در سوگ سیاوش."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی سوگوار سیاوش."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی سوگوار سیاوش."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نیمروز خبر را می‌شنود، با سپاه نزد کاووس می‌آید و سودابه را می‌کشد. (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شنیدن خبر سوگوار می‌شود و خاک بر سر می‌ریزد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به باور تهمتن مایهٔ تباهی سیاوش است؛ تهمتن او را با خنجر می‌کشد."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در درگاه."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در درگاه."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان حاضر در درگاه."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان حاضر در درگاه که به شیر درنده مانند شده است."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر که به اژدها مانند شده است."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر رستم و پیشرو سپاه و سالار نو."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که جهان از کین او پر شده است."
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 161,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپیجاب با سی هزار سپاه که با فرامرز روبه‌رو می‌شود."
+    },
+    {
+      "CoupletIndex": 119,
+      "PersonId": 162,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی و فرزند افراسیاب که فرامرز او را اسیر می‌کند."
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تشت و خنجر را می‌برد و به روزبانان می‌سپارد"
     }
   ]
 }

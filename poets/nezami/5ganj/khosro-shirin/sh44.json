@@ -1780,5 +1780,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 66
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 14,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوق از دست‌رفتهٔ شاه که یادش او را غمگین می‌کند"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سوگند به خدا به جایگاه بلند او اشاره شده است"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 688,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سوگند به نگهدارندهٔ او یاد شده است"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به جایگاه او در مقایسه با اندوه اشاره شده است"
+    }
   ]
 }

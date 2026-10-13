@@ -1,8 +1,8 @@
 {
   "Id": 1771,
   "CatId": 83,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲",
+  "Title": "بخش ۲ - بخشایش بهرام به پایمردی منذر، سپردن سپاه به نرسی، سوختن دیوان خراج و منادی داد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲ - بخشایش بهرام به پایمردی منذر، سپردن سپاه به نرسی، سوختن دیوان خراج و منادی داد",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1563,6 +1563,80 @@
       "CoupletIndex": 56,
       "SectionIndex1": 0,
       "SectionIndex2": 58
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): میانجی بزرگان نزد شاه که از او بخشش و هدیه می‌گیرد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سران از او ستوه بودند و سپس بخشش کرد و ستوده شد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 323,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که بدگفتار و بیدادگر بود و مردم را رانده بود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه منذر که شاه به او خلعت و هدیه می‌بخشد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 333,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کارگزار شاه که هدایا را می‌شمارد و با گشسپ دبیر همکار است"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر کهتر شاه که پهلوان و سپهدار لشکر شد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 328,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر دانا که شاه او را فرا می‌خواند"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 336,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که دبیران برای حساب درم نزد او رفتند."
     }
   ]
 }

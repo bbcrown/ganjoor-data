@@ -1,8 +1,8 @@
 {
   "Id": 88042,
   "CatId": 56,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۰",
+  "Title": "بخش ۲۰ - گزینش ده سوار ایران و توران، جفت شدن رزم‌خواهان، سوگند کین و آغاز کارزار خونین",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۰ - گزینش ده سوار ایران و توران، جفت شدن رزم‌خواهان، سوگند کین و آغاز کارزار خونین",
   "FullUrl": "/ferdousi/shahname/12rokh/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,233 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سواران ایران؛ در نبرد تن‌به‌تن با گروی نهاده می‌شود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 155,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار تورانی؛ همتای گیو در نبرد و مورد نفرین شاه به سبب کشتن سیاوش."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به دست گروی کشته شد؛ ریشش گرفته و سرش بریده شد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 65,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در برابر کلباد به آوردگاه رفت."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی؛ به نبرد با فریبرز می‌رود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریبرز. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ به نبرد با کلباد می‌رود."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی؛ حریف رهام در نبرد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ با بارمان به نبرد می‌رود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 2,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی؛ حریف گرازه در جنگ."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ با سیامک می‌جنگد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار کارآزموده؛ با اندریمان کارزار می‌کند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 146,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی؛ حریف گرگین در نبرد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی؛ حریف بیژن در جنگ."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی، پسر گیو؛ در نبرد با رویین."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ با حریف تورانی خود نبرد می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاوران؛ حریف برته در نبرد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 518,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاوران که با کهرم رزم کرد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 552,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از میان سپاه تاخت."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 559,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که به میدان نبرد تاختند."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیری که چون شیر به رزمگاه آمد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 140,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیری که چون شیر به رزمگاه آمد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گودرز."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی؛ سوگند می‌خورد و نشان پیروزی تعیین می‌کند."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد تورانی؛ سوگند می‌خورد و نشان پیروزی تعیین می‌کند."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1806,
   "CatId": 83,
-  "Title": "بخش ۳۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۷",
+  "Title": "بخش ۳۷ - رای شنگل بر کشتن نهانی بهرام، پند فرزانه، پیوند با سپینود و بزم هند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۷ - رای شنگل بر کشتن نهانی بهرام، پند فرزانه، پیوند با سپینود و بزم هند",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh37",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1158,6 +1158,26 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شاه ایران نزد شنگل که یکی از دختران او را برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 392,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر شنگل که بهرام او را برمی‌گزیند و همسرش می‌شود."
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "Id": 1381,
   "CatId": 41,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۴",
+  "Title": "بخش ۴ - سفر سام و زال به کابل و عاشق شدن زال بر دختر مهراب",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۴ - سفر سام و زال به کابل و عاشق شدن زال بر دختر مهراب",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: روزی رای پادشاهی به گونه‌ای تغییر کرد که او و یارانش به سمت هند، کابل و دیگر مناطق رفتند. در آنجا پادشاهی به نام مهراب با ثروت و خوشحالی زندگی می‌کرد. زال، پسر سام، از آمدن مهراب باخبر شد و به بهترین نحو از او استقبال کرد.\n\nمهراب برای زال یک دختر بسیار زیبا توصیف کرد که به زیبایی خورشید و بهاری می‌ماند. زال به شدت تحت تأثیر زیبایی او قرار گرفت و نسبت به عشقش دل‌باخته شد. در آن شب زال در فکر و اندیشه عشق خود غرق شد.\n\nمهراب از زال دعوت کرد که به خانه‌اش بیاید تا با هم خوش بگذرانند، اما زال به خاطر دینی که داشت حاضر به این کار نشد. بنابراین، مهراب از زال تعریف و ستایش کرد و برای او آفرین گفت. زال در دل عاشق شد و تصمیم گرفت که دیگر نمی‌تواند از عشقش فرار کند. او با وجود همه چالش‌ها، به عشق و آرزوهایش ادامه داد.",
+  "PoemSummary": "سام به همراهی پسرش زال به کابل رفتند که شاه آن مهراب از تبار ضحاک بود. در آنجا برای زال از زیبایی دختر مهراب آنقدر تعریف کردند که زال ندیده عاشقش شد.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -1725,6 +1725,50 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "LocationId": 34,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مهراب که تبار او به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که مهراب هر سال به او باج می‌داد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابل و پسر سام؛ مهمان مهراب که دلباختهٔ دختر او می‌شود."
     }
   ]
 }

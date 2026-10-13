@@ -2241,7 +2241,7 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29,
-      "CoupletSummary": "هوش مصنوعی: در این فکر صبر کرد، اما هیچ‌کس در آن حال خبر نداشت و بعد از یک سال هنوز کسی از آن باخبر نشده بود."
+      "CoupletSummary": "در این فکر ۱ سالی صبر کرد، کسی از حالش خبر نداشت"
     },
     {
       "VOrder": 56,
@@ -4749,6 +4749,62 @@
       "CoupletIndex": 174,
       "SectionIndex1": 0,
       "SectionIndex2": 176
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 11,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زیبارویی شیرین‌لب در سپاهان که شاه دل به او می‌بندد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسه با زیبایی شیرین یاد شده است."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 672,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنیزِ زیبارو و شیرین‌سخن که پذیرایی از مهمان را بر عهده دارد و کنیز دیگری را به جای خود می‌فرستد."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 65,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش برای مقایسه با شکر در شیرین‌کاری و فتنه‌گری آمده است."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 673,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنیزی هم‌قد و هم‌زیبای شکر که به جای او نزد شاه می‌رود."
+    },
+    {
+      "CoupletIndex": 150,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که در مقایسه با ناز کشیدن برای شیرین یاد می‌شود"
     }
   ]
 }

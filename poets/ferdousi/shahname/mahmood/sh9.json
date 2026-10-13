@@ -1,8 +1,8 @@
 {
   "Id": 88068,
   "CatId": 57,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۹",
+  "Title": "بخش ۹ - گریز شبانهٔ افراسیاب از جیحون، نیایش کیخسرو و دخمهٔ کشتگان ایران",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۹ - گریز شبانهٔ افراسیاب از جیحون، نیایش کیخسرو و دخمهٔ کشتگان ایران",
   "FullUrl": "/ferdousi/shahname/mahmood/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,26 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ترکان که شبانه با لشکر از جیحون گذشت و گریخت."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و شاه ایران که پس از گریز دشمن یزدان را نیایش می‌کند. (نام در متن: خسرو)"
     }
   ]
 }

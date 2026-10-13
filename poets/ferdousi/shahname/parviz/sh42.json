@@ -1,8 +1,8 @@
 {
   "Id": 1877,
   "CatId": 88,
-  "Title": "بخش ۴۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۲",
+  "Title": "بخش ۴۲ - کشتن اژدها بر کوهسار به دست بهرام گرد، پیمان ازدواج با دختر خاقان و فرمانروایی بر چین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۲ - کشتن اژدها بر کوهسار به دست بهرام گرد، پیمان ازدواج با دختر خاقان و فرمانروایی بر چین",
   "FullUrl": "/ferdousi/shahname/parviz/sh42",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,35 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که شیر کپی را می‌کشد و دختر خاقان را همسر می‌گیرد (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که دخترش را به بهرام می‌دهد"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 459,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی همراه خاقان که در صحنهٔ شکار حاضر است و دست بهرام را می‌بوسد."
     }
   ]
 }

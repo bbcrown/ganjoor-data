@@ -1,8 +1,8 @@
 {
   "Id": 1447,
   "CatId": 47,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۱",
+  "Title": "بخش ۱ - لشکرکشی کاووس به باختر، نبرد در بربرستان و آغاز جنگ هاماوران",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۱ - لشکرکشی کاووس به باختر، نبرد در بربرستان و آغاز جنگ هاماوران",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1941,6 +1941,107 @@
       "CoupletIndex": 70,
       "SectionIndex1": 0,
       "SectionIndex2": 72
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که به توران، مکران و بربر لشکر می‌کشد و بربریان را می‌بخشاید. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپاه کاووس که در نبرد بربر با عمود حمله می‌کند."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند دستان که در زابلستان از شاه و سپاه میزبانی می‌کند."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 360,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان و میزبان کاووس که شاه یک ماه نزد او ماند."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران که با سپاه بیرون رفت."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سپاهیان ایران که با سپاه به میدان رفت."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سپاهیان ایران که با سپاه به میدان رفت."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی در سوی گودرز."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گودرز."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه گودرز در سپاه ایران."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 98,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه گودرز در سپاه ایران."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1432,
   "CatId": 46,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۳",
+  "Title": "بخش ۳ - لشکرکشی کاووس به مازندران، غارت شهر و اسارت او به دست دیو سپید",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۳ - لشکرکشی کاووس به مازندران، غارت شهر و اسارت او به دست دیو سپید",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1941,6 +1941,125 @@
       "CoupletIndex": 70,
       "SectionIndex1": 0,
       "SectionIndex2": 72
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد که از پهلوی شاه می‌رود و پناه و پشت سپاه ایران است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران که شاه به او فرمان حرکت سپاه می‌دهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سپاه را به مازندران می‌برد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که همراه طوس سپاه را می‌راند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 98,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که شاه ایران‌زمین و کلید گنج را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه زال پناه و پشت سپاه ایران شمرده می‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مأمور گزینش هزار سوار و یورش به شهر مازندران."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 99,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در تشبیه زیبایی بتان شهر با بهشت آمده است."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 100,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه مازندران که از غارت ایرانیان آگاه و دل‌آزرده می‌شود."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 101,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که شاه مازندران او را پیک نزد دیو سپید می‌فرستد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 102,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که پیام یاری‌خواهی شاه مازندران به او می‌رسد."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 103,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار مازندران که گنج و اسیران را به شاه می‌سپارد."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام اهریمن که کاووس را از بهانه‌جویی از او برحذر می‌دارند. (نام در متن: آهرمن)"
     }
   ]
 }

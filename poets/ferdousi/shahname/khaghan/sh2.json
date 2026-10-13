@@ -1,8 +1,8 @@
 {
   "Id": 87995,
   "CatId": 53,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۲",
+  "Title": "بخش ۲ - جنگ رستم و چنگش، گریز و کشته شدن چنگش، و گفتگوی خاقان با هومان",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۲ - جنگ رستم و چنگش، گریز و کشته شدن چنگش، و گفتگوی خاقان با هومان",
   "FullUrl": "/ferdousi/shahname/khaghan/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,53 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 169,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سواری که با رستم می‌جنگد، می‌گریزد و سرانجام کشته می‌شود. (نام در متن: چنگش)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که چنگش را در نبرد می‌کشد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 167,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور نامور که یادش برای مقایسه می‌آید."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که از کشته شدن چنگش خشمگین و غمگین می‌شود."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که خاقان با او سخن می‌گوید و آمادهٔ نبرد با رستم می‌شود."
     }
   ]
 }

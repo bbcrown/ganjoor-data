@@ -1,8 +1,8 @@
 {
   "Id": 1588,
   "CatId": 61,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۴",
+  "Title": "بخش ۱۴ - دیدار رستم و اسفندیار، لاف پهلوانی‌ها و خشم بر نشستن سوی چپ",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۴ - دیدار رستم و اسفندیار، لاف پهلوانی‌ها و خشم بر نشستن سوی چپ",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1347,6 +1347,80 @@
       "CoupletIndex": 48,
       "SectionIndex1": 0,
       "SectionIndex2": 50
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که رستم را به او مانند یا منسوب می‌کنند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه رخش به آهرمن آمده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار، پور سام، که بر رخش به دیدار اسفندیار می‌آید."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزادهٔ جوان و یل که رستم با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم از او در داستان گذشته یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 167,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار جنگی که رستم او را به بند کشیده است."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 168,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاورانی که رستم به گفتهٔ خود او را اسیر کرده است."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که اسفندیار می‌خواهد او را ببیند. (نام در متن: دستان)"
     }
   ]
 }

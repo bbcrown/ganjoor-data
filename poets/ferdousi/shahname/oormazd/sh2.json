@@ -1,8 +1,8 @@
 {
   "Id": 1726,
   "CatId": 71,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اورمزد » بخش ۲",
+  "Title": "بخش ۲ - اندرز واپسین بهرام بهرامیان به پسر، مرگ شاه، سوگ چهل‌روزه و نهادن دیهیم کوتاه بهرام",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اورمزد » بخش ۲ - اندرز واپسین بهرام بهرامیان به پسر، مرگ شاه، سوگ چهل‌روزه و نهادن دیهیم کوتاه بهرام",
   "FullUrl": "/ferdousi/shahname/oormazd/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1725,6 +1725,17 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر پادشاهِ رو به مرگ؛ پدر او را فرا می‌خواند و اندرز می‌دهد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1678,
   "CatId": 67,
-  "Title": "بخش ۳۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۹",
+  "Title": "بخش ۳۹ - اسکندر به جامهٔ فرستاده نزد فغفور چین، نامهٔ جنگ و ساو، پاسخ نرم و بار هدایا",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۹ - اسکندر به جامهٔ فرستاده نزد فغفور چین، نامهٔ جنگ و ساو، پاسخ نرم و بار هدایا",
   "FullUrl": "/ferdousi/shahname/eskandar/sh39",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2562,6 +2562,116 @@
       "CoupletIndex": 93,
       "SectionIndex1": 0,
       "SectionIndex2": 95
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روم؛ نامه می‌فرستد و خود به عنوان فرستاده نزد فغفور می‌رود. (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روم؛ نامه‌ای به چین می‌فرستد و خود چون فرستاده نزد فغفور می‌رود. (نام در متن: اسکندر)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که فرستادهٔ سکندر را می‌پذیرد و نامه را می‌خواند. (نام در متن: فغفور)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که فرستادهٔ اسکندر را می‌پذیرد و نامه را می‌خواند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 273,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای تازی که در نامه همراه دارا به‌عنوان نمونه آمده است."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار پیشین جهان که در نامه برای مقایسه از او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 242,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دارا که نامش در شمار پادشاهان پیشین آمده است."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 263,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که سکندر بر آن‌ها پیروز شده بود."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان گذشته که فنایشان یادآوری می‌شود (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان گذشته که فنایشان یادآوری می‌شود"
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان گذشته که فنایشان یادآوری می‌شود"
+    },
+    {
+      "CoupletIndex": 89,
+      "PersonId": 283,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): روان او در دعای خیر سکندر برای فرستاده یاد شده است."
     }
   ]
 }

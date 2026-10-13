@@ -1,8 +1,8 @@
 {
   "Id": 88101,
   "CatId": 57,
-  "Title": "بخش ۴۲",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۲",
+  "Title": "بخش ۴۲ - یادکرد خدمات طوس پیش کیخسرو، سپردن درفش کاویانی و خراسان با عهد، طوق و کمر زرین",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۲ - یادکرد خدمات طوس پیش کیخسرو، سپردن درفش کاویانی و خراسان با عهد، طوق و کمر زرین",
   "FullUrl": "/ferdousi/shahname/mahmood/sh42",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,71 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سخنگو که نزد خسرو خدمت‌های گذشتهٔ خود را برمی‌شمارد و عهد و کمر زرین می‌گیرد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که پیش از طوس در مجلس نشسته است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که طوس را مخاطب می‌کند و به او خراسان و عهدنامه می‌دهد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نامدار که طوس خود را از تبار او می‌داند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که نامش برای نشان دادن پیشینهٔ نامداران آمده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که طوس به کین او شبانه پاسبانی سپاه می‌کرد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در مازندران در بند بود. (نام در متن: کاووس)"
     }
   ]
 }

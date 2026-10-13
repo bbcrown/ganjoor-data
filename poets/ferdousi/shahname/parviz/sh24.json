@@ -1,8 +1,8 @@
 {
   "Id": 1859,
   "CatId": 88,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۴",
+  "Title": "بخش ۲۴ - نامهٔ خسرو به قیصر: پایان کین دیرینه، سپردن شهرها و پذیرفتن دختر او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۴ - نامهٔ خسرو به قیصر: پایان کین دیرینه، سپردن شهرها و پذیرفتن دختر او",
   "FullUrl": "/ferdousi/shahname/parviz/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,98 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که نامه فرستاده و پاسخ خسرو را می‌شنود"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان درگاه خسرو که نامش در فهرست آمده"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان درگاه خسرو که نامش در فهرست آمده"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که نامهٔ خسرو را نزد قیصر می‌برد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان درگاه خسرو که نامش در فهرست آمده"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 1,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نخستین شاهان که در نامه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که در نامه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که آیین و فرّ را نهاد"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تبار «ایرج‌نژاد» که در نامه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بزرگ دادگر پیشین که در نامه یاد می‌شود"
     }
   ]
 }

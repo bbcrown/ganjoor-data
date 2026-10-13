@@ -1,8 +1,8 @@
 {
   "Id": 1410,
   "CatId": 42,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۵",
+  "Title": "بخش ۵ - روز دوم نبرد دهستان، شکست ایرانیان و پند نوذر به پسران برای نجات خاندان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۵ - روز دوم نبرد دهستان، شکست ایرانیان و پند نوذر به پسران برای نجات خاندان",
   "FullUrl": "/ferdousi/shahname/nozar/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,69 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه توران که با ایرانیان می‌جنگد"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در رزم خون می‌ریزد (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در جنگ غمگین است و به سرداران پند می‌دهد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر افراسیاب"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاهان ایرانی که از تخمه‌اش یاد می‌شود"
     }
   ]
 }

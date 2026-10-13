@@ -1,8 +1,8 @@
 {
   "Id": 1436,
   "CatId": 46,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۷",
+  "Title": "بخش ۷ - خان سوم رستم: نبرد با اژدها و کشتن آن به یاری رخش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۷ - خان سوم رستم: نبرد با اژدها و کشتن آن به یاری رخش",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,44 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در بیابان با اژدها می‌جنگد و رخش همراه اوست."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان رستم که رستم در معرفی خود نامش را می‌آورد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان رستم که رستم در معرفی خود نامش را می‌آورد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان رستم که رستم در معرفی خود نامش را می‌آورد. (نام در متن: دستان)"
     }
   ]
 }

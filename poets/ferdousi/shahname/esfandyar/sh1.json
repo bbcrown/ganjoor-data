@@ -457,5 +457,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 17
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 14,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مرگ او بلبل نالان است و ناله یادگار اوست."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آواز او در مقایسه با خروش ابر در شب تیره آمده است."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1916,
   "CatId": 89,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۵",
+  "Title": "بخش ۵ - رفتن بدخواهان نزد شیرویه، کشتن خسرو پرویز به دست مهرهرمزد و کشتار فرزندان دربند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۵ - رفتن بدخواهان نزد شیرویه، کشتن خسرو پرویز به دست مهرهرمزد و کشتار فرزندان دربند",
   "FullUrl": "/ferdousi/shahname/shirooye/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,35 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 16,
+      "PersonId": 482,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد زشت‌چهره و غریبی که برای کشتن خسرو خنجر به دست می‌گیرد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که جامه می‌پوشد، توبه می‌کند و به دست مهر هرمزد کشته می‌شود. (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 483,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با خنجر به خانهٔ شاه می‌رود و او را می‌کشد."
     }
   ]
 }

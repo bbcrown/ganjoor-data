@@ -1,8 +1,8 @@
 {
   "Id": 87976,
   "CatId": 51,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۲",
+  "Title": "بخش ۲۲ - شکستن پیمان و رزم سخت، گریز فریبرز، نیم‌کردن اختر کاویان و کشته شدن ریونیز",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۲ - شکستن پیمان و رزم سخت، گریز فریبرز، نیم‌کردن اختر کاویان و کشته شدن ریونیز",
   "FullUrl": "/ferdousi/shahname/forood/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3318,6 +3318,179 @@
       "CoupletIndex": 121,
       "SectionIndex1": 0,
       "SectionIndex2": 123
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران که با پیران می‌جنگد و در پایان در میدان می‌ماند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده میمنه؛ از قلب سپاه به میدان می‌آید و با گودرزیان می‌جنگد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده میسره سپاه ایران"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که نامش همراه فریبرز و درفش سپاه آمده است. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده قلبگاه سپاه ایران که لشکر را برمی‌انگیزد، اما با شکست از میدان می‌گریزد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار دشمن که با گودرز می‌جنگد و تبارش کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران سپاه دشمن که همراه فرشیدورد بر گیو حمله می‌برد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران سپاه دشمن و مخاطب هومان در نقشهٔ حمله به قلبگاه."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دشمن که نقشهٔ حمله به قلبگاه را می‌دهد و فریبرز را می‌گریزاند."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر یا نیای گودرز که نامش به‌عنوان آبرو و ننگ یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که سوگند جنگ می‌خورد."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که همراه دیگران سوگند جنگ می‌خورد. (نام در متن: زنگه)"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که سوگند جنگ می‌خورد."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 518,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که سوگند می‌خورد از رزمگاه برنگردد."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ گودرز نزد فریبرز که درفش کاویانی را دو نیم می‌کند."
+    },
+    {
+      "CoupletIndex": 86,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نوهٔ کاوس و جوان تاجدار که در جنگ کشته شد"
+    },
+    {
+      "CoupletIndex": 92,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فرود (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 92,
+      "PersonId": 150,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سیاوش که کشته‌شدنش با ریونیز سنجیده می‌شود"
+    },
+    {
+      "CoupletIndex": 108,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که از تخمه‌اش سیصد تن کشته شدند"
     }
   ]
 }

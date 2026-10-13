@@ -3562,5 +3562,79 @@
       "SectionIndex1": 0,
       "SectionIndex2": 132
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نقاش و رنگ‌آمیزی که در هیئت مغ با شیرین سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که صورت را می‌بیند و از شاپور و مغ درباره‌اش می‌پرسد"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توصیف صورت، با دارا یادگاری از او ذکر می‌شود"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه سکندر برای توصیف صورت به یادگار آمده است"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زمین از او تخمی برجای دارد؛ برای تشبیه آمده است"
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توصیف سواری خسرو به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توصیف بزم‌نشینی خسرو به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 645,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج او در مقایسه با بخشش خسرو یاد شده است."
+    }
   ]
 }

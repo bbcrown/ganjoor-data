@@ -1,8 +1,8 @@
 {
   "Id": 1618,
   "CatId": 63,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۵",
+  "Title": "بخش ۵ - مرگ بهمن، ولیعهدی همای و فرزند نهان، و چوپان شدن نژاد ساسان در نشاپور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۵ - مرگ بهمن، ولیعهدی همای و فرزند نهان، و چوپان شدن نژاد ساسان در نشاپور",
   "FullUrl": "/ferdousi/shahname/bahman/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,44 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر همای و ساسان؛ بیمار می‌شود و همای را ولی‌عهد می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 240,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شیرگونهٔ بهمن که از ولی‌عهدی همای ناخشنود می‌شود و به نشابور می‌رود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 623,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر هنرمند و دانای بهمن که از او باردار است و ولی‌عهد می‌شود."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 241,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند ساسان در نشابور که نامش را از پدر می‌گیرد و چوپان می‌شود."
     }
   ]
 }

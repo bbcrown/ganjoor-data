@@ -1,8 +1,8 @@
 {
   "Id": 88040,
   "CatId": 56,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۸",
+  "Title": "بخش ۱۸ - نبرد خونین گودرز و پیران، پیمان شبانهٔ رزم تن‌به‌تن و آرایش دوبارهٔ دو سپاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۸ - نبرد خونین گودرز و پیران، پیمان شبانهٔ رزم تن‌به‌تن و آرایش دوبارهٔ دو سپاه",
   "FullUrl": "/ferdousi/shahname/12rokh/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -8070,6 +8070,233 @@
       "CoupletIndex": 297,
       "SectionIndex1": 0,
       "SectionIndex2": 299
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 11,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار توران‌سپاه که سران را برای آرایش سپاه فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار توران‌سپاه که به سوی کوه فرستاده می‌شود و کمین می‌گشاید."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار توران‌سپاه که به سوی رود فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و سالار سپاه که فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز و برادر گیو که در پشت سپاه است."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز و برادر هجیر که پیام پدر را می‌شنود."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که گیو سپاه را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که فرمان می‌یابد به سوی فرشیدورد بتازد."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که دویست گرد و درفش به او داده می‌شود. (نام در متن: گرگین میلاد)"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیرمرد جوانی که به او فرمان حمله به قلب سپاه توران داده می‌شود."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که هدف شکستن پشت او در نقشهٔ جنگ است."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سواران میسره که به قلب سپاه توران حمله می‌برد."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سواران میسره که به قلب سپاه توران حمله می‌برد."
+    },
+    {
+      "CoupletIndex": 120,
+      "PersonId": 146,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور توران که به گستهم گرز می‌زند و اسبش از تیر هجیر می‌افتد."
+    },
+    {
+      "CoupletIndex": 168,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بیدادگر که فریدون او را برانداخت"
+    },
+    {
+      "CoupletIndex": 171,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دادگر که بر ضحاک چیره شد"
+    },
+    {
+      "CoupletIndex": 178,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده به دست افراسیاب؛ سپاه به کین او آمد (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 181,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گیو در توران او را یافت و با او به ایران بازگشت"
+    },
+    {
+      "CoupletIndex": 187,
+      "PersonId": 558,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام او در یادآوری جنگی پیشین آمده است"
+    },
+    {
+      "CoupletIndex": 200,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که گوینده برای جنگ نام می‌برد."
+    },
+    {
+      "CoupletIndex": 207,
+      "PersonId": 132,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بهترین سوار توران که در نبرد با بیژن سرش بریده شد."
+    },
+    {
+      "CoupletIndex": 220,
+      "PersonId": 73,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که شاه پیشتر از او خدمت خواسته بود."
+    },
+    {
+      "CoupletIndex": 220,
+      "PersonId": 109,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که شاه پیشتر از او خدمت خواسته بود."
+    },
+    {
+      "CoupletIndex": 230,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که جایگاهش در جناح چپ سپاه است."
+    },
+    {
+      "CoupletIndex": 232,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز؛ مأمور پشتیبانی از لشکر با درفش کاویانی."
     }
   ]
 }

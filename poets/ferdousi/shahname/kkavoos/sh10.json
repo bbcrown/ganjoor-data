@@ -1,8 +1,8 @@
 {
   "Id": 1439,
   "CatId": 46,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۰",
+  "Title": "بخش ۱۰ - خان ششم رستم: کشتن ارژنگ دیو و رسیدن به کاووس و آگاهی از درمان چشم‌ها",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۰ - خان ششم رستم: کشتن ارژنگ دیو و رسیدن به کاووس و آگاهی از درمان چشم‌ها",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,71 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 108,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو و سالار لشکر دیوان که رستم سرش را از تن جدا می‌کند. (نام در متن: ارژنگ)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان؛ ارژنگ دیو را می‌کشد و نزد کاووس می‌رود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 106,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که رستم از او راه شهر کاووس را می‌پرسد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ رستم را می‌پذیرد و او را به نبرد دیو سپید می‌فرستد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 50,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیشین که روزگار او با زمان حاضر سنجیده می‌شود."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم؛ کاووس از او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 102,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار و پشت سپاه دیوان در غار؛ هدف نبرد رستم."
     }
   ]
 }

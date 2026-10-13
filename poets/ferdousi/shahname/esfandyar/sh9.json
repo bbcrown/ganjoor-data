@@ -1,8 +1,8 @@
 {
   "Id": 1583,
   "CatId": 61,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۹",
+  "Title": "بخش ۹ - آمدن بهمن به نخچیرگاه رستم، دور انداختن سنگ به پاشنه، بزم گور و پیام اسفندیار",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۹ - آمدن بهمن به نخچیرگاه رستم، دور انداختن سنگ به پاشنه، بزم گور و پیام اسفندیار",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1536,6 +1536,71 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر اسفندیار که با پیام او نزد رستم می‌آید."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار در نخچیرگاه که بهمن او را می‌بیند و میزبانش می‌شود."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهمن که پیامی برای رستم فرستاده است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان رستم که بهمن می‌خواهد دلش را پیچان کند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 58,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان رستم که بهمن می‌خواهد دلش را پیچان کند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم که سنگ غلتان را می‌بیند و فریاد می‌زند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه؛ رستم گمان می‌کند بهمن همان است."
     }
   ]
 }

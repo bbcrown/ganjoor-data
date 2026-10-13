@@ -1,8 +1,8 @@
 {
   "Id": 88060,
   "CatId": 56,
-  "Title": "بخش ۳۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۸",
+  "Title": "بخش ۳۸ - بازگشت بیژن با کشتهٔ لهاک و فرشیدورد و خستهٔ گستهم، درمان او به مهرهٔ شاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۸ - بازگشت بیژن با کشتهٔ لهاک و فرشیدورد و خستهٔ گستهم، درمان او به مهرهٔ شاه",
   "FullUrl": "/ferdousi/shahname/12rokh/sh38",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,98 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با اسبان و گستهم به نزد شاه بازمی‌گردد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سواران توران که کشته و بر اسب بسته شده است"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سواران توران که کشته و بر اسب بسته شده است"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زخمی ایرانی که شاه او را درمان می‌کند و بهبود می‌یابد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که بیژن را می‌پذیرد و گستهم را درمان می‌کند"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که مهرهٔ درمان‌بخش از او به میراث رسیده است"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 5,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که مهرهٔ درمان‌بخش از او به میراث رسیده است"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که مهرهٔ درمان‌بخش از او به میراث رسیده است"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن که نامش در نام‌بری بیژن آمده است"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده تورانی که جنگ با او جریان دارد"
     }
   ]
 }

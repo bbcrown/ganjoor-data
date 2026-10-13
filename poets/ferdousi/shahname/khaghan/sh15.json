@@ -1,8 +1,8 @@
 {
   "Id": 88008,
   "CatId": 53,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۵",
+  "Title": "بخش ۱۵ - افکندن گردان ایران و بریدن درفش کاویان، کشتی رستم با پولادوند و گریز دیو",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۵ - افکندن گردان ایران و بریدن درفش کاویان، کشتی رستم با پولادوند و گریز دیو",
   "FullUrl": "/ferdousi/shahname/khaghan/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3561,6 +3561,152 @@
       "CoupletIndex": 130,
       "SectionIndex1": 0,
       "SectionIndex2": 132
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 93,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زورمند و دیوآسای سپاه دشمن که پهلوانان ایرانی را از پا درمی‌آورد. (نام در متن: پولادوند)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 545,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زورمند و کمندافکنِ سپاه دشمن که بسیاری از گردان ایران را بر خاک افکند"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی سوار بر رخش که در پایان به نبرد با پولادوند می‌رود."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که پولادوند او را از زین برمی‌دارد و بر زمین می‌زند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر طوس."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با پولادوند می‌جنگد و در کمند او گرفتار می‌شود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که برای مقابله با پولادوند می‌رود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که همراه رهام به سوی پولادوند می‌رود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده‌ای که از کشته‌شدن پسران و نبیرگانش می‌نالد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که نشان پولادوند را می‌گیرد."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که در این رزم حاضرند و غریو برمی‌آورند"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که در این رزم حاضرند و غریو برمی‌آورند"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 546,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که در این رزم حاضرند و غریو برمی‌آورند"
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دشمن که پولادوند می‌خواهد سپاه ایران را به او بسپارد"
+    },
+    {
+      "CoupletIndex": 77,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر افراسیاب که از زور رستم نگران است و به پدر هشدار می‌دهد."
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیوی ایرانی در صف تیراندازان"
     }
   ]
 }

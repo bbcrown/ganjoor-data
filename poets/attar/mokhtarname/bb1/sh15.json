@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "انی",
-      "PlainText": "هم گوهر بحر لطف بیپایانی\r\nهم گنج طلسم پرده دوجْهانی\r\nبس پیدایی از آنکه بس پنهانی\r\nبیرون جهانی و درون جانی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم گوهر بحر لطف بیپایانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم گنج طلسم پردهٔ دوجْهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پیدایی از آنکه بس پنهانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرونِ جهانی و درونِ جانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "هم گوهر بحر لطف بی پایانی\r\nهم گنج طلسم پرده دوجهانی\r\nبس پیدایی از آنکه بس پنهانی\r\nبیرون جهانی و درون جانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم گوهر بحر لطف بی‌پایانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم گنج طلسم پردهٔ دوجْهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پیدایی از آنکه بس پنهانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرونِ جهانی و درونِ جانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "هم گوهر بحر لطف بیپایانی",
+      "Text": "هم گوهر بحر لطف بی‌پایانی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: در اینجا صحبت از نکته‌ای عمیق و ارزشمند است که به نوعی به بی‌نهایت بودن محبت و بخشش اشاره دارد. همچنین، به گنجینه‌ای از دانایی و رازهایی که در دیانت و روحانیت نهفته است، اشاره می‌شود. به عبارتی، محبت بی‌پایان مانند دریا و دانش عمیق به‌عنوان گنجی باارزش در دنیا و عالم دیگر در نظر گرفته شده است."

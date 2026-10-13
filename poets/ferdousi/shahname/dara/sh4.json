@@ -1,8 +1,8 @@
 {
   "Id": 1633,
   "CatId": 66,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۴",
+  "Title": "بخش ۴ - نبرد یک‌هفتهٔ اسکندر و دارا، گریز سپاه ایران و پیروزی بر لب رود",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۴ - نبرد یک‌هفتهٔ اسکندر و دارا، گریز سپاه ایران و پیروزی بر لب رود",
   "FullUrl": "/ferdousi/shahname/dara/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -591,6 +591,17 @@
       "CoupletIndex": 20,
       "SectionIndex1": 0,
       "SectionIndex2": 22
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سپاه از فرات آورد و در جنگ شکست خورد."
     }
   ]
 }

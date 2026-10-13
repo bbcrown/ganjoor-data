@@ -1,8 +1,8 @@
 {
   "Id": 88100,
   "CatId": 57,
-  "Title": "بخش ۴۱",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۱",
+  "Title": "بخش ۴۱ - سخن گودرز از رنج هفت‌سالهٔ گیو، منشور قم و اصفهان و فرمان شاه به اطاعت ایرانیان",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۱ - سخن گودرز از رنج هفت‌سالهٔ گیو، منشور قم و اصفهان و فرمان شاه به اطاعت ایرانیان",
   "FullUrl": "/ferdousi/shahname/mahmood/sh41",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -564,6 +564,53 @@
       "CoupletIndex": 19,
       "SectionIndex1": 0,
       "SectionIndex2": 21
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده که در برابر شاه سخن می‌گوید و از خدمت‌های خود یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که زمان او آغاز دوران خدمت گودرز شمرده می‌شود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در شمارش دوران خدمت گودرز نامش آمده است. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در شمارش دوران خدمت گودرز نامش آمده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که هفت سال در توران رنج کشید و گودرز او را می‌ستاید."
     }
   ]
 }

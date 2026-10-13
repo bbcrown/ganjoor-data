@@ -1,8 +1,8 @@
 {
   "Id": 1499,
   "CatId": 49,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲۰",
+  "Title": "بخش ۲۰ - تاخت افراسیاب و پیران دربند، ستیز با باژخواه، و گذر کیخسرو و گیو و فرنگیس از جیحون",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲۰ - تاخت افراسیاب و پیران دربند، ستیز با باژخواه، و گذر کیخسرو و گیو و فرنگیس از جیحون",
   "FullUrl": "/ferdousi/shahname/siavosh/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3048,6 +3048,143 @@
       "CoupletIndex": 111,
       "SectionIndex1": 0,
       "SectionIndex2": 113
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که با شنیدن خبر لشکر ایران به رزمگاه می‌تازد و خشمگین می‌شود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای که نبرد در رزمگاه با سپاه او بوده است."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار تورانی که گیو او را بسته و سوگند داده بود."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که افراسیاب او را «دیوزاد» می‌خواند و نابودی‌اش را سوگند می‌خورد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 140,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با افراسیاب سخن می‌گوید و از توانایی گیو سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به تنهایی سپاه را ستوه آورده و پیران را اسیر کرده است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گیو و شاه در راه است."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای که به او فرمان داده می‌شود تا لب رود لشکر را ببرد."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای یکی از دو نژاد در پیشگویی دربارهٔ شاه آینده."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای دیگر شاه موعود در پیشگویی."
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از اروند رود گذشت و به او درود فرستادند."
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایران که هومان از او می‌ترساند"
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 73,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایران که هومان از او می‌ترساند"
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایران که هومان از او می‌ترساند"
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 96,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایران که هومان از او می‌ترساند"
     }
   ]
 }

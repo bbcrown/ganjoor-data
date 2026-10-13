@@ -1321,5 +1321,61 @@
       "SectionIndex1": 0,
       "SectionIndex2": 49
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که ضحاک جانش را گرفت؛ با جام شناخته می‌شود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامور که ممدوح را به او مانند کرده‌اند؛ در کودکی با شیر گاو پرورده شد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که جان جمشید را ستد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب آینه که با ممدوح مقایسه می‌شود."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 264,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام‌آشنا برای تحفه‌های گران‌بها."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 640,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام‌آشنا برای تحفه‌های گران‌بها."
+    }
   ]
 }

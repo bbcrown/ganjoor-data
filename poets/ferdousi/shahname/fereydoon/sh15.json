@@ -1,8 +1,8 @@
 {
   "Id": 1372,
   "CatId": 40,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۵",
+  "Title": "بخش ۱۵ - پیمان بستن سپاه ایران",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۵ - پیمان بستن سپاه ایران",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -456,6 +456,35 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 17
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 31,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه یمن و رایزن همراه قارن در پیش سپاه."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپاهی که پیشاپیش سپاه حرکت می‌کند. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگ پیش‌رو به آهرمن مانند شده است. (نام در متن: آهرمن)"
     }
   ]
 }

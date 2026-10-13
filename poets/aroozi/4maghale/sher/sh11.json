@@ -1039,5 +1039,23 @@
       "CoupletIndex": 69,
       "CoupletSummary": "هوش مصنوعی: آن مقدار مال را به خواجه ابوبکر اسحاق کرامی می‌دهند تا رباط چاهه، که در مسیر نشابور و مرو قرار دارد، در ناحیه طوس بسازد. وقتی این دستور به طوس رسید، آن را اجرا کردند و ساخت رباط چاهه از همان مال انجام شد."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 7,
+      "LunarYear": 510,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 7,
+      "LunarYear": 514,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

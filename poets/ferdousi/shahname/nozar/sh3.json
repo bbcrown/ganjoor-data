@@ -1,8 +1,8 @@
 {
   "Id": 1408,
   "CatId": 42,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۳",
+  "Title": "بخش ۳ - حملهٔ افراسیاب به ایران پس از مرگ سام و رویارویی سپاهیان در دهستان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۳ - حملهٔ افراسیاب به ایران پس از مرگ سام و رویارویی سپاهیان در دهستان",
   "FullUrl": "/ferdousi/shahname/nozar/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,96 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار ایران که سپاه را به دهستان می‌برد و سراپرده می‌زند"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تنها به‌عنوان پدرِ کسی که خبر به او می‌رسد یاد شده است"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار رزم‌جوی سپاه ایران (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که دو سالار برمی‌گزیند و به پشنگ نامه می‌نویسد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 71,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 72,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پس از مرگ سام برایش دخمه می‌سازد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان درگذشته که زال برایش دخمه می‌سازد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تنها به‌عنوان پدر سام یاد شده است"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 61,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب نامهٔ افراسیاب"
     }
   ]
 }

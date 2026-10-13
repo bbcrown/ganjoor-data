@@ -1,8 +1,8 @@
 {
   "Id": 1495,
   "CatId": 49,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۶",
+  "Title": "بخش ۱۶ - تاخت رستم به کین سیاوش در توران، نشستن بر تخت افراسیاب، بازگشت و خشکسالی هفت‌ساله",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۶ - تاخت رستم به کین سیاوش در توران، نشستن بر تخت افراسیاب، بازگشت و خشکسالی هفت‌ساله",
   "FullUrl": "/ferdousi/shahname/siavosh/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3156,6 +3156,134 @@
       "CoupletIndex": 115,
       "SectionIndex1": 0,
       "SectionIndex2": 117
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به توران لشکر می‌کشد و گنج‌ها را می‌بخشد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که از آمدن رستم آگاه می‌شود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کینهٔ او انگیزهٔ لشکرکشی است و برادر فریبرز خوانده می‌شود. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب سخنان افراسیاب دربارهٔ آمدن رستم."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از رستم تخت عاج، یاره و طوق دریافت می‌کند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام او در «کیش آهرمنی» برای نکوهش بدی آمده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که فرّ او نمونهٔ بزرگی است."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپیجاب و سغد و پند به او داده می‌شود؛ ستوده و آموزگار بزرگان خوانده می‌شود."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دریافت‌کنندهٔ تاج زر، دینار، تخت و کمر. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تاج و گنج برای کاووس می‌فرستد و او را سالار می‌خواند."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نخچیرگاه سیاووش بیهوش شد و سوگند کین‌خواهی خورد."
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 164,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جفاگر خوانده شده و جای او معلوم نیست."
+    },
+    {
+      "CoupletIndex": 99,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرخنده‌ای که رستم با غنایم به نزدیک او می‌رود. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 100,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران ایرانی که به سوی پارس می‌روند."
     }
   ]
 }

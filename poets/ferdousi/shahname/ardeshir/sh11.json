@@ -1,8 +1,8 @@
 {
   "Id": 1718,
   "CatId": 69,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۱",
+  "Title": "بخش ۱۱ - اندرز اردشیر به برنا و پیر: خداپرستی، خرد، میانه روی، فرهنگ فرزند و داد شاهی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۱ - اندرز اردشیر به برنا و پیر: خداپرستی، خرد، میانه روی، فرهنگ فرزند و داد شاهی",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1212,6 +1212,17 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار و پادشاهی که به مردم پند و اندرز می‌دهد"
     }
   ]
 }

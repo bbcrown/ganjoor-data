@@ -1,8 +1,8 @@
 {
   "Id": 1610,
   "CatId": 62,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۵",
+  "Title": "بخش ۵ - سوگ زال بر مرگ رستم، بازآوردن پیکر از چاه کابل و ساختن دخمه در زابلستان",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۵ - سوگ زال بر مرگ رستم، بازآوردن پیکر از چاه کابل و ساختن دخمه در زابلستان",
   "FullUrl": "/ferdousi/shahname/shqad/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1860,6 +1860,87 @@
       "CoupletIndex": 67,
       "SectionIndex1": 0,
       "SectionIndex2": 69
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ که در چاه کشته شده و زال و فرامرز سوگوارش‌اند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامبردار که زال برای او نیز سوگواری می‌کند"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که خاک بر سر می‌ریزد و مویه می‌کند"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 237,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بدخواهی که با نیرنگ رستم را به نابودی کشاند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر رستم که با سپاه به کابل می‌رود و کین‌خواهی می‌کند"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای پهلوانان که فرامرز به خاک او سوگند می‌خورد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای پهلوانان که فرامرز به خاک او سوگند می‌خورد"
+    },
+    {
+      "CoupletIndex": 57,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان درگذشته که مراسم کفن‌ودفن و سوگواری او در زابل روایت می‌شود. (نام در متن: پیلتن)"
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در پند پایانی فقط برای فرض و مقایسه آمده است. (نام در متن: آهرمن)"
     }
   ]
 }

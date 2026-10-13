@@ -1,8 +1,8 @@
 {
   "Id": 52173,
   "CatId": 87,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۶",
+  "Title": "بخش ۶ - جنگ بهرام با ساوه شاه: شکست جادو و پیلان، کشتن ساوه و تاختن سوی پرموده",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۶ - جنگ بهرام با ساوه شاه: شکست جادو و پیلان، کشتن ساوه و تاختن سوی پرموده",
   "FullUrl": "/ferdousi/shahname/hormozd/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5802,6 +5802,98 @@
       "CoupletIndex": 213,
       "SectionIndex1": 0,
       "SectionIndex2": 215
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 424,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه دشمن؛ به جادو و پیلان جنگی متوسل می‌شود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ایرانیان که سپاه را برمی‌انگیزد و با نیزه و تیر می‌جنگد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که کشتگان را بررسی می‌کند و بهرام را می‌جوید."
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بهرام؛ بهرام از تخم او دانسته شده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که برای مقایسه با بهرام یاد شده است."
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در ستایش پهلوان به او اشاره می‌شود."
+    },
+    {
+      "CoupletIndex": 128,
+      "PersonId": 195,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار دشمن که سرش با درفش خودش بر نیزه شد."
+    },
+    {
+      "CoupletIndex": 133,
+      "PersonId": 509,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده توران که از شکست آگاه می‌شود و غمگین و پرخشم است."
+    },
+    {
+      "CoupletIndex": 144,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که بهرام در جنگ از او نیرومندتر دانسته شده است."
+    },
+    {
+      "CoupletIndex": 161,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در پیوند پدری و پسری با ساوه‌شاه یاد شده است."
     }
   ]
 }

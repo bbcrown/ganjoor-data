@@ -1,8 +1,8 @@
 {
   "Id": 1879,
   "CatId": 88,
-  "Title": "بخش ۴۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۴",
+  "Title": "بخش ۴۴ - پیشنهاد بهرام به خاقان چین برای برانداختن خسرو، رای پیران و گسیل حسنوی و زنگوی به ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۴ - پیشنهاد بهرام به خاقان چین برای برانداختن خسرو، رای پیران و گسیل حسنوی و زنگوی به ایران",
   "FullUrl": "/ferdousi/shahname/parviz/sh44",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,44 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از ایران به خاقان چین پناه می‌برد و او را به جنگ با ایران برمی‌انگیزد. (نام در متن: بهرام گرد)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که با بزرگان مشورت می‌کند و سپاه به بهرام می‌دهد. (نام در متن: خاقان چین)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 426,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرکش چینی که با حسنوی به فرماندهی سپاه همراه بهرام برگزیده می‌شود."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 461,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر چینی که با زنگوی به فرماندهی سپاه همراه بهرام برگزیده می‌شود."
     }
   ]
 }

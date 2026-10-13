@@ -1,8 +1,8 @@
 {
   "Id": 88069,
   "CatId": 57,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۰",
+  "Title": "بخش ۱۰ - نامهٔ سه رزم به کاووس، گریز افراسیاب به گنگ و رسیدن کیخسرو به گلزریون",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۰ - نامهٔ سه رزم به کاووس، گریز افراسیاب به گنگ و رسیدن کیخسرو به گلزریون",
   "FullUrl": "/ferdousi/shahname/mahmood/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2481,6 +2481,80 @@
       "CoupletIndex": 90,
       "SectionIndex1": 0,
       "SectionIndex2": 92
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که نامهٔ گزارش جنگ به نام او نوشته می‌شود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که پس از شکست از جیحون می‌گذرد و سپاه گرد می‌آورد."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگان توران از آمدن او برای کین‌خواهی بیم دارند."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 573,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با لشکری بزرگ نزد افراسیاب آمد."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تباری که ترکان به او نسبت داده می‌شوند."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 141,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار سپاهی که به بیابان سترگ فرستاده شد."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار سپاه و جنگاوری که در جنگ دلسرد نمی‌شد."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که لشکر نیمروز با او رفت."
     }
   ]
 }

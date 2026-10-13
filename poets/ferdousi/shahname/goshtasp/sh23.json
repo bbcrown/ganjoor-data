@@ -1,8 +1,8 @@
 {
   "Id": 1549,
   "CatId": 59,
-  "Title": "بخش ۲۳ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۳ - سخن دقیقی",
+  "Title": "بخش ۲۳ - سخن دقیقی: فراخواندن اسفندیار به درگاه و بازگشت او با جاماسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۳ - سخن دقیقی: فراخواندن اسفندیار به درگاه و بازگشت او با جاماسپ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,62 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای که به شکار رفته و از خشم پدر نگران است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خردمند و پیر که شاه او را نزد اسفندیار فرستاده است."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نخستین پسر اسفندیار که لشکر به او سپرده می‌شود"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 222,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از چهار پسر اسفندیار"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 223,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از چهار پسر اسفندیار"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): چهارمین پسر اسفندیار"
     }
   ]
 }

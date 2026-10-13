@@ -1,8 +1,8 @@
 {
   "Id": 1748,
   "CatId": 77,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۶",
+  "Title": "بخش ۱۶ - سپردن تاج شاپور به اردشیر جوان، پیمان پسر خردسال، اندرز داد و مرگ شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۶ - سپردن تاج شاپور به اردشیر جوان، پیمان پسر خردسال، اندرز داد و مرگ شاه",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,26 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه سالخورده و دادگر که اردشیر را جانشین و نگهبان پسرش می‌کند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد موبدان و برادر کهتر شاه که پیمان نگهداری از تاج را می‌پذیرد."
     }
   ]
 }

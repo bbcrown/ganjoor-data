@@ -1186,5 +1186,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 44
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 645,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ دارایی و گنج فراوان که در تشبیه آمده است."
+    }
   ]
 }

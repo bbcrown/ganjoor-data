@@ -1,8 +1,8 @@
 {
   "Id": 1406,
   "CatId": 42,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱",
+  "Title": "بخش ۱ - به تخت نشستن نوذر، بیدادگری او و میانجی‌گری سام برای بازگرداندن داد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱ - به تخت نشستن نوذر، بیدادگری او و میانجی‌گری سام برای بازگرداندن داد",
   "FullUrl": "/ferdousi/shahname/nozar/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,53 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر درگذشتهٔ نوذر و شاه پیشین ایران."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از مرگ پدر شاه می‌شود، بیدادگر می‌گردد و از سام یاری می‌خواهد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ مازندران که نوذر او را به یاری می‌خواند و او تاج‌گیری را نمی‌پذیرد."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که سام برای پند دادن از او یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که سام برای پند دادن از او یاد می‌کند."
     }
   ]
 }

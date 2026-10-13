@@ -1,8 +1,8 @@
 {
   "Id": 1619,
   "CatId": 64,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۱",
+  "Title": "بخش ۱ - مرگ اردشیر و تاج‌گذاری همای، زادن نهانی پسر، افکندنش به فرات و یافتن گازر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۱ - مرگ اردشیر و تاج‌گذاری همای، زادن نهانی پسر، افکندنش به فرات و یافتن گازر",
   "FullUrl": "/ferdousi/shahname/homa/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,26 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بیمار که درگذشت و همای جانشین او شد؛ پدر همای"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 623,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از اردشیر تاج بر سر نهاد، پسری نهانی زاد و او را در صندوق به آب سپرد"
     }
   ]
 }

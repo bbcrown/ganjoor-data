@@ -1,8 +1,8 @@
 {
   "Id": 87959,
   "CatId": 51,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۵",
+  "Title": "بخش ۵ - رسیدن سپاه زرین ایران بر تیغ کوه، شناساندن درفش پهلوانان به فرود و شادمانی او",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۵ - رسیدن سپاه زرین ایران بر تیغ کوه، شناساندن درفش پهلوانان به فرود و شادمانی او",
   "FullUrl": "/ferdousi/shahname/forood/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,134 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که تخوار درفش‌های سپاه را برایش توضیح می‌دهد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پاسخ‌دهنده که درفش‌ها و سرداران سپاه را یکی‌یکی معرفی می‌کند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که درفش او در پیشِ سپاه است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نشانیِ فریبرز به نام او آمده است. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و برادرِ پدرِ فرود، دارندهٔ درفشی چون خورشید."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از او پیل هم از ترس می‌لرزد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار با دلیران و گردان زیر درفش خود."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار سترگ با درفش دیزه‌گرگ و پدر بیژن."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو که درفش ماه‌پیکر را می‌راند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که درفش ببرپیکر را در دست دارد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهره‌ای که درفش گاومیش‌پیکر از آنِ اوست."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نشانیِ گودرز به نام او آمده است."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار نستوه با درفش شیرپیکر و درفش آهو."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرداری با درفش پلنگ‌پیکر."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1733,
   "CatId": 77,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱",
+  "Title": "بخش ۱ - شهریاری پنج‌سالهٔ شهرو، فرمان پلی دیگر بر دجله و آیین تخت شاپور خردسال",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱ - شهریاری پنج‌سالهٔ شهرو، فرمان پلی دیگر بر دجله و آیین تخت شاپور خردسال",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -699,6 +699,35 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 313,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد خردمند که بر کرسی زرین نشست و با داد جهان را داشت"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کودک در طیسفون که ساختن پلی دیگر را پیشنهاد می‌کند"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 310,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسهٔ آیین تخت و کلاه و کمر بستن کودک آمده است"
     }
   ]
 }

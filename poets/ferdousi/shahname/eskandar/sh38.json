@@ -1,8 +1,8 @@
 {
   "Id": 1677,
   "CatId": 67,
-  "Title": "بخش ۳۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۸",
+  "Title": "بخش ۳۸ - دیدار سکندر با درخت گویا، پیشگویی مرگ دور از روم و بازگشت گریان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۸ - دیدار سکندر با درخت گویا، پیشگویی مرگ دور از روم و بازگشت گریان",
   "FullUrl": "/ferdousi/shahname/eskandar/sh38",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1590,6 +1590,17 @@
       "CoupletIndex": 57,
       "SectionIndex1": 0,
       "SectionIndex2": 59
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از بیابان به شهر می‌رسد و با درخت گویا روبه‌رو می‌شود."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1405,
   "CatId": 41,
-  "Title": "بخش ۲۸",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۸",
+  "Title": "بخش ۲۸ - درگذشت منوچهر و پندهای او به نوذر دربارهٔ پادشاهی و آینده",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۸ - درگذشت منوچهر و پندهای او به نوذر دربارهٔ پادشاهی و آینده",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,98 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه سالخورده‌ای که مرگش نزدیک است و به نوذر پند می‌دهد"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر و جانشین منوچهر که تخت شاهی را می‌گیرد"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که منوچهر از فر و پندش یاد می‌کند"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بزرگ که کینش خواسته شد"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کینه‌خواهی منوچهر برای ایرج یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با لقب «سترگ»؛ منوچهر از او کین ایرج را خواسته است"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 260,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر که برای مقایسه با پیغمبر آینده آمده است"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر کسی که در آینده به نوذر گزند می‌رساند"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که نوذر باید در آینده از او یاری بجوید"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که نوذر باید از او یاری بجوید؛ نسلش پشتیبان خواهد بود"
     }
   ]
 }

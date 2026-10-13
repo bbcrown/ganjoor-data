@@ -1,8 +1,8 @@
 {
   "Id": 1854,
   "CatId": 88,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۹",
+  "Title": "بخش ۱۹ - فرستادگان خسرو پرویز در بارگاه قیصر: نامهٔ دادخواهی و پیمان یاری",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۹ - فرستادگان خسرو پرویز در بارگاه قیصر: نامهٔ دادخواهی و پیمان یاری",
   "FullUrl": "/ferdousi/shahname/parviz/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1887,6 +1887,89 @@
       "CoupletIndex": 68,
       "SectionIndex1": 0,
       "SectionIndex2": 70
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که فرستادگان ایران را در کاخ خود می‌پذیرد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران و فرستادگان خسرو که پیشاپیش نزد قیصر می‌رود."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و فرستادگان خسرو نزد قیصر."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 439,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از فرستادگان خسرو که زبان و ترجمان شاه در انجمن قیصر است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و فرستادگان خسرو نزد قیصر."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از فرستادگان شاه که نامه را به قیصر می‌رساند (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 1,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نخستین کسی که خداوند او را زنده کرد."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از میان سرفرازان برگزیده شد."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی از این تبار که تاج بزرگی بر سر نهاد."
     }
   ]
 }

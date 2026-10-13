@@ -1078,5 +1078,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 40
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 474,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آهنگ «ستای باربد» به نام اوست"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 172,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، دلش از مژگان معشوق زخمی می‌شود"
+    }
   ]
 }

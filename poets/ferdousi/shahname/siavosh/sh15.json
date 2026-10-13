@@ -1,8 +1,8 @@
 {
   "Id": 1494,
   "CatId": 49,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۵",
+  "Title": "بخش ۱۵ - سوگ افراسیاب بر کشته شدن سرخه، کشتن پیلسم و گریختن افراسیاب از چنگ رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۵ - سوگ افراسیاب بر کشته شدن سرخه، کشتن پیلسم و گریختن افراسیاب از چنگ رستم",
   "FullUrl": "/ferdousi/shahname/siavosh/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3858,6 +3858,152 @@
       "CoupletIndex": 141,
       "SectionIndex1": 0,
       "SectionIndex2": 143
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران و سپهدار ترکان که برای نبرد با ایرانیان لشکر می‌آراید."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 162,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامور تورانی که کشته شد و سرش بریده شد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ایرانیان برای خونخواهی او کمر بسته‌اند. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در قلب سپاه ایستاده است."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ترک که به میمنهٔ سپاه توران آمد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ترک که در میسرهٔ سپاه توران ایستاد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران ایرانی که در میمنهٔ سپاه آراسته شد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران ایرانی که در میمنهٔ سپاه آراسته شد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گودرز."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ایرانی که در میسرهٔ سپاه ایستاد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گرانمایگان سپاه ایران در میسره."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 154,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که از قلب سپاه برآمد و پیکار با رستم را خواست."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که نزد شاه از جنگیدن پیلسم با رستم نگران است."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به یاری گیو در جنگ با پیلسم می‌آید"
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای رستم که تبار او به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 121,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که با گرز بر شانهٔ رستم می‌زند و می‌گریزد."
     }
   ]
 }

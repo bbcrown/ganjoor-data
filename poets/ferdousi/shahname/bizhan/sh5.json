@@ -1,8 +1,8 @@
 {
   "Id": 88014,
   "CatId": 55,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۵",
+  "Title": "بخش ۵ - بازآمدن گرگین بی‌بیژن، سوگ گیو و بند گرگین، و دیدن بیژن در چاه از جام کیخسرو",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۵ - بازآمدن گرگین بی‌بیژن، سوگ گیو و بند گرگین، و دیدن بیژن در چاه از جام کیخسرو",
   "FullUrl": "/ferdousi/shahname/bizhan/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4884,6 +4884,134 @@
       "CoupletIndex": 179,
       "SectionIndex1": 0,
       "SectionIndex2": 181
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بیژن که او را در مرغزار گم کرد و پشیمان شد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو که در جشنگاه گم شده است"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن که با شنیدن گم‌شدن پسر سخت اندوهگین می‌شود"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرگین گمان می‌برد گزند بیژن از جانب اوست"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب پیشین اسب بور که گیو بر آن سوار می‌شود"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توصیف رنگ گور به موی او یا اسبش مانند شده است."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 110,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه گور به خنگ شباهنگ او آمده است."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گور به‌صورت تشبیه با دیو سپید مقایسه شده است."
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام اهریمن برای بیان دل‌پریشی و بدگوهری به کار رفته است. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که گیو را دلداری می‌دهد."
+    },
+    {
+      "CoupletIndex": 99,
+      "PersonId": 550,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گیو."
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که شاه می‌خواهد کین او را از توران بخواهد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 124,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده یا یادآور داستانی باستانی که شاه به آن اشاره می‌کند. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 177,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیمروز، تنها کسی که می‌تواند بیژن را برهاند."
     }
   ]
 }

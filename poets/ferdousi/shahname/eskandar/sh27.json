@@ -1,8 +1,8 @@
 {
   "Id": 1666,
   "CatId": 67,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۷",
+  "Title": "بخش ۲۷ - سوگند اسکندر به قیدافه، رای آشتی و هدایای شاهوار، آشکار شدن راز بر طینوش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۷ - سوگند اسکندر به قیدافه، رای آشتی و هدایای شاهوار، آشکار شدن راز بر طینوش",
   "FullUrl": "/ferdousi/shahname/eskandar/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2670,6 +2670,71 @@
       "CoupletIndex": 97,
       "SectionIndex1": 0,
       "SectionIndex2": 99
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده‌ای که نزد قیدافه می‌آید؛ قیدافه می‌گوید او از گنج سیر نمی‌شود. (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نزد قیدافه می‌آید و سوگند می‌خورد؛ قیدافه می‌گوید از گنج سیر نمی‌شود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی پادشاه که سوگند را می‌پذیرد و بزرگان را برای مشورت فرامی‌خواند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سوگند فرستاده به نام او سوگند یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 276,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده یا گنجور که باید هدیه‌ها را به او شمرد."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 277,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده جنگی که سپاه را می‌راند و سکندر با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 274,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
     }
   ]
 }

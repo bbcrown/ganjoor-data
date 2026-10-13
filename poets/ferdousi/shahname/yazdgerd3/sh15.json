@@ -1,8 +1,8 @@
 {
   "Id": 1938,
   "CatId": 96,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۵",
+  "Title": "بخش ۱۵ - آگهی بیژن از تخت‌ستانی ماهوی، روایت قتل نهانی یزدگرد و صف‌آرایی سپاه در پیکند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۵ - آگهی بیژن از تخت‌ستانی ماهوی، روایت قتل نهانی یزدگرد و صف‌آرایی سپاه در پیکند",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,35 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و شهریاری که از کار ماهوی آگاه می‌شود و سپاه گرد می‌آورد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 499,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار بیژن که از مرو و جنگ با ماهوی گزارش می‌دهد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 691,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که ماهوی او را در نهان کشت و گنجش را برداشت."
     }
   ]
 }

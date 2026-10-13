@@ -1,8 +1,8 @@
 {
   "Id": 1584,
   "CatId": 61,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۰",
+  "Title": "بخش ۱۰ - پاسخ رستم به اسفندیار: پند پرهیز از آز، دعوت به بزم و تن ندادن به بند",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۰ - پاسخ رستم به اسفندیار: پند پرهیز از آز، دعوت به بزم و تن ندادن به بند",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,62 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد کهن‌سال و پهلوان که پیام بهمن را می‌شنود و پاسخ می‌دهد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور اسفندیار که سخنش را به رستم می‌رساند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیردل مهتر نامدار که رستم پاسخ را برای او می‌فرستد"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که پایان فهرست عهد شاهان است"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که آغاز عهد شاهان با اوست"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که لشکر را به نزد او می‌برند و گوینده می‌خواهد خشمش را آرام کند."
     }
   ]
 }

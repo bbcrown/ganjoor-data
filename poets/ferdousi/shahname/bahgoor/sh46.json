@@ -1,8 +1,8 @@
 {
   "Id": 1815,
   "CatId": 83,
-  "Title": "بخش ۴۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۶",
+  "Title": "بخش ۴۶ - تهی شدن گنج بهرام، تاج‌بخشی به یزدگرد و مرگ شاه در خواب",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۶ - تهی شدن گنج بهرام، تاج‌بخشی به یزدگرد و مرگ شاه در خواب",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh46",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,17 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه درگذشته که تاج و تخت را از پدر می‌گیرد"
     }
   ]
 }

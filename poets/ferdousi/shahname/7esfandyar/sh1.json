@@ -673,5 +673,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 25
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ستوده‌شده، بخشنده و جنگاور که شاعر سخن خود را به نام او می‌گوید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 227,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نقاش که نقش او در تشبیه زیبایی جهان یاد شده است."
+    }
   ]
 }

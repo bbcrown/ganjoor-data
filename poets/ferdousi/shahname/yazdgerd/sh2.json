@@ -511,5 +511,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 19
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که بر تخت پدر نشست؛ برادر کهتر پیروز که در جنگ اسیر شد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر مهتر که با سپاه هیتالیان بر هرمز تاخت و او را اسیر کرد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 396,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه هیتال و چغانی که به پیروز سپاه داد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 323,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در گفتار فغانیش به عهد و پیمان خونی از او اشاره می‌شود."
+    }
   ]
 }

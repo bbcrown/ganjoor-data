@@ -1024,5 +1024,52 @@
       "SectionIndex1": 0,
       "SectionIndex2": 38
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): محبوب خسرو که از او دور است و مریم با او دشمنی دارد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر یا بانوی همنشین خسرو که او را از شیرین بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه دم و افسون‌گری مریم یاد شده است."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 120,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فقط در سوگند به تاج او یاد شده است."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌رسان نهانی میان خسرو و شیرین."
+    }
   ]
 }

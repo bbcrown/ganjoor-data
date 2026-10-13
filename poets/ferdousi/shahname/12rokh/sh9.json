@@ -1,8 +1,8 @@
 {
   "Id": 88031,
   "CatId": 56,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۹",
+  "Title": "بخش ۹ - پافشاری بیژن بر نبرد با هومان، ستاندن درع سیاوش و پیمان جنگ بامدادی",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۹ - پافشاری بیژن بر نبرد با هومان، ستاندن درع سیاوش و پیمان جنگ بامدادی",
   "FullUrl": "/ferdousi/shahname/12rokh/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3723,6 +3723,98 @@
       "CoupletIndex": 136,
       "SectionIndex1": 0,
       "SectionIndex2": 138
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سالار سپاه ایران، نیای بیژن."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که دلیرانه به پیش گودرز آمده است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو که برای نبرد با هومان آماده می‌شود و با پدر گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن که او را از شتاب و تندی بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب پیشین زره و سلاحی که بیژن می‌خواهد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار توران که کشته‌شدن هومان ممکن است او را از جنگ بازدارد."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه و استعاره برای بدکاری هومان و دشمنان آمده است (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 558,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاوری که بیژن از نبرد پیشین خود با او یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان سپاه که گودرز بیژن را از او بالاتر می‌برد"
+    },
+    {
+      "CoupletIndex": 120,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که بدی و نفرین از سوی او بر هومان یاد می‌شود."
     }
   ]
 }

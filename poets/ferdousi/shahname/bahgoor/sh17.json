@@ -1,8 +1,8 @@
 {
   "Id": 1786,
   "CatId": 83,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۷",
+  "Title": "بخش ۱۷ - شکار بهرام گور: زخم شگفت تیر و تیغ، بخشش گوران و باژ، آراستن شبستان در اصطخر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۷ - شکار بهرام گور: زخم شگفت تیر و تیغ، بخشش گوران و باژ، آراستن شبستان در اصطخر",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1914,6 +1914,26 @@
       "CoupletIndex": 69,
       "SectionIndex1": 0,
       "SectionIndex2": 71
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و جهاندار شکارگر که با تیر و شمشیر لشکر را شگفت‌زده می‌کند"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب شاه ایران که شاه از او برآشفته می‌شود و به او دستور می‌دهد."
     }
   ]
 }

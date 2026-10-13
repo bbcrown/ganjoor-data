@@ -1,8 +1,8 @@
 {
   "Id": 87962,
   "CatId": 51,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۸",
+  "Title": "بخش ۸ - پند نافرجام بهرام و بازگشت گردان، تاختن ریونیز و کشته شدنش به تیر فرود",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۸ - پند نافرجام بهرام و بازگشت گردان، تاختن ریونیز و کشته شدنش به تیر فرود",
   "FullUrl": "/ferdousi/shahname/forood/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,71 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): داماد طوس و پسر یگانه؛ به نبرد فرود می‌آید و با تیر او کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 454,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که ریونیز و دیگران را از جنگ با فرود بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور شاه و سوار نام‌آوری که بر کوه است و ریونیز را با تیر می‌کشد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بهرام فرود را از کیخسرو می‌شمارد و یک موی او را از صد پهلوان بهتر می‌داند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به زیبایی چهره‌اش اشاره می‌شود که هر که دید، از دیدارش آرام نمی‌گیرد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی و پدرزن ریونیز؛ از دور مرگ داماد را می‌بیند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد رزم‌دیده و کاردانی که فرود با او گفت‌وگو می‌کند."
     }
   ]
 }

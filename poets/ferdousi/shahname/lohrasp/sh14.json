@@ -1,8 +1,8 @@
 {
   "Id": 1523,
   "CatId": 58,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۴",
+  "Title": "بخش ۱۴ - رزم گشتاسپ با الیاس، اسارت و سپردنش به قیصر و نهادن کلاه کیان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۴ - رزم گشتاسپ با الیاس، اسارت و سپردنش به قیصر و نهادن کلاه کیان",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -699,6 +699,44 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم؛ سپاه را فرماندهی می‌کند و از الیاس باژ می‌خواهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 190,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر قیصر که فرماندهی میمنه را دارد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپاه قیصر که الیاس را اسیر می‌کند و نزد قیصر می‌برد"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 188,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار حریف که با گشتاسپ می‌جنگد و اسیر می‌شود"
     }
   ]
 }

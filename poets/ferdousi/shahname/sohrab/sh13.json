@@ -1,8 +1,8 @@
 {
   "Id": 1471,
   "CatId": 48,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۳",
+  "Title": "بخش ۱۳ - دیدن لشکرگاه ایران از بلندی، پرسش درفش‌ها از هجیر و نهفتن نشان رستم",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۳ - دیدن لشکرگاه ایران از بلندی، پرسش درفش‌ها از هجیر و نهفتن نشان رستم",
   "FullUrl": "/ferdousi/shahname/sohrab/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1237,7 +1237,7 @@
       "CoupletIndex": 5,
       "SectionIndex1": 0,
       "SectionIndex2": 7,
-      "CoupletSummary": "هوش مصنوعی: هجیر به دستور او به پیش رفت و به او گفت که تیر خطا نخواهد رفت."
+      "CoupletSummary": "دستور داد تا هجیر نزد او برود و به او گفت: شایسته نیست که تیر، کج و ناراست باشد."
     },
     {
       "VOrder": 12,
@@ -1254,7 +1254,7 @@
       "CoupletIndex": 6,
       "SectionIndex1": 0,
       "SectionIndex2": 8,
-      "CoupletSummary": "هوش مصنوعی: هر نشانه‌ای نباید به قدری ضعیف شود که در برابر مشکلات تاب نیاورد، زیرا اگر زخم کمی به آن فشار بیاورد، آن نشانه ممکن است از بین برود."
+      "CoupletSummary": "اگر چوبه ی تیر صاف نباشد نمی تواند به هدف بنشیند و اگر نتواند مسیر مستقیم را طی کند، از قدرتش کاسته می شود."
     },
     {
       "VOrder": 14,
@@ -3048,6 +3048,116 @@
       "CoupletIndex": 111,
       "SectionIndex1": 0,
       "SectionIndex2": 113
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی جوان که جنگ‌افزار می‌پوشد و از هجیر درباره سپاه ایران می‌پرسد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسیر ایرانی که سهراب او را فرا می‌خواند و از او پرسش می‌کند."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی، پسر نوذر، دارندهٔ درفش پیل‌پیکر."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سراپردهٔ او در قلب سپاه است. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که سراپرده‌اش در سپاه ایران است."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار ایرانی که سهراب از او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایران که سهراب از او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر طوس."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز و از مهتران گودرزیان در سپاه ایران."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند شاه و دارندهٔ تاج گوان که در پردهٔ سرخ نشسته است."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 119,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان هشیار از تخمهٔ گیوگان که در جنگ شیران را مهار می‌کند."
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که موبد در گذشته با او سخن گفته است."
     }
   ]
 }

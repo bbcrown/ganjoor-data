@@ -592,5 +592,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 22
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نویسندهٔ نامه‌ای که خسرو را ناتوان می‌کند؛ با ناز خود او را سرگردان می‌سازد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با کارآشوبی‌اش خسرو را آزرد؛ با پایان جشنش شاه آسوده شد."
+    }
   ]
 }

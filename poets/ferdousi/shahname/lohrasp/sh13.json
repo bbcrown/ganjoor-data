@@ -1,8 +1,8 @@
 {
   "Id": 1522,
   "CatId": 58,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۳",
+  "Title": "بخش ۱۳ - نامهٔ قیصر به الیاس خزر و پاسخ سرکش او، آمادگی گشتاسپ و رد فرستادهٔ فریبکار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۳ - نامهٔ قیصر به الیاس خزر و پاسخ سرکش او، آمادگی گشتاسپ و رد فرستادهٔ فریبکار",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,71 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که به الیاس نامه می‌نویسد و با گشتاسپ مشورت می‌کند"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 188,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر مرز خزر و پسر مهراس که با قیصر درمی‌افتد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 189,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر الیاس"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه قیصر که پذیرفته با الیاس بجنگد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نماد بدی که دام او در تشبیه یاد می‌شود (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 185,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه اهرن که برای قیصر پیام می‌فرستد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 186,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه میرین که گشتاسپ از کژی او در رزم می‌ترسد."
     }
   ]
 }

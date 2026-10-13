@@ -2357,5 +2357,70 @@
       "SectionIndex1": 0,
       "SectionIndex2": 88
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه خورشید صبحگاهی با نارنج در دست آمده است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 668,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه ماه و شکستن ترنج به او اشاره شده است."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از فرمانروایان حاضر و ایستاده در بارگاه خسرو."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از فرمانروایان حاضر و ایستاده در بارگاه خسرو."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از فرمانروایان حاضر و ایستاده در بارگاه خسرو."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن خسرو که پیک از پایان کار او خبر می‌دهد. (نام در متن: بهرام چوبین)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسه با بهرام چوبین و یادآوری سرنوشتش آمده است."
+    }
   ]
 }

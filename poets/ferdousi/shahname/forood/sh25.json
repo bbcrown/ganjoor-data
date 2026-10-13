@@ -1,8 +1,8 @@
 {
   "Id": 87979,
   "CatId": 51,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۵",
+  "Title": "بخش ۲۵ - فرجام داستان فرود: آگهی پیروزی به افراسیاب، جشن و خلعت و پند پیران",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۵ - فرجام داستان فرود: آگهی پیروزی به افراسیاب، جشن و خلعت و پند پیران",
   "FullUrl": "/ferdousi/shahname/forood/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1212,6 +1212,53 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و سالار تورانی که به افراسیاب خبر می‌فرستد و از او پند می‌گیرد"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که برای پیران خلعت و پند می‌فرستد"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که افراسیاب از نیروی او به پیران هشدار می‌دهد"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که افراسیاب از حضور او هشدار می‌دهد"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 167,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نبرد او موضوع داستان بعدی است"
     }
   ]
 }

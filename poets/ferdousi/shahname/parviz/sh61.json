@@ -1,8 +1,8 @@
 {
   "Id": 1896,
   "CatId": 88,
-  "Title": "بخش ۶۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۱",
+  "Title": "بخش ۶۱ - گسیل سپاه خسرو پرویز به چهار مرز، کشتن یاران بندوی و بخش کردن روزگار بر چهار بهر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۱ - گسیل سپاه خسرو پرویز به چهار مرز، کشتن یاران بندوی و بخش کردن روزگار بر چهار بهر",
   "FullUrl": "/ferdousi/shahname/parviz/sh61",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,71 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که سپاه برمی‌گزیند، مرزها را نگهبان می‌گمارد و گنج می‌بخشد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 330,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج‌های کهن را او و قباد نهاده بودند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج‌های کهن را او و پیروز نهاده بودند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درهم‌هایی با رقم او در گنج بود."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بندوی و زنگوی در بخش کین‌خواهی آمده است."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یاران او به فرمان شاه سر بریده شدند."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 426,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بندوی و گستهم در بخش کین‌خواهی آمده است."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1570,
   "CatId": 60,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۱",
+  "Title": "بخش ۱۱ - گزارش آتش به پشوتن، تاختن سپاه بر دژ، کشتن طرخان به دست نوش‌آذر و فرمان ارجاسپ به جنگ",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۱ - گزارش آتش به پشوتن، تاختن سپاه بر دژ، کشتن طرخان به دست نوش‌آذر و فرمان ارجاسپ به جنگ",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,53 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپه‌کش در قلب سپاه؛ گزارش دیده‌بان را می‌شنود و سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار با گرز و بارهٔ نامدار؛ نامش دژ را پر کرده است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر ارجاسپ و سپهدار شیرگیر؛ گریخته به دژ باز می‌گردد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 229,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرافراز سپهدار که با ده هزار تن می‌رود و به دست نوش‌آذر دو نیم می‌شود."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تیغ‌زن که طرخان را با شمشیر دو نیم می‌کند."
     }
   ]
 }

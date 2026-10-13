@@ -1,8 +1,8 @@
 {
   "Id": 1624,
   "CatId": 64,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۶",
+  "Title": "بخش ۶ - گفتگوی رشنواد با گازر، نامه و یاقوت به همای، شناختن داراب و بخشش گنج",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۶ - گفتگوی رشنواد با گازر، نامه و یاقوت به همای، شناختن داراب و بخشش گنج",
   "FullUrl": "/ferdousi/shahname/homa/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,35 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 242,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوانی که در طاق ویران خفته یافته شد و پسر همای است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 243,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که داراب را می‌یابد و ماجرا را برای همای می‌نویسد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 623,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهِ دریافت‌کنندهٔ نامه که داراب را فرزند خود می‌شناسد و گریان می‌شود."
     }
   ]
 }

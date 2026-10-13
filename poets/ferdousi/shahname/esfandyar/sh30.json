@@ -1,8 +1,8 @@
 {
   "Id": 1604,
   "CatId": 61,
-  "Title": "بخش ۳۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۳۰",
+  "Title": "بخش ۳۰ - تشییع تابوت آهنین اسفندیار، خشم مهان ایران و نکوهش گشتاسپ به دست پشوتن و خواهران",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۳۰ - تشییع تابوت آهنین اسفندیار، خشم مهان ایران و نکوهش گشتاسپ به دست پشوتن و خواهران",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh30",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,134 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): چهل اشتر می‌آورد و بهمن را در ایوان خود می‌پرورد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در تابوت او را از زابل می‌برند و همه سوگوارش‌اند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تابوت و اسب سیاه را پیشاپیش سپاه می‌برد و تابوت را می‌گشاید."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با رفتن سپاه در زابل می‌ماند و اشک می‌ریزد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که خبر مرگ را می‌شنود، سوگوار می‌شود و بزرگان او را نکوهش می‌کنند."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روزگار گذشته که برای سنجش با اسفندیار یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر شاه که بر اسب سیاه خاک می‌ریزد و سوگواری می‌کند."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیری که پشوتن او را بدکیش و دروغگو می‌خواند"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خواهران اسفندیار که با آفرید نزد پدر می‌روند"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 225,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خواهران اسفندیار که با همای نزد پدر می‌روند (نام در متن: آفرید)"
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 178,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که اسفندیار کین او را از دشمن خواست"
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 224,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زردهشتی که کشته شد"
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجودی داستانی که در مرگ اسفندیار نقشی نداشت"
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در کنار رستم و سیمرغ از کشتن اسفندیار مبرا شمرده می‌شود"
     }
   ]
 }

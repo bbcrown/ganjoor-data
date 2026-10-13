@@ -1,8 +1,8 @@
 {
   "Id": 1548,
   "CatId": 59,
-  "Title": "بخش ۲۲ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۲ - سخن دقیقی",
+  "Title": "بخش ۲۲ - سخن دقیقی: توطئهٔ گرزَم علیه اسفندیار و بدگمانی گشتاسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۲ - سخن دقیقی: توطئهٔ گرزَم علیه اسفندیار و بدگمانی گشتاسپ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,44 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 214,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرکش جنگاور که کینهٔ اسفندیار را دارد و نزد شاه از او سخن‌چینی می‌کند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزادهٔ نامور و بی‌یار در رزم که به آماده‌شدن برای رزم و بستن شاه متهم می‌شود."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی پیشین که جاماسپ دستور او بوده است."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر جهاندیده و دستور شاه که برای فراخواندن اسفندیار فرستاده می‌شود."
     }
   ]
 }

@@ -1186,5 +1186,51 @@
       "SectionIndex1": 0,
       "SectionIndex2": 44
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جادوپرست و ستمکار که طلسم ساخت و تخت او گرفته شد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور آبتین که کین‌جویانه ضحاک را شکست داد و بر تخت نشست"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختران جهاندار که در ایوان ضحاک بودند (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 22,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریدون که ضحاک او را به زاری کشت"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 10,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

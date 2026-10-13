@@ -30,5 +30,36 @@
       "CoupletIndex": 2,
       "CoupletSummary": "هوش مصنوعی: در حین صحبت، اشاره کرد که من از استاد ابوعلی سینا رحمت الله علیه این مطالب را خواندم و شنیدم. او به من فهماند که خودش شاگرد ابوعلی سینا است. وقتی در مورد موضوعی با او به بحث پرداختم، او گفت که چیزی از ذات موضوع نمی‌داند و فقط تمایل دارد که چیزی از حساب یاد بگیرد. از این حرف او تعجب کردم و به خودم گفتم که اگر او چیزی نمی‌داند، چگونه می‌تواند به دیگران چیزی آموزش دهد؟"
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 53,
+      "LunarYear": 437,
+      "LunarMonth": 11,
+      "LunarDay": 8,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 63,
+      "LunarYear": 437,
+      "LunarMonth": 11,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 98,
+      "LunarYear": 437,
+      "LunarMonth": 12,
+      "LunarDay": 1,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1791,
   "CatId": 83,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۲",
+  "Title": "بخش ۲۲ - تاخت بهرام‌گور سوی آموی، زاری ترکان و ستدن باژ، نهادن مرز جیحون و شاهی شمر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۲ - تاخت بهرام‌گور سوی آموی، زاری ترکان و ستدن باژ، نهادن مرز جیحون و شاهی شمر",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,26 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه یزدان‌پرست که با ترکان روبه‌رو شد، از خون‌ریزی گذشت و باژ ستاند. (نام در متن: بهرام‌گور)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 386,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی خردمند از لشکر که بهرام او را شاه توران کرد."
     }
   ]
 }

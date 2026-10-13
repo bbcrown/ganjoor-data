@@ -1,8 +1,8 @@
 {
   "Id": 1785,
   "CatId": 83,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۶",
+  "Title": "بخش ۱۶ - تأمل بهرام گور در مرگ، کشتن شیران به شمشیر در جز و فرمان داد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۶ - تأمل بهرام گور در مرگ، کشتن شیران به شمشیر در جز و فرمان داد",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2562,6 +2562,44 @@
       "CoupletIndex": 93,
       "SectionIndex1": 0,
       "SectionIndex2": 95
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 41,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و شیرافکن که با شمشیر شیران بیشه را می‌کشد"
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار پیشین که به بخت او پیر جوان شد"
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از روم به ایران آمد و ایران را ویران کرد"
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردم بر او آفرین می‌گویند."
     }
   ]
 }

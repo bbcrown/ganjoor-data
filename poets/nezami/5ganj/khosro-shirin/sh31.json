@@ -1051,5 +1051,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 39
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسهٔ گم‌شدنِ شاه درگذشته آمده است."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 653,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیهِ داغ و اندوهِ از دست دادن آمده است."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده که خطاب به خودش پند داده می‌شود."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای سرمشق و تشبیه در پند به نظامی آمده است."
+    }
   ]
 }

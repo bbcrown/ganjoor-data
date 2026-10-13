@@ -1,8 +1,8 @@
 {
   "Id": 1720,
   "CatId": 69,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۳",
+  "Title": "بخش ۱۳ - تأمل در ناپایداری سرای کهن و سرانجام خاکی شاهان و بزرگان، با نشان اردشیر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۳ - تأمل در ناپایداری سرای کهن و سرانجام خاکی شاهان و بزرگان، با نشان اردشیر",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -375,6 +375,17 @@
       "CoupletIndex": 12,
       "SectionIndex1": 0,
       "SectionIndex2": 14
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 12,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری که به‌عنوان نشانه و نمونه‌ای برای پند آمده است."
     }
   ]
 }

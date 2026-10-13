@@ -1,8 +1,8 @@
 {
   "Id": 1796,
   "CatId": 83,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۷",
+  "Title": "بخش ۲۷ - نشاندن فرستادهٔ قیصر بر تخت بهرام، هفت پرسش نهان و پاسخ موبد در ستایش خرد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۷ - نشاندن فرستادهٔ قیصر بر تخت بهرام، هفت پرسش نهان و پاسخ موبد در ستایش خرد",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1590,6 +1590,26 @@
       "CoupletIndex": 57,
       "SectionIndex1": 0,
       "SectionIndex2": 59
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که فرستادهٔ قیصر را می‌پذیرد، می‌نوازد و بر تخت می‌نشاند."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ پیام و پرسش‌های هفتگانه به نزد شاه."
     }
   ]
 }

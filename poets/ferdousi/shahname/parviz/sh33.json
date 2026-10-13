@@ -1,8 +1,8 @@
 {
   "Id": 1868,
   "CatId": 88,
-  "Title": "بخش ۳۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۳",
+  "Title": "بخش ۳۳ - نبرد خسرو و بهرام چوبینه، بخشایش شبانهٔ سپاه و گریز بهرام با گنج",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۳ - نبرد خسرو و بهرام چوبینه، بخشایش شبانهٔ سپاه و گریز بهرام با گنج",
   "FullUrl": "/ferdousi/shahname/parviz/sh33",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,35 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار سپاه مخالف که با شاه می‌جنگد و سرانجام شبانه می‌گریزد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در سخن بهرام برای یادکرد و نکوهش خاندان شاهی آمده است. (نام در متن: نوشین روان)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه شاه که او را از خون‌ریزی بازمی‌دارد و میان دو لشکر می‌رود."
     }
   ]
 }

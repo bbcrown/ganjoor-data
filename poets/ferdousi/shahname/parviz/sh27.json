@@ -1,8 +1,8 @@
 {
   "Id": 1862,
   "CatId": 88,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۷",
+  "Title": "بخش ۲۷ - فرستادن مریم با جهیز و لشکر روم نزد خسرو، دیدار نیاطوس و شادمانی خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۷ - فرستادن مریم با جهیز و لشکر روم نزد خسرو، دیدار نیاطوس و شادمانی خسرو",
   "FullUrl": "/ferdousi/shahname/parviz/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1725,6 +1725,80 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر خردمند قیصر که به همسری خسرو فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که دختر قیصر را می‌پذیرد و او را می‌ستایند"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر و میانجی سخن‌ها"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 439,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رازدار که آزادگان را به چیزی نمی‌فروشد (نام در متن: لوی)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم و پدر مریم"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 443,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر مریم و سالار لشکر او"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 444,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که با کوت نزد خسرو خوانده می‌شود."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 445,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجو و از سران سپاه که با سرگس نزد خسرو است."
     }
   ]
 }

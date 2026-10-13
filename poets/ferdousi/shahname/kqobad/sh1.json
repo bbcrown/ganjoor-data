@@ -1,8 +1,8 @@
 {
   "Id": 1425,
   "CatId": 45,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۱",
+  "Title": "بخش ۱ -\u00A0تاج‌گذاری کیقباد و آرایش سپاه ایران و توران و کشته شدن شماساس به دست قارن",
+  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۱ -\u00A0تاج‌گذاری کیقباد و آرایش سپاه ایران و توران و کشته شدن شماساس به دست قارن",
   "FullUrl": "/ferdousi/shahname/kqobad/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -699,6 +699,116 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 83,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): بر شاهی نشست، تاج نهاد و لشکر برداشت"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): رزم‌زن و سپهدار که شماساس را کشت (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): از نامدارانی که انجمن شدند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): گو که با دیگران گوهر بر تاج فشاند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): با کشواد و برزین بر تاج گوهر فشاند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): گرد لشکر شکن که گوهر بر تاج فشاند"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): با سپاه خود در برابر قباد دیده شد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): سلاح نبرد پوشید و چون پیل ژیان شد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): خدای کابل در یک دست سپاه ایستاد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): پهلوان جنگی در دست دیگر سپاه"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): پشت سر سپاه کنار کیقباد بود"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 71,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): گرد دلیر که از ضرب قارن نگون شد"
     }
   ]
 }

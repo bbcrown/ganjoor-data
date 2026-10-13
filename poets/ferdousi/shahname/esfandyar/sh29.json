@@ -1,8 +1,8 @@
 {
   "Id": 1603,
   "CatId": 61,
-  "Title": "بخش ۲۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۹",
+  "Title": "بخش ۲۹ - وصیت واپسین و مرگ اسفندیار، سپردن بهمن به رستم و هشدار زواره",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۹ - وصیت واپسین و مرگ اسفندیار، سپردن بهمن به رستم و هشدار زواره",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2076,6 +2076,98 @@
       "CoupletIndex": 75,
       "SectionIndex1": 0,
       "SectionIndex2": 77
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که اسفندیار با او سخن می‌گوید و پسر زال است"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزادهٔ زخم‌خورده که در آستانهٔ مرگ به رستم سفارش می‌کند"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که به میدان نبرد می‌آید و می‌گرید"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان رستم که با گریه به میدان می‌رود"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان رستم که با گریه به میدان می‌رود"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن اسفندیار همراه رستم و تیر و کمان یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر اسفندیار که او را به رستم می‌سپارد"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 205,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنی از او دربارهٔ بهمن و سرنوشت نقل می‌شود"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب اسفندیار که باید لشکر را به ایران بازگرداند"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر اسفندیار که اسفندیار از ستم او می‌نالد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87991,
   "CatId": 52,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۳",
+  "Title": "بخش ۱۳ - دیدار گودرز و فریبرز، سوگ کشتگان و مژدهٔ آمدن رستم و لاف کاموس",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۳ - دیدار گودرز و فریبرز، سوگ کشتگان و مژدهٔ آمدن رستم و لاف کاموس",
   "FullUrl": "/ferdousi/shahname/kamoos/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2670,6 +2670,161 @@
       "CoupletIndex": 97,
       "SectionIndex1": 0,
       "SectionIndex2": 99
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهدار پیر ایرانی که به پیشواز فریبرز می‌رود و از مرگ فرزندانش می‌نالد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریبرز. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیش‌رو و سالار سپاه ایران که با گودرز دیدار می‌کند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین او مایهٔ زیان گودرز و گودرزیان شده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار لشکری که گودرز از انبوهی آن سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که گودرز جویای اوست و دستور ماندن در رزمگاه داده است."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر سپاه توران که دیده‌بان خبر ایرانیان را نزد او می‌برد."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور رزم‌آزمای سپاه توران که خاقان را مخاطب قرار می‌دهد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که بزرگان درگاهش در سپاه حضور دارند."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور همراه خاقان در سپاه توران."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگ تورانی که با خاقان گفتگو می‌کند و از آمدن سپاه ایران نگران است."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و شیران نبرد تورانی."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و شیران نبرد تورانی."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان و شیران نبرد تورانی."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تورانیان که پیران را دلداری می‌دهد."
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که تورانیان از او و سپاهش یاد می‌کنند."
+    },
+    {
+      "CoupletIndex": 81,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه دشمن که درفش و تاج و تخت او غنیمت آرزو می‌شود."
     }
   ]
 }

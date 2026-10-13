@@ -1,8 +1,8 @@
 {
   "Id": 1894,
   "CatId": 88,
-  "Title": "بخش ۵۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۹",
+  "Title": "بخش ۵۹ - گماردن خسرو مردی شوم‌پی و زشت‌روی بر ری و ویرانی شهر با کشتن گربه و کندن ناودان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۹ - گماردن خسرو مردی شوم‌پی و زشت‌روی بر ری و ویرانی شهر با کشتن گربه و کندن ناودان",
   "FullUrl": "/ferdousi/shahname/parviz/sh59",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1212,6 +1212,35 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 464,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در آغاز روایت از او یاد می‌شود که به چیزی نیاز نداشت."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش بر جام نوشته شده و بزرگان او را نفرین می‌کنند. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 607,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستور شاه که با او گفتگو می‌کند و برای یافتن آن مرد پیشنهاد می‌دهد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1456,
   "CatId": 47,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۱۰",
+  "Title": "بخش ۱۰ - سور رستم در نوند، شکار هفت یل در دشت توران و آماده‌سازی افراسیاب برای حملهٔ ناگهانی",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۱۰ - سور رستم در نوند، شکار هفت یل در دشت توران و آماده‌سازی افراسیاب برای حملهٔ ناگهانی",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2184,6 +2184,143 @@
       "CoupletIndex": 79,
       "SectionIndex1": 0,
       "SectionIndex2": 81
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جنگجو که میزبان بزم است و در شکار به توران می‌رود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران در بزم رستم."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران، از کشوادگان، در بزم رستم."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان آزاده که در مستی رستم را به شکار توران می‌خواند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران در بزم رستم."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگ‌آوران ایرانی در بزم رستم."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگ‌آوران ایرانی در بزم رستم."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران در بزم رستم."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران در بزم رستم."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان گردنکش و تیغ‌زن در بزم رستم."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردستهٔ انجمن بزرگان در بزمگاه."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران؛ شکارگاهش مقصد ایرانیان است و از آمدنشان آگاه می‌شود."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که رستم نخستین جام را به نام او می‌نوشد (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 15,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن سران برای مقایسهٔ توان رستم در باده‌نوشی آمده است"
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم به روی او باده می‌نوشد"
     }
   ]
 }

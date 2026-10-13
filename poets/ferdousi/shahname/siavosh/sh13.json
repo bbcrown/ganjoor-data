@@ -1,8 +1,8 @@
 {
   "Id": 1492,
   "CatId": 49,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۳",
+  "Title": "بخش ۱۳ - خواب پیران و زادن کیخسرو، پرورش نزد شبانان، نمودن دیوانگی پیش افراسیاب و رفتن به سیاوشگرد",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۳ - خواب پیران و زادن کیخسرو، پرورش نزد شبانان، نمودن دیوانگی پیش افراسیاب و رفتن به سیاوشگرد",
   "FullUrl": "/ferdousi/shahname/siavosh/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4452,6 +4452,107 @@
       "CoupletIndex": 163,
       "SectionIndex1": 0,
       "SectionIndex2": 165
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار و پهلوان سپاه که سیاوش را به خواب می‌بیند و به جشن کیخسرو می‌رود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در خواب پیران پدیدار می‌شود و او را به جشن کیخسرو فرا می‌خواند. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و جهانجوی که برای او جشن و سور برپاست. (نام در متن: کیخسرو)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 148,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که کیخسرو را می‌بیند و خبر شادی را به پیران می‌رساند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیران گلشهر را پیش او می‌فرستد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیران با گریه بر او نفرین می‌کند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تورانیان که از تخمهٔ او سخن می‌رود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در فرّ و چهر و دست و پا به او مانند می‌شود."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاهی بانژاد که از تخمهٔ او برمی‌خیزد."
+    },
+    {
+      "CoupletIndex": 160,
+      "PersonId": 158,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): وصی پیامبر؛ گوینده خود را خاک پای او می‌داند."
+    },
+    {
+      "CoupletIndex": 160,
+      "PersonId": 159,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر؛ گوینده بندهٔ اهل بیت او است."
     }
   ]
 }

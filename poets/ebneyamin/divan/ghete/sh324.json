@@ -70,46 +70,31 @@
     {
       "VOrder": 7,
       "Position": "Right",
-      "Text": "جاهل بمسند اندر و عالم برون در",
+      "Text": "جهال در تنعم و ارباب فضل را",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "CoupletSummary": "هوش مصنوعی: نادان در مقام و جایگاه خود به سر می‌برد و عالم در بیرون از آن به دنبال کلید و راهی است، اما به دربان نمی‌رسد."
+      "CoupletSummary": "هوش مصنوعی: نادانان در خوشی و راحتی به سر می‌برند، اما فرزندان فضل و علم با وجود تمام زحمت‌ها و غصه‌ها، حتی برای یک نان ناقابل هم به زحمت می‌افتند."
     },
     {
       "VOrder": 8,
       "Position": "Left",
-      "Text": "جوید کلید و راه بدربان نمیرسد",
+      "Text": "با صد هزار غصه یکی نان نمیرسد",
       "CoupletIndex": 3,
       "SectionIndex1": 0
     },
     {
       "VOrder": 9,
       "Position": "Right",
-      "Text": "جهال در تنعم و ارباب فضل را",
-      "CoupletIndex": 4,
-      "SectionIndex1": 0,
-      "CoupletSummary": "هوش مصنوعی: نادانان در خوشی و راحتی به سر می‌برند، اما فرزندان فضل و علم با وجود تمام زحمت‌ها و غصه‌ها، حتی برای یک نان ناقابل هم به زحمت می‌افتند."
-    },
-    {
-      "VOrder": 10,
-      "Position": "Left",
-      "Text": "با صد هزار غصه یکی نان نمیرسد",
-      "CoupletIndex": 4,
-      "SectionIndex1": 0
-    },
-    {
-      "VOrder": 11,
-      "Position": "Right",
       "Text": "اینکارها بحکمت یزدان مقدرست",
-      "CoupletIndex": 5,
+      "CoupletIndex": 4,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: این کارها به حکمت خداوند تعیین شده است و هیچ‌کس به رازهای آن حکمت پی نخواهد برد."
     },
     {
-      "VOrder": 12,
+      "VOrder": 10,
       "Position": "Left",
       "Text": "کس در رموز حکمت یزدان نمیرسد",
-      "CoupletIndex": 5,
+      "CoupletIndex": 4,
       "SectionIndex1": 0
     }
   ]

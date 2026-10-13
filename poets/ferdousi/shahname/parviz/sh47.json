@@ -1,8 +1,8 @@
 {
   "Id": 1882,
   "CatId": 88,
-  "Title": "بخش ۴۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۷",
+  "Title": "بخش ۴۷ - کشتن بهرام به دشنهٔ قلون، زاری خواهر، پشیمانی و وصیت و مرگ پهلوان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۷ - کشتن بهرام به دشنهٔ قلون، زاری خواهر، پشیمانی و وصیت و مرگ پهلوان",
   "FullUrl": "/ferdousi/shahname/parviz/sh47",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,71 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 84,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ دخت خاقان که با خنجر به نزد بهرام رفت و گرفتار شد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و مهتر تاجور که قلون به دیدارش می‌رود و زخمی می‌شود (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 463,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ پیام به بهرام؛ بیمار و آبستن است و در را بسته"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بزرگی که با گفتار دیوان جهان را بر خود تیره کرد."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نیک‌اختر که با گفتار دیو تباه شد. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که بهرام سپاه را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که بهرام از او رنج دیده و برایش نامه می‌نویسد. (نام در متن: خاقان چین)"
     }
   ]
 }

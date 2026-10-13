@@ -1,8 +1,8 @@
 {
   "Id": 1536,
   "CatId": 59,
-  "Title": "بخش ۱۰ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۰ - سخن دقیقی",
+  "Title": "بخش ۱۰ - سخن دقیقی: پیش‌گویی جاماسپ دربارهٔ نبرد و سرنوشت پهلوانان ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۰ - سخن دقیقی: پیش‌گویی جاماسپ دربارهٔ نبرد و سرنوشت پهلوانان ایران",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3291,6 +3291,134 @@
       "CoupletIndex": 120,
       "SectionIndex1": 0,
       "SectionIndex2": 122
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و فرمانده سپاه که از جاماسپ دربارهٔ فرجام جنگ می‌پرسد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سر موبدان و ستاره‌شناس دانا که برای شاه آیندهٔ جنگ را پیش‌بینی می‌کند"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نبرده‌سوار که شاه به جان او سوگند می‌خورد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرانمایه‌ای که شاه به جان او سوگند می‌خورد"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامداری که در پیشگویی جاماسپ نخستین کس در جنگ است."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که شیدسپ در آمدن به میدان به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 212,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند شاه که در پیشگویی جنگ می‌کند و سرانجام کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه؛ درفش به او نسبت داده شده است."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر زریر؛ شیرآسا به میدان می‌تازد و دشمنان بسیار را نابود می‌کند."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که در میان سپاه دیده می‌شود. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 202,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که در پیشگویی از او یاد می‌شود و خوانده می‌شود."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 203,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترک پلید که در کمین می‌نشیند و شاه را ناپدید می‌کند."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 214,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در جنگ کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 119,
+      "PersonId": 364,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چگل که شاه برای جنگ با او آماده می‌شود."
     }
   ]
 }

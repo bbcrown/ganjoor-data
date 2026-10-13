@@ -1,8 +1,8 @@
 {
   "Id": 1745,
   "CatId": 77,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۳",
+  "Title": "بخش ۱۳ - تاج‌گذاری برانوش، نامهٔ زنهارخواهی به شاپور و پاسخ گشاده‌روی شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۳ - تاج‌گذاری برانوش، نامهٔ زنهارخواهی به شاپور و پاسخ گشاده‌روی شاه",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1050,6 +1050,89 @@
       "CoupletIndex": 37,
       "SectionIndex1": 0,
       "SectionIndex2": 39
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 308,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی خردمند از نژاد قیصران که رومیان او را قیصر کردند و به شاپور نامه نوشت."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی خردمند از نژاد قیصران که لشکر او را قیصر روم کرد و نامه به شاپور نوشت. (نام در متن: برانوش)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه مخاطب نامهٔ برانوش که نامه را می‌خواند و پاسخ می‌نویسد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین او در گذشته یادآوری می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین ایرج را به مردی گرفت."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تنش به سبب آن کین خاک شد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): روی زمین از او پاک شد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین او در نامه برای مقایسه یاد شده است."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین او همراه با کین اسکندر یاد شده است."
     }
   ]
 }

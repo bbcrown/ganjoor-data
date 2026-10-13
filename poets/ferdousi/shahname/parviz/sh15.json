@@ -1,8 +1,8 @@
 {
   "Id": 1850,
   "CatId": 88,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۵",
+  "Title": "بخش ۱۵ - رهایی بندوی به فریب نگهبان، کشته شدن توطئه‌گر در چوگان و گریز بندوی نزد موسیل ارمنی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۵ - رهایی بندوی به فریب نگهبان، کشته شدن توطئه‌گر در چوگان و گریز بندوی نزد موسیل ارمنی",
   "FullUrl": "/ferdousi/shahname/parviz/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2265,6 +2265,89 @@
       "CoupletIndex": 82,
       "SectionIndex1": 0,
       "SectionIndex2": 84
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زندانی بهرام که هفتاد روز در بند بود"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان بندوی که با او پیمان می‌بندد و بندش را برمی‌دارد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که گیتی به او بازداده شد"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب تاج و تخت که دشمنان برای نابودی‌اش نقشه می‌کشند"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که ممکن است به خسرو سپاه دهد"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 466,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند سیاوش که فرستادهٔ بهرام نزد او می‌آید."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 435,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بهرام او را به نگهبانی از بندوی فرمان داد."
+    },
+    {
+      "CoupletIndex": 75,
+      "PersonId": 436,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ارمنی‌ای که راه گریز بندوی و همراهانش به او نسبت داده شده است."
+    },
+    {
+      "CoupletIndex": 75,
+      "PersonId": 437,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد ارمنی صاحب سراپرده در بیابان؛ بندوی را از رفتن بازمی‌دارد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88078,
   "CatId": 57,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۹",
+  "Title": "بخش ۱۹ - نامهٔ گشودن دژ افراسیاب نزد کاووس، نیایش شاه، بند گرسیوز و خلعت گیو",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۹ - نامهٔ گشودن دژ افراسیاب نزد کاووس، نیایش شاه، بند گرسیوز و خلعت گیو",
   "FullUrl": "/ferdousi/shahname/mahmood/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1941,6 +1941,62 @@
       "CoupletIndex": 70,
       "SectionIndex1": 0,
       "SectionIndex2": 72
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب دژی با تخت، گنج و سپاه که نامه دربارهٔ او نوشته می‌شود"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و فرستادهٔ شاه که از نبرد بازمی‌گردد و گزارش می‌دهد"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که گیو را می‌پذیرد و نامه را می‌شنود (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بدکنشی که پای سیاوش را از جای برد؛ نفرین می‌شود و به جای تاریک می‌افتد."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که پای او از جای برده شد و کشتنش انگیزهٔ مجازات است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان و دست‌اندرکاران مرگ سیاوش که او را پابند کرده نزد شاه می‌برند."
     }
   ]
 }

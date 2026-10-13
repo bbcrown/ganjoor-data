@@ -1456,5 +1456,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 54
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 288,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اتابک و شاهنشاه ستایش‌شده، ممدوح سراینده با نام شمس‌الدین‌و‌الدنیا (نام در متن: ابوجعفر محمد)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 173,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسهٔ خراسان‌گیری ممدوح با او یاد شده است"
+    }
   ]
 }

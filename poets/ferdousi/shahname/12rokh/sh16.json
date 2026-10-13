@@ -1,8 +1,8 @@
 {
   "Id": 88038,
   "CatId": 56,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۶",
+  "Title": "بخش ۱۶ - پیام پیران به افراسیاب: گزارش مرگ هومان و نستیهن و درخواست آمدن شاه به کین",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۶ - پیام پیران به افراسیاب: گزارش مرگ هومان و نستیهن و درخواست آمدن شاه به کین",
   "FullUrl": "/ferdousi/shahname/12rokh/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1455,6 +1455,89 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که فرستاده نزد او می‌رود و پیام برای او است"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که گفته می‌شود با سپاه به رزمگاه می‌آید"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که با سپاه و سران به توران آمده است"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته ایران که زمان او نقطهٔ مقایسه است"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر گوینده و پهلوان تورانی که در نبرد با بیژن درگیر شد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی، پسر گیو، که با هومان می‌جنگد"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار با ده هزار سوار"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستنده‌ٔ پیام هشداردهنده دربارهٔ آمدن کیخسرو نزد افراسیاب."
     }
   ]
 }

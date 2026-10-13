@@ -1,8 +1,8 @@
 {
   "Id": 1383,
   "CatId": 41,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۶",
+  "Title": "بخش ۶ - راز عاشقی گفتن رودابه با ندیمه‌هایش",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۶ - راز عاشقی گفتن رودابه با ندیمه‌هایش",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,44 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زال که فقط در نام‌بردن از پسرش آمده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پسر سام که رودابه دلبستهٔ اوست."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر عاشق زال که رازش را با پنج پرستندهٔ ترک در میان می‌گذارد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه برخاستن پرستندگان از جای خود آمده است. (نام در متن: اهرمن)"
     }
   ]
 }

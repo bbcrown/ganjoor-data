@@ -187,5 +187,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 7
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر و گوینده‌ای که فرزند هفت‌ساله‌اش را مخاطب قرار می‌دهد"
+    }
   ]
 }

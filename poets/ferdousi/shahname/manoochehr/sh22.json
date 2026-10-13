@@ -1,8 +1,8 @@
 {
   "Id": 1399,
   "CatId": 41,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۲",
+  "Title": "بخش ۲۲ - پاسخ نامهٔ منوچهر به سام، بازگشت زال با خلعت و آراستن کابل برای جشن وصلت",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۲ - پاسخ نامهٔ منوچهر به سام، بازگشت زال با خلعت و آراستن کابل برای جشن وصلت",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1212,6 +1212,53 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که نامه‌اش پاسخ داده می‌شود و نوند نزد او می‌رود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور سام، پهلوان و داماد آینده که پیوندش مایهٔ شادی کابل است"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کابل که از پیوند با زال شاد می‌شود و سیندخت را می‌خواند"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر مهراب که به آراستن کاخ و ایوان‌ها می‌پردازد"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر سیندخت و مهراب که به دیدار زال مژده داده می‌شود"
     }
   ]
 }

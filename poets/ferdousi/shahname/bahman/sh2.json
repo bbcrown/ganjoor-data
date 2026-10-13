@@ -1,8 +1,8 @@
 {
   "Id": 1615,
   "CatId": 63,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۲",
+  "Title": "بخش ۲ - پیام کین‌خواهی بهمن به زال، رد پوزش و پیشکش، بستن دستان و تاراج زابلستان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۲ - پیام کین‌خواهی بهمن به زال، رد پوزش و پیشکش، بستن دستان و تاراج زابلستان",
   "FullUrl": "/ferdousi/shahname/bahman/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,71 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده و فرمانروای زابل که پسرش را از دست داده و با بهمن گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین او انگیزهٔ سخن و کار بهمن است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 222,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی گرامی و فرخ‌سروش که کینش بهانهٔ بهمن است. (نام در متن: مهر نوش)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی گرامی و فرخ‌سروش که کینش بهانهٔ بهمن است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان درگذشته و پسر زال که سوگ او برپاست."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار نامدار و نیای زال که مردانگی‌اش یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه خشمگین و کینه‌جو که زال نزد او می‌آید و او زال را به بند می‌کشد."
     }
   ]
 }

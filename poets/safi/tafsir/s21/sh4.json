@@ -305,9 +305,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وست",
-      "PlainText": "بلکه گیری غیر او را یار و دوست\r\nغافل از آن کو نگهدار تو اوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلکه گیری غیر او را یار و دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغافل از آن کو نگهدار تو اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "رند",
+      "PlainText": "از تو در ذم الهان دلخورند\r\nلیک خود بر ذکر رحمان کافرند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو در ذمّ اِلهان دلخورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک خود بر ذکر رحمان کافرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -315,19 +315,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "رند",
-      "PlainText": "از تو در ذم الهان دلخورند\r\nلیک خود بر ذکر رحمان کافرند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو در ذمّ اِلهان دلخورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک خود بر ذکر رحمان کافرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 17,
-      "Number": 17,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اب",
-      "PlainText": "آدمی گردیده مخلوق از شتاب\r\nعاجل است ار چند باشد آن عذاب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدمی گردیده مخلوق از شتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاجل است ار چند باشد آن عذاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وست",
+      "PlainText": "بلکه گیری غیر او را یار و دوست\r\nغافل از آن کو نگهدار تو اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلکه گیری غیر او را یار و دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغافل از آن کو نگهدار تو اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -341,13 +331,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 18,
-      "Number": 18,
+      "Index": 17,
+      "Number": 17,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "است",
-      "PlainText": "جمله ذرات وجودت بر هواست\r\nهستی موهوم تو معدوم و لاست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمله ذرّات وجودت بر هواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستی موهوم تو معدوم و لاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اب",
+      "PlainText": "آدمی گردیده مخلوق از شتاب\r\nعاجل است ار چند باشد آن عذاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدمی گردیده مخلوق از شتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاجل است ار چند باشد آن عذاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -358,6 +348,16 @@
       "RhymeLetters": "یش",
       "PlainText": "زود بنماییمتان آیات خویش\r\nپس بمشتابید از اندازه بیش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزود بنماییمتان آیات خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس بمشتابید از اندازه بیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "جمله ذرات وجودت بر هواست\r\nهستی موهوم تو معدوم و لاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمله ذرّات وجودت بر هواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستی موهوم تو معدوم و لاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

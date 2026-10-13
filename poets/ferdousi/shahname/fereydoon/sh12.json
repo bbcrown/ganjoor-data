@@ -1,8 +1,8 @@
 {
   "Id": 1369,
   "CatId": 40,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۲",
+  "Title": "بخش ۱۲ - زاده شدن منوچهر",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۲ - زاده شدن منوچهر",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,82 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و نیای منوچهر که او را پرورد و تخت و تاج را به او سپرد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر فریدون؛ مادر ماه‌آفرید با او مهر داشت و منوچهر به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 44,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 35,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 36,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 37,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 43,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

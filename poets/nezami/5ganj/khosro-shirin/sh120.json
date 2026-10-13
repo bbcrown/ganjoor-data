@@ -3643,5 +3643,115 @@
       "SectionIndex1": 0,
       "SectionIndex2": 135
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 33,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تخت او برای مقایسه با تخت شاه ممدوح یاد شده است."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تاج او برای مقایسه با تاج شاه ممدوح یاد شده است."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 641,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توصیف دربار، از تاج و تخت او سخن رفته است. (نام در متن: قزل‌شاه)"
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاعر و راوی که به بزم شاه می‌آید و سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 279,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه نظامی به خضر و آب زندگی آمده است"
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 636,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه مهربانی شاه با شاعر یاد شده است"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 99,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان بهشت که در مقایسه با پسند او سخن رفته است"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یار خسرو در حکایتی که برای شاه خوانده می‌شود"
+    },
+    {
+      "CoupletIndex": 98,
+      "PersonId": 685,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه درگذشته‌ای که خواستهٔ گوینده را پذیرفت."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 173,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش برای اشاره به شکوه تخت پادشاهی آمده است."
+    },
+    {
+      "CoupletIndex": 114,
+      "PersonId": 288,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بازگشت او از معراج برای تشبیه آمده است. (نام در متن: احمد)"
+    },
+    {
+      "CoupletIndex": 116,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زیبایی صورت او در تشبیه به کار رفته است."
+    }
   ]
 }

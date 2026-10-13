@@ -1159,5 +1159,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 43
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخن‌دان و هنرمندی که پیش شاه زمین می‌بوسد و راهی ارمن می‌شود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 227,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نقاش نامور که برای مقایسهٔ هنر نقاشی آمده است."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده‌ای که در پایان مخاطب قرار می‌گیرد."
+    }
   ]
 }

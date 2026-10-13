@@ -1,8 +1,8 @@
 {
   "Id": 1601,
   "CatId": 61,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۷",
+  "Title": "بخش ۲۷ - سپیده‌دم رویارویی رستم و اسفندیار: پوزش و گنج‌بخشی، و پافشاری اسفندیار بر بند",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۷ - سپیده‌دم رویارویی رستم و اسفندیار: پوزش و گنج‌بخشی، و پافشاری اسفندیار بر بند",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,53 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامداری که سلیح می‌پوشد و در برابر اسفندیار می‌ایستد و آشتی می‌خواهد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یل و پهلوان رزم‌جو که با رستم می‌جنگد و آشتی را نمی‌پذیرد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه و مخاطب اسفندیار که با او همدردی می‌کند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسفندیار او را جادوپرست می‌خواند و از نیرنگش یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج او در پیشکش رستم به اسفندیار یاد می‌شود."
     }
   ]
 }

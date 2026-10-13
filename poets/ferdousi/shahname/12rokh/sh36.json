@@ -1,8 +1,8 @@
 {
   "Id": 88058,
   "CatId": 56,
-  "Title": "بخش ۳۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۶",
+  "Title": "بخش ۳۶ - دیدار خسرو با سپاه پس از پیروزی، سوگ بر پیران و کشتن گروی زره",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۶ - دیدار خسرو با سپاه پس از پیروزی، سوگ بر پیران و کشتن گروی زره",
   "FullUrl": "/ferdousi/shahname/12rokh/sh36",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1779,6 +1779,80 @@
       "CoupletIndex": 64,
       "SectionIndex1": 0,
       "SectionIndex2": 66
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهدار ایرانی که کشتگان را به شاه نشان می‌دهد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که گروی زره و پیران را می‌آورد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار تورانی کشته‌شده که خسرو بر او می‌گرید و از او یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 151,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پیران که گیو او را می‌آورد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خون ناحق او به عنوان انگیزهٔ گذشته یاد می‌شود. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، دل پیران را از جای می‌برد. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که پیران از فرمان او برنگشت."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خسرو گمان می‌کند او پیشتر بدی کرده و کینه و زهر دیده است. (نام در متن: کاووس)"
     }
   ]
 }

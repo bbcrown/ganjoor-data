@@ -1,8 +1,8 @@
 {
   "Id": 1915,
   "CatId": 89,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۴",
+  "Title": "بخش ۴ - شیون باربد بر مرگ خسرو، بریدن چهار انگشت و سوختن آلات خویش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۴ - شیون باربد بر مرگ خسرو، بریدن چهار انگشت و سوختن آلات خویش",
   "FullUrl": "/ferdousi/shahname/shirooye/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,17 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به نزد شاه می‌آید و برای او شیون و مویه می‌کند."
     }
   ]
 }

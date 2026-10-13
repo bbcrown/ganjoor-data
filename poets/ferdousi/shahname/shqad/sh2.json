@@ -1,8 +1,8 @@
 {
   "Id": 1607,
   "CatId": 62,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۲",
+  "Title": "بخش ۲ - زادن شغاد و پیشگویی تباهی تخمهٔ سام، توطئهٔ چاه با شاه کابل و فریفتن رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۲ - زادن شغاد و پیشگویی تباهی تخمهٔ سام، توطئهٔ چاه با شاه کابل و فریفتن رستم",
   "FullUrl": "/ferdousi/shahname/shqad/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2562,6 +2562,71 @@
       "CoupletIndex": 93,
       "SectionIndex1": 0,
       "SectionIndex2": 95
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبد، پدر شغاد؛ پسرش را نام می‌نهد و برای او غمگین می‌شود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای خاندان نامدار؛ کودک در بالا و دیدار به او ماننده است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 237,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر زال، داماد شاه کابل؛ با او برای نابودی برادرش نقشه می‌کشد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور زابلی، برادر شغاد؛ شاه کابل باج می‌دهد."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 238,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای کابل و پشتیبان نقشهٔ شغاد؛ شغاد را از تخمهٔ سام نمی‌داند."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای خاندان سام که به تخمهٔ او اشاره شده است. (نام در متن: نیرم)"
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم در سفر به کابل."
     }
   ]
 }

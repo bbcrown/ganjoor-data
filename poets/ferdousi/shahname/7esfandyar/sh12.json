@@ -1,8 +1,8 @@
 {
   "Id": 1571,
   "CatId": 60,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۲",
+  "Title": "بخش ۱۲ - شب یورش اسفندیار به درگاه ارجاسپ: کشتن شاه ترکان، رهانیدن خواهران و پیوستن به پشوتن",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۲ - شب یورش اسفندیار به درگاه ارجاسپ: کشتن شاه ترکان، رهانیدن خواهران و پیوستن به پشوتن",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1455,6 +1455,80 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که شبانه با یارانش به دژ ارجاسپ می‌تازد و او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 358,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دشمن که از خواب برمی‌خیزد، با اسفندیار می‌جنگد و کشته می‌شود. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که هنگام هجوم اسفندیار با خواهرش از سرای می‌گریزد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 225,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خواهر همای که همراه او نزد اسفندیار می‌آید. (نام در متن: به‌آفرید)"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در وصف هدیه‌ای تهدیدآمیز از سوی اسفندیار می‌آید."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در وصف مُهر بر هدیهٔ اسفندیار برای ارجاسپ آمده است."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 195,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد ارجمندی که با چند ایرانی نامور در دژ ماند"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار سپاهی که گریزنده نزد او می‌رسد و بر او آفرین می‌خواند"
     }
   ]
 }

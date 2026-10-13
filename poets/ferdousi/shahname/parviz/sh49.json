@@ -1,8 +1,8 @@
 {
   "Id": 1884,
   "CatId": 88,
-  "Title": "بخش ۴۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۹",
+  "Title": "بخش ۴۹ - رسیدن خراد برزین به خسرو پرویز، شادی رهایی از دشمن بدگهر، جشن و پاداش بی‌کران پیک",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۹ - رسیدن خراد برزین به خسرو پرویز، شادی رهایی از دشمن بدگهر، جشن و پاداش بی‌کران پیک",
   "FullUrl": "/ferdousi/shahname/parviz/sh49",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,35 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که از آزادی از دشمن شاد می‌شود و به قیصر نامه می‌نویسد. (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نزد خسرو می‌آید، گزارش می‌دهد و از شاه پاداش فراوان می‌گیرد. (نام در متن: چوخراد برزین)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که شاه برایش نامه می‌نویسد."
     }
   ]
 }

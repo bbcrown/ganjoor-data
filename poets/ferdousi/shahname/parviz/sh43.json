@@ -1,8 +1,8 @@
 {
   "Id": 1878,
   "CatId": 88,
-  "Title": "بخش ۴۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۳",
+  "Title": "بخش ۴۳ - نامهٔ تهدیدآمیز خسرو به خاقان چین، پاسخ سرافراز خاقان و رای بزرگان به فرستادن پیر خردمند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۳ - نامهٔ تهدیدآمیز خسرو به خاقان چین، پاسخ سرافراز خاقان و رای بزرگان به فرستادن پیر خردمند",
   "FullUrl": "/ferdousi/shahname/parviz/sh43",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,35 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که نامه به خاقان می‌نویسد و پاسخ او را می‌خواند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گفته می‌شود پادشاهی و گنج او بیش از خسرو است؛ خاقان دست او را می‌گیرد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین و توران که به نامهٔ شاه ایران پاسخ می‌دهد. (نام در متن: خاقان چینی)"
     }
   ]
 }

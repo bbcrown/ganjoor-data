@@ -1,8 +1,8 @@
 {
   "Id": 1887,
   "CatId": 88,
-  "Title": "بخش ۵۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۲",
+  "Title": "بخش ۵۲ - آمدن تبرگ به پیام خاقان چین، کشتن او به دست گردیه و شکستن لشکر ترک",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۲ - آمدن تبرگ به پیام خاقان چین، کشتن او به دست گردیه و شکستن لشکر ترک",
   "FullUrl": "/ferdousi/shahname/parviz/sh52",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1293,6 +1293,62 @@
       "CoupletIndex": 46,
       "SectionIndex1": 0,
       "SectionIndex2": 48
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین و مهتر لشکر ترکان"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 464,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خواهر بهرام؛ سلاح برادر می‌پوشد و در برابر تبرگ می‌ایستد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 468,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان خاقان که پیش سپاه می‌آید و با گردیه سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار و جنگاور گزیده که گردیه از او می‌پرسد (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سواری که اسب می‌تازد و در رزم پیش می‌رود. (نام در متن: ایزد گشسپ)"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با سپاه برگزیده‌اش به رزمگاه اسب می‌تازد."
     }
   ]
 }

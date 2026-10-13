@@ -1,8 +1,8 @@
 {
   "Id": 1597,
   "CatId": 61,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۳",
+  "Title": "بخش ۲۳ - کشته شدن نوش‌آذر و مهرنوش به دست زواره و فرامرز و خشم اسفندیار بر رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۳ - کشته شدن نوش‌آذر و مهرنوش به دست زواره و فرامرز و خشم اسفندیار بر رستم",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1698,6 +1698,80 @@
       "CoupletIndex": 61,
       "SectionIndex1": 0,
       "SectionIndex2": 63
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سگزی که تأخیرش در جنگ سبب سخن زواره شد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپاهی کینه‌خواه می‌آورد و نوش‌آذر را در نبرد می‌کشد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده ایرانیان و پدر نوش‌آذر و مهرنوش."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر اسفندیار، سوار نامدار که الوای را می‌کشد و خود کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 234,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار نامور و نیزه‌دار رستم که نوش‌آذر او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 222,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر نوش‌آذر که برای خونخواهی با فرامرز می‌جنگد و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده و پهلوان سگزی که مهرنوش را از پای درمی‌آورد."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر اسفندیار که با دیدن کشته شدن برادرش نزد پدر می‌رود."
     }
   ]
 }

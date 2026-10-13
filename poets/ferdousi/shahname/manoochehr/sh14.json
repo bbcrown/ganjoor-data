@@ -1,8 +1,8 @@
 {
   "Id": 1391,
   "CatId": 41,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۴",
+  "Title": "بخش ۱۴ - حاضر شدن سام به درگاه منوچهر شاه و شرح نبردهایش در هندوستان و فرمان یافتن سوزاندن هندوستان و کابل را",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۴ - حاضر شدن سام به درگاه منوچهر شاه و شرح نبردهایش در هندوستان و فرمان یافتن سوزاندن هندوستان و کابل را",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,79 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از پیوند زال و دختر مهراب نگران می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پدر زال که نوذر را می‌پذیرد و نزد شاه می‌رود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سام که عاشق دختر مهراب است و شاه از این پیوند نگران می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختری که زال به او دل بسته است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که فریدون جهان را از او پاک کرد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که جهان را از ضحاک پاک کرد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه که به فرمان او نزد سام می‌رود."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 59,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

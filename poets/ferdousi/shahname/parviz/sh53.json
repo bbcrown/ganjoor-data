@@ -1,8 +1,8 @@
 {
   "Id": 1888,
   "CatId": 88,
-  "Title": "بخش ۵۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۳",
+  "Title": "بخش ۵۳ - نامهٔ گردیه از آموی به برادر: مرگ بهرام، راندن سپاه و انتظار پاسخ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۳ - نامهٔ گردیه از آموی به برادر: مرگ بهرام، راندن سپاه و انتظار پاسخ",
   "FullUrl": "/ferdousi/shahname/parviz/sh53",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -321,6 +321,17 @@
       "CoupletIndex": 10,
       "SectionIndex1": 0,
       "SectionIndex2": 12
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامه‌نویس پس از پیروزی؛ در آموی نشسته و برای مرگ برادرش اندوهگین است. (نام در متن: بهرام گرد)"
     }
   ]
 }

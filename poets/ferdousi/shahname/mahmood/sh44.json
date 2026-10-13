@@ -1,8 +1,8 @@
 {
   "Id": 88103,
   "CatId": 57,
-  "Title": "بخش ۴۴",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۴",
+  "Title": "بخش ۴۴ - وداع کیخسرو با ایرانیان و کنیزان، سپردن تاج به لهراسب و عزیمت به کوه با پهلوانان",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۴ - وداع کیخسرو با ایرانیان و کنیزان، سپردن تاج به لهراسب و عزیمت به کوه با پهلوانان",
   "FullUrl": "/ferdousi/shahname/mahmood/sh44",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,170 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که با ایرانیان و بانوان وداع می‌کند و از جهان می‌رود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 12,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور و رهنمای شاه."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که خواهرانش در گذشته‌اند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدرِ مادر شاه."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر ماه‌آفرید."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 579,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر تور، بی‌همتا در زمانه. (احتمالاً همنامِ «ماه‌آفرید» با کد 35؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که شاه بانوانش را به او می‌سپارد. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه امید دیدار او را در جهان دیگر دارد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که شاه را همراهی می‌کنند و سپس بازمی‌گردند. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که شاه را همراهی می‌کنند و سپس بازمی‌گردند."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی همراه شاه."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگ پیر ایرانی که شاه را همراهی می‌کند و سپس بازمی‌گردد."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که تا پایان همراه شاه می‌مانند."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو؛ از همراهان شاه که از او جدا نمی‌شود."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که در شمار همراهان شاه است."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریبرز که تنها برای شناساندن او نامش آمده است. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس؛ از همراهان شاه که از او جدا نمی‌شود."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که برای مقایسه از او یاد می‌شود."
     }
   ]
 }

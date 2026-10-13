@@ -1,8 +1,8 @@
 {
   "Id": 1735,
   "CatId": 77,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۳",
+  "Title": "بخش ۳ - نگرستن ملکه از باروی دژ به شاپور، پیام شبانهٔ دایه و پیمان مهر و وصلت",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۳ - نگرستن ملکه از باروی دژ به شاپور، پیام شبانهٔ دایه و پیمان مهر و وصلت",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -861,6 +861,53 @@
       "CoupletIndex": 30,
       "SectionIndex1": 0,
       "SectionIndex2": 32
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و شاه جنگجو که به شبگیر به سوی دژ می‌رود و مالکه را می‌خواهد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 316,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیبارو و دختر نوشه، دارندهٔ دژ که پیام عشق و پیمان می‌فرستد"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 290,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مشترک مالکه و شاپور (نام در متن: نرسی کنداور)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 315,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر مالکه"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سوگند شاپور به نام او یاد می‌شود"
     }
   ]
 }

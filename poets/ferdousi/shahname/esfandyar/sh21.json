@@ -1,8 +1,8 @@
 {
   "Id": 1595,
   "CatId": 61,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۱",
+  "Title": "بخش ۲۱ - خواست رستم سلاح نبرد، پند زال به تسلیم و لاف برگرفتن اسفندیار از باره",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۱ - خواست رستم سلاح نبرد، پند زال به تسلیم و لاف برگرفتن اسفندیار از باره",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,89 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که برای نبرد با اسفندیار آماده می‌شود و به هشدار دستان پاسخ می‌دهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان رستم جنگ‌افزار را از گنجور می‌آورد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار جوانی که رستم باید با او نبرد کند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد کهن‌سال که رستم را از جنگ با اسفندیار برحذر می‌دارد. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 167,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان پیشین رستم که یاد جنگ با او می‌آید."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 168,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان پیشین رستم که یاد جنگ با او می‌آید."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که اسفندیار در خدمت اوست و گوینده می‌خواهد شاهی را از او بگذارد."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 50,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که گوینده پیشتر در برابر تخت او مردانگی کرده است."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 264,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که نام اسفندیار را بر نگین می‌نویسد. (نام در متن: فعفور چین)"
     }
   ]
 }

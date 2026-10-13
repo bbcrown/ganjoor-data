@@ -30,5 +30,27 @@
       "CoupletIndex": 2,
       "CoupletSummary": "هوش مصنوعی: بنابراین، من به همه چیزهایی که مربوط به دنیای مادی است، پاسخ دادم و از آنها دوری کردم، جز چیزهای ضروری و مختصر."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 4,
+      "LunarYear": 437,
+      "LunarMonth": 6,
+      "LunarDay": 7,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 96,
+      "LunarYear": 437,
+      "LunarMonth": 6,
+      "LunarDay": 6,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

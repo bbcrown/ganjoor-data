@@ -1,8 +1,8 @@
 {
   "Id": 1679,
   "CatId": 67,
-  "Title": "بخش ۴۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۰",
+  "Title": "بخش ۴۰ - گذر سکندر از حلوان به سند، شکست بنداه و گرفتن اسیر، و هدیه و آفرین شاه یمن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۰ - گذر سکندر از حلوان به سند، شکست بنداه و گرفتن اسیر، و هدیه و آفرین شاه یمن",
   "FullUrl": "/ferdousi/shahname/eskandar/sh40",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,44 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و سپهسالار که با لشکر به حلوان، سند و یمن می‌رود."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 263,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه هند که پیشتر از او دل‌ها خسته شده بود."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 284,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سر سندیان، سواری سرافراز که با سکندر می‌جنگد"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 285,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه یمن که با هدیه نزد سکندر می‌آید"
     }
   ]
 }

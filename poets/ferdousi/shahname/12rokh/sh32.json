@@ -1,8 +1,8 @@
 {
   "Id": 88054,
   "CatId": 56,
-  "Title": "بخش ۳۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۲",
+  "Title": "بخش ۳۲ - خبر کشته‌شدن پیران و ده دلاور، سوگ لهاک و فرشیدورد و رای سپاه توران به زنهار",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۲ - خبر کشته‌شدن پیران و ده دلاور، سوگ لهاک و فرشیدورد و رای سپاه توران به زنهار",
   "FullUrl": "/ferdousi/shahname/12rokh/sh32",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,80 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سپاه ایران؛ پیشاپیش سپاه می‌آید و نزد پهلوان گزارش می‌دهد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که پیران از او نبرد خواست."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار تورانی کشته‌شده؛ برادران و یارانش بر کشته‌اش زاری می‌کنند."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر پیران که با فرشیدورد به جایگاه نبرد می‌رود."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر پیران؛ پیران در گذشته با او سخن گفته است."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در زاری بر پیران همراه شهر ترکان نامش می‌آید."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 65,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تبار پیران و برادرانش."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که ترکان از پدیدار شدن او در رزمگاه بیم دارند."
     }
   ]
 }

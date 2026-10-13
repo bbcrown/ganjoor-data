@@ -2401,5 +2401,70 @@
       "SectionIndex1": 0,
       "SectionIndex2": 89
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نخستین کسی که در این بخش سخن آغاز می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به دولت و بخت فریدونی اشاره شده است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 666,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سخنگویان مجلس که با تمثیل سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از دیگران سخن می‌گوید و از عشق سخن تازه می‌کند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوق خسرو؛ در مجلس سخن می‌گوید و از عشق سخن می‌رود."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مقایسه با خسرو نامش آمده است."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و دلبستهٔ شیرین؛ در نوبت خود سخن می‌گوید."
+    }
   ]
 }

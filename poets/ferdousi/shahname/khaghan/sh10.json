@@ -1,8 +1,8 @@
 {
   "Id": 88003,
   "CatId": 53,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۰",
+  "Title": "بخش ۱۰ - بند خاقان چین به کمند رستم، گریز پیران و سپردن بستگان و غنایم به فریبرز",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۰ - بند خاقان چین به کمند رستم، گریز پیران و سپردن بستگان و غنایم به فریبرز",
   "FullUrl": "/ferdousi/shahname/khaghan/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3615,6 +3615,188 @@
       "CoupletIndex": 132,
       "SectionIndex1": 0,
       "SectionIndex2": 134
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین؛ با کمند رستم از پیل افتاد و دست‌بسته شد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که کمند انداخت و با ایرانیان سخن گفت."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه دشمن؛ پس از شکست به دنبال راه گریز بود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 528,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران سپاه دشمن که در پایان نبرد دیده نمی‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران سپاه دشمن که در پایان نبرد دیده نمی‌شود."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سپاه دشمن که با او دربارهٔ نهفتن سلاح سخن گفته شد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد سپاه دشمن که با او دربارهٔ نهفتن سلاح سخن گفته شد. (نام در متن: بنستیهن)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که میمنهٔ دشمن را تاراج کرد."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی و مخاطب سخن رستم."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی که به کوه آمده و از پیران و هومان به ستوه رسیده است."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران دشمن که طوس را به ستوه آورده بود."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از ایرانیان که رستم از حال او نگران بود."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایرانی که در سخن رستم از او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دشمن، بلندبالا و گرزدار."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کارآگهان به او خبر می‌برند و بزرگان از او نام می‌برند (نام در متن: شاه جهان)"
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 617,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کارآگهان خبر پیروزی را نزد او می‌برند."
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از پیش رستم به سوی میدان نبرد رفت"
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 93,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامدارانی که رستم نامشان را برمی‌شمارد."
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامدارانی که رستم نامشان را برمی‌شمارد."
+    },
+    {
+      "CoupletIndex": 126,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تخم شاهان و هنرمند؛ برگزیده برای بردن نامه و پیشکش نزد شاه."
     }
   ]
 }

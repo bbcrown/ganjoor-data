@@ -1,8 +1,8 @@
 {
   "Id": 1848,
   "CatId": 88,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۳",
+  "Title": "بخش ۱۳ - رایزنی گردنکشان بر شهریاری بهرام، کشیدن تیغ و پراکندگی انجمن پرآژنگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۳ - رایزنی گردنکشان بر شهریاری بهرام، کشیدن تیغ و پراکندگی انجمن پرآژنگ",
   "FullUrl": "/ferdousi/shahname/parviz/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2346,6 +2346,179 @@
       "CoupletIndex": 85,
       "SectionIndex1": 0,
       "SectionIndex2": 87
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بر تخت شاهی نشسته و با بزرگان سخن می‌گوید؛ نامش در بیت ۳۶ آمده است. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بدترین شاهان شمرده شده و برای شاهی پدر را کشت."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 431,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر سالخورده‌ای که در انجمن برخاست و بهرام را ستود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب سخنان بزرگان؛ با تیری سپاه ساوه شاه را شکست داد و تخت ایران سزاوار اوست."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 424,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با سپاه به ایران آمد و با تیر شاه شکست خورد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 432,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که پس از پیر سخن گفت و از پند زردشت یاد کرد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آورندهٔ باستا و زند که سخنش دربارهٔ سرپیچی از شاه نقل می‌شود."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 72,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی دلیر که پس از فرخ‌زاد چون شیر به میان آمد."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامداری که در انجمن سخن می‌گوید و از گفتار تند پیشین انتقاد می‌کند. (نام در متن: زاد فرخ)"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 478,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان که در پاسخ به سخنان پیشین سخن می‌گوید. (نام در متن: زاد فرخ)"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه برترمنش که به دست ضحاک کشته شد."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بدگوهر توران‌زمین که از آب گذشت و به ایران آسیب زد."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامدار که سرش را به زاری با شمشیر بریدند."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از روم به ایران آمد و این سرزمین را ویران کرد."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شمشیرزنی که کشته شد و ایرانیان از آن پس سختی دیدند."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 399,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ناپاک‌دلی که نام و ناز را از این بوم و بر گم کرد."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 330,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بلنداختر و جهاندار که هیتالیان او را کشتند."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 433,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهان‌دیده‌ای که کمر بسته و تیغ هندی به دست از جا برخاست."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 434,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ارمنی که با شنیدن سخنان سالار شمشیر می‌کشد و از بهرام پشتیبانی می‌کند"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1695,
   "CatId": 68,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۹",
+  "Title": "بخش ۹ - نامهٔ نهانی نزد پسر: گریختن اردشیر چون تیر از کمان و جست‌وجوی پنهان او در پارس",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۹ - نامهٔ نهانی نزد پسر: گریختن اردشیر چون تیر از کمان و جست‌وجوی پنهان او در پارس",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -159,6 +159,17 @@
       "CoupletIndex": 4,
       "SectionIndex1": 0,
       "SectionIndex2": 6
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزد نویسندهٔ نامه رفته و پنهانی به پارس آمده است."
     }
   ]
 }

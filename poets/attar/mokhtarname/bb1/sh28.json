@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "یدننتوان",
-      "PlainText": "بی تو به وجود آرمیدن نتوان\r\nبا تو به جز از عدم گزیدن نتوان\r\nکاریست عجب در تو رسیدن نتوان\r\nوانگه ز تو یک لحظه بریدن نتوان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی تو به وجود آرمیدن نتوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو به جز از عدم گزیدن نتوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاریست عجب، در تو رسیدن نتوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانگه ز تو یک لحظه بریدن نتوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "بی تو به وجود آرمیدن نتوان\r\nبا تو به جز از عدم گزیدن نتوان\r\nکاریست عجب در تو رسیدن نتوان\r\nوآنگه ز تو یک لحظه بریدن نتوان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی تو به وجود آرمیدن نتوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو به جز از عدم گزیدن نتوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاریست عجب، در تو رسیدن نتوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنگه ز تو یک لحظه بریدن نتوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "وانگه ز تو یک لحظه بریدن نتوان",
+      "Text": "وآنگه ز تو یک لحظه بریدن نتوان",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

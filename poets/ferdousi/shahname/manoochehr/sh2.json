@@ -1,8 +1,8 @@
 {
   "Id": 1379,
   "CatId": 41,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲",
+  "Title": "بخش ۲ - داستان زاده شدن زال نوزاد سپیدموی سام",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲ - داستان زاده شدن زال نوزاد سپیدموی سام",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3291,6 +3291,51 @@
       "CoupletIndex": 120,
       "SectionIndex1": 0,
       "SectionIndex2": 122
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بی‌فرزند که از دیدن پسر موسپیدش ناامید شد و او را رها کرد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 52,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی اهریمنی که سام از پیروی از کیش او به خود بیم می‌دهد (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سام که در کوه نزد سیمرغ پرورده شده بود. (نام در متن: دستان)"
     }
   ]
 }

@@ -592,5 +592,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 22
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیرین را از قصر بیرون می‌آورد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که شاپور او را از قصر می‌آورد و با شادی پذیرفته می‌شود."
+    }
   ]
 }

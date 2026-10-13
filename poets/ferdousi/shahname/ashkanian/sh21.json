@@ -1,8 +1,8 @@
 {
   "Id": 1707,
   "CatId": 68,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۲۱",
+  "Title": "بخش ۲۱ - گرفتاری هفتواد و شاهوی، بر دار کردن آن دو، تاراج دژ و بنای آتشکده",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۲۱ - گرفتاری هفتواد و شاهوی، بر دار کردن آن دو، تاراج دژ و بنای آتشکده",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,53 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 298,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سخن‌ها آگاه می‌شود، دلش پر درد می‌شود و در میان سپاه گرفتار می‌گردد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهسالار که بر دژ پیروز می‌شود و در پارس داد می‌گسترد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 275,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیش اردشیر پیاده می‌شود و دو تن را با تیر می‌کشد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 300,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به او ارزیز گرم داده شد؛ لشکری به نام او آمده است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 301,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر مهتر و سالار هفتواد که عیار خوانده شده است."
     }
   ]
 }

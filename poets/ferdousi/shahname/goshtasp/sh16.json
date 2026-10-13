@@ -1,8 +1,8 @@
 {
   "Id": 1542,
   "CatId": 59,
-  "Title": "بخش ۱۶ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۶ - سخن دقیقی",
+  "Title": "بخش ۱۶ - سخن دقیقی: حملهٔ اسفندیار و سوگ بستور بر پیکر زریر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۶ - سخن دقیقی: حملهٔ اسفندیار و سوگ بستور بر پیکر زریر",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1320,6 +1320,80 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تهمتن و خداوند اورنگ که بانگ پدر را می‌شنود و به لشکر دشمن می‌تازد"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بستور، سوار نبرده و دلیر که کشته شده است"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر زریر که برای یافتن پدر کشته‌شده به میدان می‌رود و از شاه کین می‌خواهد"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار گرانمایه‌ای که جای زریر را به بستور نشان می‌دهد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سپاه را به زریر داد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کنونی و برادر زریر که تخت و کلاه را از لهراسپ گرفته است"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه آماده برای کین‌خواهی و نبرد با دشمنان"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که برای کین‌خواهی آهنگ رفتن به نبرد دارد."
     }
   ]
 }

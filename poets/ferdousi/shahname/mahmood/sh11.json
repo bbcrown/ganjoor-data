@@ -1,8 +1,8 @@
 {
   "Id": 88070,
   "CatId": 57,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۱",
+  "Title": "بخش ۱۱ - نبرد کیخسرو و افراسیاب: دعای شاه و باد سخت، گریز به بهشت گنگ و نامه به فغفور چین",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۱ - نبرد کیخسرو و افراسیاب: دعای شاه و باد سخت، گریز به بهشت گنگ و نامه به فغفور چین",
   "FullUrl": "/ferdousi/shahname/mahmood/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3777,6 +3777,170 @@
       "CoupletIndex": 138,
       "SectionIndex1": 0,
       "SectionIndex2": 140
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران؛ سپاه خود را برای جنگ با کیخسرو آماده می‌کند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه توران؛ در میمنهٔ سپاه افراسیاب است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ در قلب سپاه است و از خداوند دادخواهی می‌کند."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان سپاه ایران، از تبار نوذر."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان سپاه ایران."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 574,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی دلیر از سپاه ایران."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان سپاه ایران."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان سپاه ایران، همانند شیر."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان سپاه ایران."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرماندهٔ میمنهٔ سپاه ایران."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرماندهٔ میسرهٔ سپاه ایران."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پشتیبان و نگهبان سپاه ایران از پشت."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده‌ای از او نزد شاه می‌آید و خبر پیروزی می‌دهد"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با کمان به ترکان می‌تازد"
+    },
+    {
+      "CoupletIndex": 116,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که به او نامه نوشته می‌شود و فرستاده را می‌نوازد. (نام در متن: فغفور چین)"
+    },
+    {
+      "CoupletIndex": 127,
+      "PersonId": 575,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیدار دلی که بر باره عراده و منجنیق برافراشت."
     }
   ]
 }

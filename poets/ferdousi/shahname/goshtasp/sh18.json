@@ -1,8 +1,8 @@
 {
   "Id": 1544,
   "CatId": 59,
-  "Title": "بخش ۱۸ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۸ - سخن دقیقی",
+  "Title": "بخش ۱۸ - سخن دقیقی: تقسیم سپاه توسط اسفندیار و گریختن ارجاسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۸ - سخن دقیقی: تقسیم سپاه توسط اسفندیار و گریختن ارجاسپ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,44 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 178,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسبی منسوب به اوست که زین بر آن می‌نهند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران ایرانی که بخشی از سپاه را در نبرد فرماندهی می‌کند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 219,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شمشیرزنی که همراه بستور به جنگ می‌آید."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار دشمن که با نیزه می‌جنگد و سرانجام می‌گریزد. (نام در متن: ارجاسپ)"
     }
   ]
 }

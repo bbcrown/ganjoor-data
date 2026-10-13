@@ -1,8 +1,8 @@
 {
   "Id": 88030,
   "CatId": 56,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۸",
+  "Title": "بخش ۸ - رجزخوانی هومان با رهام و فریبرز و گودرز، افکندن چهار روزبان و شرمساری سپهبد",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۸ - رجزخوانی هومان با رهام و فریبرز و گودرز، افکندن چهار روزبان و شرمساری سپهبد",
   "FullUrl": "/ferdousi/shahname/12rokh/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4074,6 +4074,143 @@
       "CoupletIndex": 149,
       "SectionIndex1": 0,
       "SectionIndex2": 151
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از رفتن هومان به جنگ آگاه می‌شود و از اندوه دلتنگ می‌گردد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ویسگان و پهلوان ترک که تنها به رزم ایرانیان می‌آید و رهام را به نبرد می‌خواند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و سردار سپاه که ایرانیان از او اجازهٔ جنگ می‌گیرند."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و نگهبان جناح چپ لشکر که هومان او را به نبرد می‌خواند."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که هومان او را حریف احتمالی خود می‌شمارد."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 552,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که هومان او را همراه گستهم حریف احتمالی خود می‌داند."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و برادر سیاوش که هومان او را به نبرد می‌خواند."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر فریبرز که کین‌خواهی او یاد می‌شود. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که هومان جای او را می‌پرسد."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که هومان جای او را می‌پرسد."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که پادشاهی پس از او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 65,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمان جنگ سپاه به او سپرده شده است."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز که به‌عنوان فرستاده به سپاه توران آمده بود."
+    },
+    {
+      "CoupletIndex": 97,
+      "PersonId": 558,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامی که با جنگ پیشین گودرز یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 98,
+      "PersonId": 621,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که هومان در گذشته با او جنگ آزموده بود."
     }
   ]
 }

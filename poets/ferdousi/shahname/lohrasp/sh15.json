@@ -1,8 +1,8 @@
 {
   "Id": 1524,
   "CatId": 58,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۵",
+  "Title": "بخش ۱۵ - فرستادن قالوس به درگاه لهراسپ برای باژخواهی و شناختن گشتاسپ از سیمای زریر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۵ - فرستادن قالوس به درگاه لهراسپ برای باژخواهی و شناختن گشتاسپ از سیمای زریر",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1536,6 +1536,80 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب سخن جنگجو؛ او با پیشنهاد فرستادن پیک به ایران موافقت می‌کند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار ایران که فرستادهٔ قیصر را می‌پذیرد و با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 191,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ خردمند و نامور قیصر نزد شاه ایران."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 187,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تهدید قیصر، پیشرو سپاه پیروز روم در جنگ آینده است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که از ایران باژ می‌خواهد و فرستاده می‌فرستد."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان شاه نزد او می‌رود و با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 192,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): قالوس نزد او رفت تا برای بار یافتن نزد شاه اجازه گیرد."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 188,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای مرز خزر که به گفتهٔ لهراسپ قیصر او را بند کرده است."
     }
   ]
 }

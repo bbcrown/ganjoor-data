@@ -1,8 +1,8 @@
 {
   "Id": 1688,
   "CatId": 68,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۲",
+  "Title": "بخش ۲ - دیباچهٔ گاه اشکانیان: ملوک طوایف پس از سکندر و جز نام نماندن از شاهان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۲ - دیباچهٔ گاه اشکانیان: ملوک طوایف پس از سکندر و جز نام نماندن از شاهان",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,116 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از روزگار او ملوک‌الطوایف پدید آمدند؛ برای ماندن روم رایی زد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 87,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بزرگان اشکانی و از شاهان نامدار و دلیر این دودمان. (نام در متن: آرش)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه اشکانی نژادهٔ خسروان، گرد و نامدار."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 50,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای اشک؛ تنها برای نشان دادن نژاد اشک یاد شده است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 287,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نخستین در شمار شاهان اشکانی."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان اشکانی که نامش در شمار آنان آمده است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نژاد کیان و در شمار شاهان اشکانی یاد شده است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 215,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان بزرگ اشکانی در فهرست نامداران."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان اشکانی در فهرست نامداران."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه اشکانی خردمند و روشن‌روان که شیراز تا اصفهان از او بود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه اشکانی که بر تخت نشست و گنج را به ارزانیان بخشید."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 292,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای اصطخر زیر دست اردوان."
     }
   ]
 }

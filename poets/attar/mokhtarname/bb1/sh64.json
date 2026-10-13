@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "لكچندینی",
-      "PlainText": "ای خورده غم تو یک به یک چندینی\r\nدر شوق تو مردم و ملک چندینی\r\nچون درتو نمیرسد فلک یک ذره\r\nچه سود ز گشتن فلک چندینی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خورده غم تو یک به یک چندینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شوق تو مَردُم و مَلَک چندینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون درتو نمیرسد فلک یک ذره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه سود ز گشتن فلک چندینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "ای خورده غم تو یک به یک چندینی\r\nدر شوق تو مردم و ملک چندینی\r\nچون در تو نمی رسد فلک یک ذره\r\nچه سود ز گشتن فلک چندینی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خورده غم تو یک به یک چندینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شوق تو مَردُم و مَلَک چندینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون در تو نمی‌رسد فلک یک ذره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه سود ز گشتن فلک چندینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -44,7 +44,7 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "چون درتو نمیرسد فلک یک ذره",
+      "Text": "چون در تو نمی‌رسد فلک یک ذره",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: اگر فلک نمی‌تواند حتی ذره‌ای به تو نزدیک شود، پس چه فایده‌ای دارد که در دور خود بچرخد و مدام بچرخد؟"

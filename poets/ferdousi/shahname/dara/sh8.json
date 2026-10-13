@@ -1,8 +1,8 @@
 {
   "Id": 1637,
   "CatId": 66,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۸",
+  "Title": "بخش ۸ - یاری‌خواهی دارا از فور، رزم‌گریزی ایرانیان و کشته شدن شاه به دست جانوشیار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۸ - یاری‌خواهی دارا از فور، رزم‌گریزی ایرانیان و کشته شدن شاه به دست جانوشیار",
   "FullUrl": "/ferdousi/shahname/dara/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,53 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از اسکندر شکست می‌خورد و به دست دو دستورش کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 263,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر هندوان که دارا از او یاری می‌خواهد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه رومی که با لشکر به ایران آمده و بر دارا پیروز می‌شود."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 254,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد و یکی از دو دستور دارا."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 255,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستور و گنجور دارا که با دشنه بر او می‌زند."
     }
   ]
 }

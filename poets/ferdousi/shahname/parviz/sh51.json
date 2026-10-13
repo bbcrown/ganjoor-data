@@ -1,8 +1,8 @@
 {
   "Id": 1886,
   "CatId": 88,
-  "Title": "بخش ۵۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۱",
+  "Title": "بخش ۵۱ - رایزنی گردیه با سپاه، برگزیدن یلان و شب‌گریز نهانی از توران به ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۱ - رایزنی گردیه با سپاه، برگزیدن یلان و شب‌گریز نهانی از توران به ایران",
   "FullUrl": "/ferdousi/shahname/parviz/sh51",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1050,6 +1050,89 @@
       "CoupletIndex": 37,
       "SectionIndex1": 0,
       "SectionIndex2": 39
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 464,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زن جوان و خردمندی که سخن می‌گوید و جنگجویانه برمی‌نشیند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی بزرگ و دلیر، خداوند سپاه توران."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که سیاوش از او جز رنج ندید."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوانی بی‌همتا که از افراسیاب رنج دید و جان خود را بر باد داد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 466,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سیاوش که از توران و ایران گرد برآورد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گوینده برای او نامه‌ای نوشته است."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 328,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یل و پهلوانی که با نامداران بر اسب نشست (نام در متن: ایزد گشسپ)"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 447,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از یلانی که با نامداران بر اسب نشستند."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 467,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از یلانی که با نامداران بر اسب نشستند."
     }
   ]
 }

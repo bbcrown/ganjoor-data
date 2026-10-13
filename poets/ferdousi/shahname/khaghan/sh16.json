@@ -1,8 +1,8 @@
 {
   "Id": 88009,
   "CatId": 53,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۶",
+  "Title": "بخش ۱۶ - گریز افراسیاب به چین و ماچین، کشتار سپاه توران و پند رستم در گذر گیتی",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۶ - گریز افراسیاب به چین و ماچین، کشتار سپاه توران و پند رستم در گذر گیتی",
   "FullUrl": "/ferdousi/shahname/khaghan/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -726,6 +726,35 @@
       "CoupletIndex": 25,
       "SectionIndex1": 0,
       "SectionIndex2": 27
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که سپاه را به نبرد و سپس به ترک جنگ فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه برای ناخوشی‌های روزگار و جنگ آمده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که سپاه رستم در جست‌وجوی نشانی از او بود."
     }
   ]
 }

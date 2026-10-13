@@ -1,8 +1,8 @@
 {
   "Id": 1540,
   "CatId": 59,
-  "Title": "بخش ۱۴ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۴ - سخن دقیقی",
+  "Title": "بخش ۱۴ - سخن دقیقی: رزم زریر، کشته شدن او به دست بیدرفش و سوگ گشتاسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۴ - سخن دقیقی: رزم زریر، کشته شدن او به دست بیدرفش و سوگ گشتاسپ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1995,6 +1995,98 @@
       "CoupletIndex": 72,
       "SectionIndex1": 0,
       "SectionIndex2": 74
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به‌تنهایی بر لشکر دشمن می‌تازد و بسیاری را می‌کشد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دشمن که از کشتار زریر نگران است و در پی چاره می‌گردد. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سپاهیانش با دشمن می‌جنگند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که گرز او برای مقایسه با گرز زریر آمده است."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 203,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوگر پیر و بدکردار که داوطلب نبرد با زریر می‌شود."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه نیرو و تن ارجاسپ به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر پیر گشتاسپ و زریر"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستور دانای شاه که گشتاسپ را از رفتن به کینخواهی بازمی‌دارد"
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر گشتاسپ که پاداش کین‌خواه زریر قرار داده می‌شود"
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 365,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر گشتاسپ که به پاداش کینخواهی زریر وعده داده می‌شود (احتمالاً همنامِ «همای» با کد 218؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
     }
   ]
 }

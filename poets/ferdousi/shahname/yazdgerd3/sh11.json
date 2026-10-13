@@ -1,8 +1,8 @@
 {
   "Id": 1934,
   "CatId": 96,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۱",
+  "Title": "بخش ۱۱ - فرمان ماهوی به کشتن یزدگرد، پند موبدان و رای پسر بر نابودی شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۱ - فرمان ماهوی به کشتن یزدگرد، پند موبدان و رای پسر بر نابودی شاه",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2670,6 +2670,233 @@
       "CoupletIndex": 97,
       "SectionIndex1": 0,
       "SectionIndex2": 99
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 492,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمان‌دهندهٔ کشتن یزدگرد؛ موبد و دیگران او را سرزنش می‌کنند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 500,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد، به ماهوی هشدار می‌دهد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دین‌ور یزدان‌پرست که ماهوی را سرزنش می‌کند (نام در متن: هرمزد خراد)"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 222,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گریان و پردرد ماهوی را نکوهش می‌کند"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بیدادگر که جم به دست او کشته شد"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به دست ضحاک کشته شد"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 22,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از چیرگی ضحاک در جهان پدید آمد"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرخ‌نژاد که با زادنش جهان دگرگون شد"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرافرازی که آز او را رنجه کرد و ایرج را کشت"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پاک‌دین که کشته شد"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تخمهٔ ایرج پدید آمد"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تخم کیان که بی‌آرزو کمر بست (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به گفتار گرسیوز شرم و خرد را از دست داد"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 67,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گفتارش افراسیاب را از شرم و خرد دور کرد"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند سیاوش که نیای خود را به خنجر دو نیم کرد"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خونش ریخته شد"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 220,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ریزندهٔ خون لهراسپ و موضوع کین چهارم (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کینه به جنگ آمد و درنگ نکرد"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 469,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستگاهش نیرومند شد و با بندوی و گستهم کینه‌ورزی کرد"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 74,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشتگان کینهٔ پرویز"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 410,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشتگان کینهٔ پرویز"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 377,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): هشتمین پدر یزدگرد، از ساسانیان."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نیای ساسانی در نسب یزدگرد"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 418,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با سیصد هزار سوار بود اما با یک تیر پشت کرد (نام در متن: بهرام چوبین)"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 409,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تخت بزرگی جست و زار و خوار کشته شد"
     }
   ]
 }

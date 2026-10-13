@@ -1,8 +1,8 @@
 {
   "Id": 1652,
   "CatId": 67,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۳",
+  "Title": "بخش ۱۳ - پزشک هندی و داروی کوهی سکندر: تشخیص کاهش از زنان و درمان با پرهیز",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۳ - پزشک هندی و داروی کوهی سکندر: تشخیص کاهش از زنان و درمان با پرهیز",
   "FullUrl": "/ferdousi/shahname/eskandar/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,17 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 11,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از پزشک هندی دارو می‌گیرد و درمانش را می‌آزماید."
     }
   ]
 }

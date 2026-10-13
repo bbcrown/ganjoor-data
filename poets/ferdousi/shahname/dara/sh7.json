@@ -1,8 +1,8 @@
 {
   "Id": 1636,
   "CatId": 66,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۷",
+  "Title": "بخش ۷ - نامهٔ داغ‌دار دارا به اسکندر، پیشنهاد صلح و گنج و پاسخ سخت او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۷ - نامهٔ داغ‌دار دارا به اسکندر، پیشنهاد صلح و گنج و پاسخ سخت او",
   "FullUrl": "/ferdousi/shahname/dara/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,62 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهرگیر و مخاطب نامهٔ دارا که پاسخ آن را می‌دهد. (نام در متن: اسکندر)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای دارا در نسب‌نامهٔ فرستندهٔ نامه."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 242,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دارا، در نسب‌نامهٔ فرستندهٔ نامه یاد شده است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهرگیر و گیرندهٔ نامهٔ دارا؛ پس از خواندن نامه پاسخ می‌دهد. (نام در متن: اسکندر)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج او از گنج‌های وعده‌داده‌شده به اسکندر است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج او از گنج‌های وعده‌داده‌شده به اسکندر است."
     }
   ]
 }

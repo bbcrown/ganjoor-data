@@ -1,8 +1,8 @@
 {
   "Id": 88057,
   "CatId": 56,
-  "Title": "بخش ۳۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۵",
+  "Title": "بخش ۳۵ - یافتن گستهم خسته در مرغزار، بستن زخم‌ها و بردن او با پیکر لهاک و فرشیدورد نزد شاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۵ - یافتن گستهم خسته در مرغزار، بستن زخم‌ها و بردن او با پیکر لهاک و فرشیدورد نزد شاه",
   "FullUrl": "/ferdousi/shahname/12rokh/sh35",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,44 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مرغزار به‌دنبال یار گم‌شده می‌گردد، او را زخمی می‌یابد و می‌پرستارد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یار زخمی بیژن که می‌خواهد او را نزد شاه برساند."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که بر خاک افتاده و در خون است"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که بر خاک افتاده و در خون است"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1808,
   "CatId": 83,
-  "Title": "بخش ۳۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۹",
+  "Title": "بخش ۳۹ - رازبندی بهرام با سپینود، بهانهٔ بیماری برزوی، سوگند بازرگانان و گریز شبانه از هند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۹ - رازبندی بهرام با سپینود، بهانهٔ بیماری برزوی، سوگند بازرگانان و گریز شبانه از هند",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh39",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1833,6 +1833,17 @@
       "CoupletIndex": 66,
       "SectionIndex1": 0,
       "SectionIndex2": 68
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در هند است و قصد بازگشت پنهانی به ایران دارد"
     }
   ]
 }

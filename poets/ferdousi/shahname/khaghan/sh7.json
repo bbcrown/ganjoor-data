@@ -1,8 +1,8 @@
 {
   "Id": 88000,
   "CatId": 53,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۷",
+  "Title": "بخش ۷ - کین‌خواهی ساوه از رستم به خون کاموس، کشته شدنش به گرز و پریشانی لشکر کشان",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۷ - کین‌خواهی ساوه از رستم به خون کاموس، کشته شدنش به گرز و پریشانی لشکر کشان",
   "FullUrl": "/ferdousi/shahname/khaghan/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -348,6 +348,35 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 13
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که ساوه، خویش او، برای خونش با رستم می‌جنگد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 195,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خویش کاموس که برای خونخواهی او با رستم می‌جنگد و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با گرز ساوه را می‌کشد و بر لشکر دشمن می‌تازد."
     }
   ]
 }

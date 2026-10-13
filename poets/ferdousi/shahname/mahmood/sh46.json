@@ -1,8 +1,8 @@
 {
   "Id": 88105,
   "CatId": 57,
-  "Title": "بخش ۴۶",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۶",
+  "Title": "بخش ۴۶ - مرگ نامداران در برف، زاری گودرز و بازگشت رستم و زال از کوه",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۶ - مرگ نامداران در برف، زاری گودرز و بازگشت رستم و زال از کوه",
   "FullUrl": "/ferdousi/shahname/mahmood/sh46",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,71 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم و گودرز بر کوه؛ سخن دیرینه‌اش یادآوری می‌شود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که روی کوه مانده‌اند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سوگوار که برای فرزندان و نوادگانش زاری می‌کند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در برف ناپدید شده و دیگران در پی او هستند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در نام‌گذاری گودرز (گودرز کشواد) آمده است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاه؛ از تخمهٔ او سخن می‌رود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین‌خواهی او سبب کشته‌شدن خاندان گودرز شد. (نام در متن: سیاوش)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1753,
   "CatId": 82,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱",
+  "Title": "بخش ۱ - بر تخت نشستن یزدگرد، پیمان داد و سپس بیداد، و فریب دادخواهان به دست دستور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱ - بر تخت نشستن یزدگرد، پیمان داد و سپس بیداد، و فریب دادخواهان به دست دستور",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,17 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جهان که کلاه برادر را بر سر نهاد و بعد ستمگر شد"
     }
   ]
 }

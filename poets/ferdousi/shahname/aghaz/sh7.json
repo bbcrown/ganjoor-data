@@ -862,5 +862,52 @@
       "SectionIndex1": 0,
       "SectionIndex2": 32
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 288,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر که علی را ستود و سخن او راهنمای دین است"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 350,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نخستین یار پیامبر که خورشید پس از پیامبران بر کسی بهتر از او نتابیده است"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 351,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسلام را آشکار کرد و جهان را چون باغ بهار آراست"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 352,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سومین یار پیامبر، دارای شرم و دین"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 353,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر علی"
+    }
   ]
 }

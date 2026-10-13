@@ -592,5 +592,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 22
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 15,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان و پسر شاه که شیرین را دوست داشت."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دوست و معشوق پرویز که از او جدا ماند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رزم با او سبب بی‌آرامی پرویز بود. (نام در متن: بهرام)"
+    }
   ]
 }

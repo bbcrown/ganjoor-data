@@ -1,8 +1,8 @@
 {
   "Id": 1893,
   "CatId": 88,
-  "Title": "بخش ۵۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۸",
+  "Title": "بخش ۵۸ - نمایش رزم گردیه در باغ پیش خسرو، رشک شیرین و سپردن پرستاران به نگاهبانی او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۸ - نمایش رزم گردیه در باغ پیش خسرو، رشک شیرین و سپردن پرستاران به نگاهبانی او",
   "FullUrl": "/ferdousi/shahname/parviz/sh58",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,26 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی در بارگاه شاه که با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 464,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زن جنگاور و سوارکار که در برابر شاه نمایش رزم می‌دهد."
     }
   ]
 }

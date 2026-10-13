@@ -1,8 +1,8 @@
 {
   "Id": 1625,
   "CatId": 64,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۷",
+  "Title": "بخش ۷ - تاج‌گذاری داراب به دست همای، آشکار کردن نسب و پاداش گازران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۷ - تاج‌گذاری داراب به دست همای، آشکار کردن نسب و پاداش گازران",
   "FullUrl": "/ferdousi/shahname/homa/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,35 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر همای که بر تخت شاهی می‌نشیند و تاج بر سر می‌نهد. (نام در متن: داراب)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 623,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر داراب که تاج را بر سرش می‌نهد و پادشاهی را به او می‌سپارد"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری درگذشته که داراب تنها یادگار او در جهان است"
     }
   ]
 }

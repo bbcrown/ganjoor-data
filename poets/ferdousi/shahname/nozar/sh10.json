@@ -1,8 +1,8 @@
 {
   "Id": 1415,
   "CatId": 42,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱۰",
+  "Title": "بخش ۱۰ - بازگشت زال، کشتن خزروان و کلباد و شکست شماساس و برخورد او با قارن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱۰ - بازگشت زال، کشتن خزروان و کلباد و شکست شماساس و برخورد او با قارن",
   "FullUrl": "/ferdousi/shahname/nozar/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1158,6 +1158,71 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و شاه زابلستان که با گرز پدر می‌جنگد و دشمنان را می‌کشد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی هشیار و پسندیده‌کردار که زال با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 72,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دشمن که بر زال می‌تازد و با گرز او کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 71,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار سپاه دشمن که از زال می‌گریزد و بی‌دل و زردروی می‌شود."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شمشیرزن دشمن که زال با تیر او را به زین می‌دوزد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از لشکر ویسه برگشته و با شماساس روبه‌رو می‌شود. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 65,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب لشکری که قارن از آن بازگشته است."
     }
   ]
 }

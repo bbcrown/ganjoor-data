@@ -1,8 +1,8 @@
 {
   "Id": 87980,
   "CatId": 52,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۲",
+  "Title": "بخش ۲ - شرمساری لشکر از کشتن فرود، خشم کیخسرو و پوزش طوس به خواهش رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۲ - شرمساری لشکر از کشتن فرود، خشم کیخسرو و پوزش طوس به خواهش رستم",
   "FullUrl": "/ferdousi/shahname/kamoos/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2211,6 +2211,179 @@
       "CoupletIndex": 80,
       "SectionIndex1": 0,
       "SectionIndex2": 82
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر خسرو و پسر سیاوش که بی‌گناه کشته شد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از کشته‌شدن برادرش فرود خشمگین و اندوهگین است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که سپاه را به سوی فرود برد و مورد خشم شاه است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر خسرو و فرود که بی‌گناه کشته شد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر طوس."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که نزد شاه می‌رود تا برای طوس و سپاه شفاعت کند."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): داماد طوس و پسر کاوس."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر ریونیز. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 193,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان سرافرازی که کشته شد و طوس برایش سوگوار است."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 430,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشته‌شدگانی که طوس به سبب مرگشان دل‌آزرده است. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن شاه از کین پیشین و رزم کهن یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن شاه از کین پیشین و رزم کهن یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که در برابر شاه خاک را بوسیدند."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که در برابر شاه خاک را بوسیدند."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که در برابر شاه خاک را بوسیدند."
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که در برابر شاه آمادگی خود را اعلام کردند."
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): را سپهدار پیش می‌خواند، بر تخت می‌نشاند و می‌ستاید و خلعت می‌دهد."
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که در برابر شاه آمادگی خود را اعلام کردند."
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که در برابر شاه آمادگی خود را اعلام کردند."
     }
   ]
 }

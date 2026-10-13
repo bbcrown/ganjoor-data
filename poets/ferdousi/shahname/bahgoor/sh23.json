@@ -1,8 +1,8 @@
 {
   "Id": 1792,
   "CatId": 83,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۳",
+  "Title": "بخش ۲۳ - نامهٔ شاه از مرز چین به نرسی: اسارت خاقان، پوزش ایرانیان و پذیرش باژ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۳ - نامهٔ شاه از مرز چین به نرسی: اسارت خاقان، پوزش ایرانیان و پذیرش باژ",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,35 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامهٔ شاه به او نوشته شد و او به نامه پاسخ داد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه دشمن در جنگ؛ اسیر شد و ایرانیان به او پناه بردند. (نام در متن: خاقان)"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 387,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتری که نزد شاه آمد و رازها را آشکار کرد."
     }
   ]
 }

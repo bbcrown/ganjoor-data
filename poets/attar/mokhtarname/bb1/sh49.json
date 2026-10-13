@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "لدرتو",
-      "PlainText": "ای گم شده دیوانه وعاقل در تو\r\nسر رشته ذره ذره حاصل در تو\r\nتادر دل من صبح وصال تو دمید\r\nگم شد دو جهان دردلم ودل در تو",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گم شده دیوانه وعاقل، در تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر رشتهٔ ذرّه ذرّه حاصل،‌در تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتادر دل من صبح وصال تو دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگم شد دو جهان دردلم ودل در تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "ای گم شده دیوانه و عاقل در تو\r\nسررشته ذره ذره حاصل  در تو\r\nتا در دل من صبح وصال تو دمید\r\nگم شد دو جهان در دلم و دل در تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گم شده دیوانه و عاقل، در تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسررشتهٔ ذرّه ذرّه حاصل،‌ در تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا در دل من صبح وصال تو دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگم شد دو جهان در دلم و دل در تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "ای گم شده دیوانه وعاقل، در تو",
+      "Text": "ای گم شده دیوانه و عاقل، در تو",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: ای دیوانه و عاقل که گم شده‌ای، در تو راز و سرنخ‌های بسیاری نهفته است، حتی به اندازهٔ کوچک‌ترین ذرات."
@@ -37,14 +37,14 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "سر رشتهٔ ذرّه ذرّه حاصل،‌در تو",
+      "Text": "سررشتهٔ ذرّه ذرّه حاصل،‌ در تو",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "تادر دل من صبح وصال تو دمید",
+      "Text": "تا در دل من صبح وصال تو دمید",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: زمانی که عشق و نزدیکی تو در قلب من آغاز شد، همه دردها و مشکلات دنیا از دل من محو شدند و تنها تو در آنجا باقی ماندی."
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "گم شد دو جهان دردلم ودل در تو",
+      "Text": "گم شد دو جهان در دلم و دل در تو",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

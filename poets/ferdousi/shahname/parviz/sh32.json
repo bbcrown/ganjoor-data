@@ -1,8 +1,8 @@
 {
   "Id": 1867,
   "CatId": 88,
-  "Title": "بخش ۳۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۲",
+  "Title": "بخش ۳۲ - جنگ خسرو و بهرام چوبینه، گرفتاری شاه در غار و نجات یافتن از سروش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۲ - جنگ خسرو و بهرام چوبینه، گرفتاری شاه در غار و نجات یافتن از سروش",
   "FullUrl": "/ferdousi/shahname/parviz/sh32",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4074,6 +4074,233 @@
       "CoupletIndex": 149,
       "SectionIndex1": 0,
       "SectionIndex2": 151
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر و جهانجو که نگهبان یکی از جناح‌ها است و برادری دارد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مبارز سپاه خسرو که به بهرام پاسخ می‌دهد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مبارز و جنگاور همراه سپاه خسرو."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در کنار شاه ایستاده و نگهبان اوست."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد دشمن که بر پیل سپید می‌تازد و به قلب سپاه می‌زند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار دشمن که بر پیل می‌تازد و به قلب سپاه خسرو حمله می‌کند. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 437,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که خسرو می‌خواهد شاپور فریادرس او باشد."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران برگزیدهٔ گستهم."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 416,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران برگزیدهٔ گستهم."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 426,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور گستاخ از گزیدگان گستهم."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 449,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران برگزیدهٔ گستهم."
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 450,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور غمخوار از برگزیدگان."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران برگزیدهٔ گستهم."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 451,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دشمن‌گداز از برگزیدگان."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 452,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران برگزیدهٔ گستهم."
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و یار بهرام که او را مخاطب می‌سازد."
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 328,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و یار بهرام که همراه او به جنگ می‌رود. (نام در متن: ایزد گشسپ)"
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران بهرام که در تعقیب خسرو همراه اوست. (نام در متن: ایزد گشسپ)"
+    },
+    {
+      "CoupletIndex": 89,
+      "PersonId": 453,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی شبگرد و دلیر که بهرام سپاه را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 95,
+      "PersonId": 443,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار رومیان که با لشکرش آمادهٔ نبرد می‌شود."
+    },
+    {
+      "CoupletIndex": 121,
+      "PersonId": 12,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرشته‌ای سبزپوش که خسرو را از کوه می‌رهاند و به پادشاهی نویدش می‌دهد."
+    },
+    {
+      "CoupletIndex": 134,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر خسرو که از نگرانی برای او رخسار می‌خراشد."
+    },
+    {
+      "CoupletIndex": 145,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
+    },
+    {
+      "CoupletIndex": 145,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
+    },
+    {
+      "CoupletIndex": 145,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
     }
   ]
 }

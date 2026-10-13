@@ -1,8 +1,8 @@
 {
   "Id": 87969,
   "CatId": 51,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۵",
+  "Title": "بخش ۱۵ - کشته شدن فرود در کمین رهام و بیژن، خودکشی جریره و سوگ و دفن شاهوار ایرانیان",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۵ - کشته شدن فرود در کمین رهام و بیژن، خودکشی جریره و سوگ و دفن شاهوار ایرانیان",
   "FullUrl": "/ferdousi/shahname/forood/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,125 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان دلاور و سردار سپاه دژ که با ایرانیان می‌جنگد و زخمی به دژ بازمی‌گردد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که همراه بیژن کمین می‌کند و بر فرود شمشیر می‌زند"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با رهام کمین می‌کند و با فرود می‌جنگد"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 147,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر یا مادر فرود که آتش افروخت و خود را کشت."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که کین او انگیزهٔ لشکرکشی ایرانیان است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که لشکر را به سوی کلات برد."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که طوس را با پند و اندرز به کین‌خواهی فرستاد."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان کهنسال ایرانی که طوس را از تندی بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی همراه سپاه و گریان بر بالین کشته."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که دیگر پهلوانان گرد او آمده‌اند."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران که بر کشته زار گریست."
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 193,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار نوذرنژاد که جوانی‌اش بر اثر تندی از دست رفت."
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 194,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که به‌سبب تیزی و شتاب گرفتار شد."
     }
   ]
 }

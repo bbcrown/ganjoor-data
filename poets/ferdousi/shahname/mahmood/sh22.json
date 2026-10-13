@@ -1,8 +1,8 @@
 {
   "Id": 88081,
   "CatId": 57,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۲",
+  "Title": "بخش ۲۲ - گریختن شبانهٔ افراسیاب از گنگ، سوگ سیاوش و بازگشت کیخسرو از چین به سوی ایران",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۲ - گریختن شبانهٔ افراسیاب از گنگ، سوگ سیاوش و بازگشت کیخسرو از چین به سوی ایران",
   "FullUrl": "/ferdousi/shahname/mahmood/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3399,6 +3399,98 @@
       "CoupletIndex": 124,
       "SectionIndex1": 0,
       "SectionIndex2": 126
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که پنهانی گریخته و سپاه کیخسرو در جستجوی اوست."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که به گنگ می‌آید و در آن‌جا می‌ماند."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیر ایران که بی‌فر و گنج و سپاه یاد شده است. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با لشکر به پیشواز شاه می‌آید."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان‌ای که در چین به پیشواز شاه می‌آید و میزبان اوست"
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشندگان شاه ایران در آن جایگاه"
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 155,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشندگان شاه ایران که رستم او را نفرین می‌کند"
+    },
+    {
+      "CoupletIndex": 80,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به پیشواز شاه می‌رود و شاه فرمانروایی سرزمینی را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر تور."
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر فریدون؛ آتشکده را ساخته و در آن کاخ‌ها برآورده بود."
     }
   ]
 }

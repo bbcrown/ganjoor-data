@@ -646,5 +646,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 24
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 487,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر و همسر شاه که به تخت نشست و دادگرانه حکومت کرد"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بدخواه جست‌وجوشده که او را گرفتند و نزد پوران بردند و کشته شد (نام در متن: پیروز خسرو)"
+    }
   ]
 }

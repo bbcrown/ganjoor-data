@@ -1,8 +1,8 @@
 {
   "Id": 1740,
   "CatId": 77,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۸",
+  "Title": "بخش ۸ - شاپور مهمان باغبان: سپردن مهر به موبدان‌موبد، شادی و گریستن او و وصف سوار و یار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۸ - شاپور مهمان باغبان: سپردن مهر به موبدان‌موبد، شادی و گریستن او و وصف سوار و یار",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,26 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه، میهمان باغبان، که نگین خود را برای موبد می‌فرستد"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 318,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد بزرگ که با دیدن مهر شاه شاد می‌شود و دربارهٔ او می‌پرسد"
     }
   ]
 }

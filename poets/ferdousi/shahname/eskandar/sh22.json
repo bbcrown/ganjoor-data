@@ -1,8 +1,8 @@
 {
   "Id": 1661,
   "CatId": 67,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۲",
+  "Title": "بخش ۲۲ - گشودن شارستان فریان، نیرنگ تخت بیطقون و رهانیدن قیدروش و عروسش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۲ - گشودن شارستان فریان، نیرنگ تخت بیطقون و رهانیدن قیدروش و عروسش",
   "FullUrl": "/ferdousi/shahname/eskandar/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,71 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که با سپاه به مرز فریان می‌رود، شهر را می‌گیرد و چاره‌جویی می‌کند. (نام در متن: اسکندر)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 273,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه شهری با لشکر و گنج که دخترش را به قیدروش داده است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر قیدروش که داماد فریان است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 274,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر قیدافه و داماد فریان که با همسرش اسیر شهرگیر است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 373,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر قیدروش و دختر فریان."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 275,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی که قیدروش و همسرش در دست او اسیرند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 276,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): وزیر خردمند اسکندر که به فرمان او بر تخت می‌نشیند."
     }
   ]
 }

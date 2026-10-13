@@ -1,8 +1,8 @@
 {
   "Id": 1516,
   "CatId": 58,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۷",
+  "Title": "بخش ۷ - خواب کتایون، برگزیدن گشتاسپِ غریب در انجمن قیصر و خشم پدر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۷ - خواب کتایون، برگزیدن گشتاسپِ غریب در انجمن قیصر و خشم پدر",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,44 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم و پدر سه دختر، برگزارکنندهٔ انجمن همسرگزینی"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر دختران قیصر که در خواب مردی بیگانه را دید"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد بیگانه و غمگین که به ایوان قیصر می‌رود و کتایون او را برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 184,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اندرزگوی قیصر که او را از ستیز با انتخاب دخترش بازمی‌دارد"
     }
   ]
 }

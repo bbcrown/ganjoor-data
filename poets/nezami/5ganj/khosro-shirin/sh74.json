@@ -1402,5 +1402,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 52
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که ملک او را مخاطب قرار می‌دهد و از او مهر می‌خواهد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 643,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در حکایتی یادشده که دهقان با او سخن گفته است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 264,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در اشاره‌ای تمثیلی به بستن در فرخار بر او یاد شده است."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1871,
   "CatId": 88,
-  "Title": "بخش ۳۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۶",
+  "Title": "بخش ۳۶ - بزم خسرو با نیاطوس، سیلی بندوی بر چلیپاپرست و آشتی به میانجیگری مریم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۶ - بزم خسرو با نیاطوس، سیلی بندوی بر چلیپاپرست و آشتی به میانجیگری مریم",
   "FullUrl": "/ferdousi/shahname/parviz/sh36",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,98 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 443,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار رومی که از خوان برمی‌خیزد و با لشکر به جنگ برمی‌آید."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خسرو که بر روی چلیپاپرست دست زد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 120,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم و پدر مریم"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر مسیحیان که نامش در بحث دین آمده است"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب خسرو هنگام سخن دربارهٔ نیاطوس"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 1,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پادشاهان پیشین که یادشان آمده است"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پادشاهان پیشین که یادشان آمده است"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که خسرو به آیین آنان اشاره می‌کند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پادشاهان پیشین که یادشان آمده است (نام در متن: کی قباد)"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زن هوشمند و دختر قیصر که برای آشتی میانجی می‌شود."
     }
   ]
 }

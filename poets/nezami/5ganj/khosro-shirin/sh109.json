@@ -1506,5 +1506,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 44
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 646,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده‌ای که چهل قصه را در چهل نکته بیان کرد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 227,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نقاش که در تشبیه با «نقاش چادرسوز» یاد شده است."
+    }
   ]
 }

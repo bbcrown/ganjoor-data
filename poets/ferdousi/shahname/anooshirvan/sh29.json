@@ -1,0 +1,132 @@
+{
+  "Id": 151740,
+  "CatId": 86,
+  "Title": "بخش ۲۹ - داستان بوزرجمهر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کسری نوشین روان چهل و هشت سال بود » بخش ۲۹ - داستان بوزرجمهر",
+  "FullUrl": "/ferdousi/shahname/anooshirvan/sh29",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "نگر خواب را بیهده نشمری\r\nیکی بهره دانی ز پیغمبری\r\nبه ویژه که شاه جهان بیندش\r\nروان درخشنده بگزیندش\r\nستاره زند رای با چرخ و ماه\r\nسخنها پراگنده کرده به راه\r\nروانهای روشن ببیند به خواب\r\nهمه بودنیها چوآتش برآب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگر خواب را بیهده نشمری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی بهره دانی ز پیغمبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه ویژه که شاه جهان بیندش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروان درخشنده بگزیندش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eستاره زند رای با چرخ و ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخنها پراگنده کرده به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروانهای روشن ببیند به خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه بودنیها چوآتش برآب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 593
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "نگر خواب را بیهده نشمری\r\nیکی بهره دانی ز پیغمبری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگر خواب را بیهده نشمری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی بهره دانی ز پیغمبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یندش",
+      "PlainText": "به ویژه که شاه جهان بیندش\r\nروان درخشنده بگزیندش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه ویژه که شاه جهان بیندش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروان درخشنده بگزیندش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "ستاره زند رای با چرخ و ماه\r\nسخنها پراگنده کرده به راه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eستاره زند رای با چرخ و ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخنها پراگنده کرده به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "روانهای روشن ببیند به خواب\r\nهمه بودنیها چوآتش برآب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروانهای روشن ببیند به خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه بودنیها چوآتش برآب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نگر خواب را بیهده نشمری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به خواب خود بیهوده ارزش نده؛ چرا که دانشی از پیامبران را در پس آن می‌توانی بیابی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یکی بهره دانی ز پیغمبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به ویژه که شاه جهان بیندش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به ویژه اینکه شاه دنیا او را ببیند و او را با درخشش و زیبایی انتخاب کند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روان درخشنده بگزیندش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ستاره زند رای با چرخ و ماه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ستاره‌ها نظر و پیام‌هایی از آسمان دارند و ماه نیز رازها و سخنان گوناگونی را در دل شب پخش می‌کند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سخنها پراگنده کرده به راه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "روانهای روشن ببیند به خواب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در خواب، روح‌های روشن تمام موجودات را مانند آتش بر روی آب مشاهده می‌کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همه بودنیها چوآتش برآب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "Id": 87967,
   "CatId": 51,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۳",
+  "Title": "بخش ۱۳ - شناساندن بیژن پسر گیو، کشتن اسپ او، رزم پیاده، گریختن فرود به دژ و سوگند طوس",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۳ - شناساندن بیژن پسر گیو، کشتن اسپ او، رزم پیاده، گریختن فرود به دژ و سوگند طوس",
   "FullUrl": "/ferdousi/shahname/forood/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,62 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جوانی که در دژ است و با بیژن می‌جنگد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه و مشاور شاه جوان که دربارهٔ بیژن به او هشدار می‌دهد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن؛ زرهی که بر میان بسته بود نزد بیژن است"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو، جنگاور دلیر که پس از افتادن اسبش پیاده می‌جنگد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبد که به کین زرسپ سوگند می‌خورد"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 193,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که طوس برای خونخواهی او سوگند می‌خورد"
     }
   ]
 }

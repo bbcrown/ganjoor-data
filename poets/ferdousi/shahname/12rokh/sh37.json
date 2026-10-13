@@ -1,8 +1,8 @@
 {
   "Id": 88059,
   "CatId": 56,
-  "Title": "بخش ۳۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۷",
+  "Title": "بخش ۳۷ - پوزش و زنهارخواهی سپاه توران نزد کیخسرو، بخشایش شاه و سوگند ترکان به بندگی",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۷ - پوزش و زنهارخواهی سپاه توران نزد کیخسرو، بخشایش شاه و سوگند ترکان به بندگی",
   "FullUrl": "/ferdousi/shahname/12rokh/sh37",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,26 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترکان او را مایهٔ گمراهی دل شاه می‌دانند. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترکان می‌گویند در ماجرای او گناهی نداشته‌اند. (نام در متن: سیاوش)"
     }
   ]
 }

@@ -3427,5 +3427,79 @@
       "SectionIndex1": 0,
       "SectionIndex2": 127
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شیرین در جست‌وجوی او به لشکرگاهش می‌رود. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که بی‌شاه دلتنگ است و شبانه سوار بر گلگون به لشکرگاه می‌رود."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از درگاه شاه شیرین را می‌بیند، با او سخن می‌گوید و حاجتش را می‌شنود."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای یادکرد زیورهای باشکوه او آمده است"
+    },
+    {
+      "CoupletIndex": 89,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نوازندهٔ بربط در بزم شاه که نوایش دل‌ها را می‌نوازد."
+    },
+    {
+      "CoupletIndex": 91,
+      "PersonId": 629,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسه با نوای عود باربد یاد شده است. (نام در متن: داود)"
+    },
+    {
+      "CoupletIndex": 92,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه نغمهٔ باربد به نفس موسیقار او یاد شده است."
+    },
+    {
+      "CoupletIndex": 97,
+      "PersonId": 675,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): چنگی و خوش‌آواز، ندیم خاص امیر، همنوا با باربد در بزم."
+    }
   ]
 }

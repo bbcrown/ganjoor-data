@@ -1,8 +1,8 @@
 {
   "Id": 1553,
   "CatId": 59,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۷",
+  "Title": "بخش ۲۷ - فرمان ارجاسپ به کهرم، تاختن بر بلخ و کشته شدن لهراسپ و سوختن آتشکده",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۷ - فرمان ارجاسپ به کهرم، تاختن بر بلخ و کشته شدن لهراسپ و سوختن آتشکده",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1536,6 +1536,53 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه توران و پدر کهرم که او را به نبرد با بلخ می‌فرستد (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر مهتر ارجاسپ و سردار سپاه توران در یورش به بلخ"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که ارجاسپ می‌خواهد ایوانش را بسوزاند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که ارجاسپ فرمان بستن و کشتنش را می‌دهد"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیرمرد یزدان‌پرست در بلخ که با ترکان می‌جنگد و کشته می‌شود"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88048,
   "CatId": 56,
-  "Title": "بخش ۲۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۶",
+  "Title": "بخش ۲۶ - نبرد ششم: کشتن رویین به عمود بیژن، بستن پیکرش بر اسب و بازگشت پیروزمند",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۶ - نبرد ششم: کشتن رویین به عمود بیژن، بستن پیکرش بر اسب و بازگشت پیروزمند",
   "FullUrl": "/ferdousi/shahname/12rokh/sh26",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,53 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان رومی که با بیژن نبرد می‌کند و کشته می‌شود"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو که با رویین می‌جنگد و او را می‌کشد و اسیر می‌کند"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رویین هنگام جان‌دادن او را به یاد می‌آورد (نام در متن: پیران ویسه)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیژن در تشبیه به او مانند شده است (نام در متن: آهرمن)"
     }
   ]
 }

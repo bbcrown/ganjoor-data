@@ -1,8 +1,8 @@
 {
   "Id": 1445,
   "CatId": 46,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۶",
+  "Title": "بخش ۱۶ - نبرد نهایی با مازندران، کشتن جویان و شاه جادو و سپردن تاج به اولاد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۶ - نبرد نهایی با مازندران، کشتن جویان و شاه جادو و سپردن تاج به اولاد",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3237,6 +3237,170 @@
       "CoupletIndex": 118,
       "SectionIndex1": 0,
       "SectionIndex2": 120
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که فرمان آماده‌شدن لشکر را می‌دهد و در قلب سپاه است. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که فقط در نسب او آمده است"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به جنگ جویان می‌رود و او را از اسب می‌اندازد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که فرماندهی میمنه را دارد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و سردار میسرهٔ سپاه"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و آزادگان ایرانی که برای جنگ فراخوانده می‌شود"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و آزادگان ایرانی که برای جنگ فراخوانده می‌شود"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر طوس که فقط در نسب او آمده است"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گودرز که فقط در نسب او آمده است"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 112,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار گرزدار مازندرانی که رجز می‌خواند و رستم او را از اسب می‌اندازد."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 100,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه مازندران که رستم با نیزه به او حمله می‌کند."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران سپاه ایران."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه سپاه ایران."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با درفش هفت‌یاز در سپاه می‌رود."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه سپاه ایران."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه سپاه ایران."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه سپاه ایران."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 106,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که به گفتهٔ رستم راه را نشان داد و هنرها از او بود."
     }
   ]
 }

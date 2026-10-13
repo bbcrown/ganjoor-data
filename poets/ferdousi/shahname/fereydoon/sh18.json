@@ -1,8 +1,8 @@
 {
   "Id": 1375,
   "CatId": 40,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۸",
+  "Title": "بخش ۱۸ - فرستادن منوچهر سر تور فریدون را",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۸ - فرستادن منوچهر سر تور فریدون را",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,53 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و گیرندهٔ نامه؛ فرستنده او را می‌ستاید."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ نامه می‌خواهد با او نیز چنین کند."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری که سرش را در تابوت زر نهادند."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده در جنگ؛ سرش را برای فریدون فرستادند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فریدون برای او از دادگر آفرین می‌خواهد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1409,
   "CatId": 42,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۴",
+  "Title": "بخش ۴ - نبرد دهستان، کشته شدن قباد به دست بارمان و جنگ شدید قارن با افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۴ - نبرد دهستان، کشته شدن قباد به دست بارمان و جنگ شدید قارن با افراسیاب",
   "FullUrl": "/ferdousi/shahname/nozar/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2076,6 +2076,116 @@
       "CoupletIndex": 75,
       "SectionIndex1": 0,
       "SectionIndex2": 77
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور ترک که برای نبرد تن‌به‌تن به میدان می‌رود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سراپردهٔ او در لشکرگاه دیده می‌شود"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 70,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): هوشمند تورانی که از آسیب دیدن بارمان هشدار می‌دهد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 355,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده تورانی که از سخن اغریرث خشمگین می‌شود و بارمان را می‌فرستد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار ایرانی و برادر قباد که از او رنجیده می‌شود (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که روزگارش مبدأ زمان یادشده است"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار سپاه دشمن که بارمان را خلعت می‌دهد و با قارن می‌جنگد"
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 50,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "این بیت نشانگر آن است که قباد برادر قارن کاوگان است"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار نام‌آوری که مرگش برای سنجش اندوه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که کلاه پهلوانی را بر سر قارن نهاد"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که کین او انگیزهٔ جنگ‌آوری قارن است"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر افراسیاب"
     }
   ]
 }

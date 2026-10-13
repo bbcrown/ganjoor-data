@@ -1,8 +1,8 @@
 {
   "Id": 1795,
   "CatId": 83,
-  "Title": "بخش ۲۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۶",
+  "Title": "بخش ۲۶ - گسیل نرسی به خراسان و رای بهرام به نواختن فرستادهٔ قیصر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۶ - گسیل نرسی به خراسان و رای بهرام به نواختن فرستادهٔ قیصر",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh26",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,71 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سوی شاه حاکم خراسان می‌شود و روانه آنجا می‌گردد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که نرسی را به خراسان می‌فرستد و با موبد سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 318,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد بزرگ دربار که از فرستادهٔ قیصر برای شاه می‌گوید."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که فرستاده‌اش در دربار شاه معطل مانده است."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 388,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): استاد پیشین فرستادهٔ رومی."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که تاج بر سر قیصر نهاد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای قیصر که نژاد او به وی می‌رسد."
     }
   ]
 }

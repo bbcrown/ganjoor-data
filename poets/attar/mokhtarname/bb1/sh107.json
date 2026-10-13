@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "همیایم",
-      "PlainText": "میآیم و با دلی سیه میآیم\r\nسرگشته و افتاده ز ره میآیم\r\nای پاک ز آلودگیم پاکی ده\r\nکالوده به انواع گنه میآیم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیآیم و با دلی سیه میآیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگشته و افتاده ز ره میآیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پاک! ز آلودگیم پاکی ده!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکالوده به انواع گنه میآیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "می آیم و با دلی سیه می آیم\r\nسرگشته و افتاده ز ره می آیم\r\nای پاک ز آلودگیم پاکی ده\r\nکآلوده به انواع گنه می آیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌آیم و با دلی سیه می‌آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگشته و افتاده ز ره می‌آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پاک! ز آلودگیم پاکی ده!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآلوده به انواع گنه می‌آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "میآیم و با دلی سیه میآیم",
+      "Text": "می‌آیم و با دلی سیه می‌آیم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: من با دلی غمگین و ناامید می‌آیم، گمگشته و خسته از راهی که پیموده‌ام."
@@ -37,7 +37,7 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "سرگشته و افتاده ز ره میآیم",
+      "Text": "سرگشته و افتاده ز ره می‌آیم",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "کالوده به انواع گنه میآیم",
+      "Text": "کآلوده به انواع گنه می‌آیم",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

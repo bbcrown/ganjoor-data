@@ -1,8 +1,8 @@
 {
   "Id": 1554,
   "CatId": 59,
-  "Title": "بخش ۲۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۸",
+  "Title": "بخش ۲۸ - آگهی مرگ لهراسپ و اسارت دختران، و کشته شدن سی و هشت پسر گشتاسپ در نبرد با ارجاسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۸ - آگهی مرگ لهراسپ و اسارت دختران، و کشته شدن سی و هشت پسر گشتاسپ در نبرد با ارجاسپ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,89 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با سپاه به‌سوی بلخ می‌رود و با ارجاسپ می‌جنگد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهنشاهی که پیش بلخ کشته شد"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بانوان خاندان شاهی که در این رویداد شکست و اسارت دیده است."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 225,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر شاه که او را خوار و اسیر بردند"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه دشمن که در قلبگاه ایستاده است (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پهلوان بر میمنهٔ سپاه گشتاسپ"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و سردار میسرهٔ سپاه ایران."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 29,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار میمنهٔ سپاه دشمن که با بنه از پشت آمد. (نام در متن: کندر)"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تیغ‌زن و فرمانده میسرهٔ سپاه دشمن"
     }
   ]
 }

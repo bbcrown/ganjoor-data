@@ -1,8 +1,8 @@
 {
   "Id": 1687,
   "CatId": 68,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱",
+  "Title": "بخش ۱ - ستایش محمود و نصر و بوالظفر، مژدهٔ بخشش خراج و اندرز داد و جاودانگی سخن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱ - ستایش محمود و نصر و بوالظفر، مژدهٔ بخشش خراج و اندرز داد و جاودانگی سخن",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,71 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران و زابلستان که در آغاز بخش ستوده می‌شود"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 374,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار پیروزبخت و تیرانداز در خدمت شاه"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر قباد و نماد داد و دادگری"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 50,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر نوشین‌روان"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5) (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بیدادگر و ناپاک"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نیک‌نام که پس از مرگ نامش جاوید ماند"
     }
   ]
 }

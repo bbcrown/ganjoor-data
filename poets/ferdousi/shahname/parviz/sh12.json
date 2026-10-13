@@ -1,8 +1,8 @@
 {
   "Id": 1847,
   "CatId": 88,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۲",
+  "Title": "بخش ۱۲ - خبر بندوی از گریختن خسرو به روم، خشم بهرام و به بند کشیدن بندوی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۲ - خبر بندوی از گریختن خسرو به روم، خشم بهرام و به بند کشیدن بندوی",
   "FullUrl": "/ferdousi/shahname/parviz/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,44 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخن‌گوی و فرستادهٔ خسرو که نزد بهرام می‌آید و به بند کشیده می‌شود"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهسالار، پسر سیاوش، که بر بندوی خشم می‌گیرد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سردار سپاه که بر بندوی خشم می‌گیرد و او را به بند می‌کشد (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به روم رفته و بندوی او را شهنشاه خود می‌داند"
     }
   ]
 }

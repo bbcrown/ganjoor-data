@@ -1,8 +1,8 @@
 {
   "Id": 87988,
   "CatId": 52,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۰",
+  "Title": "بخش ۱۰ - خبر پیروزی پیران و گریز ایرانیان به هماون، خواهش کیخسرو از رستم و تاختن تهمتن به یاری طوس",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۰ - خبر پیروزی پیران و گریز ایرانیان به هماون، خواهش کیخسرو از رستم و تاختن تهمتن به یاری طوس",
   "FullUrl": "/ferdousi/shahname/kamoos/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1779,6 +1779,116 @@
       "CoupletIndex": 64,
       "SectionIndex1": 0,
       "SectionIndex2": 66
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در رزم پیروز شده است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ خبر پیروزی پیران به او می‌رسد و رستم را فرامی‌خواند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ کاخش از گردان تهی شده و فرزندانش کشته شده‌اند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که اختر او نگون شده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ که به درگاه فراخوانده می‌شود تا ایران را از بدی برهاند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم دل و مغزش را کَند."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی که دلی پر از خون دارند."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ترکان که ایرانیان از لشکرش گریزانند."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برایش آرزوی تن‌درستی و دوری از بدگمانی می‌شود."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که رستم از زمان تاج‌نهادنش یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریبرز. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس که رستم او را پیشرو سپاه می‌کند."
     }
   ]
 }

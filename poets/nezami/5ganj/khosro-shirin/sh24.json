@@ -2239,5 +2239,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 83
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی همراه بتان چین که به صید می‌رود و ناپدید می‌شود"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 279,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه سرسبزی صحرا با آب حیوان آمده است"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 165,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه برآمدن خورشید از چاه یادشده است"
+    }
   ]
 }

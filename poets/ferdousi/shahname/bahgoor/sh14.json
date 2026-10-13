@@ -1,8 +1,8 @@
 {
   "Id": 1783,
   "CatId": 83,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۴",
+  "Title": "بخش ۱۴ - کشتن دو شیر، شب زناشویی پنهان بهرام با آرزو در خان ماهیار و فاش شدن هویت",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۴ - کشتن دو شیر، شب زناشویی پنهان بهرام با آرزو در خان ماهیار و فاش شدن هویت",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -6018,6 +6018,62 @@
       "CoupletIndex": 221,
       "SectionIndex1": 0,
       "SectionIndex2": 223
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه شکارچی که با تیر بی‌پر دو شیر را می‌کشد و به سراغ گوهرفروش می‌رود. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با موبدان دربارهٔ رفتن شاه به ده سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 382,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر میزبان، میگسار و چنگ‌زن و چامه‌گوی. (احتمالاً همنامِ «آرزو» با کد 40؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 96,
+      "PersonId": 254,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): میزبان و پدر آرزو که میهمان را گرامی می‌دارد."
+    },
+    {
+      "CoupletIndex": 103,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آزاده‌خوی؛ ماهیار در ستایش به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 328,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار و همال آرزو که ماهیار او را در نظر دارد."
     }
   ]
 }

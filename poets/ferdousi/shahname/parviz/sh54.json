@@ -1,8 +1,8 @@
 {
   "Id": 1889,
   "CatId": 88,
-  "Title": "بخش ۵۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۴",
+  "Title": "بخش ۵۴ - کینهٔ نهان خسرو، بستن بندوی و مرگ او با بریدن دست و پا",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵۴ - کینهٔ نهان خسرو، بستن بندوی و مرگ او با بریدن دست و پا",
   "FullUrl": "/ferdousi/shahname/parviz/sh54",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -240,6 +240,26 @@
       "CoupletIndex": 7,
       "SectionIndex1": 0,
       "SectionIndex2": 9
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جنگی که در آغاز این بخش از راه برمی‌خیزد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشندهٔ پدر شاه؛ شاه او را بند می‌کند و فرمان بریدن دست و پایش را می‌دهد."
     }
   ]
 }

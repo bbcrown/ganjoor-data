@@ -1,8 +1,8 @@
 {
   "Id": 1774,
   "CatId": 83,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۵",
+  "Title": "بخش ۵ - گشودن خان پرگنج بهرام جهود، شگفتی شاه و سپردن خواسته به لنبک آبکش با چهار درم به جهود",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۵ - گشودن خان پرگنج بهرام جهود، شگفتی شاه و سپردن خواسته به لنبک آبکش با چهار درم به جهود",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,17 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 340,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد یهودی بداندیش و بسیار ثروتمند که شاه او را احضار می‌کند و گنجش را می‌ستاند. (نام در متن: به راهام)"
     }
   ]
 }

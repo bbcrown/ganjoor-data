@@ -1,8 +1,8 @@
 {
   "Id": 88024,
   "CatId": 56,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲",
+  "Title": "بخش ۲ - بازگشت ننگین افراسیاب به خلخ، شورای جنگ و گسیل شیده به خوارزم و پیران به ایران",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲ - بازگشت ننگین افراسیاب به خلخ، شورای جنگ و گسیل شیده به خوارزم و پیران به ایران",
   "FullUrl": "/ferdousi/shahname/12rokh/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,116 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران؛ پس از شکست از رستم، سپاه گرد می‌کند و به جنگ ایران می‌رود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ در جنگ پیشین کار را بر افراسیاب تنگ کرده است."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان و مشاوران افراسیاب در انجمن."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کاردانان دربار افراسیاب؛ سپاه پنجاه‌هزار نفری چین را برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوان؛ افراسیاب نگهبانی مرز خوارزم را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 549,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کاردانان حاضر در انجمن افراسیاب."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 554,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از حاضران در انجمن افراسیاب."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زمان جنگ او مبدأ یادآوری درازنشدن دست ایران به توران است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ از رقیبان آیندهٔ تورانیان در نبرد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که افراسیاب برای او فرستاده و نامه می‌فرستد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): افراسیاب از او دل‌تنگ است."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج‌های توران از روزگار او به یادگار مانده است."
     }
   ]
 }

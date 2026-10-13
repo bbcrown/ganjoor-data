@@ -1,8 +1,8 @@
 {
   "Id": 1543,
   "CatId": 59,
-  "Title": "بخش ۱۷ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۷ - سخن دقیقی",
+  "Title": "بخش ۱۷ - سخن دقیقی: کین‌خواهی بستور و کشتن بیدرفش به دست اسفندیار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۷ - سخن دقیقی: کین‌خواهی بستور و کشتن بیدرفش به دست اسفندیار",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -915,6 +915,53 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 34
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بستور؛ سوار کشته‌شده که تیغ، اسب و سلیحش در داستان می‌آید."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر زریر و کیان‌زاده؛ پهلوانی که در رزم بیدرفش را می‌جوید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درفش به نام او منسوب شده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 203,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوی پیر و سردستهٔ جادوان ترک که اسفندیار او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و شاهزادهٔ ایرانی که بیدرفش را می‌کشد."
     }
   ]
 }

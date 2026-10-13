@@ -1,8 +1,8 @@
 {
   "Id": 88036,
   "CatId": 56,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۴",
+  "Title": "بخش ۱۴ - نامهٔ آشتی‌جوی پیران به گودرز، پیشنهاد بخشش مرزها و پاسخ کینه‌توز گودرز",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۴ - نامهٔ آشتی‌جوی پیران به گودرز، پیشنهاد بخشش مرزها و پاسخ کینه‌توز گودرز",
   "FullUrl": "/ferdousi/shahname/12rokh/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2967,6 +2967,134 @@
       "CoupletIndex": 108,
       "SectionIndex1": 0,
       "SectionIndex2": 110
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که نامه به او نوشته می‌شود و به جنگ و کینه‌جویی سرزنش می‌شود."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گوینده می‌خواهد برای صلح و بخشیدن زمین‌ها نوندی نزد او بفرستد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه گذشته که به بخشش، جهان را نگه می‌داشت."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه دادگری که مرزها و سرزمین‌ها را فرمان داده بود."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که کشور نیمروز به او سپرده خواهد شد."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجویی که از سویی دیگر می‌تازد و الانان و غر را زیر دست می‌آورد. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 287,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاوری که به سویی دیگر رفته است. (نام در متن: اشکش)"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که به سویی رفته و سخنگو از آن سو سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بزرگ که از کشته شدن ایرج دل‌آزرده شد."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بدگوهر و سترگ که همراه تور آمده است."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بدگوهری که پیمان شاه بزرگ را شکست."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامور کشته‌شده‌ای که مرگش فریدون را دردمند کرد."
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر پیران که نامه را نزد گودرز می‌برد"
+    },
+    {
+      "CoupletIndex": 88,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ نامه به گودرز و پدر رویین؛ خردمند و پندده"
     }
   ]
 }

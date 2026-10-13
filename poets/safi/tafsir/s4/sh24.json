@@ -104,16 +104,6 @@
     },
     {
       "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "هر که کا ری بد کند یابد جزا\r\nگل نروید چونکه کشتی گندنا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که کا ری بد کند یابد جزا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگُل نروید چونکه کِشتی گندنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 4,
       "Number": 5,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -124,14 +114,14 @@
       "CoupletsCount": 119
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ودرا",
-      "PlainText": "با تو گویم شرطهای جود را\r\nتا بیابی گوهر مقصود را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو گویم شرطهای جود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بیابی گوهر مقصود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
+      "RhymeLetters": "ا",
+      "PlainText": "هر که کا ری بد کند یابد جزا\r\nگل نروید چونکه کشتی گندنا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که کا ری بد کند یابد جزا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگُل نروید چونکه کِشتی گندنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
     },
     {
       "Index": 5,
@@ -141,6 +131,16 @@
       "RhymeLetters": "د",
       "PlainText": "هم نیابد دوستداری بهر خود\r\nدون حق یا ناصری گاه مدد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم نیابد دوستداری بهر خود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدون حق یا ناصری گاه مدد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ودرا",
+      "PlainText": "با تو گویم شرطهای جود را\r\nتا بیابی گوهر مقصود را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو گویم شرطهای جود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بیابی گوهر مقصود را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -188,9 +188,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یر",
-      "PlainText": "شرط اول آنکه معطی در ضمیر\r\nخویش را کمتر شمارد از فقیر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط اول آنکه معطی در ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویش را کمتر شمارد از فقیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وست",
+      "PlainText": "گفت عمرو عبدود با وی که دوست\r\nبا ابی طالب بدم چون لحم و پوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت عمرو عبدود با وی که دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ابی طالب بدم چون لحم و پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -198,19 +198,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وست",
-      "PlainText": "گفت عمرو عبدود با وی که دوست\r\nبا ابی طالب بدم چون لحم و پوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت عمرو عبدود با وی که دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ابی طالب بدم چون لحم و پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "رد",
-      "PlainText": "می نخواهم با تو آیم در نبرد\r\nرو تو گو کآید دگر گر هست مرد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نخواهم با تو آیم در نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو تو گو کآید دگر گر هست مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یر",
+      "PlainText": "شرط اول آنکه معطی در ضمیر\r\nخویش را کمتر شمارد از فقیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط اول آنکه معطی در ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویش را کمتر شمارد از فقیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -221,6 +211,16 @@
       "RhymeLetters": "اء",
       "PlainText": "شرط دیگر آنکه پاداش عطاء\r\nنه عوض خواهد  نه خدمت  نه دعاء",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه پاداش عطاء\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه عوض خواهد ، نه خدمت ، نه دعاء\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "می نخواهم با تو آیم در نبرد\r\nرو تو گو کآید دگر گر هست مرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نخواهم با تو آیم در نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو تو گو کآید دگر گر هست مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -268,9 +268,9 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "مش",
-      "PlainText": "شرط دیگر کآن عطاء داند کمش\r\nگرچه بدهد گنجهای عالمش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر کآن عطاء داند کمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه بدهد گنجهای عالمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "راست",
+      "PlainText": "گفت پاس مهر حق واجب تر است\r\nیار او شو گر که مهرت رهبر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت پاس مهر حق واجب تر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار او شو گر که مهرت رهبر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -278,19 +278,9 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "راست",
-      "PlainText": "گفت پاس مهر حق واجب تر است\r\nیار او شو گر که مهرت رهبر است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت پاس مهر حق واجب تر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار او شو گر که مهرت رهبر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 9,
-      "Number": 9,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ال",
-      "PlainText": "ور نه من بر پاس مهر ذوالجلال\r\nبا تو خواهم کرد در میدان قتال",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نه من بر پاس مهر ذوالجلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو خواهم کرد در میدان قتال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "مش",
+      "PlainText": "شرط دیگر کآن عطاء داند کمش\r\nگرچه بدهد گنجهای عالمش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر کآن عطاء داند کمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه بدهد گنجهای عالمش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -301,6 +291,16 @@
       "RhymeLetters": "اد",
       "PlainText": "شرط دیگر کش نماند آن به یاد\r\nاز نظر سازد فراموش آنچه داد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر کش نماند آن به یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نظر سازد فراموش آنچه داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ال",
+      "PlainText": "ور نه من بر پاس مهر ذوالجلال\r\nبا تو خواهم کرد در میدان قتال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نه من بر پاس مهر ذوالجلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو خواهم کرد در میدان قتال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -348,9 +348,9 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "هد",
-      "PlainText": "شرط دیگر آنکه صد بار ار دهد\r\nزآن نخواهد منتی بر وی نهد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه صد بار ار دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن نخواهد منّتی بر وی نهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وست",
+      "PlainText": "جان من پروردة احسان اوست\r\nمیکشم آن را که با یارم عدوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان من پروردة احسان اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیکُشم آن را که با یارم عدوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -358,19 +358,9 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وست",
-      "PlainText": "جان من پروردة احسان اوست\r\nمیکشم آن را که با یارم عدوست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان من پروردة احسان اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیکُشم آن را که با یارم عدوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "قم",
-      "PlainText": "من نی ام فرزند کس نسل حقم\r\nاز تعین های خلقی مطلقم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نی ام فرزند کس، نسل حقم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تعیّن های خلقی مطلقم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "هد",
+      "PlainText": "شرط دیگر آنکه صد بار ار دهد\r\nزآن نخواهد منتی بر وی نهد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه صد بار ار دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن نخواهد منّتی بر وی نهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -381,6 +371,16 @@
       "RhymeLetters": "وفاو",
       "PlainText": "بل نخواهد تا شود معروف او\r\nیا به پاداش عطاء موصوف او",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبل نخواهد تا شود معروف او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا به پاداش عطاء موصوف او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "قم",
+      "PlainText": "من نی ام فرزند کس نسل حقم\r\nاز تعین های خلقی مطلقم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن نی ام فرزند کس، نسل حقم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تعیّن های خلقی مطلقم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -428,9 +428,9 @@
       "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "شرط دیگر که نخواهد زآن عمل\r\nدشمنی بر مهر دل گردد بدل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر که نخواهد زآن عمل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمنی بر مهر دل گردد بدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ض",
+      "PlainText": "هم تو را الله کشم نی بر غرض\r\nنیست چشمم بر ثوابی یا عوض",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم تو را الله کُشم نی بر غرض\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست چشمم بر ثوابی یا عوض\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -438,19 +438,9 @@
       "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ض",
-      "PlainText": "هم تو را الله کشم نی بر غرض\r\nنیست چشمم بر ثوابی یا عوض",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم تو را الله کُشم نی بر غرض\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست چشمم بر ثوابی یا عوض\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 13,
-      "Number": 13,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "تم",
-      "PlainText": "حق تعالی داده پیش از خلقتم\r\nآنچه باید از عطا ء و نعمتم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق تعالی داده پیش از خلقتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچه باید از عطا ء و نعمتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ل",
+      "PlainText": "شرط دیگر که نخواهد زآن عمل\r\nدشمنی بر مهر دل گردد بدل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر که نخواهد زآن عمل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمنی بر مهر دل گردد بدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -461,6 +451,16 @@
       "RhymeLetters": "تی",
       "PlainText": "شرط دیگر آنکه وقت محنتی\r\nزو نخواهد با تمکن نصرتی",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه وقت محنتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزو نخواهد با تمکّن نصرتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تم",
+      "PlainText": "حق تعالی داده پیش از خلقتم\r\nآنچه باید از عطا ء و نعمتم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق تعالی داده پیش از خلقتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچه باید از عطا ء و نعمتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -508,9 +508,9 @@
       "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "حق",
-      "PlainText": "شرط دیگر آنکه بشناسد ز حق\r\nآن کرم را نی ز خود بر مستحق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه بشناسد ز حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کرم را نی ز خود بر مستحق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ادهاست",
+      "PlainText": "می نخواهم بیش از آن کو داده است\r\nبهر من هر دولتی آماده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نخواهم بیش از آن کو داده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر من هر دولتی آماده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -518,19 +518,9 @@
       "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ادهاست",
-      "PlainText": "می نخواهم بیش از آن کو داده است\r\nبهر من هر دولتی آماده است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نخواهم بیش از آن کو داده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر من هر دولتی آماده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 15,
-      "Number": 15,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اهیام",
-      "PlainText": "تو درا از باب دولت خواهی ام\r\nتا بری صد ملک و گنج از شاهیام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو درا از باب دولت خواهی ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بری صد ملک و گنج از شاهیام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "حق",
+      "PlainText": "شرط دیگر آنکه بشناسد ز حق\r\nآن کرم را نی ز خود بر مستحق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط دیگر آنکه بشناسد ز حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کرم را نی ز خود بر مستحق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -541,6 +531,16 @@
       "RhymeLetters": "ار",
       "PlainText": "غیر از اینها شرطها باشد به کار\r\nگر نویسم بگذرد از اختصار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از اینها شرطها باشد به کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نویسم بگذرد از اختصار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهیام",
+      "PlainText": "تو درا از باب دولت خواهی ام\r\nتا بری صد ملک و گنج از شاهیام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو درا از باب دولت خواهی ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بری صد ملک و گنج از شاهیام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -588,9 +588,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ساست",
-      "PlainText": "این چنین جودی نه کار هر کس است\r\nآن کند کش کم دو کون از یک خس است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چنین جودی نه کار هر کس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کند کش کم دو کون از یک خس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "لکنم",
+      "PlainText": "اندر آ کت در دو کون افضل کنم\r\nجاودانت فارس یل یل کنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر آ، کت در دو کون افضل کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجاودانت، فارِس یل یل کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -598,19 +598,9 @@
       "Number": 16,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "لکنم",
-      "PlainText": "اندر آ کت در دو کون افضل کنم\r\nجاودانت فارس یل یل کنم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر آ، کت در دو کون افضل کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجاودانت، فارِس یل یل کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 4
-    },
-    {
-      "Index": 17,
-      "Number": 17,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ودهاست",
-      "PlainText": "نامهای عاریت بیهوده است\r\nنام آن دارد که احمد دوده است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامهای عاریت بیهوده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام آن دارد که احمد دوده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ساست",
+      "PlainText": "این چنین جودی نه کار هر کس است\r\nآن کند کش کم دو کون از یک خس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چنین جودی نه کار هر کس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کند کش کم دو کون از یک خس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -621,6 +611,16 @@
       "RhymeLetters": "و",
       "PlainText": "آن کند کانداخت چون دشمن خدو\r\nبر رخش یکجا گذشت از قتل او",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کند کانداخت چون دشمن خدو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رخش یکجا گذشت از قتل او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ودهاست",
+      "PlainText": "نامهای عاریت بیهوده است\r\nنام آن دارد که احمد دوده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامهای عاریت بیهوده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام آن دارد که احمد دوده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -668,9 +668,9 @@
       "Number": 18,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "شمرا",
-      "PlainText": "چون به جنبش دید از خود خشم را\r\nدوخت از قتل مبارز چشم را",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به جنبش دید از خود خشم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوخت از قتل مبارز چشم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "انما",
+      "PlainText": "اندر آ تا بنگری میدان ما\r\nفارس آیی در صف جولان ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر آ، تا بنگری میدان ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارِس آیی در صف جولان ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -678,9 +678,9 @@
       "Number": 18,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "انما",
-      "PlainText": "اندر آ تا بنگری میدان ما\r\nفارس آیی در صف جولان ما",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر آ، تا بنگری میدان ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارِس آیی در صف جولان ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "شمرا",
+      "PlainText": "چون به جنبش دید از خود خشم را\r\nدوخت از قتل مبارز چشم را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به جنبش دید از خود خشم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوخت از قتل مبارز چشم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {

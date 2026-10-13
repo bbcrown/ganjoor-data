@@ -1240,5 +1240,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 46
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 44,
+      "PersonId": 630,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خاک پای او به‌عنوان درمان درد دعاکننده خواسته شده است"
+    }
   ]
 }

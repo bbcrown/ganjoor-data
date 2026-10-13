@@ -1,8 +1,8 @@
 {
   "Id": 1419,
   "CatId": 43,
-  "Title": "پادشاهی زو طهماسپ",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی زوطهماسپ » پادشاهی زو طهماسپ",
+  "Title": "تاج‌گذاری زو پسر طهماسب، خشکسالی و پیمان صلح میان ایران و توران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی زوطهماسپ » تاج‌گذاری زو پسر طهماسب، خشکسالی و پیمان صلح میان ایران و توران",
   "FullUrl": "/ferdousi/shahname/zutahmasb/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,78 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهدار کهن‌سال که زو را به شاهی برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موضوع سخنان زال در شب."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که زال او را شایستهٔ تاج و تخت نمی‌داند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که زال او را شایستهٔ تاج و تخت نمی‌داند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نیای زو که تخمه و تاج او یادآوری می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 79,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 80,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان که با موبد و مرزبان برای بردن مژده نزد زو رفت. (نام در متن: قارن)"
     }
   ]
 }

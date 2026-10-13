@@ -37,5 +37,17 @@
       "CoupletIndex": 3,
       "CoupletSummary": "هوش مصنوعی: و رئیس آن شهر مردی از خاندان علی (علیه‌السلام) بود و در میان همه صنعتگران آنجا، کفشگر بیشتر از همه بود."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 46,
+      "LunarYear": 438,
+      "LunarMonth": 1,
+      "LunarDay": 5,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

@@ -2482,5 +2482,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 92
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیبارو که از دوری شیر غمگین است و فرهاد را فرا می‌خواند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزانه‌ای که نزد شیرین نشسته و فرهاد را به او معرفی می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهندس و استاد سنگ‌تراش، هم‌زاد و همشاگردی شاپور در چین."
+    }
   ]
 }

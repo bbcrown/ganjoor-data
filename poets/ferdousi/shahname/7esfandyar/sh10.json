@@ -1,8 +1,8 @@
 {
   "Id": 1569,
   "CatId": 60,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۰",
+  "Title": "بخش ۱۰ - خواهش دو خواهر آبکش از بازرگان، شناختن آواز اسفندیار و بزم مستی بر بارهٔ دژ",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۱۰ - خواهش دو خواهر آبکش از بازرگان، شناختن آواز اسفندیار و بزم مستی بر بارهٔ دژ",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1455,6 +1455,53 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در جامهٔ بازرگان با خواهرانش روبه‌رو می‌شود و از دیدن حالشان می‌گرید."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که اسفندیار او را بیدادگر می‌خواند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خواهر اسفندیار که آوازش را می‌شناسد و راز او را نگه می‌دارد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که خواهران از او بیم دارند و بازرگان نزدش می‌رود. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و میزبان که در دژ خود برای نامداران مهمانی می‌گیرد."
     }
   ]
 }

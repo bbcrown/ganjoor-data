@@ -1,8 +1,8 @@
 {
   "Id": 1538,
   "CatId": 59,
-  "Title": "بخش ۱۲ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۲ - سخن دقیقی",
+  "Title": "بخش ۱۲ - سخن دقیقی: آغاز نبرد بزرگ و کشته شدن اردشیر و شیدسپ و هرمزد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۲ - سخن دقیقی: آغاز نبرد بزرگ و کشته شدن اردشیر و شیدسپ و هرمزد",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,62 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از کوه نبرد دو سپاه را تماشا می‌کند و بر بهزاد سوار می‌شود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار جهان که در جنگ با تیر از اسب می‌افتد و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 73,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسپهبدی که اردشیر در میدان به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 215,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای دلاور که هزار سوار دشمن را می‌کشد و با تیر از پای درمی‌آید."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 212,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ماهروی و دلیر که کهرم را می‌کشد و سپس با تیر ترکی کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 163,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور ترک درشت‌پیکر که خود را دیو می‌خواند و به دست شیدسپ کشته می‌شود."
     }
   ]
 }

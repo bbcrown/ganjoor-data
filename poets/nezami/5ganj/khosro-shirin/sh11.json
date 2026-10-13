@@ -1456,5 +1456,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 54
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 37,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو شخصیت داستانی که حکایتشان موضوع روایت است."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق بیچاره و هوس‌کار که نشانهٔ کارش جوی شیر است."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نوازنده‌ای که حدیثش با ساز در دهرود آمده است."
+    }
   ]
 }

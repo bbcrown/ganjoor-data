@@ -1,8 +1,8 @@
 {
   "Id": 1648,
   "CatId": 67,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۹",
+  "Title": "بخش ۹ - پاسخ کید به فرستادهٔ اسکندر: وصف دختر و جام و پزشک و فیلسوف و خرسندی شاه از آن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۹ - پاسخ کید به فرستادهٔ اسکندر: وصف دختر و جام و پزشک و فیلسوف و خرسندی شاه از آن",
   "FullUrl": "/ferdousi/shahname/eskandar/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,26 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که فرستاده می‌فرستد و آن چهار چیز را از کید می‌خواهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که دختر، جام، پزشک و فیلسوف شگفت دارد."
     }
   ]
 }

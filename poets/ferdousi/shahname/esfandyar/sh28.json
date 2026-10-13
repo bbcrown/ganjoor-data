@@ -1,8 +1,8 @@
 {
   "Id": 1602,
   "CatId": 61,
-  "Title": "بخش ۲۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۸",
+  "Title": "بخش ۲۸ - تیر گز بر چشم اسفندیار، افتادن رویین‌تن و گفتگوی واپسین با رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۸ - تیر گز بر چشم اسفندیار، افتادن رویین‌تن و گفتگوی واپسین با رستم",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2103,6 +2103,116 @@
       "CoupletIndex": 76,
       "SectionIndex1": 0,
       "SectionIndex2": 78
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با اسفندیار می‌جنگد و با تیر گز او را از پا درمی‌آورد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و جنگاور رویین‌تن که با تیر رستم به چشم زخمی می‌شود."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در نسبت‌دادن پیکان اسفندیار به او آمده است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در نسبت‌دادن تیر اسفندیار به او آمده است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم تیر را به راهنمایی پیشین او بر کمان می‌گذارد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از آسیب اسفندیار آگاه می‌شود و بر بالین او خود را بر خاک می‌مالد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با بهمن نزد اسفندیار می‌رود و بر او سوگواری می‌کند."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از درباریان گشتاسپ، همراه او در نفرین پشوتن یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان و نیاکان گذشته که رفته‌اند."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان و نیاکان گذشته که رفته‌اند. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان و نیاکان گذشته که رفته‌اند."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسفندیار او را سازندهٔ فسون و نیرنگ می‌داند."
     }
   ]
 }

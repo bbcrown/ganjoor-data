@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "انی",
-      "PlainText": "ای دایره حکم تو سرگردانی\r\nوی بادیه قضای تو حیرانی\r\nدست آلاید به خون من چون تو کسی\r\nآخر تو تویی و من منم میدانی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دایرهٔ حکم تو سرگردانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بادیهٔ قضای تو حیرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست آلاید به خون من چون تو کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر تو توئی و من منم، میدانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "ای دایره حکم تو سرگردانی\r\nوی بادیه قضای تو حیرانی\r\nدست آلاید به خون من چون تو کسی\r\nآخر تو تویی و من منم می دانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دایرهٔ حکم تو سرگردانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بادیهٔ قضای تو حیرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست آلاید به خون من چون تو کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر تو توئی و من منم، می‌دانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "آخر تو توئی و من منم، میدانی",
+      "Text": "آخر تو توئی و من منم، می‌دانی",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

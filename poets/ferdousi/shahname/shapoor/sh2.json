@@ -1,8 +1,8 @@
 {
   "Id": 1723,
   "CatId": 70,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور پسر اردشیر سی و یک سال بود » بخش ۲",
+  "Title": "بخش ۲ - مرگ اردشیر، جنگ شاپور با روم، گرفتن باژ و ساختن پل شوشتر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور پسر اردشیر سی و یک سال بود » بخش ۲ - مرگ اردشیر، جنگ شاپور با روم، گرفتن باژ و ساختن پل شوشتر",
   "FullUrl": "/ferdousi/shahname/shapoor/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1320,6 +1320,62 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر و جانشین اردشیر؛ با رومیان می‌جنگد و شهرها می‌سازد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه خردمند که درگذشت و گنج و سپاه را به شاپور سپرد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از او باج روم برداشتند و سپاهی از او بیرون آمد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 308,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهدار رومی که در جنگ گرفتار شد"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 309,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر که از سوی شاپور به میدان آمد"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که پیام صلح و باژ و ساو فرستاد"
     }
   ]
 }

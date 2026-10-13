@@ -1,8 +1,8 @@
 {
   "Id": 88077,
   "CatId": 57,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۸",
+  "Title": "بخش ۱۸ - شکست شبیخون افراسیاب، پوزش فغفور و گریختن شاه توران از آب زره به گنگ‌دژ",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۸ - شکست شبیخون افراسیاب، پوزش فغفور و گریختن شاه توران از آب زره به گنگ‌دژ",
   "FullUrl": "/ferdousi/shahname/mahmood/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4209,6 +4209,125 @@
       "CoupletIndex": 154,
       "SectionIndex1": 0,
       "SectionIndex2": 156
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و شاه توران که شبیخون می‌زند و پس از شکست می‌جنگد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که از یک سو به سپاه توران می‌تازد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در نبرد شبانه حضور دارد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در نبرد شبانه حضور دارد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که از سویی دیگر به نبرد می‌آید."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به‌عنوان نمونهٔ تاج‌بر سر نهادن در نبرد یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با سپاه به توران حمله می‌کند و پیروز می‌شود."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که از یاری به افراسیاب پشیمان شد و پوزش فرستاد."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه فغفور که از یاری‌رساندن پشیمان شد."
+    },
+    {
+      "CoupletIndex": 119,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که شاه برای کین او کمر می‌بندد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 150,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران گردنکش و ارجمند که در مهد به بند کشیده شده است."
+    },
+    {
+      "CoupletIndex": 150,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران گردنکش که در مهد به بند کشیده شده است."
+    },
+    {
+      "CoupletIndex": 154,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گیو باید با سپاه نزد او برود. (نام در متن: کاووس)"
     }
   ]
 }

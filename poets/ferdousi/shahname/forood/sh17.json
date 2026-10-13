@@ -1,8 +1,8 @@
 {
   "Id": 87971,
   "CatId": 51,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۷",
+  "Title": "بخش ۱۷ - گرفتاری سپاه در برف کاسه‌رود، سوزاندن کوه هیزم به دست گیو و کشتن کبوده به تیر بهرام",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۷ - گرفتاری سپاه در برف کاسه‌رود، سوزاندن کوه هیزم به دست گیو و کشتن کبوده به تیر بهرام",
   "FullUrl": "/ferdousi/shahname/forood/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1833,6 +1833,125 @@
       "CoupletIndex": 66,
       "SectionIndex1": 0,
       "SectionIndex2": 68
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از آمدن سپاه به کاسه‌رود آگاه می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خونخواهی او انگیزهٔ لشکرکشی است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالاری که سپهبد با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سیاوش؛ سخنش از نهفت آشکار شد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 193,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی نامور که در مقایسه آمده است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 416,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مقایسه با زرسپ نامور یاد شده است."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن سپهبد به او اشاره می‌شود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گیو."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خلعت می‌ستاند و کوهِ هیزم را آتش می‌زند."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند گیو که از رفتن او غمگین می‌شود و مخالفت می‌کند."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 523,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی که لشکر را از آتش گذراند و از کوه عبور داد"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 520,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار دلاور و سردار تورانی که جایگاهش گروگرد بود؛ بهرام سرش را برید."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 524,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): چوپان افراسیاب که تژاو او را برای شبیخون فرستاد؛ بهرام او را زد"
     }
   ]
 }

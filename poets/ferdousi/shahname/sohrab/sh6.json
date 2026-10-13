@@ -1,8 +1,8 @@
 {
   "Id": 1464,
   "CatId": 48,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۶",
+  "Title": "بخش ۶ - شادمانی افراسیاب از سهراب، فرستادن هومان و بارمان با نامه، و اسارت هجیر در دژ سپید",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۶ - شادمانی افراسیاب از سهراب، فرستادن هومان و بارمان با نامه، و اسارت هجیر در دژ سپید",
   "FullUrl": "/ferdousi/shahname/sohrab/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,80 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه توران که برای مهار سهراب نقشه می‌کشد و هدیه و نامه می‌فرستد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوانی که با سپاه به جنگ کاووس می‌رود"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که سهراب قصد جنگ با او دارد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیر و سپهبد تورانی، همراه هومان در رساندن هدیه و نامه."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیر و سپهبد تورانی که با بارمان نزد سهراب فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده که افراسیاب می‌خواهد او را به دست سهراب کشته شود. (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان رزم‌دیدهٔ دژ سپید که به جنگ سهراب می‌رود."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در آن زمان خردسال بود و خواهری نامدار داشت."
     }
   ]
 }

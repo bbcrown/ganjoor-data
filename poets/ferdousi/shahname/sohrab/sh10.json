@@ -1,8 +1,8 @@
 {
   "Id": 1468,
   "CatId": 48,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۰",
+  "Title": "بخش ۱۰ - خشم کاووس و فرمان بردار کردن رستم، زدن طوس، میانجیگری گودرز و بزم آشتی",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۰ - خشم کاووس و فرمان بردار کردن رستم، زدن طوس، میانجیگری گودرز و بزم آشتی",
   "FullUrl": "/ferdousi/shahname/sohrab/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2211,6 +2211,71 @@
       "CoupletIndex": 80,
       "SectionIndex1": 0,
       "SectionIndex2": 82
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که خشمگین می‌شود و فرمان به دار کشیدن رستم و گیو می‌دهد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از درباریان که شاه فرمان به دار کشیدنش را می‌دهد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ که از فرمان شاه خشمگین می‌شود و طوس را می‌زند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مأمور اجرای فرمان شاه که رستم او را بر زمین می‌زند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و دشمنی که آمدنش به ایران نگرانی‌ساز است."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که برای چاره‌جویی و آرام کردن شاه نزد او می‌رود."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آگاهی‌دهنده‌ای که خبر او دربارهٔ خطر در گفتار گودرز یاد می‌شود."
     }
   ]
 }

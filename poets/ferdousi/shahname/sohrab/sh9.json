@@ -1,8 +1,8 @@
 {
   "Id": 1467,
   "CatId": 48,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۹",
+  "Title": "بخش ۹ - نامهٔ کاووس به رستم، شتاب گیو به زابل و درنگ سه روزهٔ تهمتن",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۹ - نامهٔ کاووس به رستم، شتاب گیو به زابل و درنگ سه روزهٔ تهمتن",
   "FullUrl": "/ferdousi/shahname/sohrab/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1455,6 +1455,71 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار ایران و گشایندهٔ بند هاماوران؛ پدر سهراب و گیرندهٔ نامهٔ شهریار."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نویسندهٔ نامه‌ای که گردان خواندند و در آن از دشمن یاد شده است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شهریار که نامه را شتابان نزد رستم می‌برد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کودک رستم از دختر شاه سمنگان."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که سوار تازه‌پدیدار به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر سهراب که رستم برایش زر و گوهر فرستاده است."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران، تندخو و بی‌هشیار، که چشم‌انتظار آمدن رستم است. (نام در متن: کاووس)"
     }
   ]
 }

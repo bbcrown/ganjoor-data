@@ -1,8 +1,8 @@
 {
   "Id": 1482,
   "CatId": 49,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۳",
+  "Title": "بخش ۳ - زادن سیاوش، پرورشش به دست رستم، بازگشت به کاووس و آغاز دلباختگی سودابه",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۳ - زادن سیاوش، پرورشش به دست رستم، بازگشت به کاووس و آغاز دلباختگی سودابه",
   "FullUrl": "/ferdousi/shahname/siavosh/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4911,6 +4911,134 @@
       "CoupletIndex": 180,
       "SectionIndex1": 0,
       "SectionIndex2": 182
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر زیبای کاووس که تهمتن او را می‌پرورد و هنرها می‌آموزد (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر سیاوش (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان که سیاوش را می‌پرورد و هنر می‌آموزد"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که به فرمان کاووس به پیشواز سیاوش رفت"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که به فرمان کاووس به پیشواز سیاوش رفت"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): لشکرشکن و از نامداران پذیره‌کنندهٔ سیاوش"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که برای پذیره سیاوش رفت"
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی شبستان شاه که با دیدن سیاووش دلباختهٔ او می‌شود."
+    },
+    {
+      "CoupletIndex": 108,
+      "PersonId": 138,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی پاک‌دل و نگهبان کلید بتخانه که شاه او را به همراهی سیاوش می‌فرستد."
+    },
+    {
+      "CoupletIndex": 145,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در مقایسه با شاه از او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 145,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مقایسه با شاه از او یاد می‌شود. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 145,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مقایسه با شاه از او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 159,
+      "PersonId": 86,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تبار بزرگان؛ شبستان او برای گزینش همسر سیاوش یاد می‌شود. (نام در متن: کی پشین)"
+    },
+    {
+      "CoupletIndex": 159,
+      "PersonId": 88,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تبار بزرگان؛ خانهٔ او برای گزینش همسر سیاوش یاد می‌شود. (نام در متن: کی آرش)"
     }
   ]
 }

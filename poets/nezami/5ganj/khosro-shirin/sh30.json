@@ -1861,5 +1861,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 69
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جوان و بزم‌دوست که مهین‌بانو و شاپور در برابر او هستند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادرزادهٔ مهین‌بانو که ناپدید شده و در جست‌وجوی اوست."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شاه که با دو اسب برای یافتن شیرین راه می‌افتد."
+    }
   ]
 }

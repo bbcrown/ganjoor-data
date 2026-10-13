@@ -20,7 +20,7 @@
       "VerseType": "First",
       "RhymeLetters": "وراست",
       "PlainText": "سفله جهان ای پسر چو چشمه شور است\r\nچشمه شور از در نفایه ستور است\r\nخانه تاری است این جهان و بدو در\r\nره گذر دیده نی چو دیده مور است\r\nفردا جانت به علم زور نماید\r\nچونان کامروز کار تنت به زور است\r\nدانا گر چشم سر ندارد بیناست\r\nنادان گر چشم هشت یابد کور است\r\nآتش با عاقلان برابر آب است\r\nبستان با جاهلان برابر گور است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفله جهان، ای پسر، چو چشمه شور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمهٔ شور از در نفایه ستور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانهٔ تاری است این جهان و بدو در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره‌گذر دیده نی چو دیدهٔ مور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا جانت به علم زور نماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونان کامروز کار تنت به زور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانا گر چشم سر ندارد بیناست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنادان گر چشم هشت یابد کور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش با عاقلان برابر آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستان با جاهلان برابر گور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفله جهان، ای پسر، چو چشمهٔ شور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمهٔ شور از در نفایه ستور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانهٔ تاری است این جهان و بدو در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره‌گذر دیده نی چو دیدهٔ مور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا جانت به علم زور نماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونان کامروز کار تنت به زور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانا گر چشمِ سر ندارد بیناست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنادان گر چشم هشت یابد کور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش با عاقلان برابر آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبُستان با جاهلان برابر گور است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 5
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "سفله جهان، ای پسر، چو چشمه شور است",
+      "Text": "سفله جهان، ای پسر، چو چشمهٔ شور است",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: دنیا پر از افراد ناپاک و پست است، مانند چشمه‌ای که آبش شور و ناخوشایند است. این چشمه تنها بر اثر نزدیک شدن به موجوداتی ناپاک و آلوده به این شکل درآمده است."
@@ -74,7 +74,7 @@
     {
       "VOrder": 7,
       "Position": "Right",
-      "Text": "دانا گر چشم سر ندارد بیناست",
+      "Text": "دانا گر چشمِ سر ندارد بیناست",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: فرزانه اگرچه چشم‌هایش قادر به دیدن نیست، ولی همچنان دید عمیق و درک خوبی دارد. اما نادان حتی اگر به تعداد زیادی چشم نیز داشته باشد، باز هم از حقیقت غافل و ناتوان است."
@@ -97,7 +97,7 @@
     {
       "VOrder": 10,
       "Position": "Left",
-      "Text": "بستان با جاهلان برابر گور است",
+      "Text": "بُستان با جاهلان برابر گور است",
       "CoupletIndex": 4,
       "SectionIndex1": 0
     }

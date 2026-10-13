@@ -37,5 +37,17 @@
       "CoupletIndex": 3,
       "CoupletSummary": "هوش مصنوعی: مردم آنجا وقتی مرا دیدند، از من خواستند که برایشان سخنرانی کنم. من هم مخالفت نکردم و در آن مدت به سخنرانی برایشان ادامه دادم تا اینکه زمان سفر فرا رسید و کشتی‌ها به سمت شمال حرکت کردند و بعد از آن به جده رفتم."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 135,
+      "LunarYear": 442,
+      "LunarMonth": 3,
+      "LunarDay": 8,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

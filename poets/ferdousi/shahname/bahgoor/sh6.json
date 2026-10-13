@@ -1,8 +1,8 @@
 {
   "Id": 1775,
   "CatId": 83,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۶",
+  "Title": "بخش ۶ - شکار بهرام در بیشهٔ شیران، کشتن نر و ماده و بخشیدن جایگاه به مهربنداد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۶ - شکار بهرام در بیشهٔ شیران، کشتن نر و ماده و بخشیدن جایگاه به مهربنداد",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,26 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در شکارگاه شیر را می‌کشد و بیشه را به مهربنداد می‌بخشد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 341,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دهقان یزدان‌پرست و کهنسال ساکن بیشه که از شیران آسیب دیده بود."
     }
   ]
 }

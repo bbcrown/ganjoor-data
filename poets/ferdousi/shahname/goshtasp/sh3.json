@@ -1,8 +1,8 @@
 {
   "Id": 1529,
   "CatId": 59,
-  "Title": "بخش ۳ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳ - سخن دقیقی",
+  "Title": "بخش ۳ - سخن دقیقی: پذیرش دین زرتشت توسط گشتاسپ، کاشتن سرو کاشمر و بنیان آتشکده‌ها",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳ - سخن دقیقی: پذیرش دین زرتشت توسط گشتاسپ، کاشتن سرو کاشمر و بنیان آتشکده‌ها",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1419,7 +1419,7 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53,
-      "CoupletSummary": "هوش مصنوعی: چرا نهال بهشت را زشت بخوانی، در حالی که پادشاه کیان آن را در سرزمین کشمر نابود کرد؟"
+      "CoupletSummary": "چرا آن را نهالی از بهشت منظور نکنی؟ همان نهالی که شاه کیان آن‌ را در کاشمر کاشت."
     },
     {
       "VOrder": 104,
@@ -1428,6 +1428,62 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که دین بهی را از زردهشت می‌پذیرد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجود بدکنشی که زردهشت او را کشته است (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 202,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبری که دین بهی را نزد شاه می‌آورد و آهرمن را کشته است"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر نبردکار گشتاسپ که دین را می‌پذیرد"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگاره‌ای از او بر دیوار کاخ کشیده می‌شود"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگاره‌ای از او بر کاخ کشیده می‌شود"
     }
   ]
 }

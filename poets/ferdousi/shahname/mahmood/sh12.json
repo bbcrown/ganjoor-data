@@ -1,8 +1,8 @@
 {
   "Id": 88071,
   "CatId": 57,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۲",
+  "Title": "بخش ۱۲ - رسیدن کیخسرو به گنگ‌دژ، گردش بر حصار و آرایش سپاه برای ویرانی بارهٔ افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۲ - رسیدن کیخسرو به گنگ‌دژ، گردش بر حصار و آرایش سپاه برای ویرانی بارهٔ افراسیاب",
   "FullUrl": "/ferdousi/shahname/mahmood/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,62 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به گنگ می‌آید، با رستم سخن می‌گوید و سپاه را سان می‌بیند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که شاه او را مخاطب می‌کند و سراپرده‌اش را برمی‌افرازد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریبرز که سخنش دربارهٔ کین به یاد آورده می‌شود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس که در سمت چپ لشکر جای دارد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در لشکرگاه جایی برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که شاه امید دارد او را به دست آورد."
     }
   ]
 }

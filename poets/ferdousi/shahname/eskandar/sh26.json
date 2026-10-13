@@ -1,8 +1,8 @@
 {
   "Id": 1665,
   "CatId": 67,
-  "Title": "بخش ۲۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۶",
+  "Title": "بخش ۲۶ - خشم سکندر بر طینوش، رایزنی نهانی قیدافه و فریفتن او به کمین در بیشه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۶ - خشم سکندر بر طینوش، رایزنی نهانی قیدافه و فریفتن او به کمین در بیشه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh26",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,44 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سخن طینوش برمی‌آشوبد، سپس با او گفتگو و پیمان می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 277,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب سکندر؛ با او پیمان می‌بندد و گنج و جایگاه دستوری وعده می‌دهد."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 263,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه دلیر و سرافراز هند، یادشده در تشبیه."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که نقشهٔ فریب سکندر را به طینوش می‌گوید."
     }
   ]
 }

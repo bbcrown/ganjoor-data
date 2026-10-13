@@ -1,8 +1,8 @@
 {
   "Id": 1581,
   "CatId": 61,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۷",
+  "Title": "بخش ۷ - پند اسفندیار به بهمن و پیام او به رستم: سرزنش ناسپاسی، سوگند شاه و نوید شفاعت",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۷ - پند اسفندیار به بهمن و پیام او به رستم: سرزنش ناسپاسی، سوگند شاه و نوید شفاعت",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1806,6 +1806,152 @@
       "CoupletIndex": 65,
       "SectionIndex1": 0,
       "SectionIndex2": 67
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب پندها و مأمور بردن پیام نزد رستم"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پیام باید به خانهٔ او برده شود"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که ایران را به گشتاسپ سپرد"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار کنونی ایران که رستم به درگاهش نرفته است"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که شاهی از نژاد او گرفته شد"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شاهی را از تخم ضحاک گرفت و تاج داشت"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین، در رشتهٔ شاهان پس از فریدون"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 178,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در سوگند آمده است."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده او را گواه سخن خود می‌گیرد."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خاندان رستم که در فهرست همراه دستان آمده است"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خاندان رستم و جهاندیده که برای رایزنی به او روی سخن شده است. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی نیک‌نام و جهاندیدهٔ خاندان که برای رایزنی به او روی سخن شده است."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خاندان رستم که برای رایزنی به او روی سخن شده است."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خاندان رستم که برای رایزنی به او روی سخن شده است."
     }
   ]
 }

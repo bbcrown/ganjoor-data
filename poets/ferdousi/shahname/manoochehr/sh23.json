@@ -1,8 +1,8 @@
 {
   "Id": 1400,
   "CatId": 41,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۳",
+  "Title": "بخش ۲۳ - بازگشت زال نزد سام، گفتگو دربارهٔ پیمان سیندخت و حرکت به سوی کابل",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۳ - بازگشت زال نزد سام، گفتگو دربارهٔ پیمان سیندخت و حرکت به سوی کابل",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -699,6 +699,44 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با شتاب نزد سام می‌آید و خواستار پیوند با دختر مهراب است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پدر زال که به پیشواز او می‌رود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زنی از کابل که پیام فرستاد و از سام پیمان خواست."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کابل و پدر دختری که زال خواستار پیوند با اوست."
     }
   ]
 }

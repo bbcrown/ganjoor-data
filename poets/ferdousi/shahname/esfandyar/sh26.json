@@ -1,8 +1,8 @@
 {
   "Id": 1600,
   "CatId": 61,
-  "Title": "بخش ۲۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۶",
+  "Title": "بخش ۲۶ - آمدن سیمرغ به خواندن زال، درمان رستم و رخش و نمودن راز تیر گز",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۶ - آمدن سیمرغ به خواندن زال، درمان رستم و رخش و نمودن راز تیر گز",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh26",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2292,6 +2292,62 @@
       "CoupletIndex": 83,
       "SectionIndex1": 0,
       "SectionIndex2": 85
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرغ شگفت‌انگیزی که با پرواز می‌آید و زخم‌های رستم و رخش را درمان می‌کند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم؛ با درد و غم نزد سیمرغ می‌رود و یاری می‌خواهد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زخمی که سیمرغ او را درمان می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی رویین‌تنی که رستم را زخمی کرده است."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که رستم او را نمونهٔ رفتگان می‌آورد."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که رستم او را نمونهٔ رفتگان می‌آورد."
     }
   ]
 }

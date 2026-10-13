@@ -1,8 +1,8 @@
 {
   "Id": 1473,
   "CatId": 48,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۵",
+  "Title": "بخش ۱۵ - نبرد روز نخست رستم و سهراب، خستگی دو پهلوان، یورش بر سپاه‌ها و پیمان جنگ بامداد",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۵ - نبرد روز نخست رستم و سهراب، خستگی دو پهلوان، یورش بر سپاه‌ها و پیمان جنگ بامداد",
   "FullUrl": "/ferdousi/shahname/sohrab/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,44 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 15,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با جوانی ناشناس نبردی سخت دارد و از او شگفت‌زده است."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم پیش‌تر با او جنگیده بود."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان نیرومند و دلاور توران‌سپاه که با رستم می‌جنگد."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که رستم بر او بیمناک است. (نام در متن: کاووس)"
     }
   ]
 }

@@ -133,5 +133,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 5
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): غم دیدار او شاه را از خود بی‌خود می‌کند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه او را فرا می‌خواند تا درمان دردش را بجوید."
+    }
   ]
 }

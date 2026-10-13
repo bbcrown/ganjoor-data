@@ -4939,5 +4939,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 183
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 100,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که گوینده از او کام می‌خواهد و او پاسخ می‌دهد"
+    }
   ]
 }

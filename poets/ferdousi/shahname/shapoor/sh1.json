@@ -1,8 +1,8 @@
 {
   "Id": 1722,
   "CatId": 70,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور پسر اردشیر سی و یک سال بود » بخش ۱",
+  "Title": "بخش ۱ - نشستن شاپور بر تخت داد، سخن در خرد و داد و تازه شدن رسم اردشیر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور پسر اردشیر سی و یک سال بود » بخش ۱ - نشستن شاپور بر تخت داد، سخن در خرد و داد و تازه شدن رسم اردشیر",
   "FullUrl": "/ferdousi/shahname/shapoor/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,26 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر اردشیر که بر تخت می‌نشیند و به بزرگان سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر شاپور و شاه پیشین که رسم او الگوی شاپور است."
     }
   ]
 }

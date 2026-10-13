@@ -1,8 +1,8 @@
 {
   "Id": 1402,
   "CatId": 41,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۵",
+  "Title": "بخش ۲۵ - دشوار شدن زایمان رودابه، فراخواندن سیمرغ و زادن رستم از پهلوی مادر",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۵ - دشوار شدن زایمان رودابه، فراخواندن سیمرغ و زادن رستم از پهلوی مادر",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,53 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بر بالین رودابه می‌رود و با سوزاندن پر، سیمرغ را فرا می‌خواند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از رنج رودابه خروش برمی‌آورد و موی می‌کَند؛ مادر رودابه است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): باردار است و هنگام زادن بی‌هوش و بی‌تاب می‌شود."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با سوزاندن پرش پدیدار می‌شود و راه زادن کودک را می‌آموزد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسه با فرزند آینده یاد می‌شود."
     }
   ]
 }

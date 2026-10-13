@@ -1,8 +1,8 @@
 {
   "Id": 1712,
   "CatId": 69,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۵",
+  "Title": "بخش ۵ - آزمون چوگان اردشیر: شناختن شاپور، بخشایش دختر اردوان و بنیاد گندشاپور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۵ - آزمون چوگان اردشیر: شناختن شاپور، بخشایش دختر اردوان و بنیاد گندشاپور",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1158,6 +1158,44 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند اردشیر که در میدان چوگان گوی را می‌برد و شاه او را می‌شناسد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر شاپور که پسرش را در میان کودکان می‌شناسد"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 303,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): وزیر جهان‌دیدهٔ اردشیر که نامش بر سکه آمد"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 291,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بانویی که شاه فرمان می‌دهد به ایوان بیاید."
     }
   ]
 }

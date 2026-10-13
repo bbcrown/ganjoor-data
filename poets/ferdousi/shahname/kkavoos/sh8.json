@@ -1,8 +1,8 @@
 {
   "Id": 1437,
   "CatId": 46,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۸",
+  "Title": "بخش ۸ - خان چهارم رستم: رویارویی با زن جادو و کشتن او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۸ - خان چهارم رستم: رویارویی با زن جادو و کشتن او",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,26 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در بیابان به خوان جادو می‌رسد و جادوگر را با کمند می‌کشد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوگر به اهریمنی تشبیه شده است که در رنگ و ظاهر پنهان شده است."
     }
   ]
 }

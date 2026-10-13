@@ -1,8 +1,8 @@
 {
   "Id": 88051,
   "CatId": 56,
-  "Title": "بخش ۲۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۹",
+  "Title": "بخش ۲۹ - نبرد گرگین و اندریمان: شکستن نیزه، باریدن تیر، بریدن سر و برافراشتن درفش",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۹ - نبرد گرگین و اندریمان: شکستن نیزه، باریدن تیر، بریدن سر و برافراشتن درفش",
   "FullUrl": "/ferdousi/shahname/12rokh/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -375,6 +375,26 @@
       "CoupletIndex": 12,
       "SectionIndex1": 0,
       "SectionIndex2": 14
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی ایرانی که با اندریمان نبرد می‌کند و او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 146,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی سپاه توران که گرگین او را در نبرد می‌کشد."
     }
   ]
 }

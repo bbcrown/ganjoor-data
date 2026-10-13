@@ -1,8 +1,8 @@
 {
   "Id": 1640,
   "CatId": 67,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱",
+  "Title": "بخش ۱ - نشستن اسکندر بر تخت، خطبهٔ داد و بخشودن باژ پنج‌ساله",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱ - نشستن اسکندر بر تخت، خطبهٔ داد و بخشودن باژ پنج‌ساله",
   "FullUrl": "/ferdousi/shahname/eskandar/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -348,6 +348,17 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 13
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که بر تخت نشسته و دربارهٔ داد و بخشش سخن می‌گوید. (نام در متن: اسکندر)"
     }
   ]
 }

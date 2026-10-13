@@ -1,8 +1,8 @@
 {
   "Id": 1414,
   "CatId": 42,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۹",
+  "Title": "بخش ۹ - حملهٔ شماساس و خزروان به زابلستان و چاره‌جویی مهراب برای فریب ترکان و هشدار به زال",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۹ - حملهٔ شماساس و خزروان به زابلستان و چاره‌جویی مهراب برای فریب ترکان و هشدار به زال",
   "FullUrl": "/ferdousi/shahname/nozar/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,71 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 71,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که از جیحون به سیستان آمد و فرستاده‌ای از مهراب گرفت"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 72,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ترکان همراه سی هزار تیغ‌زن"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زال که برای او دخمه ساخته شد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سام که برای پدرش در گوراب دخمه ساخت"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای شهر که پیام و نیرنگ به شماساس می‌فرستد"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مهراب"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه توران که مهراب می‌خواهد نزد او نثار و پیک بفرستد"
     }
   ]
 }

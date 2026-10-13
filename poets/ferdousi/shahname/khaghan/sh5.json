@@ -1,8 +1,8 @@
 {
   "Id": 87998,
   "CatId": 53,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۵",
+  "Title": "بخش ۵ - بازگشت پیران با پاسخ جنگ توران، خشم رستم بر فریب او و آغاز نبرد سهمگین",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۵ - بازگشت پیران با پاسخ جنگ توران، خشم رستم بر فریب او و آغاز نبرد سهمگین",
   "FullUrl": "/ferdousi/shahname/khaghan/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1752,6 +1752,44 @@
       "CoupletIndex": 63,
       "SectionIndex1": 0,
       "SectionIndex2": 65
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی؛ پیام‌آور نزد او می‌آید و او با پیران سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنهکار اصلی دانسته شده و خواهان آشتی است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب سخنان رستم؛ به قلب سپاه می‌رود."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر ایرانی که پیران را به دروغ و نیرنگ متهم می‌کند."
     }
   ]
 }

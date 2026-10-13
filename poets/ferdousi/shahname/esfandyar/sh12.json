@@ -1,8 +1,8 @@
 {
   "Id": 1586,
   "CatId": 61,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۲",
+  "Title": "بخش ۱۲ - دیدار رستم و اسفندیار بر لب هیرمند، آفرین دوسویه، دعوت به خان و سرباز زدن از بند",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۲ - دیدار رستم و اسفندیار بر لب هیرمند، آفرین دوسویه، دعوت به خان و سرباز زدن از بند",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2103,6 +2103,80 @@
       "CoupletIndex": 76,
       "SectionIndex1": 0,
       "SectionIndex2": 78
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار نامور که با سپاه به کنار هیرمند می‌آید و رستم را می‌بیند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که به دیدار اسفندیار می‌آید و او را به خانهٔ خود می‌خواند."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که اسفندیار او را به داشتن چنین پسری خجسته می‌شمارد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 178,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار اسپ‌افگن و نره‌شیر که دیدن رستم او را به یاد اسفندیار می‌آورد."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که از فرمان شاه به اسفندیار آگاه است"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نسب زال آمده است"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نسب زال و سام آمده است"
+    },
+    {
+      "CoupletIndex": 75,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که اسفندیار در بزرگی و دانایی به او مانند شده است"
     }
   ]
 }

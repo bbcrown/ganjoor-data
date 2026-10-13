@@ -1,8 +1,8 @@
 {
   "Id": 1937,
   "CatId": 96,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۴",
+  "Title": "بخش ۱۴ - کشتن سازندگان دخمهٔ یزدگرد، فریب ماهوی و نشستن شبانزاده بر تخت",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۴ - کشتن سازندگان دخمهٔ یزدگرد، فریب ماهوی و نشستن شبانزاده بر تخت",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1320,6 +1320,53 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 494,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد سوری که خون شاه را ریخت و خود بر تخت نشست. (نام در متن: ماهوی)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 691,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کشته‌شده که او را در دخمه‌ای در باغ به خاک سپردند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 249,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سوگواران رومی در مراسم خاکسپاری شاه."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 501,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهان‌دیده‌ای که طلایه‌دار و پیشاهنگ سپاه است."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): هدف کین‌خواهی پهلوان؛ گفته شده بخت ایران از او تیره شد."
     }
   ]
 }

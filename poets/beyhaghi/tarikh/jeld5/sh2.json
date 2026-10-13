@@ -30,5 +30,65 @@
       "CoupletIndex": 2,
       "CoupletSummary": "هوش مصنوعی: از نظر و محبت خدایی که عالم محسوب می‌شود، بزرگ‌ترین سلطان، که امیدواریم سلطنتش پایدار باشد، ممکن است که بندگانش در گذشته از دستورات او تخلف کرده باشند. اگر در آن زمان به آرامش و سکون دست می‌یافتند و دستورات الهی را به درستی رعایت می‌کردند، اکنون با ظهور یک ولی حقیقی و رسیدن فرمان او، شرایط بندگی و اطاعت را به طور کامل انجام داده‌اند و منتظر پاسخ خدمات خود هستند که به زودی می‌رسد تا در مورد امیر ابو احمد و دیگر مسائل چه اقداماتی باید صورت گیرد. خبرچینان خواهان گسترش این خبر به غزنین هستند و خبر ورود پرچم عالی و پیروزی به هرات را به محافل رسمی رسانده‌اند تا مادر بزرگوار و دیگر بندگان خوشحال شوند و آرامش کامل برقرار گردد. این بشارت به هند نیز فرستاده شده تا در آن منطقه نیز خطر و مشکلی پیش نیاید."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LunarYear": 421,
+      "LunarMonth": 10,
+      "LunarDay": 3,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 5,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 12,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 159,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 160,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 161,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 162,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 164,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

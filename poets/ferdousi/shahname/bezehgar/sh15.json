@@ -1,8 +1,8 @@
 {
   "Id": 1767,
   "CatId": 82,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۵",
+  "Title": "بخش ۱۵ - گفتار بهرام با مهتران: نکوهش پدر، پیمان تاج میان دو شیر و رأی موبدان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۵ - گفتار بهرام با مهتران: نکوهش پدر، پیمان تاج میان دو شیر و رأی موبدان",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,71 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنران و مدعی پادشاهی که در برابر مهتران سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 277,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که از دست پدر بهرام رهانده شد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پناه و یار بهرام که همراه او در جنگ است."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 45,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان شاهی بهرام."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان شاهی بهرام."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 334,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مادری بهرام که او را شهم می‌خواند."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نمونه که فرّ او مایهٔ مقایسه است."
     }
   ]
 }

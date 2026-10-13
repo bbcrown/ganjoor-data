@@ -1,8 +1,8 @@
 {
   "Id": 1696,
   "CatId": 68,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۰",
+  "Title": "بخش ۱۰ - رسیدن اردشیر به دریا، بیعت نامداران بر کین اردوان و آماده‌شدن بهمن به جنگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۰ - رسیدن اردشیر به دریا، بیعت نامداران بر کین اردوان و آماده‌شدن بهمن به جنگ",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,71 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جوان از تخم اسفندیار که برای نبرد با اردوان آماده می‌شود"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 292,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای گروهی از یاران اردشیر در صطخر"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاهانه که گروهی از تخمهٔ او هستند"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشندهٔ نیاکان اردشیر که از او به بدی یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اردشیر خود را از تخمهٔ او می‌داند."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار مرزها و رقیب اردشیر که قرار است با او بجنگد"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از آمدن اردشیر آگاه شد و دلش پردرد گشت."
     }
   ]
 }

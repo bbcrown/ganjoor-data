@@ -1,8 +1,8 @@
 {
   "Id": 87989,
   "CatId": 52,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۱",
+  "Title": "بخش ۱۱ - محاصره سپاه طوس در کوه هماون و رسیدن لشکر کمکی توران به فرماندهی خاقان چین و کاموس",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۱ - محاصره سپاه طوس در کوه هماون و رسیدن لشکر کمکی توران به فرماندهی خاقان چین و کاموس",
   "FullUrl": "/ferdousi/shahname/kamoos/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5694,6 +5694,215 @@
       "CoupletIndex": 209,
       "SectionIndex1": 0,
       "SectionIndex2": 211
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که در خواب سیاوش را می‌بیند و نگران سپاه است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در خواب طوس بر تخت عاج نشسته و او را دلداری می‌دهد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که طوس خواب خود را به او می‌گوید."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در خواب طوس چون باد دمان به سوی ایرانیان می‌آید."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار توران که هومان را از شتاب در جنگ بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که شتاب در آغاز جنگ را می‌خواهد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین با لشکری بزرگ که به یاری توران آمده است"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرافراز و دلاور شمشیرزن لشکر خاقان چین"
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که لشکر فرستاده‌شده باید از او دمار برآورد (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که کام او معیار است"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه توران که در نبرد ستوده شده است"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 544,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور سقلابی در شمار سپاه همراه خاقان"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 389,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران هندی سپاه یاری‌رسان"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 616,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران سپاه همراه خاقان"
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 528,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران لشکر که لشکرافروز خوانده شده است"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 334,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران شگنی در سپاه گسترده"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران وهر در سپاه گسترده"
+    },
+    {
+      "CoupletIndex": 92,
+      "PersonId": 529,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخن‌گو که دربارهٔ کینه و ماندن بر کوه هماون سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 114,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی که به گودرز دل‌گرمی می‌دهد و به یاری یزدان امیدوار است."
+    },
+    {
+      "CoupletIndex": 114,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از آزادگان و بزرگان سپاه ایران."
+    },
+    {
+      "CoupletIndex": 160,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران پهلوان که می‌خواهد او را در آغوش بگیرد."
+    },
+    {
+      "CoupletIndex": 161,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سواران جنگی که پهلوان می‌خواهد با او پدرود کند."
+    },
+    {
+      "CoupletIndex": 178,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیده‌بان خود را در پریدن و آوردن خبر به سیمرغ مانند می‌کند."
     }
   ]
 }

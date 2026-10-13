@@ -1,8 +1,8 @@
 {
   "Id": 1708,
   "CatId": 69,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱",
+  "Title": "بخش ۱ - نشستن بر تخت عاج بغداد و تاج‌گذاری، خطبهٔ داد و گشودن بارگاه و فرستادن لشکر بر دشمنان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱ - نشستن بر تخت عاج بغداد و تاج‌گذاری، خطبهٔ داد و گشودن بارگاه و فرستادن لشکر بر دشمنان",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -402,6 +402,17 @@
       "CoupletIndex": 13,
       "SectionIndex1": 0,
       "SectionIndex2": 15
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که پادشاه تازه‌به‌تخت‌نشسته را از او بازنمی‌شناختند و با او مقایسه شده است."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1911,
   "CatId": 88,
-  "Title": "بخش ۷۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۶",
+  "Title": "بخش ۷۶ - شاخ گوهر باغبان و یافتن خسرو، پیشگویی مرگ میان دو کوه و تخت کوتاه قباد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۶ - شاخ گوهر باغبان و یافتن خسرو، پیشگویی مرگ میان دو کوه و تخت کوتاه قباد",
   "FullUrl": "/ferdousi/shahname/parviz/sh76",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1833,6 +1833,62 @@
       "CoupletIndex": 66,
       "SectionIndex1": 0,
       "SectionIndex2": 68
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 14,
+      "PersonId": 478,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درباری که گوهرها را می‌بیند و نزد شیروی و خسرو می‌رود. (نام در متن: زاد فرخ)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 43,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار نو که شاخ گوهر را می‌بیند و سپاه می‌فرستد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنش خسرو را از روزگار کهن دلگیر می‌کند."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خسرو دست خود را در دست او می‌بیند. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 627,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمان می‌دهد خسرو را به طیسفون ببرند و خود تاج بر سر می‌نهد و هفت ماه شاهی می‌کند."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 480,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با هزار سوار مأمور نگهبانی از خسرو می‌شود."
     }
   ]
 }

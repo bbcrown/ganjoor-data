@@ -1,8 +1,8 @@
 {
   "Id": 1418,
   "CatId": 42,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱۳",
+  "Title": "بخش ۱۳ - کشته شدن اغریرث به دست افراسیاب و حرکت زال برای کین‌خواهی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱۳ - کشته شدن اغریرث به دست افراسیاب و حرکت زال برای کین‌خواهی",
   "FullUrl": "/ferdousi/shahname/nozar/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -564,6 +564,35 @@
       "CoupletIndex": 19,
       "SectionIndex1": 0,
       "SectionIndex2": 21
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 70,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر افراسیاب که او را اندرز می‌دهد و به دست او کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد خشمگین که برادرش را می‌کشد و با زال می‌جنگد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد جنگجو که پس از شنیدن خبر کشته شدن اغریرث لشکر می‌کشد."
     }
   ]
 }

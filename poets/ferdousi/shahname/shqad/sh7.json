@@ -1,8 +1,8 @@
 {
   "Id": 1612,
   "CatId": 62,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۷",
+  "Title": "بخش ۷ - ناخوردن رودابه در سوگ تهمتن، خواستن مار مرده، بازگشت خرد و نیایش بهشت او",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۷ - ناخوردن رودابه در سوگ تهمتن، خواستن مار مرده، بازگشت خرد و نیایش بهشت او",
   "FullUrl": "/ferdousi/shahname/shqad/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -591,6 +591,35 @@
       "CoupletIndex": 20,
       "SectionIndex1": 0,
       "SectionIndex2": 22
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر رودابه که او را از غم بی‌اندازه نکوهش می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر زال که در سوگ رستم روزه می‌گیرد و ناتوان می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که رودابه و زال در سوگ او هستند."
     }
   ]
 }

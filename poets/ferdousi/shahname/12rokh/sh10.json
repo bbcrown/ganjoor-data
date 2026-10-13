@@ -1,8 +1,8 @@
 {
   "Id": 88032,
   "CatId": 56,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۰",
+  "Title": "بخش ۱۰ - نبرد تن‌به‌تن بیژن و هومان، کشتن هومان و آوردن سر و سلیح او به پیش گودرز",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۰ - نبرد تن‌به‌تن بیژن و هومان، کشتن هومان و آوردن سر و سلیح او به پیش گودرز",
   "FullUrl": "/ferdousi/shahname/12rokh/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3750,6 +3750,80 @@
       "CoupletIndex": 137,
       "SectionIndex1": 0,
       "SectionIndex2": 139
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): هومان سخنان خود را پیش او بازمی‌گوید."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که جنگ‌افزار می‌پوشد و بیژن را به نبرد می‌خواند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن؛ هومان می‌گوید او به داغ پسر خواهد نشست."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو و جنگاور ایرانی که با هومان می‌جنگد."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که بیژن به کین او هومان را کشته است (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 118,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهدار ایرانی، نیای بیژن؛ از او خشنود می‌شود و پاداشش می‌دهد."
+    },
+    {
+      "CoupletIndex": 127,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیشین که در شیرمردی و اژدهاکشی نمونه است."
+    },
+    {
+      "CoupletIndex": 131,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد نامور که پیران او را برای شبیخون و کین هومان برمی‌انگیزد."
     }
   ]
 }

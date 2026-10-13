@@ -1,8 +1,8 @@
 {
   "Id": 1533,
   "CatId": 59,
-  "Title": "بخش ۷ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۷ - سخن دقیقی",
+  "Title": "بخش ۷ - سخن دقیقی: پاسخ تند گشتاسپ به ارجاسپ و تهدید به لشکرکشی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۷ - سخن دقیقی: پاسخ تند گشتاسپ به ارجاسپ و تهدید به لشکرکشی",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -726,6 +726,53 @@
       "CoupletIndex": 25,
       "SectionIndex1": 0,
       "SectionIndex2": 27
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که زریر از او اجازهٔ پاسخ‌دادن به ارجاسپ را می‌خواهد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایران و پهلوان دلیر که نامهٔ پاسخ به ارجاسپ را می‌نویسد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه زریر و جاماسپ در نوشتن نامه به ارجاسپ"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جادوی ترکان که نامه‌ای نوشته و اکنون پاسخ تند می‌گیرد. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستور و همراه زریر و اسفندیار در نامه‌نویسی"
     }
   ]
 }

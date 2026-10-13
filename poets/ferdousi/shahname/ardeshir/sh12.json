@@ -1,8 +1,8 @@
 {
   "Id": 1719,
   "CatId": 69,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۲",
+  "Title": "بخش ۱۲ - نشستن اردشیر بر تخت و ستایش خراد از داد، آشتی و راندن دشمنان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۲ - نشستن اردشیر بر تخت و ستایش خراد از داد، آشتی و راندن دشمنان",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,26 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد پیر دادگوی که پیش شاه می‌آید و او را ستایش می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بر تخت نشسته و مرد پیر او را ستایش می‌کند."
     }
   ]
 }

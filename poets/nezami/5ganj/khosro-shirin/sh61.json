@@ -711,7 +711,7 @@
       "CoupletIndex": 7,
       "SectionIndex1": 0,
       "SectionIndex2": 9,
-      "CoupletSummary": "هوش مصنوعی: در تفکر و اندیشه، مکان آن را مشخص کن؛ چرا که نفس را مانند باد در حال حرکت است و به جایی آرام نمی‌رسد."
+      "CoupletSummary": "به این فکر کرد که چطور مکافات این کارش رو تحمل کنه.\u00A0 بادافراه: مجازات، عقوبت گناه"
     },
     {
       "VOrder": 16,
@@ -1536,6 +1536,26 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق شیرین که در عشق او می‌میرد و بر خاکش گنبدی می‌سازند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوق فرهاد که برای مرگ او سخت می‌گرید و سوگواری می‌کند."
     }
   ]
 }

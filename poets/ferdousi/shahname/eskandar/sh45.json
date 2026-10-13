@@ -1,8 +1,8 @@
 {
   "Id": 1684,
   "CatId": 67,
-  "Title": "بخش ۴۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۵",
+  "Title": "بخش ۴۵ - سوگ اسکندر در اسکندریه: نوحهٔ ارسطو و پندهای حکیمان بر تابوت شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۵ - سوگ اسکندر در اسکندریه: نوحهٔ ارسطو و پندهای حکیمان بر تابوت شاه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh45",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1050,6 +1050,26 @@
       "CoupletIndex": 37,
       "SectionIndex1": 0,
       "SectionIndex2": 39
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که درگذشته و صندوقش را به هامون نهاده‌اند؛ حکیمان بر تابوتش سخن می‌گویند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 253,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): حکیمی که با چشم خونبار بر صندوق شاه دست می‌نهد و سخن می‌گوید."
     }
   ]
 }

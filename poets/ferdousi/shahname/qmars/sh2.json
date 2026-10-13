@@ -592,5 +592,33 @@
       "SectionIndex1": 0,
       "SectionIndex2": 22
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 1,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و نیای هوشنگ که لشکر می‌کشد و در پایان می‌میرد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 2,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر هوشنگ و پسر کیومرث"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 4,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

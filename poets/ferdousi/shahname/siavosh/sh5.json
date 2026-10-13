@@ -1,8 +1,8 @@
 {
   "Id": 1484,
   "CatId": 49,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۵",
+  "Title": "بخش ۵ - داوطلب شدن سیاوش برای جنگ افراسیاب، گشودن بلخ و نامهٔ کاووس در نهی از شتاب",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۵ - داوطلب شدن سیاوش برای جنگ افراسیاب، گشودن بلخ و نامهٔ کاووس در نهی از شتاب",
   "FullUrl": "/ferdousi/shahname/siavosh/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3912,6 +3912,134 @@
       "CoupletIndex": 143,
       "SectionIndex1": 0,
       "SectionIndex2": 145
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از حملهٔ افراسیاب نگران است و سیاوش را به جنگ می‌فرستد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که با سپاه به ایران می‌تازد و پیمان را شکسته است."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس که داوطلب نبرد با افراسیاب می‌شود. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سیاوش می‌خواهد با رفتن به جنگ از گفت‌وگوی او رها شود."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایران که کاووس او را به همراهی سیاوش می‌خواند."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار که هنگام آماده‌شدن سپاه نزد شاه می‌آید"
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نام‌آوران سپاه که بنه به او سپرده می‌شود"
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان جنگی و نام‌آوران سپاه"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب تخت در زابلستان که سیاوش را میهمان می‌کند (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همنشین سیاوش در زابلستان"
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که با بارمان لشکر می‌کشد و جنگ را ناگزیر می‌بیند."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که با سپهرم پیشرو لشکر است و به ترمذ می‌رود."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 140,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که از بلخ گریخته و نزد افراسیاب یا به ترمذ می‌رود."
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 357,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که سیاووش به او نامه می‌نویسد و او پاسخ می‌دهد."
     }
   ]
 }

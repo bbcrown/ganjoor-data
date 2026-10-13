@@ -1,8 +1,8 @@
 {
   "Id": 87981,
   "CatId": 52,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۳",
+  "Title": "بخش ۳ - سپاه‌کشی طوس با درفش کاویانی به رود شهد، پیمان‌شکنی پیران و کشتن ارژنگ",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۳ - سپاه‌کشی طوس با درفش کاویانی به رود شهد، پیمان‌شکنی پیران و کشتن ارژنگ",
   "FullUrl": "/ferdousi/shahname/kamoos/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2346,6 +2346,116 @@
       "CoupletIndex": 85,
       "SectionIndex1": 0,
       "SectionIndex2": 87
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که سپهبد با او رایزنی کرد. (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی همراه سپهبد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی همراه سپهبد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که اختر کاویان را به سپهبد داد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایران که لشکر را به رود شهد می‌برد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار تورانی از نژاد ویسه که با طوس پیام رد و بدل می‌کند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که پیران از نیکی خود به او و شاه یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیران از درد مرگ او یاد می‌کند. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیران برای او پیامی دربارهٔ آمدن سپاه ایران می‌فرستد."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران که در پیام به افراسیاب آمده است."
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 103,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور نامدار تورانی که به دست طوس کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سپاه توران سخن می‌گوید و تدبیر جنگ را به یارانش می‌گوید."
     }
   ]
 }

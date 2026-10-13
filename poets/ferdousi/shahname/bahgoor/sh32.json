@@ -1,8 +1,8 @@
 {
   "Id": 1801,
   "CatId": 83,
-  "Title": "بخش ۳۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۲",
+  "Title": "بخش ۳۲ - خواندن نامهٔ باژخواهی، نازش شاه هند و پاسخ بهرام به آزمون خرد یا نبرد یک با صد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۲ - خواندن نامهٔ باژخواهی، نازش شاه هند و پاسخ بهرام به آزمون خرد یا نبرد یک با صد",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh32",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,44 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 26,
+      "PersonId": 264,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین و پدر همسر شاه هند. (نام در متن: فغفور چین)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی از روزگار گذشته که نام او برای نشان دادن زمان آمده است."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی از روزگار گذشته که نام او برای نشان دادن زمان آمده است. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شاه ایران که در پاسخ به شاه هند سخن می‌گوید."
     }
   ]
 }

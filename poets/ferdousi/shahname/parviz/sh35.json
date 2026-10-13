@@ -1,8 +1,8 @@
 {
   "Id": 1870,
   "CatId": 88,
-  "Title": "بخش ۳۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۵",
+  "Title": "بخش ۳۵ - نیایش خسرو پس از پیروزی بر بهرام، نامه به قیصر و پوشیدن جامهٔ چلیپا",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۵ - نیایش خسرو پس از پیروزی بر بهرام، نامه به قیصر و پوشیدن جامهٔ چلیپا",
   "FullUrl": "/ferdousi/shahname/parviz/sh35",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,53 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه دشمن که شکست خورد و گریخت"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه دشمن در رزمگاه (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیروز بر بهرام که به قیصر نامه نوشت و هدیه گرفت"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم که نامهٔ شاه را خواند و پاسخ و هدیه فرستاد"
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبری که دینش مبنای سخن رهنما دربارهٔ دین خسرو است."
     }
   ]
 }

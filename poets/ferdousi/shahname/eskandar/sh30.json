@@ -1,8 +1,8 @@
 {
   "Id": 1669,
   "CatId": 67,
-  "Title": "بخش ۳۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۰",
+  "Title": "بخش ۳۰ - نبرد سکندر با سپاه برهنهٔ حبش، سوزاندن کشتگان و کشتن کرگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۰ - نبرد سکندر با سپاه برهنهٔ حبش، سوزاندن کشتگان و کشتن کرگ",
   "FullUrl": "/ferdousi/shahname/eskandar/sh30",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -510,6 +510,17 @@
       "CoupletIndex": 17,
       "SectionIndex1": 0,
       "SectionIndex2": 19
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و سپهسالار که با سپاه به زمین حبش می‌رود و با حبشیان می‌جنگد."
     }
   ]
 }

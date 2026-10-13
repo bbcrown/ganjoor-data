@@ -1,8 +1,8 @@
 {
   "Id": 1531,
   "CatId": 59,
-  "Title": "بخش ۵ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۵ - سخن دقیقی",
+  "Title": "بخش ۵ - سخن دقیقی: نامهٔ تهدیدآمیز ارجاسپ به گشتاسپ و فراخواندن او به ترک دین زرتشت",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۵ - سخن دقیقی: نامهٔ تهدیدآمیز ارجاسپ به گشتاسپ و فراخواندن او به ترک دین زرتشت",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1320,6 +1320,62 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 203,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوگر پیر و بزرگ که ترکان چین او را برگزیدند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 204,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوگر دیگری که ترکان برگزیدند و دلش جز تباهی نمی‌خواست"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه زمین و پسر لهراسپ؛ مخاطب نامهٔ ارجاسپ"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گشتاسپ که شاهی را به او سپرد"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار گردان چین و نویسندهٔ نامه به گشتاسپ (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کیانی که در مقایسه با گشتاسپ یاد می‌شود"
     }
   ]
 }

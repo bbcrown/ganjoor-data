@@ -1,8 +1,8 @@
 {
   "Id": 1837,
   "CatId": 88,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲",
+  "Title": "بخش ۲ - نشستن خسرو بر تخت زر، پیمان راستی و آشتی و یاد شبانهٔ هرمز",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲ - نشستن خسرو بر تخت زر، پیمان راستی و آشتی و یاد شبانهٔ هرمز",
   "FullUrl": "/ferdousi/shahname/parviz/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,35 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که بر تخت می‌نشیند و به بزرگان دربارهٔ داد و راستی سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش برای تشبیه کردار بد و ناپسند آمده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که شاه شب‌هنگام از او یاد می‌کرد."
     }
   ]
 }

@@ -1186,5 +1186,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 44
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که با یاران به بیستون می‌رود و به فرهاد شیر می‌دهد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کوه‌کن عاشق که در بیستون سنگ می‌کَند و شیرین را دوست دارد."
+    }
   ]
 }

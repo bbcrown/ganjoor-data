@@ -45,9 +45,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اک",
-      "PlainText": "بهر آن یعنی که تا گردند پاک\r\nاین جماعت از گناه و از هلاک",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر آن یعنی که تا گردند پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جماعت از گناه و از هلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ا",
+      "PlainText": "مسجدی کردند نااهلان بنا\r\nنزد آن مسجد که بد نامش قبا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسجدی کردند نااهلان بنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزد آن مسجد که بُد نامش قُبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -55,19 +55,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "مسجدی کردند نااهلان بنا\r\nنزد آن مسجد که بد نامش قبا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسجدی کردند نااهلان بنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزد آن مسجد که بُد نامش قُبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "از",
-      "PlainText": "تا که بر ضد مسلمانان نماز\r\nاندر آن مسجد گذارند از مجاز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که بر ضد مسلمانان نماز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر آن مسجد گذارند از مجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اک",
+      "PlainText": "بهر آن یعنی که تا گردند پاک\r\nاین جماعت از گناه و از هلاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر آن یعنی که تا گردند پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جماعت از گناه و از هلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -81,13 +71,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ات",
-      "PlainText": "هم دعاء کن بهر ایشان کز دعات\r\nقلبشان ساکن شود در نایبات",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم دعاء کن بهر ایشان کز دعات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقلبشان ساکن شود در نائبات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "از",
+      "PlainText": "تا که بر ضد مسلمانان نماز\r\nاندر آن مسجد گذارند از مجاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که بر ضد مسلمانان نماز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر آن مسجد گذارند از مجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -101,13 +91,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "امهای",
-      "PlainText": "هم بدین مضمون نوشت او نامه ای\r\nنزد ایشان چون بد او علامه ای",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم بدین مضمون نوشت او نامه ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزد ایشان چون بُد او علامه ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ات",
+      "PlainText": "هم دعاء کن بهر ایشان کز دعات\r\nقلبشان ساکن شود در نایبات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم دعاء کن بهر ایشان کز دعات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقلبشان ساکن شود در نائبات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -121,13 +111,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ایشان",
-      "PlainText": "هم علیم او بر ندامت هایشان\r\nوآنچه باشد در ضمیر از رایشان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم علیم او بر ندامت هایشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنچه باشد در ضمیر از رایشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "امهای",
+      "PlainText": "هم بدین مضمون نوشت او نامه ای\r\nنزد ایشان چون بد او علامه ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم بدین مضمون نوشت او نامه ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزد ایشان چون بُد او علامه ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -141,13 +131,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اق",
-      "PlainText": "قصدشان زآن بود اضرار و نفاق\r\nنی که باشند از مصلین در سیاق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصدشان زآن بود اضرار و نفاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی که باشند از مصلّین در سیاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ایشان",
+      "PlainText": "هم علیم او بر ندامت هایشان\r\nوآنچه باشد در ضمیر از رایشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم علیم او بر ندامت هایشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنچه باشد در ضمیر از رایشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -161,13 +151,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ات",
-      "PlainText": "اغلبی باشند بر این از ثقات\r\nکه بود زین صدقه مقصود از زکات",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاغلبی باشند بر این از ثقات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بود زین صدقه مقصود از زکات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اق",
+      "PlainText": "قصدشان زآن بود اضرار و نفاق\r\nنی که باشند از مصلین در سیاق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصدشان زآن بود اضرار و نفاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی که باشند از مصلّین در سیاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -178,6 +168,16 @@
       "RhymeLetters": "ار",
       "PlainText": "آمد آیت که گرفتند از نقار\r\nمسجدی اهل نفاق اندر ضرار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد آیت که گرفتند از نقار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسجدی اهل نفاق اندر ضرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ات",
+      "PlainText": "اغلبی باشند بر این از ثقات\r\nکه بود زین صدقه مقصود از زکات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاغلبی باشند بر این از ثقات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بود زین صدقه مقصود از زکات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

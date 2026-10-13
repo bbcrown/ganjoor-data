@@ -1,8 +1,8 @@
 {
   "Id": 88086,
   "CatId": 57,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۷",
+  "Title": "بخش ۲۷ - نیایش و وداع کاووس، به خاک سپردن او و تاجگذاری کیخسرو",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۷ - نیایش و وداع کاووس، به خاک سپردن او و تاجگذاری کیخسرو",
   "FullUrl": "/ferdousi/shahname/mahmood/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,44 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه سالخورده که با یزدان راز می‌گوید و درمی‌گذرد؛ کیخسرو سوگ او را می‌دارد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که کاووس برای کین‌خواهی او از یزدان یاری می‌خواهد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نبیرهٔ کاووس که پس از سوگ او بر تخت شاهی می‌نشیند."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مثل برای فراگیر بودن مرگ بر همگان، حتی بزرگان، آمده است. (نام در متن: زردهشت)"
     }
   ]
 }

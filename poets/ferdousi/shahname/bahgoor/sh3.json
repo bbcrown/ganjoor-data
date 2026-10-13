@@ -1,8 +1,8 @@
 {
   "Id": 1772,
   "CatId": 83,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳",
+  "Title": "بخش ۳ - سه روز مهمانی بهرام گور در جامهٔ سپاهی نزد لنبک آبکش و گرو نهادن جامه و مشک",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳ - سه روز مهمانی بهرام گور در جامهٔ سپاهی نزد لنبک آبکش و گرو نهادن جامه و مشک",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1698,6 +1698,44 @@
       "CoupletIndex": 61,
       "SectionIndex1": 0,
       "SectionIndex2": 63
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به شکار می‌رود و میهمان لنبک آبکش می‌شود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 337,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سقای جوانمرد و مهمان‌نواز که شاه را میزبانی می‌کند."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 338,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آبکش و میزبان بهرام؛ او را به ماندن بیشتر در خانه‌اش دعوت می‌کند."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 357,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که نامش در مجلس می‌برند و میزبان از او ترسی دارد."
     }
   ]
 }

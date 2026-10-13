@@ -236,5 +236,14 @@
       "CoupletIndex": 13,
       "SectionIndex1": 0
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 21,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

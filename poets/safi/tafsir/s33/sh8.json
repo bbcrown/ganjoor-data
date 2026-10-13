@@ -44,9 +44,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "از",
-      "PlainText": "از قریظه گوش کن چون گشت باز\r\nبر مدینه احمدص کامل نیاز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قریظه گوش کن چون گشت باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مدینه احمد(ص) کامل نیاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ام",
+      "PlainText": "رد نمودی آن طوایف را تمام\r\nسوی منزلهایشان رب الانام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرد نمودی آن طوایف را تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی منزلهایشان ربّ الانام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -54,19 +54,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ام",
-      "PlainText": "رد نمودی آن طوایف را تمام\r\nسوی منزلهایشان رب الانام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرد نمودی آن طوایف را تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی منزلهایشان ربّ الانام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ست",
-      "PlainText": "خشمناک از آنکه برگشتند پست\r\nوز غنایم نامد ایشان را به دست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخشمناک از آنکه برگشتند پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز غنایم نامد ایشان را به دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "از",
+      "PlainText": "از قریظه گوش کن چون گشت باز\r\nبر مدینه احمدص کامل نیاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قریظه گوش کن چون گشت باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مدینه احمد(ص) کامل نیاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -80,13 +70,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "فت",
-      "PlainText": "شد سوار از شهر بیرون رفت و گفت\r\nهر که جانش با عنایت هاست جفت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد سوار از شهر بیرون رفت و گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که جانش با عنایت هاست جفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ست",
+      "PlainText": "خشمناک از آنکه برگشتند پست\r\nوز غنایم نامد ایشان را به دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخشمناک از آنکه برگشتند پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز غنایم نامد ایشان را به دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -100,13 +90,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یز",
-      "PlainText": "حق کفایت کرد از جنگ و ستیز\r\nمؤمنین را کو قوی است و عزیز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق کفایت کرد از جنگ و ستیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمؤمنین را کو قوّی است و عزیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "فت",
+      "PlainText": "شد سوار از شهر بیرون رفت و گفت\r\nهر که جانش با عنایت هاست جفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد سوار از شهر بیرون رفت و گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که جانش با عنایت هاست جفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -120,13 +110,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 7,
-      "Number": 7,
+      "Index": 6,
+      "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یست",
-      "PlainText": "شرحش از تاریخ برخوان تا که چیست\r\nذکر آن لازم در این تفسیر نیست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرحش از تاریخ برخوان تا که چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذکر آن لازم در این تفسیر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یز",
+      "PlainText": "حق کفایت کرد از جنگ و ستیز\r\nمؤمنین را کو قوی است و عزیز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق کفایت کرد از جنگ و ستیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمؤمنین را کو قوّی است و عزیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -140,13 +130,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 8,
-      "Number": 8,
+      "Index": 7,
+      "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "شدسبببرخوفخصمانپردلی",
-      "PlainText": "عمرو چون شد کشته بر دست علی ع\r\nشد سبب بر خوف خصم آن پر دلی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرو چون شد کشته بر دست علی (ع)\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد سبب بر خوف خصم آن پُر دلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یست",
+      "PlainText": "شرحش از تاریخ برخوان تا که چیست\r\nذکر آن لازم در این تفسیر نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرحش از تاریخ برخوان تا که چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذکر آن لازم در این تفسیر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -160,13 +150,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 9,
-      "Number": 9,
+      "Index": 8,
+      "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "حق تعالی آورد مانا فرود\r\nپشت احزاب آنکه کشتند از یهود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق تعالی آورد مانا فرود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت احزاب آنکه کُشتند از یهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "شدسبببرخوفخصمانپردلی",
+      "PlainText": "عمرو چون شد کشته بر دست علی ع\r\nشد سبب بر خوف خصم آن پر دلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرو چون شد کشته بر دست علی (ع)\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد سبب بر خوف خصم آن پُر دلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -180,13 +170,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 10,
-      "Number": 10,
+      "Index": 9,
+      "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "م",
-      "PlainText": "قتل عمرو داد فیصل آن مهم\r\nگشت بوسفیان ز احمد ص منهزم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقتل عمرو داد فیصل آن مهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت بوسفیان ز احمد (ص) منهزم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ود",
+      "PlainText": "حق تعالی آورد مانا فرود\r\nپشت احزاب آنکه کشتند از یهود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق تعالی آورد مانا فرود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت احزاب آنکه کُشتند از یهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -197,6 +187,16 @@
       "RhymeLetters": "د",
       "PlainText": "عهد پیغمبر شکستند از حسد\r\nآمدند اعدای او را بر مدد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعهد پیغمبر شکستند از حسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمدند اعدای او را بر مدد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "قتل عمرو داد فیصل آن مهم\r\nگشت بوسفیان ز احمد ص منهزم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقتل عمرو داد فیصل آن مهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت بوسفیان ز احمد (ص) منهزم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

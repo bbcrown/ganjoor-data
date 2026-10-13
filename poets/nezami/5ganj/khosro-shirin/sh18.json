@@ -1916,7 +1916,7 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54,
-      "CoupletSummary": "هوش مصنوعی: اگر انسان از چشم خود بهره‌برداری کند، می‌تواند بیش از صد آهو را ببیند، حتی اگر فقط یک آهو را مشاهده کند."
+      "CoupletSummary": "اگر چشم آهو را با چشم خود بسنجد، بر هر آهوئی هزار نقص و عیب خواهد گرفت."
     },
     {
       "VOrder": 106,
@@ -2724,6 +2724,80 @@
       "CoupletIndex": 99,
       "SectionIndex1": 0,
       "SectionIndex2": 101
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ندیم خاص و نقاش چیره‌دست که برای شاه سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 227,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نقاش نامی که شاپور در نقاشی به او مژده می‌دهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 647,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به‌عنوان مرجع رسامی و هندسه یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 648,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی فرمانروای بی‌شوهر از نسل شاهان در سرزمین ارّان و ارمن."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 650,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق حیرت‌زده در خیال، برای مقایسه با زیبایی شیرین"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 651,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوقه‌ای که برای مقایسه با جمال شیرین یاد شده"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیباروی توصیف‌شده، ولیعهد مهین‌بانو و سرور پری‌رویان و هفتاد دختر ماه‌پیکر"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 649,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای آن اقلیم که شیرین ولیعهد اوست"
     }
   ]
 }

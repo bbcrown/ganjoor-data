@@ -1,8 +1,8 @@
 {
   "Id": 88012,
   "CatId": 55,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۳",
+  "Title": "بخش ۳ - آگاهی دربان از نهان بیژن، بستن او به دست گرسیوز و فرمان دار افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۳ - آگاهی دربان از نهان بیژن، بستن او به دست گرسیوز و فرمان دار افراسیاب",
   "FullUrl": "/ferdousi/shahname/bizhan/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2670,6 +2670,80 @@
       "CoupletIndex": 97,
       "SectionIndex1": 0,
       "SectionIndex2": 99
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه توران؛ از ماجرای دخترش خشمگین می‌شود و گرسیوز را می‌فرستد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 547,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر شاه توران که با مرد ایرانی پیوند گرفته است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 549,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار که شاه با او دربارهٔ کار منیژه رای می‌زند."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شاه با سواران برای بستن و آوردن بیژن."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور گیو، پهلوان ایرانی بیگانه در خانهٔ منیژه که با خنجر ایستادگی می‌کند."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیژن در تنهایی او را یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیژن در تنهایی او را یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پری در افسون خود از او یاد می‌کند. (نام در متن: اهرمن)"
     }
   ]
 }

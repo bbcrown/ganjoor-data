@@ -1645,5 +1645,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 61
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که سپاهی بی‌شمار به خسرو داد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن خسرو که در نبرد شکست خورد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 646,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با اسطرلاب لحظهٔ مناسب حمله را به شاه گفت."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مقایسه با شیرافکنی و زور بهرام چوبین یاد شده است."
+    }
   ]
 }

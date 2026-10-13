@@ -241,5 +241,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 9
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 4,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جهاندار که پس از نیای خود تاج بر سر نهاد و بر تخت نشست."
+    }
   ]
 }

@@ -727,5 +727,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 27
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جهان که مجلس می‌آراید، اندرز می‌دهد و پس از هجده سال می‌میرد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزندی که یزدگرد تاج و نگین و گنج ایران را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند باشکوه و نیرومند شاه که از هرمز بزرگ‌تر است."
+    }
   ]
 }

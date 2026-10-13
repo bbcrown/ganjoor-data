@@ -1,8 +1,8 @@
 {
   "Id": 1450,
   "CatId": 47,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۴",
+  "Title": "بخش ۴ - نامهٔ رستم به شاه هاماوران، حملهٔ دریایی و آماده‌سازی برای نبرد بزرگ",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۴ - نامهٔ رستم به شاه هاماوران، حملهٔ دریایی و آماده‌سازی برای نبرد بزرگ",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1455,6 +1455,44 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در بند هاماوران است و رهایی‌اش موضوع نامه است (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 115,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای هاماوران که از رستم می‌گریزد و از مصر و بربر یاری می‌خواهد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی سوار بر رخش که با سپاه به هاماوران می‌تازد"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم، تنها در نام رستم زال‌زر آمده است."
     }
   ]
 }

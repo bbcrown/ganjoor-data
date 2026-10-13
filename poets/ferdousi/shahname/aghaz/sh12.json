@@ -1321,5 +1321,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 49
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 173,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بزرگ و جهاندار که شاعر در خواب می‌بیند و می‌ستاید"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 175,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه جان ممدوح به جبرئیل آمده است (نام در متن: جبرئیل)"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 354,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر برادر مهتر شهنشاه؛ برای شناساندن فرزندش یاد شده است."
+    }
   ]
 }

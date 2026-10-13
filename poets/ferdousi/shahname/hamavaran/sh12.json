@@ -1,8 +1,8 @@
 {
   "Id": 1458,
   "CatId": 47,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۱۲",
+  "Title": "بخش ۱۲ - گریختن افراسیاب از کمند رستم، پیروزی هفت یل و بازگشت به دربار کاووس",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۱۲ - گریختن افراسیاب از کمند رستم، پیروزی هفت یل و بازگشت به دربار کاووس",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -591,6 +591,53 @@
       "CoupletIndex": 20,
       "SectionIndex1": 0,
       "SectionIndex2": 22
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که سوار بر رخش با افراسیاب می‌جنگد و کمند می‌اندازد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و شاه ترکان که رستم در جنگ او را دنبال می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که دربارهٔ نبرد برایش نامه می‌نویسند. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تنها کسی از دلیران ایران که از اسب افتاد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم موضوع داستانی که سراینده آغاز می‌کند."
     }
   ]
 }

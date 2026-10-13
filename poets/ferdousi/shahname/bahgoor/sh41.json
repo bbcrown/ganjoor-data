@@ -1,8 +1,8 @@
 {
   "Id": 1810,
   "CatId": 83,
-  "Title": "بخش ۴۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۱",
+  "Title": "بخش ۴۱ - بازگشت بهرام از قنوج، خطبهٔ داد بر تخت و دین‌آموزی سپینود در آذرگشسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۱ - بازگشت بهرام از قنوج، خطبهٔ داد بر تخت و دین‌آموزی سپینود در آذرگشسپ",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh41",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,44 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از قنوج با سپاه به ایران بازمی‌گردد و بر تخت می‌نشیند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر بهرام که سپاه پراکنده را گرد می‌کند و به پیشواز پدر می‌آید."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر یزدگرد که همراه بزرگان به پیشواز شاه می‌رود."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 202,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرستندهٔ آتش که باژ و برسم به دست دارد و نزد او دین می‌آموزند (نام در متن: زردهشت)"
     }
   ]
 }

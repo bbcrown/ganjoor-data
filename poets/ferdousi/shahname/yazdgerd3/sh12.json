@@ -1,8 +1,8 @@
 {
   "Id": 1935,
   "CatId": 96,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۲",
+  "Title": "بخش ۱۲ - کشتن یزدگرد به فرمان ماهوی در آسیا، به آب افکندن تنش و ساختن دخمه به دست راهبان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۲ - کشتن یزدگرد به فرمان ماهوی در آسیا، به آب افکندن تنش و ساختن دخمه به دست راهبان",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2184,6 +2184,71 @@
       "CoupletIndex": 79,
       "SectionIndex1": 0,
       "SectionIndex2": 81
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 492,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیدادگری که دستور کشتن شاه را می‌دهد و پیکر او را به آب می‌افکنند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 691,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در آسیا به دست آسیابان کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 613,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جوان کشته‌شده که پیکرش در دخمه نهاده می‌شود."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 283,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فقط برای اشاره به زمان پیش از او آمده است"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 377,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شهریار کشته‌شده که به تبار او اشاره شده است."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شهریار جوان کشته‌شده."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 249,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از چهار سوگوار که پیکر شهریار را آماده کرد."
     }
   ]
 }

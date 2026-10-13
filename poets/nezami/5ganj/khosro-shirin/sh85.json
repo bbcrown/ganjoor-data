@@ -700,5 +700,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 26
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نوازنده و خواننده‌ای که آواز برمی‌دارد و شیرین دست‌بردش را می‌بیند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دست‌بُرد باربد را می‌بیند و از عشق بدحال می‌شود."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88041,
   "CatId": 56,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۹",
+  "Title": "بخش ۱۹ - پیشنهاد پیران به گودرز برای نبرد تن‌به‌تن، یاد کین سیاوش و پذیرش جنگ بی‌سپاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۹ - پیشنهاد پیران به گودرز برای نبرد تن‌به‌تن، یاد کین سیاوش و پذیرش جنگ بی‌سپاه",
   "FullUrl": "/ferdousi/shahname/12rokh/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,44 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار سپاه توران که گودرز او را به نبرد تن‌به‌تن می‌خواند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با پیران سخن می‌گوید و او را به نبرد می‌خواند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شدهٔ بی‌گناه که خونخواهی او دلیل کینه و جنگ است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که گودرز او را خونریز سیاوش می‌داند."
     }
   ]
 }

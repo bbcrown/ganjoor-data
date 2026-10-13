@@ -1,8 +1,8 @@
 {
   "Id": 1776,
   "CatId": 83,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۷",
+  "Title": "بخش ۷ - مستی کبروی در بزم بهرام، کندن چشمانش به دست زاغ و حرام‌کردن می",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۷ - مستی کبروی در بزم بهرام، کندن چشمانش به دست زاغ و حرام‌کردن می",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,26 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و میزبان بزم که از مرگ کبروی اندوهگین می‌شود و می را حرام می‌کند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 342,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): میوه‌فروش و مرد ده‌نشین که در بزم شاه می‌نوشد و مست مرده می‌شود."
     }
   ]
 }

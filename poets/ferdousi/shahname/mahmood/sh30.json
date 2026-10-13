@@ -1,8 +1,8 @@
 {
   "Id": 88089,
   "CatId": 57,
-  "Title": "بخش ۳۰",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۰",
+  "Title": "بخش ۳۰ - یک هفته نهان شدن کیخسرو، آمدن زال و رستم و آرزوی ناگفتهٔ شاه",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۰ - یک هفته نهان شدن کیخسرو، آمدن زال و رستم و آرزوی ناگفتهٔ شاه",
   "FullUrl": "/ferdousi/shahname/mahmood/sh30",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1428,6 +1428,71 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان گرد آمده در انجمن."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ که برای چاره‌جویی با دیگران سخن می‌گوید و گیو را می‌فرستد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز که به سیستان نزد زال و رستم فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان که باید از ماجرای شاه آگاه شود و بیاید."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از یزدان روی گردانده و از پهلوانان رای و روی خود را پوشانده است. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که به او مثال زده می‌شود، همچون کسی که دیو او را از راه برد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که پس از شنیدن خبر گیو غمگین می‌شود و چاره می‌جوید."
     }
   ]
 }

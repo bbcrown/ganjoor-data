@@ -1,8 +1,8 @@
 {
   "Id": 87986,
   "CatId": 52,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۸",
+  "Title": "بخش ۸ - رسیدن پیران به کوه هماون، ستیزه با طوس، بستن راه علف و رای شبخون ایرانیان",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۸ - رسیدن پیران به کوه هماون، ستیزه با طوس، بستن راه علف و رای شبخون ایرانیان",
   "FullUrl": "/ferdousi/shahname/kamoos/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,107 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار توران که فرستاده نزد او می‌آید و سپاه را بر گرد کوه می‌گمارد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد تورانی که نزد ایرانیان می‌رود و با طوس سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانیان که به هومان پاسخ می‌دهد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کینهٔ او بهانهٔ دشمنی در سخن طوس یاد می‌شود (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان لشکری که طوس نام می‌برد (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان لشکری که طوس نام می‌برد"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که دربارهٔ ناگزیری جنگ با طوس سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): طوس بخشی از لشکر را به او می‌سپارد"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): طوس بخشی از لشکر را به او می‌سپارد"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): طوس بخشی از لشکر را به او می‌سپارد"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): طوس درفش خجسته را به او می‌دهد"
     }
   ]
 }

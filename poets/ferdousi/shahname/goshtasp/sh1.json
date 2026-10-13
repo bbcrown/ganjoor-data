@@ -376,5 +376,61 @@
       "SectionIndex1": 0,
       "SectionIndex2": 14
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 197,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده و سراینده‌ای که در خواب مخاطب دقیقی است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 196,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاعر که در خواب گوینده با جام می پدیدار می‌شود و با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که آیین می‌گساری او سرمشق است (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهنشاه و گیرندهٔ شهرها که در خواب بر او بشارت می‌دهند"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گشتاسپ در بیت‌های سرودهٔ گوینده یاد می‌شود. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو نام در گفتهٔ هزار بیت پیشین"
+    }
   ]
 }

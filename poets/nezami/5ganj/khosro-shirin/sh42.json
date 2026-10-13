@@ -1240,5 +1240,61 @@
       "SectionIndex1": 0,
       "SectionIndex2": 46
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 27,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوقی که دوری‌اش دل شاه را آشفته کرده است."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): راه‌داران او مایهٔ بیم شاه در راه‌اند. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم که شاه را می‌پذیرد و تاج و تخت به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر قیصر که به همسری شاه درمی‌آید."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر کیشی که شاه به آن گرایش می‌یابد."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 443,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): طرف لشکرکشی در ماجرای پس از ازدواج شاه."
+    }
   ]
 }

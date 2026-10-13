@@ -2293,5 +2293,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 85
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 15,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیهِ هندوی مجوسی‌ملتی که زندخوانی می‌کند آمده است."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 260,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیهِ آه کمانچه به آهِ موسی آمده است."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خود را بنده می‌نامد و از شاه برای ورود گل‌رخ اجازه می‌خواهد."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 652,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه آمده که هر بامداد از چشمه ماه برمی‌آورد."
+    }
   ]
 }

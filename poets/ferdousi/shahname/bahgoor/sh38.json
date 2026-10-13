@@ -1,8 +1,8 @@
 {
   "Id": 1807,
   "CatId": 83,
-  "Title": "بخش ۳۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۸",
+  "Title": "بخش ۳۸ - نامهٔ فغفور چین به بهرام گور، دعوت به چین و پاسخ سرافرازانهٔ نرفتن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۸ - نامهٔ فغفور چین به بهرام گور، دعوت به چین و پاسخ سرافرازانهٔ نرفتن",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh38",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1212,6 +1212,26 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که به فرستادهٔ ایرانی نامه می‌نویسد و او را به چین می‌خواند"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گیرندهٔ نامهٔ فغفور که به آن پاسخ می‌دهد"
     }
   ]
 }

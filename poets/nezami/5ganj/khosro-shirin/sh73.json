@@ -2185,5 +2185,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 81
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 120,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم؛ در ستایش، غلام شاه خوانده شده است."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 674,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن ستایش‌آمیز، بندهٔ شاه شمرده شده است."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که با شاه گلایه می‌کند، آراسته می‌شود و از بام می‌گذرد."
+    }
   ]
 }

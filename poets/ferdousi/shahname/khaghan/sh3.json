@@ -1,8 +1,8 @@
 {
   "Id": 87996,
   "CatId": 53,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۳",
+  "Title": "بخش ۳ - گفتگوی هومانِ ناشناس با رستم، طلب خون سیاوش و آگاهی پیران و خاقان از هویت او",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۳ - گفتگوی هومانِ ناشناس با رستم، طلب خون سیاوش و آگاهی پیران و خاقان از هویت او",
   "FullUrl": "/ferdousi/shahname/khaghan/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2751,6 +2751,179 @@
       "CoupletIndex": 100,
       "SectionIndex1": 0,
       "SectionIndex2": 102
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار، کمندافگن و جنگی سوار؛ مخاطب سخنان گوینده در میدان نبرد"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خونش ریخته شده و آتش کین از آن برخاسته است (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده می‌خواهد دربارهٔ کین‌خواهی با او سخن بگوید"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرچشمهٔ نخستین کین، از کسانی که باید تحویل شوند"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 151,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که ستم بر سیاوش را به او نسبت می‌دهند"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دل و مغزش به دست دیگری تباه شده است"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 65,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بزرگانی که دورو و پیسه خوانده شده‌اند"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تخمهٔ ویسه که تحویلشان خواسته می‌شود"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تخمهٔ ویسه که تحویلشان خواسته می‌شود"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شوخ مرد؛ از بزرگان تخمهٔ ویسه"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تخمهٔ ویسه که تحویلشان خواسته می‌شود"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان تخمهٔ ویسه که تحویلشان خواسته می‌شود"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 537,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدری که هومان در معرفی خود به رستم نام می‌برد."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین و از سران سپاه توران."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان توران که هومان می‌خواهد سخنان رستم را به او برساند."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار تورانی که رستم او را می‌خواهد."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 93,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان توران که همراه پیران نام برده می‌شود."
+    },
+    {
+      "CoupletIndex": 80,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که پیران را نزد رستم می‌فرستد"
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گو و پهلوانی که زمانش به سر آمده است"
     }
   ]
 }

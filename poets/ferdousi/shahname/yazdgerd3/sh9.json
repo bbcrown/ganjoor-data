@@ -1,8 +1,8 @@
 {
   "Id": 1932,
   "CatId": 96,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۹",
+  "Title": "بخش ۹ - پیشواز ماهوی سوری در مرز طوس، سپردن شاه کیانی بدو و آرزوی تخت در دل شبان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۹ - پیشواز ماهوی سوری در مرز طوس، سپردن شاه کیانی بدو و آرزوی تخت در دل شبان",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,44 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 494,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای که با سپاه به پیشواز شاه می‌آید و نگهداری او را می‌پذیرد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار سپاه که شاه را به ماهوی سپرد و به ری رفت"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار بی‌همتایی که فرخ‌زاد از کشته‌شدنش به دست زاغ‌سر یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 498,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشندهٔ رستم که فرخ‌زاد برایش درد پیکان می‌خواهد"
     }
   ]
 }

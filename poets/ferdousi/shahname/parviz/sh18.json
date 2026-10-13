@@ -1,8 +1,8 @@
 {
   "Id": 1853,
   "CatId": 88,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۸",
+  "Title": "بخش ۱۸ - دیدار خسرو با راهب دیر وریغ، پیشگویی بازگشت شاهی و هشدار از گستهم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۸ - دیدار خسرو با راهب دیر وریغ، پیشگویی بازگشت شاهی و هشدار از گستهم",
   "FullUrl": "/ferdousi/shahname/parviz/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,35 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزادهٔ گریخته از تخت پدر که راهب او را می‌شناسد و به او نوید پادشاهی می‌دهد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که خسرو می‌خواهد نزدش برود و از او سپاه می‌گیرد"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی برمنش و شادکام که خسرو بر او خشم می‌گیرد (نام در متن: بستام)"
     }
   ]
 }

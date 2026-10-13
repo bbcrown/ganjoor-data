@@ -1,8 +1,8 @@
 {
   "Id": 1521,
   "CatId": 58,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۲",
+  "Title": "بخش ۱۲ - کشتن اژدهای سقیلا به دست گشتاسپ، هنرنمایی در میدان قیصر و نهادن افسر بر فرخ‌زاد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۲ - کشتن اژدهای سقیلا به دست گشتاسپ، هنرنمایی در میدان قیصر و نهادن افسر بر فرخ‌زاد",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3237,6 +3237,107 @@
       "CoupletIndex": 118,
       "SectionIndex1": 0,
       "SectionIndex2": 120
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوانی که با اژدها می‌جنگد و آن را می‌کشد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 186,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گشتاسپ که برایش خواسته و اسب می‌آورد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 180,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گشتاسپ که کوه سقیلا را نشان می‌دهد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان گشتاسپ که از او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر لهراسپ که همراه او از دوری گشتاسپ سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گشتاسپ پس از ماجرا به سوی او می‌رود."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تن اژدها باید به درگاه او برده شود."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مانندسازی زخم شمشیر از او یاد شده است (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 184,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ قیصر که او را می‌خواند و بر تخت زرین می‌نشاند."
+    },
+    {
+      "CoupletIndex": 100,
+      "PersonId": 185,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو کسی که قیصر از آنان برآشفت"
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که قیصر فرمان می‌دهد همه از او فرمان ببرند."
     }
   ]
 }

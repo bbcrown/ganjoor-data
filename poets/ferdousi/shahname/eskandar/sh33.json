@@ -1,8 +1,8 @@
 {
   "Id": 1672,
   "CatId": 67,
-  "Title": "بخش ۳۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۳",
+  "Title": "بخش ۳۳ - سفر اسکندر و خضر در پی آب حیوان، جدایی در دوراهی تاریک و نوشیدن خضر از چشمه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۳ - سفر اسکندر و خضر در پی آب حیوان، جدایی در دوراهی تاریک و نوشیدن خضر از چشمه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh33",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,26 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 12,
+      "PersonId": 279,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رایزن و پیش‌رو سکندر؛ در تاریکی گم می‌شود و به آب حیوان می‌رسد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار لشکر که در جست‌وجوی آب حیوان است و با خضر سخن می‌گوید"
     }
   ]
 }

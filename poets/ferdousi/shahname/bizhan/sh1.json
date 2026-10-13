@@ -1,8 +1,8 @@
 {
   "Id": 1507,
   "CatId": 55,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱",
+  "Title": "بخش ۱ - دیباچهٔ داستان بیژن و منیژه: شب قیرگون، بزم با یار مهربان و آغاز داستان از دفتر پهلوی",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱ - دیباچهٔ داستان بیژن و منیژه: شب قیرگون، بزم با یار مهربان و آغاز داستان از دفتر پهلوی",
   "FullUrl": "/ferdousi/shahname/bizhan/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,26 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجود اهریمنی که تیرگی شب به او مانند شده است. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 172,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به نیرنگ‌سازی او برای مانندگی با ساختن بزم و چنگ اشاره شده است."
     }
   ]
 }

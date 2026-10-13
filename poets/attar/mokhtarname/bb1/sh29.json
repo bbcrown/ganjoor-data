@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ونگشت",
-      "PlainText": "از بس که در انتظار تو گردون گشت\r\nتا روز همه شب ز شفق در خون گشت\r\nچون راه نیافت از پس و پیش به تو\r\nدر خویش به صد هزار قرن افزون گشت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که در انتظار تو گردون گشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روز همه شب،‌ز شفق، در خون گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون راه نیافت از پس و پیش به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خویش به صد هزار قرن افزون گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "از بس که در انتظار تو گردون گشت\r\nتا روز همه شب  ز شفق در خون گشت\r\nچون راه نیافت از پس و پیش به تو\r\nدر خویش به صد هزار قرن افزون گشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس که در انتظار تو گردون گشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روز همه شب،‌ ز شفق، در خون گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون راه نیافت از پس و پیش به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خویش به صد هزار قرن افزون گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -37,7 +37,7 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "تا روز همه شب،‌ز شفق، در خون گشت",
+      "Text": "تا روز همه شب،‌ ز شفق، در خون گشت",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },

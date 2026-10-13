@@ -1,8 +1,8 @@
 {
   "Id": 1629,
   "CatId": 65,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۴",
+  "Title": "بخش ۴ - ناخوشی بوی ناهید، بازگرداندنش به فیلقوس، زادن اسکندر و مرگ داراب",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۴ - ناخوشی بوی ناهید، بازگرداندنش به فیلقوس، زادن اسکندر و مرگ داراب",
   "FullUrl": "/ferdousi/shahname/darab/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,62 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 248,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عروس شاه ایران و دختر فیلقوس؛ سکندر را زاد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر ناهید که اسکندر را پسر خود می‌دانست و ولیعهد کرد (نام در متن: فیلقوس)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 251,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر ناهید و قیصر روم؛ سکندر را فرزند خود می‌داند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر ناهید که نزد قیصر بالید و ولیعهد او شد"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر داراب از همسر دوم؛ جانشین پدر در شاهی."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 623,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر داراب"
     }
   ]
 }

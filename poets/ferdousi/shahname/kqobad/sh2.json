@@ -1,8 +1,8 @@
 {
   "Id": 1426,
   "CatId": 45,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۲",
+  "Title": "بخش ۲ -\u00A0رویاریی رستم با افراسیاب و گریز او از چنگ رستم و شکست سپاه توران",
+  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۲ -\u00A0رویاریی رستم با افراسیاب و گریز او از چنگ رستم و شکست سپاه توران",
   "FullUrl": "/ferdousi/shahname/kqobad/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,62 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): کسی که رستم کار او را در نبرد دید (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): پسر زال و جوانی که با افراسیاب نبرد می‌کند"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): پدر رستم که او را از جنگ برحذر می‌دارد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): مرد بداندیش و شاه ترکان که از رستم می‌گریزد"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): نامش در نسب رستم آمده و گرز از اوست"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 50,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): رستم افراسیاب را پیش او می‌خواست و او برخاست"
     }
   ]
 }

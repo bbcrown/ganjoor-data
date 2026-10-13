@@ -808,5 +808,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 30
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 310,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهِ درگذشته که بهرام در سوک او چهل روز کلاه ننهاد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر بهرامشاه؛ چهل روز سوگ پدر داشت، سپس بر تخت نشست و پند داد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 311,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شادکامِ بهرام که پس از او بر تخت نشست."
+    }
   ]
 }

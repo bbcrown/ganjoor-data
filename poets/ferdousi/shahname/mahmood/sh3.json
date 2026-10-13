@@ -1,8 +1,8 @@
 {
   "Id": 88062,
   "CatId": 57,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳",
+  "Title": "بخش ۳ - خبر شکست و مرگ خویشان: شیون افراسیاب، سوگند کین و آراستن سپاه بر جیحون",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳ - خبر شکست و مرگ خویشان: شیون افراسیاب، سوگند کین و آراستن سپاه بر جیحون",
   "FullUrl": "/ferdousi/shahname/mahmood/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3345,6 +3345,179 @@
       "CoupletIndex": 122,
       "SectionIndex1": 0,
       "SectionIndex2": 124
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و شاه توران، نبیرهٔ فریدون، که در کندز نشسته و سوگوار می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سازندهٔ کندز و نیای افراسیاب."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه توران که سخنانش و جنگ او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران توران در نبرد با ایرانیان که افراسیاب برایش سوگواری می‌کند."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران توران در نبرد با ایرانیان که افراسیاب برایش سوگواری می‌کند."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با لشکر بسیار به مرز توران رسید."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تخمهٔ او مایهٔ کینهٔ گوینده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خونش انگیزهٔ کین‌خواهی است."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که گوینده می‌خواهد با آنان کین‌ستانی کند."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که گوینده می‌خواهد با آنان کین‌ستانی کند."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در بلخ بوده است."
+    },
+    {
+      "CoupletIndex": 99,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده میسره و نگهبان پشت پشنگ."
+    },
+    {
+      "CoupletIndex": 101,
+      "PersonId": 564,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو جنگیِ سپرده‌شدهٔ سپاه، توران سوار."
+    },
+    {
+      "CoupletIndex": 101,
+      "PersonId": 565,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نبیرهٔ افراسیاب، تیزتر از کهیلا، یکی از دو جنگی."
+    },
+    {
+      "CoupletIndex": 108,
+      "PersonId": 566,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر پنجم شاه، سالار سواران طرازی و غزی و خلخ."
+    },
+    {
+      "CoupletIndex": 110,
+      "PersonId": 152,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گردگیر برای یاری جهن."
+    },
+    {
+      "CoupletIndex": 110,
+      "PersonId": 567,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گردگیر برای یاری جهن."
+    },
+    {
+      "CoupletIndex": 114,
+      "PersonId": 70,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد جنگجو که به او سپاه سپرده می‌شود"
+    },
+    {
+      "CoupletIndex": 116,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد پیلتن و جهانجو که شاه پیلان و سالاری سپاه را به او داد"
     }
   ]
 }

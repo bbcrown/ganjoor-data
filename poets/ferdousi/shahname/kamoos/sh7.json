@@ -1,8 +1,8 @@
 {
   "Id": 87985,
   "CatId": 52,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۷",
+  "Title": "بخش ۷ - پناه طوس و گودرز بر کوه هماون، پذیرفتن رای هومان و تاختن او با سی‌هزار سوار",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۷ - پناه طوس و گودرز بر کوه هماون، پذیرفتن رای هومان و تاختن او با سی‌هزار سوار",
   "FullUrl": "/ferdousi/shahname/kamoos/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2076,6 +2076,98 @@
       "CoupletIndex": 75,
       "SectionIndex1": 0,
       "SectionIndex2": 77
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی که به گیو سفارش استراحت می‌دهد و لشکر را سامان می‌دهد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامبردار ایرانی و مخاطب طوس."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد تورانی که در برابر ایرانیان به مشورت و جنگ می‌پردازد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): طوس می‌گوید خستگان را به او بسپارند."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که خواهان شتاب در جنگ است."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که سپاه بزرگی پیش او گرد آمده است."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که درگاه او مقصد لشکر ایران است. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان که هومان از آمدنش به جنگ بیم دارد."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی همراه طوس و درفش و پیلان."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با دویست سوار برای کاوش می‌رود و خبر سپاه ایران را می‌آورد."
     }
   ]
 }

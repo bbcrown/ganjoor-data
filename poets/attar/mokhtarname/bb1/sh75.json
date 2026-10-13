@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "مكردن",
-      "PlainText": "چون عفو تو میتوان مسلم کردن\r\nتا کی ز غم گناه ماتم کردن\r\nدانی که تمام است ز بحر کرمت\r\nیک قطره نثار هر دو عالم کردن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عفو تو میتوان مسلم کردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کی ز غمِ گناه،‌ماتم کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که تمام است ز بحر کرمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک قطره نثارِ هر دو عالم کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "چون عفو تو می توان مسلم کردن\r\nتا کی ز غم گناه  ماتم کردن\r\nدانی که تمام است ز بحر کرمت\r\nیک قطره نثار هر دو عالم کردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عفو تو می‌توان مسلم کردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کی ز غمِ گناه،‌ ماتم کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که تمام است ز بحر کرمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک قطره نثارِ هر دو عالم کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "چون عفو تو میتوان مسلم کردن",
+      "Text": "چون عفو تو می‌توان مسلم کردن",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: زمانی که بخشش تو می‌تواند باعث اطمینان و آرامش شود، تا چه زمانی باید به خاطر گناهان خود غصه خورد و عزاداری کرد؟"
@@ -37,7 +37,7 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "تا کی ز غمِ گناه،‌ماتم کردن",
+      "Text": "تا کی ز غمِ گناه،‌ ماتم کردن؟",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },

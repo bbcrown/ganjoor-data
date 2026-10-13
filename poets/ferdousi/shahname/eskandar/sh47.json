@@ -1,8 +1,8 @@
 {
   "Id": 1686,
   "CatId": 67,
-  "Title": "بخش ۴۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۷",
+  "Title": "بخش ۴۷ - شکایت از پیری به چرخ بلند و پاسخ سپهر: راه جستن از یزدان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۷ - شکایت از پیری به چرخ بلند و پاسخ سپهر: راه جستن از یزدان",
   "FullUrl": "/ferdousi/shahname/eskandar/sh47",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,17 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 22,
+      "PersonId": 288,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بر روان او درود فرستاده می‌شود و یارانی دارد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1452,
   "CatId": 47,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۶",
+  "Title": "بخش ۶ - نامهٔ کاووس به افراسیاب، نبرد با تورانیان و شکست افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۶ - نامهٔ کاووس به افراسیاب، نبرد با تورانیان و شکست افراسیاب",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,53 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم که شاه فرستاده‌ای نزد او می‌فرستد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که کارهای او در مصر و بربر در خبر آمده است"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که خواستار تاج ایران است و با شاه ایران نامه‌نگاری می‌کند"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سپاه می‌آراید و با افراسیاب می‌جنگد (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای افراسیاب که او بر پایهٔ آن بر ایران ادعا می‌کند"
     }
   ]
 }

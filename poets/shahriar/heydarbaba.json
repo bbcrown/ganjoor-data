@@ -7980,5 +7980,14 @@
       "SectionIndex1": 0,
       "SectionIndex2": 77
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 8653,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

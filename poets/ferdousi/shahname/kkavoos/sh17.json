@@ -1,8 +1,8 @@
 {
   "Id": 1446,
   "CatId": 46,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۷",
+  "Title": "بخش ۱۷ - بازگشت پیروزمندانهٔ کاووس به ایران، بخشش به رستم و برقراری داد و آبادی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۷ - بازگشت پیروزمندانهٔ کاووس به ایران، بخشش به رستم و برقراری داد و آبادی",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,44 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که پس از بازگشت از مازندران بر تخت می‌نشیند و داد می‌کند. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که نزد شاه می‌آید و خلعت و نامهٔ نیمروز می‌گیرد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سوی شاه به اسپهبدی گمارده می‌شود."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه سپاهان و فرمان آن سرزمین را به او می‌دهد."
     }
   ]
 }

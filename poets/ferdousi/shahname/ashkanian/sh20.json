@@ -1,8 +1,8 @@
 {
   "Id": 1706,
   "CatId": 68,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۲۰",
+  "Title": "بخش ۲۰ - نیرنگ اردشیر در دژ کرم: جامهٔ بازارگان، مستی پرستندگان و کشتن کرم با ارزیز جوشان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۲۰ - نیرنگ اردشیر در دژ کرم: جامهٔ بازارگان، مستی پرستندگان و کشتن کرم با ارزیز جوشان",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1536,6 +1536,44 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 300,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرستش‌شده‌ای که دژ و تخت دارد و سپاه اردشیر با او می‌جنگد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و فرمانده لشکر که در جامهٔ بازرگان به دژ کرم می‌رود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 275,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی خردمند و سالار اردشیر که نگهبانی لشکر را برعهده می‌گیرد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای اردشیر که او خود را به وی مانند می‌کند"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88063,
   "CatId": 57,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴",
+  "Title": "بخش ۴ - لشکرکشی کیخسرو به رویارویی افراسیاب، خندق و دو روز خاموشی، و گفت‌وگوی پشنگ و شیده در شیوهٔ نبرد",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴ - لشکرکشی کیخسرو به رویارویی افراسیاب، خندق و دو روز خاموشی، و گفت‌وگوی پشنگ و شیده در شیوهٔ نبرد",
   "FullUrl": "/ferdousi/shahname/mahmood/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2346,6 +2346,134 @@
       "CoupletIndex": 85,
       "SectionIndex1": 0,
       "SectionIndex2": 87
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که از آمدن افراسیاب آگاه می‌شود و سپاه می‌آراید. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و سپهدار ترکان که با لشکر به سوی ایران می‌آید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نسب گستهم یاد شده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که به بلخ فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه خسرو در بازدید لشکرگاه."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه خسرو در بازدید لشکرگاه."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه خسرو در بازدید لشکرگاه."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه خسرو در بازدید لشکرگاه."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که در گذشته به او چون پسر مهر می‌شد و کشته شد."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیک‌خواه و راست‌کردار توران که کشته شده است."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر پیران و جنگاور دلیر."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور و از برادران پیران."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور و از برادران پیران."
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به پهلوان سالخورده پاسخ می‌دهد و او را از جنگ بازمی‌دارد."
     }
   ]
 }

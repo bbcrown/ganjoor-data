@@ -1,8 +1,8 @@
 {
   "Id": 52176,
   "CatId": 87,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۹",
+  "Title": "بخش ۹ - در پی گور تا کاخ جادو و زن تاجدار، تعبیر موبد و مخالفت گردیه با تاج‌خواهی بهرام",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۹ - در پی گور تا کاخ جادو و زن تاجدار، تعبیر موبد و مخالفت گردیه با تاج‌خواهی بهرام",
   "FullUrl": "/ferdousi/shahname/hormozd/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5478,6 +5478,134 @@
       "CoupletIndex": 201,
       "SectionIndex1": 0,
       "SectionIndex2": 203
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبد که به کاخ شگفت می‌رود و خاموش بازمی‌گردد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بهرام که اسب او را نگه می‌دارد. (نام در متن: ایزد گشسب)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که به دنبال بهرام وارد کاخ می‌شود."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بهرام دربارهٔ شگفتی شکارگاه می‌پرسد. (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بهرام دربارهٔ شگفتی شکارگاه می‌پرسد."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که گزارش خراد برزین را می‌شنود و در شگفت می‌ماند (نام در متن: هرمز)"
+    },
+    {
+      "CoupletIndex": 98,
+      "PersonId": 511,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام"
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 507,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران و یلانِ انجمنِ بهرام"
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 508,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران و یلانِ مشاور که خردمند و راد خوانده شده است. (نام در متن: گشسب)"
+    },
+    {
+      "CoupletIndex": 112,
+      "PersonId": 430,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران و مهتران مشاور، از نژاد سیاوش. (نام در متن: بهرام گرد)"
+    },
+    {
+      "CoupletIndex": 123,
+      "PersonId": 424,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پرموده؛ نمونهٔ گذشته در سخن بهرام."
+    },
+    {
+      "CoupletIndex": 123,
+      "PersonId": 509,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد؛ همراه ساوه شاه در ماجرای پیشین"
+    },
+    {
+      "CoupletIndex": 132,
+      "PersonId": 464,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خواهر خردمند و دلارام بهرام که در انجمن سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 199,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در جستجوی راه یزدان بود و به خواری افتاد (نام در متن: کاوس)"
     }
   ]
 }

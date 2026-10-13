@@ -1,8 +1,8 @@
 {
   "Id": 1364,
   "CatId": 40,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۷",
+  "Title": "بخش ۷ - رای زدن فریدون با ایرج",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۷ - رای زدن فریدون با ایرج",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1050,6 +1050,35 @@
       "CoupletIndex": 37,
       "SectionIndex1": 0,
       "SectionIndex2": 39
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ او نزد شهنشاه بازگشته است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه؛ به او هشدار می‌دهند و او با مهر پاسخ می‌دهد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیشین که سرانجام تاج و تخت را از دست داد."
     }
   ]
 }

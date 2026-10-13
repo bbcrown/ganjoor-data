@@ -1,8 +1,8 @@
 {
   "Id": 1845,
   "CatId": 88,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۰",
+  "Title": "بخش ۱۰ - شکایت خسرو از سرکشی بهرام، پند هرمز به گریز سوی روم و خفه‌کردن شاه به دست بندوی و گستهم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۰ - شکایت خسرو از سرکشی بهرام، پند هرمز به گریز سوی روم و خفه‌کردن شاه به دست بندوی و گستهم",
   "FullUrl": "/ferdousi/shahname/parviz/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1752,6 +1752,71 @@
       "CoupletIndex": 63,
       "SectionIndex1": 0,
       "SectionIndex2": 65
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر و شهریار؛ خسرو نزد او می‌آید و او را اندرز می‌دهد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سوار برگزیدهٔ شاه که سپاه آورد و با خسرو جنگید. (نام در متن: بهرام چوبین)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپهسالار شورشی که سپاه آورده و خسرو از او می‌گریزد (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که خسرو باید پیام را به او برساند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران خسرو که همراه او در گریز است."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خسرو در گریز که او را دلداری می‌دهد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران خسرو که فرمان گریز را می‌شنود."
     }
   ]
 }

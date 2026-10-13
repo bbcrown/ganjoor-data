@@ -1,8 +1,8 @@
 {
   "Id": 1500,
   "CatId": 49,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲۱",
+  "Title": "بخش ۲۱ - آمدن کیخسرو با گیو، ستیز طوس و گودرز بر شاهی، و ناکامی فریبرز در دژ بهمن",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲۱ - آمدن کیخسرو با گیو، ستیز طوس و گودرز بر شاهی، و ناکامی فریبرز در دژ بهمن",
   "FullUrl": "/ferdousi/shahname/siavosh/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4722,6 +4722,170 @@
       "CoupletIndex": 173,
       "SectionIndex1": 0,
       "SectionIndex2": 175
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه کیخسرو که نوند و نامه به گودرز و کاووس می‌فرستد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای که از توران آمده و ایرانیان به پیشواز او می‌روند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نامور کیخسرو"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهان‌پهلوان در اصفهان و دریافت‌کنندهٔ نامهٔ گیو؛ میزبان کیخسرو"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که نامهٔ گیو به او می‌رسد (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گودرز او را نفرین می‌کند"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درگذشته‌ای که گودرز برای او می‌گرید (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که چون شیر و نهنگ به جنگ آمد."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب کاخی در صطخر که آزادگان به آن فخر داشتند."
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از فرمان شاه سر می‌پیچد و کاویانی درفش دارد."
+    },
+    {
+      "CoupletIndex": 81,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که طوس خود را پس از او سرافرازتر می‌داند"
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نیای طوس"
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تورانی که طوس نمی‌خواهد شاه از نژاد او باشد"
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس که طوس او را سزاوار تاج و تخت می‌داند"
+    },
+    {
+      "CoupletIndex": 124,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مادری فرزند سیاوش"
+    },
+    {
+      "CoupletIndex": 128,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که برای مقایسه با گذشتن از رود آمده است"
+    },
+    {
+      "CoupletIndex": 130,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای طوس"
+    },
+    {
+      "CoupletIndex": 167,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیهِ گرمای سوزان هوا، دام او خوانده شده است (نام در متن: آهرمن)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88026,
   "CatId": 56,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۴",
+  "Title": "بخش ۴ - پیام گودرز به پیران از زبان گیو، رد شرط‌ها به فرمان افراسیاب و صف‌آرایی در کنابد",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۴ - پیام گودرز به پیران از زبان گیو، رد شرط‌ها به فرمان افراسیاب و صف‌آرایی در کنابد",
   "FullUrl": "/ferdousi/shahname/12rokh/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2859,6 +2859,107 @@
       "CoupletIndex": 104,
       "SectionIndex1": 0,
       "SectionIndex2": 106
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که با سپاه به زیبد رسید و گیو را نزد پیران می‌فرستد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور سالار، فرستادهٔ گودرز نزد پیران"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب پیام گودرز، از ترکان توران"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که از سوک ایرج دردمند شد"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که سوگ او ایران را پر از درد کرد"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که کین خون او انگیزهٔ این پیام است (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن ایرانیان که جنگ با او در پیش است"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که پیام‌دهنده وعدهٔ مهر و پناه او را می‌دهد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 84,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که افراسیاب نابودی‌اش را می‌خواهد"
+    },
+    {
+      "CoupletIndex": 84,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که افراسیاب نابودی‌اش را می‌خواهد"
+    },
+    {
+      "CoupletIndex": 84,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که افراسیاب نابودی‌اش را می‌خواهد"
     }
   ]
 }

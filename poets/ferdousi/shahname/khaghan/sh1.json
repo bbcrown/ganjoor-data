@@ -1,8 +1,8 @@
 {
   "Id": 1505,
   "CatId": 53,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱",
+  "Title": "بخش ۱ - خبر کشته شدن کاموس به خاقان چین، زاری سپاه و داوطلب شدن چنگش برای کین",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱ - خبر کشته شدن کاموس به خاقان چین، زاری سپاه و داوطلب شدن چنگش برای کین",
   "FullUrl": "/ferdousi/shahname/khaghan/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,62 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور نامدار که در میدان نبرد کشته شد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین؛ از کشته‌شدن کاموس آگاه می‌شود و برای انتقام چاره می‌جوید."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب هومان و خاقان؛ سردار همراه آنان."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان که پس از مرگ کاموس با پیران سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که خاقان می‌خواهد کام او را برآورد."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 169,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار دلیر و خسروپرست که پیمان می‌بندد کین کاموس را بخواهد."
     }
   ]
 }

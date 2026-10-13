@@ -1,8 +1,8 @@
 {
   "Id": 1655,
   "CatId": 67,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۶",
+  "Title": "بخش ۱۶ - برآشفتن فور از نامهٔ اسکندر و نوشتن پاسخ تند با تهدید ژنده‌پیلان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۶ - برآشفتن فور از نامهٔ اسکندر و نوشتن پاسخ تند با تهدید ژنده‌پیلان",
   "FullUrl": "/ferdousi/shahname/eskandar/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -564,6 +564,44 @@
       "CoupletIndex": 19,
       "SectionIndex1": 0,
       "SectionIndex2": 21
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 263,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه هند که نامه را می‌خواند و پاسخ تند می‌نویسد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 251,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر مخاطب نامه که فور می‌گوید اگر او چنین می‌نوشت..."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از فور یاری خواست و کشته شد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، نهان مخاطب به رنگ او مانند شده است. (نام در متن: آهرمن)"
     }
   ]
 }

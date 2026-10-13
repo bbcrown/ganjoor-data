@@ -1,8 +1,8 @@
 {
   "Id": 1429,
   "CatId": 45,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۵",
+  "Title": "بخش ۵ -\u00A0پادشاهی کیقباد در اسطخر و فرمان او به دادگری و بخشش و واگذاری پادشاهی به کاووس پیش از مرگ",
+  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۵ -\u00A0پادشاهی کیقباد در اسطخر و فرمان او به دادگری و بخشش و واگذاری پادشاهی به کاووس پیش از مرگ",
   "FullUrl": "/ferdousi/shahname/kqobad/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,49 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 83,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): پادشاه دادگر که صد سال زیست و چهار پسر داشت"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 86,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 88,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 87,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

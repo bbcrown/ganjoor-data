@@ -1,8 +1,8 @@
 {
   "Id": 1627,
   "CatId": 65,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۲",
+  "Title": "بخش ۲ - نبرد سه روزهٔ داراب با شعیب تازی، گریختن عرب و خواستن باژ از دشت",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۲ - نبرد سه روزهٔ داراب با شعیب تازی، گریختن عرب و خواستن باژ از دشت",
   "FullUrl": "/ferdousi/shahname/darab/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,44 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 245,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار و پهلوان تازیان که در جنگ کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 246,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شعیب که نژاد او به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 369,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سپاه می‌برد و غنایم جنگ را می‌بخشد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 623,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر شاه ایران که تنها برای نسبت‌دادن او نامش آمده است."
     }
   ]
 }

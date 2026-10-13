@@ -51,5 +51,27 @@
       "CoupletIndex": 5,
       "CoupletSummary": "هوش مصنوعی: در روز جمعه نماز دیگری خواندم و روز یکشنبه در تاریخ سلخ جمادی الآخر به شهر مکه رسیدیم. از نواحی حجاز و یمن افراد زیادی برای انجام عمره به مکه می‌آیند. این اتفاق در اول ماه رجب و همچنین در عید رمضان و زمان حج می‌افتد. با توجه به اینکه مسیر آن‌ها نزدیک و آسان است، هر سال سه بار به مکه سفر می‌کنند."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 126,
+      "LunarYear": 442,
+      "LunarMonth": 6,
+      "LunarDay": 28,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 136,
+      "LunarYear": 442,
+      "LunarMonth": 6,
+      "LunarDay": 1,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

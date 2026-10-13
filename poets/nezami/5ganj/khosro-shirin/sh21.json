@@ -457,5 +457,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 17
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیشتر رفته و پیش‌آهنگ دختران زیبا است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با دیدن تصویر بی‌خود می‌شود و فرمان می‌دهد آن را بیاورند."
+    }
   ]
 }

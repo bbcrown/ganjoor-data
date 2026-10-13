@@ -1,8 +1,8 @@
 {
   "Id": 1517,
   "CatId": 58,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۸",
+  "Title": "بخش ۸ - پیوند گشتاسپ و کتایون بی‌گنج و تاج، فروش یاقوت و دوستی با هیشوی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۸ - پیوند گشتاسپ و کتایون بی‌گنج و تاج، فروش یاقوت و دوستی با هیشوی",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,44 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و پدر کتایون که او را به گشتاسپ می‌دهد و از گنج محرومشان می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزادهٔ غریب که همسر قیصر‌دخت می‌شود و به شکار می‌رود"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر قیصر که به همسری گشتاسپ درمی‌آید و همراه او می‌رود"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 180,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کدخدای روستا که گشتاسپ را پذیرایی می‌کند و دوستش می‌شود"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1539,
   "CatId": 59,
-  "Title": "بخش ۱۳ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۳ - سخن دقیقی",
+  "Title": "بخش ۱۳ - سخن دقیقی: نبردهای گرامی و بستور و نیوزار و افتادن درفش کاویان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۳ - سخن دقیقی: نبردهای گرامی و بستور و نیوزار و افتادن درفش کاویان",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,80 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستور شاه و پدر گرامی؛ پیر خردمند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 216,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر جاماسپ؛ سوار نامدار ایرانی که درفش را برمی‌دارد و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرامی در سواری به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 204,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوی سپاه چین که با گرامی می‌جنگد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درفش به او نسبت داده شده است."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 178,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بستور."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر زریر که بسیاری از دشمنان را می‌کشد و پیروز بازمی‌گردد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 217,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار شهریار نژاد که چینیان را می‌کشد و با تیر کشته می‌شود."
     }
   ]
 }

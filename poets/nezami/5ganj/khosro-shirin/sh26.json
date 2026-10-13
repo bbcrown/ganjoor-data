@@ -673,5 +673,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 25
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلدادهٔ خسرو که از او جدا می‌شود و ناشناس به مشگوی مداین می‌آید."
+    }
   ]
 }

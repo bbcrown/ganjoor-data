@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ستهكیشودازتومرا",
-      "PlainText": "سیر این دل خسته کی شود ازتو مرا\r\nره سوی تو بسته کی شود از تو مرا\r\nگر زانکه کشی به قهر بندم از بند\r\nامید گسسته کی شود ازتو مرا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیر این دل خسته کی شود ازتو مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره سوی تو بسته کی شود از تو مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زانکه کشی به قهر بندم از بند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامید گسسته کی شود ازتو مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "سیر این دل خسته کی شود از تو مرا\r\nره سوی تو بسته کی شود از تو مرا\r\nگر زانکه کشی به قهر بندم از بند\r\nامید گسسته کی شود از تو مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیر این دل خسته کی شود از تو مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره سوی تو بسته کی شود از تو مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زانکه کشی به قهر بندم از بند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامید گسسته کی شود از تو مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "سیر این دل خسته کی شود ازتو مرا",
+      "Text": "سیر این دل خسته کی شود از تو مرا",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: دل خسته‌ام کی از تو دور خواهد شد و کی می‌توانم به سوی تو بروم؟"
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "امید گسسته کی شود ازتو مرا",
+      "Text": "امید گسسته کی شود از تو مرا",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

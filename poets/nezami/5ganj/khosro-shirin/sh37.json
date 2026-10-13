@@ -889,5 +889,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 33
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تخت او برای تشبیه شکوه گل‌ها یاد شده است. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوق خسرو، زیباروی شیرین‌لب که همراه او در بهار گردش می‌کند."
+    }
   ]
 }

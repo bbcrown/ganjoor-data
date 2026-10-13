@@ -1,8 +1,8 @@
 {
   "Id": 1660,
   "CatId": 67,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۱",
+  "Title": "بخش ۲۱ - نامهٔ تهدید اسکندر به قیدافه و طلب باج، پاسخ سرافرازانه و رد فرمان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۱ - نامهٔ تهدید اسکندر به قیدافه و طلب باج، پاسخ سرافرازانه و رد فرمان",
   "FullUrl": "/ferdousi/shahname/eskandar/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,44 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 166,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامه‌نویس که به قیدافه نامهٔ تهدید و فراخوان می‌فرستد. (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی هوشمند و نامور که نامهٔ اسکندر را می‌خواند و پاسخ می‌دهد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 263,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه هند که اسکندر بر او پیروز شده است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که پیش‌تر اسکندر بر او پیروز شده است."
     }
   ]
 }

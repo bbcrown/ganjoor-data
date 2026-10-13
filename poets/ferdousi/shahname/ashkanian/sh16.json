@@ -1,8 +1,8 @@
 {
   "Id": 1702,
   "CatId": 68,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۶",
+  "Title": "بخش ۱۶ - برآمدن هفتواد از کجاران، ساختن دژ بر تیغ کوه و بالیدن کرم تا فیل‌سانی و شهریاری",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۶ - برآمدن هفتواد از کجاران، ساختن دژ بر تیغ کوه و بالیدن کرم تا فیل‌سانی و شهریاری",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,17 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 298,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان کجاران؛ شهر را گرفت، دژ ساخت و کرم را پرورد"
     }
   ]
 }

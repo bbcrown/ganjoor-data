@@ -1,8 +1,8 @@
 {
   "Id": 1541,
   "CatId": 59,
-  "Title": "بخش ۱۵ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۵ - سخن دقیقی",
+  "Title": "بخش ۱۵ - سخن دقیقی: آگاهی اسفندیار از مرگ زریر و بر گرفتن درفش کاویان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۵ - سخن دقیقی: آگاهی اسفندیار از مرگ زریر و بر گرفتن درفش کاویان",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,53 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نیزه‌گزاری که کشته شده و کین‌خواهی او انگیزهٔ جنگ است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهسالار که پس از کشته شدن زریر فرماندهی را می‌گیرد و سپاه را برمی‌انگیزد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر اسفندیار و شاه؛ برای زریر سوگوار است و وعدهٔ تاج و دختر می‌دهد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر گوینده که او را به کینخواه زریر به همسری وعده می‌دهد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیر که به او نامه نوشته شده و شاهی را به شاه داده بود."
     }
   ]
 }

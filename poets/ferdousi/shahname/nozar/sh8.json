@@ -1,8 +1,8 @@
 {
   "Id": 1413,
   "CatId": 42,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۸",
+  "Title": "بخش ۸ - نبرد قارن با ویسه در انتقام بارمان و شکست ویسه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۸ - نبرد قارن با ویسه در انتقام بارمان و شکست ویسه",
   "FullUrl": "/ferdousi/shahname/nozar/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,35 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 65,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار سپاه توران؛ برای کین‌خواهی به جنگ قارن می‌رود و می‌گریزد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار جنگاور که با ویسه می‌جنگد و او را وادار به گریز می‌کند. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ویسه پس از شکست نزد او می‌رود."
     }
   ]
 }

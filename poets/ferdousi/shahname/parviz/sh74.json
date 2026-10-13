@@ -1,8 +1,8 @@
 {
   "Id": 1909,
   "CatId": 88,
-  "Title": "بخش ۷۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۴",
+  "Title": "بخش ۷۴ - شورش زادفرخ و تخوار، کشتن سپهبد زندان و رهانیدن شیروی از بند خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۴ - شورش زادفرخ و تخوار، کشتن سپهبد زندان و رهانیدن شیروی از بند خسرو",
   "FullUrl": "/ferdousi/shahname/parviz/sh74",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,44 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سپاه از او ناخشنود است و به بدی یاد می‌شود. (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 478,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگ درباری که با سپاه برضد شاه همداستان می‌شود و با تخوار همراه است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 479,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر مهتر شاه که در زندان است و برای شاهی برگزیده می‌شود. (احتمالاً همنامِ «شیروی» با کد 43؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرکردهٔ سپاه که به زندان می‌رود تا شیروی را آزاد کند."
     }
   ]
 }

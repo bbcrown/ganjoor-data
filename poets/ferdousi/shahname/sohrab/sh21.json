@@ -1,8 +1,8 @@
 {
   "Id": 1479,
   "CatId": 48,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۲۱",
+  "Title": "بخش ۲۱ - بازگشت رستم با تابوت سهراب به زابل، سوگواری زال و مهان و ساختن دخمه",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۲۱ - بازگشت رستم با تابوت سهراب به زابل، سوگواری زال و مهان و ساختن دخمه",
   "FullUrl": "/ferdousi/shahname/sohrab/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,71 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان؛ پس از مرگ سهراب با تابوت او به زابلستان بازمی‌گردد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از راه می‌رسد و خبر آن سپاه را به رستم می‌دهد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم؛ با سوگ به پیشواز تابوت می‌آید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پیکر سهراب به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان کشته‌شده که پیکرش در تابوت است و برایش سوگواری می‌کنند."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنگویی که اندرز می‌دهد و از ماندن در جهان و دلبستن به مردگان بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): داستان او موضوع بخش بعدی روایت است."
     }
   ]
 }

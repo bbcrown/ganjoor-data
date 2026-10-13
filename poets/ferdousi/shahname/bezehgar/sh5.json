@@ -1,8 +1,8 @@
 {
   "Id": 1757,
   "CatId": 82,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۵",
+  "Title": "بخش ۵ - شکار بهرام‌گور: کشتن شیر و گور به یک تیر، نمودن زور به تازیان و فرستادن نگار به یزدگرد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۵ - شکار بهرام‌گور: کشتن شیر و گور به یک تیر، نمودن زور به تازیان و فرستادن نگار به یزدگرد",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,44 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه منذر و بهرام در شکارگاه."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرور تازیان که از تیراندازی بهرام شگفت‌زده شد و او را ستود."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تیرانداز و سوار ماهر که در شکار شیر، گور و شترمرغ هنرنمایی می‌کند."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری که فرستاده و نگاره نزد او می‌رود."
     }
   ]
 }

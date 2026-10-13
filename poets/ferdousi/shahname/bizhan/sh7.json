@@ -1,8 +1,8 @@
 {
   "Id": 88016,
   "CatId": 55,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۷",
+  "Title": "بخش ۷ - آمدن رستم نزد کیخسرو، آفرین ماه‌ها، بزم باغ و پذیرفتن رهایی بیژن",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۷ - آمدن رستم نزد کیخسرو، آفرین ماه‌ها، بزم باغ و پذیرفتن رهایی بیژن",
   "FullUrl": "/ferdousi/shahname/bizhan/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,125 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که رستم را می‌پذیرد و بزمی در باغ برپا می‌کند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نزد شاه آمده که او را آفرین می‌کند و می‌ستاید."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خویشان رستم که شاه از حال او می‌پرسد. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خویشان رستم که شاه از حال او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خویشان رستم که شاه از حال او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که شاه فرمان می‌دهد او را بخوانند."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که شاه فرمان می‌دهد او را بخوانند."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه رستم به پناهگاهی با پرِ گسترده آمده است."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه او را پشتیبان و سپر خود در برابر بدی‌ها می‌داند."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توران گرفتار بدی شده و چارهٔ کار او خواسته می‌شود."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیو و از بزرگان حاضر در مجلس."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان حاضر که رستم را آفرین می‌گویند."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان حاضر که رستم را آفرین می‌گویند."
     }
   ]
 }

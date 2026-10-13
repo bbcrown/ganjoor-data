@@ -943,5 +943,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 35
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نوازنده‌ای که نوایی می‌نوازد و پس از او نکیسا نوایی خوش‌تر می‌سازد."
+    }
   ]
 }

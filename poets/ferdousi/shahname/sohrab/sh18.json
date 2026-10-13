@@ -1,8 +1,8 @@
 {
   "Id": 1476,
   "CatId": 48,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۸",
+  "Title": "بخش ۱۸ - کشته شدن سهراب بر دست رستم، شناختن پسر از مهره و بازداشتن پدر از خودکشی",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۸ - کشته شدن سهراب بر دست رستم، شناختن پسر از مهره و بازداشتن پدر از خودکشی",
   "FullUrl": "/ferdousi/shahname/sohrab/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2103,6 +2103,62 @@
       "CoupletIndex": 76,
       "SectionIndex1": 0,
       "SectionIndex2": 78
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوان و پسر رستم، که در کشتی کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان، پدر سهراب، که در کشتی او را می‌کشد و بعد از شناختن او اندوهگین می‌شود."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از ناپدید شدن رستم آگاه می‌شود (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که به فرمان کاووس نزد او می‌آید"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایرانی همراه رستم نزد سهراب"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگ ایرانی که رستم را از خودکشی بازمی‌دارد و دلداری می‌دهد"
     }
   ]
 }

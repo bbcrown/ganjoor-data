@@ -1,8 +1,8 @@
 {
   "Id": 88074,
   "CatId": 57,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۵",
+  "Title": "بخش ۱۵ - فتح گنگ‌دژ و گریز نهانی افراسیاب، زاری زنان توران و بخشایش کیخسرو",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۵ - فتح گنگ‌دژ و گریز نهانی افراسیاب، زاری زنان توران و بخشایش کیخسرو",
   "FullUrl": "/ferdousi/shahname/mahmood/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5370,6 +5370,80 @@
       "CoupletIndex": 197,
       "SectionIndex1": 0,
       "SectionIndex2": 199
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نزد پدر رفت و سخنان را گزارش کرد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پاسخ خشمگین شد، به سپاه بخشش کرد و لشکر آراست."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمان یافت از سویی لشکر را از دریا بیاورد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپاه که یکی از سوهای حصار را در اختیار گرفت."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان فرخنده‌رای که سوی سوم حصار به او سپرده شد."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران توران و برادر جهن، مخاطب افراسیاب."
+    },
+    {
+      "CoupletIndex": 96,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیروز که به ایوان افراسیاب می‌آید و به جست‌وجوی او سپاه می‌فرستد"
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر کیخسرو که به ناحق کشته شد. (نام در متن: سیاوش)"
     }
   ]
 }

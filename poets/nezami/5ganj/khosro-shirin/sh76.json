@@ -1537,5 +1537,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 57
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 22,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، تشنه‌لبِ کنار آب حیوان."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): محرابش در تشبیه به‌کار رفته است."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 110,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ عاشقی که در سنگ‌ساری کشته می‌شود."
+    }
   ]
 }

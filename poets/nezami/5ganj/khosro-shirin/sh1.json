@@ -376,5 +376,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 14
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاعر و گوینده که از خداوند توفیق و راه تحقیق می‌خواهد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 629,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب زبور؛ آواز او نمونهٔ مطلوب شاعر است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 470,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامی که فال نیک کتاب بر آن است."
+    }
   ]
 }

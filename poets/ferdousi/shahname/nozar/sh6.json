@@ -1,8 +1,8 @@
 {
   "Id": 1411,
   "CatId": 42,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۶",
+  "Title": "بخش ۶ - روز سوم نبرد، محاصرهٔ دهستان، کشته شدن شاپور و بارمان و عقب‌نشینی قارن به پارس",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۶ - روز سوم نبرد، محاصرهٔ دهستان، کشته شدن شاپور و بارمان و عقب‌نشینی قارن به پارس",
   "FullUrl": "/ferdousi/shahname/nozar/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,114 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در حصار می‌ماند و با قارن گفتگو می‌کند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران و فرمانده سپاه ترکان در برابر نوذر"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که سپاه را در قلب می‌آراید (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در جناح راست که کشته می‌شود"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 51,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان در جناح چپ سپاه شاه (نام در متن: تلیمان)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 75,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که همراه گستهم برای نگهداری بنه رفته است"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که همراه طوس برای نگهداری بنه رفته است"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی که با قارن و کشواد رایزنی می‌کند."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی که با قارن و شیدوش رایزنی می‌کند."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه دشمن که قارن با او می‌جنگد و نیزه می‌خورد."
     }
   ]
 }

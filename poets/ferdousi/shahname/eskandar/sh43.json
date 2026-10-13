@@ -1,8 +1,8 @@
 {
   "Id": 1682,
   "CatId": 67,
-  "Title": "بخش ۴۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۳",
+  "Title": "بخش ۴۳ - دردمندی اسکندر در بابل، نامهٔ مرگ به مادر و وصیت روشنک، دختر کید و تابوت زرین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۳ - دردمندی اسکندر در بابل، نامهٔ مرگ به مادر و وصیت روشنک، دختر کید و تابوت زرین",
   "FullUrl": "/ferdousi/shahname/eskandar/sh43",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,35 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 256,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که شاه دربارهٔ فرزند آیندهٔ او سفارش می‌کند"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 251,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تباری که شاه خواهان پیوند با نسل او است"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختری که باید با جهاز نزد او فرستاده شود"
     }
   ]
 }

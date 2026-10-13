@@ -1,8 +1,8 @@
 {
   "Id": 1793,
   "CatId": 83,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۴",
+  "Title": "بخش ۲۴ - زیارت آذرآبادگان و بخشش شش‌گانه در اصطخر، آراستن آذر و تخت‌نشینی بهرام در طیسفون",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۴ - زیارت آذرآبادگان و بخشش شش‌گانه در اصطخر، آراستن آذر و تخت‌نشینی بهرام در طیسفون",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,35 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 17,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین؛ تاج او در این بخش به غنیمت آمده است."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در طیسفون به پیشواز شاه می‌آید و بر او نماز می‌برد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از آتشکده به طیسفون می‌رود، بر تخت می‌نشیند و بخشش می‌کند."
     }
   ]
 }

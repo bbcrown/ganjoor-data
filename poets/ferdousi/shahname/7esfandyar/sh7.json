@@ -1,8 +1,8 @@
 {
   "Id": 1566,
   "CatId": 60,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۷",
+  "Title": "بخش ۷ - هشدار گرگسار از راه رویین‌دژ، خشم اسفندیار بر پند بازگشت، و رهایی سپاه از برف سه روزه",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۷ - هشدار گرگسار از راه رویین‌دژ، خشم اسفندیار بر پند بازگشت، و رهایی سپاه از برف سه روزه",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2778,6 +2778,44 @@
       "CoupletIndex": 101,
       "SectionIndex1": 0,
       "SectionIndex2": 103
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و پهلوان نامور که گرگسار او را از راه پیش‌رو می‌ترساند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان شهریار می‌آید و از دشواری راه و رویین‌دژ هشدار می‌دهد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرندهٔ افسانه‌ای که در توصیف بیابان، نشانی از آن نیست."
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب سپهبد که از سختی کار با او سخن می‌گوید."
     }
   ]
 }

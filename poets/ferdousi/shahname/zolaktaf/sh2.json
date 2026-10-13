@@ -1,8 +1,8 @@
 {
   "Id": 1734,
   "CatId": 77,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۲",
+  "Title": "بخش ۲ - تاخت طایر غسانی بر طیسفون و اسارت نوشه، زادن ملکه و محاصرهٔ شاپور در دژ یمن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۲ - تاخت طایر غسانی بر طیسفون و اسارت نوشه، زادن ملکه و محاصرهٔ شاپور در دژ یمن",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,53 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 314,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه غسانیان، شیردل؛ به طیسفون تاخت و از شاپور شکست خورد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 290,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که نوشه از پیوند اوست؛ دختر طایر در تاج‌وتخت به او مانند شده"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 315,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یادگار پیوند نرسی؛ ماه‌روی که اسیر طایر شد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 316,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر طایر، زیبا و شایسته فرمانروایی."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بیست‌وشش‌ساله که با لشکر به جنگ طایر رفت."
     }
   ]
 }

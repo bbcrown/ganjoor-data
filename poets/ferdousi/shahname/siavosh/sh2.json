@@ -1,8 +1,8 @@
 {
   "Id": 1481,
   "CatId": 49,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲",
+  "Title": "بخش ۲ - نخچیر طوس و گیو در مرز توران، یافتن ماه‌روی و ستیز تا سپردن او به کاووس",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۲ - نخچیر طوس و گیو در مرز توران، یافتن ماه‌روی و ستیز تا سپردن او به کاووس",
   "FullUrl": "/ferdousi/shahname/siavosh/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,7 +618,7 @@
       "CoupletIndex": 8,
       "SectionIndex1": 0,
       "SectionIndex2": 10,
-      "CoupletSummary": "هوش مصنوعی: در میان جنگل، دو نفر با چهره‌های زیبا و پر از خنده با یکدیگر ملاقات کردند و به سوی هم شتافتند."
+      "CoupletSummary": "در چمنزار یک نفر زیبا روی دیدند . هر دو خوشحال به نزدش شتافتند"
     },
     {
       "VOrder": 18,
@@ -890,7 +890,7 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26,
-      "CoupletSummary": "هوش مصنوعی: به گیو گفت: ای فرمانده شاه، تو که در جنگ و میدان نبرد با من برابر نیستی، چرا که بدون لشکر و سپاه آمده‌ای."
+      "CoupletSummary": "گیو به طوس گفت ای فرمانده سپاه شاه ایا بدون سپاه هم به اندازه من قدرت و توان داشتی"
     },
     {
       "VOrder": 50,
@@ -1239,6 +1239,53 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهدار که با گیو به شکار رفت و دختر را دید"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که دختر را نزد او بردند و او را به شبستان فرستاد (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه طوس در شکار که از دختر پرسید و با طوس بر سر او نزاع کرد"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که دختر خود را از تبار او می‌شمارد (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار مرز ترکان و خویش دختر که خرگاهش آنجاست"
     }
   ]
 }

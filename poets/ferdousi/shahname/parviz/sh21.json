@@ -1,8 +1,8 @@
 {
   "Id": 1856,
   "CatId": 88,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۱",
+  "Title": "بخش ۲۱ - رایزنی قیصر با فیلسوفان رومی در هراس از باژخواهی خسرو، نامه و پاسخ قاطع خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۱ - رایزنی قیصر با فیلسوفان رومی در هراس از باژخواهی خسرو، نامه و پاسخ قاطع خسرو",
   "FullUrl": "/ferdousi/shahname/parviz/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,44 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم که با مشاوران رای می‌زند و نامه‌ای به خسرو می‌فرستد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رومیان مرگ او را مبدأ زمانی رنج‌شان از ایرانیان می‌دانند."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که خسرو می‌خواهد در صورت نیافتن یاری رومیان نزد او پیک بفرستد."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیکی که نامهٔ خسرو را به قیصر می‌برد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87982,
   "CatId": 52,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۴",
+  "Title": "بخش ۴ - رزم طوس و هومان: گفت‌وگوی پند و کین، نبرد سهمگین تا شب و آرایش سپاه بامداد",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۴ - رزم طوس و هومان: گفت‌وگوی پند و کین، نبرد سهمگین تا شب و آرایش سپاه بامداد",
   "FullUrl": "/ferdousi/shahname/kamoos/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3470,6 +3470,134 @@
       "CoupletIndex": 127,
       "SectionIndex1": 0,
       "SectionIndex2": 128
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی که با هومان سخن می‌گوید و سپاه را فرمان می‌دهد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که با طوس گفت‌وگو و مبارزه می‌کند"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 103,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد نامبردار سپاه توران که پیشتر با او جنگی رفته بود"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جهانگیر ایرانی از خاندان کشواد"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از آزادگان و پهلوانان ایرانی که هومان از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از آزادگان و پهلوانان ایرانی که هومان از او می‌پرسد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار نامدار گذشته که در مقایسه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار گذشته که در مقایسه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار که مایهٔ مقایسهٔ دلاوری است"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که شاه سفارش کرده گزندی به او نرسد"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تبار ایرانی که هومان از تخمهٔ او یاد می‌کند"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه برای چهرهٔ بدشگون گیو آمده است (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پیران، در سخن هومان به‌عنوان خونخواه او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر طوس"
     }
   ]
 }

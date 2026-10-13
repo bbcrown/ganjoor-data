@@ -1,8 +1,8 @@
 {
   "Id": 88097,
   "CatId": 57,
-  "Title": "بخش ۳۸",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۸",
+  "Title": "بخش ۳۸ - وصیت کیخسرو در آستانهٔ رفتن: سپردن گنج‌ها به گودرز و بخشش خواسته به یلان و بینوایان",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۸ - وصیت کیخسرو در آستانهٔ رفتن: سپردن گنج‌ها به گودرز و بخشش خواسته به یلان و بینوایان",
   "FullUrl": "/ferdousi/shahname/mahmood/sh38",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,89 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از گنج سیر شده و گنج را میان پهلوانان بخش می‌کند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): وصی شاه می‌شود و باغ و گلشن را می‌گیرد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مایهٔ رنج و ویرانی ایران."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بخشی از گنج برای او در نظر گرفته می‌شود."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جامه‌های شاه به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیری که سلیح شاه به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که گلهٔ اسبان به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس که شاه جوشن و ترگ به او می‌دهد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه به او یادگاری می‌دهد و پند می‌گوید."
     }
   ]
 }

@@ -1888,5 +1888,49 @@
       "SectionIndex1": 0,
       "SectionIndex2": 70
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه اژدهادوش که با سپاه و دیوان به جنگ فریدون می‌آید و اسیر می‌شود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و سپهسالار مردم شهر که ضحاک را شکست می‌دهد، می‌بندد و بر تخت می‌نشیند."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 9,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیبا و جادوگر در کاخ ضحاک که با فریدون راز دارد و ضحاک را نفرین می‌کند."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 12,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 60,
+      "LocationId": 8645,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

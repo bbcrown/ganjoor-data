@@ -1,8 +1,8 @@
 {
   "Id": 1444,
   "CatId": 46,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۵",
+  "Title": "بخش ۱۵ - آماده‌سازی سپاه کاووس برای جنگ با مازندران پس از بازگشت رستم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۵ - آماده‌سازی سپاه کاووس برای جنگ با مازندران پس از بازگشت رستم",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -159,6 +159,17 @@
       "CoupletIndex": 4,
       "SectionIndex1": 0,
       "SectionIndex2": 6
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مازندران بازمی‌گردد؛ پس از بازگشتش شاه آمادهٔ جنگ می‌شود."
     }
   ]
 }

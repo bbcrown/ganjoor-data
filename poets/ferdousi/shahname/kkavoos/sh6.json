@@ -1,8 +1,8 @@
 {
   "Id": 1435,
   "CatId": 46,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۶",
+  "Title": "بخش ۶ - خان دوم رستم: تشنگی در بیابان، هدایت توسط میش و یافتن چشمه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۶ - خان دوم رستم: تشنگی در بیابان، هدایت توسط میش و یافتن چشمه",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,26 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که رستم برای رهایی او از بند دیوان می‌کوشد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی تشنه و خسته که در بیابان چشمه می‌یابد و به درگاه یزدان نیایش می‌کند."
     }
   ]
 }

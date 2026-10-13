@@ -1,8 +1,8 @@
 {
   "Id": 1367,
   "CatId": 40,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۰",
+  "Title": "بخش ۱۰ - کشته شدن ایرج",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۰ - کشته شدن ایرج",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -547,7 +547,7 @@
       "CoupletIndex": 5,
       "SectionIndex1": 0,
       "SectionIndex2": 7,
-      "CoupletSummary": "هوش مصنوعی: به او گفت: تو کهی تصمیم گرفتی کلاه مهی را از سر بگذاری و از ما دور شوی؟"
+      "CoupletSummary": "تور به او گفت اگز تو از ما کوچک تری چرا بر سرگذاشتی تاجِ پادشاهی ایران (نشان برتر بودن)"
     },
     {
       "VOrder": 12,
@@ -598,7 +598,7 @@
       "CoupletIndex": 8,
       "SectionIndex1": 0,
       "SectionIndex2": 10,
-      "CoupletSummary": "هوش مصنوعی: بخشش و مهربانی‌ای که آن شخص در پی آن بود، به گونه‌ای بود که حتی به کوچک‌ترها و فرزندان نیز توجه و لطف داشت."
+      "CoupletSummary": "این بخششی که آن جهانجوی(فریدون)کرد همه ی آن بخشش متوجه ی پسر کوچک ترش بود نه ما!"
     },
     {
       "VOrder": 18,
@@ -1185,6 +1185,35 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر کهتر و شهریار جوان که تور او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر ایرج که او را به خشم می‌کشد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر پیر پسران که جهان را میانشان بخش کرده بود."
     }
   ]
 }

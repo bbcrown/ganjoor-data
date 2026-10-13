@@ -52,6 +52,17 @@
     },
     {
       "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "بین ایشان شد نزاع و اختلاف\r\nهر طرف بودی سخنها بر گزاف\r\nروز دیگر بادی آمد تند و سرد\r\nکه نماند از بهر کس فکر نبرد\r\nمی بکند از خیمه ها میخ و طناب\r\nشد دعای احمد ص آری مستجاب\r\nگفت بوسفیان که ما اینجا به راه\r\nبر توطن نامدیم از جایگاه\r\nاسب و اشتر گشتمان یکجا تلف\r\nخود خوریم از فوت خود باید اسف\r\nپر ز وحشت پر ز خوف و پر ز درد\r\nشد سوار و رو به سوی مکه کرد\r\nهمچنین رفتند باقی نعل ریز\r\nبه بود از پهلوانی آن گریز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبین ایشان شد نزاع و اختلاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر طرف بودی سخنها بر گزاف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز دیگر بادی آمد تند و سرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نماند از بهر کس فکر نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی بِکَند از خیمه ها میخ و طناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد دعای احمد (ص) آری مستجاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت بوسفیان که ما اینجا به راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر توطّن نامدیم از جایگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسب و اشتر گشتمان یکجا تلف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود خوریم از فوت خود باید اسف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپُر ز وحشت پُر ز خوف و پُر ز درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد سوار و رو به سوی مکه کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنین رفتند باقی نعل ریز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبِه بود از پهلوانی آن گریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 7
+    },
+    {
+      "Index": 3,
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -71,17 +82,6 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 3,
-      "Number": 4,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "",
-      "PlainText": "بین ایشان شد نزاع و اختلاف\r\nهر طرف بودی سخنها بر گزاف\r\nروز دیگر بادی آمد تند و سرد\r\nکه نماند از بهر کس فکر نبرد\r\nمی بکند از خیمه ها میخ و طناب\r\nشد دعای احمد ص آری مستجاب\r\nگفت بوسفیان که ما اینجا به راه\r\nبر توطن نامدیم از جایگاه\r\nاسب و اشتر گشتمان یکجا تلف\r\nخود خوریم از فوت خود باید اسف\r\nپر ز وحشت پر ز خوف و پر ز درد\r\nشد سوار و رو به سوی مکه کرد\r\nهمچنین رفتند باقی نعل ریز\r\nبه بود از پهلوانی آن گریز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبین ایشان شد نزاع و اختلاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر طرف بودی سخنها بر گزاف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز دیگر بادی آمد تند و سرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نماند از بهر کس فکر نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی بِکَند از خیمه ها میخ و طناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد دعای احمد (ص) آری مستجاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت بوسفیان که ما اینجا به راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر توطّن نامدیم از جایگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسب و اشتر گشتمان یکجا تلف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود خوریم از فوت خود باید اسف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپُر ز وحشت پُر ز خوف و پُر ز درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد سوار و رو به سوی مکه کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنین رفتند باقی نعل ریز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبِه بود از پهلوانی آن گریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Masnavi",
-      "CoupletsCount": 7
-    },
-    {
       "Index": 4,
       "Number": 4,
       "SectionType": "Couplet",
@@ -96,9 +96,9 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ند",
-      "PlainText": "مسلمین را رای او آمد پسند\r\nخندقی کندند آنسان روز چند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسلمین را رای او آمد پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخندقی کندند آنسان روز چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ون",
+      "PlainText": "از نعیم ابن مسعودت کنون\r\nگویم او تدبیر تا افکند چون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نُعیم ابن مسعودت کنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویم او تدبیر تا افکند چون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -106,9 +106,9 @@
       "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ون",
-      "PlainText": "از نعیم ابن مسعودت کنون\r\nگویم او تدبیر تا افکند چون",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نُعیم ابن مسعودت کنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویم او تدبیر تا افکند چون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ند",
+      "PlainText": "مسلمین را رای او آمد پسند\r\nخندقی کندند آنسان روز چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسلمین را رای او آمد پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخندقی کندند آنسان روز چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -126,9 +126,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "آمد او در نزد خیر المرسلین\r\nگفت دارم بر تو ایمان از یقین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد او در نزد خیر المرسلین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت دارم بر تو ایمان از یقین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وج",
+      "PlainText": "پس رسیدند از قبایل فوج فوج\r\nلشکری از هر طرف مانند موج",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس رسیدند از قبایل فوج فوج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلشکری از هر طرف مانند موج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -136,9 +136,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وج",
-      "PlainText": "پس رسیدند از قبایل فوج فوج\r\nلشکری از هر طرف مانند موج",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس رسیدند از قبایل فوج فوج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلشکری از هر طرف مانند موج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ین",
+      "PlainText": "آمد او در نزد خیر المرسلین\r\nگفت دارم بر تو ایمان از یقین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد او در نزد خیر المرسلین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت دارم بر تو ایمان از یقین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -166,9 +166,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "وقتان",
-      "PlainText": "یاد کن چون آمد ند از فوقتان\r\nهمچنین از زیر و غم شد طوقتان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد کن چون آمد ند از فوقتان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنین از زیر و غم شد طوقتان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "لیک نتوانم که سازم آشکار\r\nخایفم در قوم خود ز اغیار و یار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک نتوانم که سازم آشکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخائفم در قوم خود ز اغیار و یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -176,9 +176,9 @@
       "Number": 6,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "لیک نتوانم که سازم آشکار\r\nخایفم در قوم خود ز اغیار و یار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک نتوانم که سازم آشکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخائفم در قوم خود ز اغیار و یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "وقتان",
+      "PlainText": "یاد کن چون آمد ند از فوقتان\r\nهمچنین از زیر و غم شد طوقتان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد کن چون آمد ند از فوقتان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنین از زیر و غم شد طوقتان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -206,9 +206,9 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "گو به من کاری کنون کز دست من\r\nآن بر آید در نهان نی در علن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو به من کاری کنون کز دست من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن بر آید در نهان نی در علن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یرهشد",
+      "PlainText": "گشت از خود دیده ها و خیره شد\r\nروزتان از خوف و حیرت تیره شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت از خود دیده ها و خیره شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزتان از خوف و حیرت تیره شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -216,9 +216,9 @@
       "Number": 7,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یرهشد",
-      "PlainText": "گشت از خود دیده ها و خیره شد\r\nروزتان از خوف و حیرت تیره شد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشت از خود دیده ها و خیره شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزتان از خوف و حیرت تیره شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ن",
+      "PlainText": "گو به من کاری کنون کز دست من\r\nآن بر آید در نهان نی در علن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو به من کاری کنون کز دست من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن بر آید در نهان نی در علن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -246,9 +246,9 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اب",
-      "PlainText": "بر حناجر قلبها شد ز اضطراب\r\nوز غم افتادید اندر پیچ و تاب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر حناجر قلبها شد ز اضطراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز غم افتادید اندر پیچ و تاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ا",
+      "PlainText": "گفت تدبیری در این لشکر نما\r\nکه ز تدبیر است اغلب کارها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت تدبیری در این لشکر نما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز تدبیر است اغلب کارها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -256,9 +256,9 @@
       "Number": 8,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ا",
-      "PlainText": "گفت تدبیری در این لشکر نما\r\nکه ز تدبیر است اغلب کارها",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت تدبیری در این لشکر نما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز تدبیر است اغلب کارها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اب",
+      "PlainText": "بر حناجر قلبها شد ز اضطراب\r\nوز غم افتادید اندر پیچ و تاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر حناجر قلبها شد ز اضطراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز غم افتادید اندر پیچ و تاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -286,9 +286,9 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ور",
-      "PlainText": "تا مگر یابد در ایشان ره فتور\r\nمختلف گردند در عزم و امور",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا مگر یابد در ایشان ره فتور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمختلف گردند در عزم و امور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ان",
+      "PlainText": "هر کسی را بد به حق نوعی گمان\r\nمطمین بودند و ثابت مؤمنان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کسی را بُد به حق نوعی گمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطمئن بودند و ثابت مؤمنان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -296,9 +296,9 @@
       "Number": 9,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ان",
-      "PlainText": "هر کسی را بد به حق نوعی گمان\r\nمطمین بودند و ثابت مؤمنان",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کسی را بُد به حق نوعی گمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطمئن بودند و ثابت مؤمنان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ور",
+      "PlainText": "تا مگر یابد در ایشان ره فتور\r\nمختلف گردند در عزم و امور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا مگر یابد در ایشان ره فتور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمختلف گردند در عزم و امور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 4
     },
     {
@@ -316,9 +316,9 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "عد",
-      "PlainText": "حق یقین خواهد نمود آنجا ز وعد\r\nغالب و قاهر شو یم از بخت سعد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق یقین خواهد نمود آنجا ز وعد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغالب و قاهر شو یم از بخت سعد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یم",
+      "PlainText": "پس سوی قوم قریظه شد نعیم\r\nچون به ایشان داشت صدقی از قدیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس سوی قوم قریظه شد نُعیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون به ایشان داشت صدقی از قدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -326,9 +326,9 @@
       "Number": 10,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یم",
-      "PlainText": "پس سوی قوم قریظه شد نعیم\r\nچون به ایشان داشت صدقی از قدیم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس سوی قوم قریظه شد نُعیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون به ایشان داشت صدقی از قدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "عد",
+      "PlainText": "حق یقین خواهد نمود آنجا ز وعد\r\nغالب و قاهر شو یم از بخت سعد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق یقین خواهد نمود آنجا ز وعد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغالب و قاهر شو یم از بخت سعد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -356,9 +356,9 @@
       "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "اهراست",
-      "PlainText": "گفت صدق من شما را ظاهر است\r\nنصح من باشد ز شفق این باهر است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت صدق من شما را ظاهر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنصح من باشد ز شفق این باهر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ین",
+      "PlainText": "وآن منافق پیشگان گفتی چنین\r\nکاین گره باشند بیش از مسلمین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن منافق پیشگان گفتی چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین گُره باشند بیش از مسلمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -366,20 +366,10 @@
       "Number": 11,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "وآن منافق پیشگان گفتی چنین\r\nکاین گره باشند بیش از مسلمین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن منافق پیشگان گفتی چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین گُره باشند بیش از مسلمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "اهراست",
+      "PlainText": "گفت صدق من شما را ظاهر است\r\nنصح من باشد ز شفق این باهر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت صدق من شما را ظاهر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنصح من باشد ز شفق این باهر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
-    },
-    {
-      "Index": 12,
-      "Number": 12,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "لشوند",
-      "PlainText": "پس چو بر ما حمله ور یکدل شوند\r\nمسلمین مغلوب و مستأصل شوند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس چو بر ما حمله ور یکدل شوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسلمین مغلوب و مستأصل شوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
     },
     {
       "Index": 12,
@@ -392,13 +382,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 13,
-      "Number": 13,
+      "Index": 12,
+      "Number": 12,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ور",
-      "PlainText": "مر شما را از اماکن کرده دور\r\nبر شما زین ره نبینم جز فتور",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر شما را از اماکن کرده دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شما زین ره نبینم جز فتور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "لشوند",
+      "PlainText": "پس چو بر ما حمله ور یکدل شوند\r\nمسلمین مغلوب و مستأصل شوند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس چو بر ما حمله ور یکدل شوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسلمین مغلوب و مستأصل شوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -412,13 +402,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 14,
-      "Number": 14,
+      "Index": 13,
+      "Number": 13,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "خت",
-      "PlainText": "مسلمین گشتند جنبانیده سخت\r\nهمچو از باد وزان برگ و درخت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسلمین گشتند جنبانیده سخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو از باد وزان برگ و درخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ور",
+      "PlainText": "مر شما را از اماکن کرده دور\r\nبر شما زین ره نبینم جز فتور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر شما را از اماکن کرده دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شما زین ره نبینم جز فتور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -432,13 +422,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 15,
-      "Number": 15,
+      "Index": 14,
+      "Number": 14,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "نگ",
-      "PlainText": "با محمد ص شان نباشد تاب جنگ\r\nبر گریز آرند رو بس بیدرنگ",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا محمّد (ص) شان نباشد تاب جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گریز آرند رو بس بیدرنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "خت",
+      "PlainText": "مسلمین گشتند جنبانیده سخت\r\nهمچو از باد وزان برگ و درخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسلمین گشتند جنبانیده سخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو از باد وزان برگ و درخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -449,6 +439,16 @@
       "RhymeLetters": "و",
       "PlainText": "بیست روز آن هر د و لشکر رو به رو\r\nبد نشسته خشمناک و رزم جو",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیست روز آن هر د و لشکر رو به رو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبُد نشسته خشمناک و رزم جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نگ",
+      "PlainText": "با محمد ص شان نباشد تاب جنگ\r\nبر گریز آرند رو بس بیدرنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا محمّد (ص) شان نباشد تاب جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گریز آرند رو بس بیدرنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

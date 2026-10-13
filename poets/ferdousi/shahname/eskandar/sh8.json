@@ -1,8 +1,8 @@
 {
   "Id": 1647,
   "CatId": 67,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۸",
+  "Title": "بخش ۸ - رسیدن نامه به کید هندی و پاسخ او: نوید چهار چیز بی‌همتا و آمدن بنده‌وار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۸ - رسیدن نامه به کید هندی و پاسخ او: نوید چهار چیز بی‌همتا و آمدن بنده‌وار",
   "FullUrl": "/ferdousi/shahname/eskandar/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,17 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه هندی که نامه به او می‌رسد و پاسخ آن را می‌نویسد."
     }
   ]
 }

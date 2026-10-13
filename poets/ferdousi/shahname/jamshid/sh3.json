@@ -1240,5 +1240,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 46
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 15,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیرنگ‌ساز که در هیئت جوان و خوالیگر و سپس پزشک به ضحاک نزدیک می‌شود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که فریب خوالیگر را می‌خورد و از دو کتفش مار می‌روید."
+    }
   ]
 }

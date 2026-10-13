@@ -1780,5 +1780,61 @@
       "SectionIndex1": 0,
       "SectionIndex2": 66
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای مقایسه با پادشاه مخاطب و جام او یاد شده است."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که نامهٔ پیامبر به او می‌رسد و از آن خشمگین می‌شود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 288,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر و فرستندهٔ نامه به پرویز."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 643,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ کسی که آتش را می‌پرستد یا به آن می‌نازد."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه کهن که در مقایسه با پیامبر یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه کهن که در مقایسه با پیامبر یاد می‌شود. (نام در متن: افریدون)"
+    }
   ]
 }

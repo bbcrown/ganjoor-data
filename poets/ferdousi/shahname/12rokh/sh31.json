@@ -1,8 +1,8 @@
 {
   "Id": 88053,
   "CatId": 56,
-  "Title": "بخش ۳۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۱",
+  "Title": "بخش ۳۱ - نبرد گودرز و پیران، گریز پیران به کوه، کشته شدنش و بازگشت با پیکر او",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۱ - نبرد گودرز و پیران، گریز پیران به کوه، کشته شدنش و بازگشت با پیکر او",
   "FullUrl": "/ferdousi/shahname/12rokh/sh31",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2535,6 +2535,71 @@
       "CoupletIndex": 92,
       "SectionIndex1": 0,
       "SectionIndex2": 94
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار و سپهدار تورانی که با گودرز می‌جنگد، می‌گریزد و زخمی می‌شود."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار ایرانی که با پیران می‌جنگد و او را دنبال می‌کند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که پیران پشتیبان اوست و گودرز می‌خواهد پیران را نزد او ببرد."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که گودرز به یاد خون او زاری می‌کند. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان گودرز پیکر پیران را از کوه فرود می‌آورد."
+    },
+    {
+      "CoupletIndex": 81,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که گودرز امید آمدنش با سپاه دارد."
+    },
+    {
+      "CoupletIndex": 92,
+      "PersonId": 151,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیاده که همراه کشتگان می‌رود."
     }
   ]
 }

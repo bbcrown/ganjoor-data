@@ -1,8 +1,8 @@
 {
   "Id": 1769,
   "CatId": 82,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۷",
+  "Title": "بخش ۱۷ - کناره‌گیری خسرو از آزمون تاج، کشتن دو شیر و تاجگذاری بهرام",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۷ - کناره‌گیری خسرو از آزمون تاج، کشتن دو شیر و تاجگذاری بهرام",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -915,6 +915,35 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 34
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیر که درباره تاج سخن می‌گوید و بعد به بهرام نماز می‌برد. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوان که با گرز به نبرد شیران می‌رود و بر آنها پیروز می‌شود. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 335,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گوینده امید دارد دستگیر او شود."
     }
   ]
 }

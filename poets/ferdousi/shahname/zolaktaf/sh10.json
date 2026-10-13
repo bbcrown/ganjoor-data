@@ -1,8 +1,8 @@
 {
   "Id": 1742,
   "CatId": 77,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۰",
+  "Title": "بخش ۱۰ - غفلت قیصر در طیسفون، شبیخون شبانهٔ شاپور و گرفتار کردن قیصر و نامدارانش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۰ - غفلت قیصر در طیسفون، شبیخون شبانهٔ شاپور و گرفتار کردن قیصر و نامدارانش",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,26 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایرانی که کارآگهان می‌فرستد و شبانه با سپاه به قیصر می‌تازد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای غافل و باده‌گسار که در شبیخون شاپور گرفتار می‌شود."
     }
   ]
 }

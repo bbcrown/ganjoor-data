@@ -1,8 +1,8 @@
 {
   "Id": 1799,
   "CatId": 83,
-  "Title": "بخش ۳۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۰",
+  "Title": "بخش ۳۰ - هشدار وزیر از سرکشی شنگل، عزم نهان بهرام و نامهٔ باژ یا جنگ به هند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۰ - هشدار وزیر از سرکشی شنگل، عزم نهان بهرام و نامهٔ باژ یا جنگ به هند",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh30",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,44 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران، پسر یزدگرد، که نامه را به شنگل می‌نویسد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 389,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای هند که از داد روی برتافته و به ایران دست‌درازی می‌کند."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 168,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که به ایران آمد و به سزای کار بدش رسید."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 323,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام که تاج کیان را به او رسانده است."
     }
   ]
 }

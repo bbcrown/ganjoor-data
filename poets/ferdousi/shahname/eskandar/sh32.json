@@ -1,8 +1,8 @@
 {
   "Id": 1671,
   "CatId": 67,
-  "Title": "بخش ۳۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۲",
+  "Title": "بخش ۳۲ - رسیدن اسکندر به شارستان مغرب، آگاهی از آب حیوان و گزینش ده هزار بارگی چهارساله",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۲ - رسیدن اسکندر به شارستان مغرب، آگاهی از آب حیوان و گزینش ده هزار بارگی چهارساله",
   "FullUrl": "/ferdousi/shahname/eskandar/sh32",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -510,6 +510,17 @@
       "CoupletIndex": 17,
       "SectionIndex1": 0,
       "SectionIndex2": 19
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه لشکرکش که به مغرب می‌رود و از شگفتی‌های آنجا می‌پرسد."
     }
   ]
 }

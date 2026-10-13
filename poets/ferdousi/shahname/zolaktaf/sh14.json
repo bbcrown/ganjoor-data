@@ -1,8 +1,8 @@
 {
   "Id": 1746,
   "CatId": 77,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۴",
+  "Title": "بخش ۱۴ - پذیرش باژ روم و واگذاری نصیبین، گشودن شهر نافرمان، مرگ قیصر و بنیاد شهرهای اسیران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۴ - پذیرش باژ روم و واگذاری نصیبین، گشودن شهر نافرمان، مرگ قیصر و بنیاد شهرهای اسیران",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1536,6 +1536,62 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 308,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوی روم؛ پیمان صلح می‌بندد و باژ و نصیبین را می‌پذیرد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از رومیان باج می‌ستاند و نصیبین را می‌گیرد"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر کیش ایرانیان که آیین او نام برده می‌شود"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بنیان‌گذار دینی که مردم نصیبین پیرو آنند."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 322,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنیزکی که رها شده و به کامگاری رسیده است"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که در زندان و بند است"
     }
   ]
 }

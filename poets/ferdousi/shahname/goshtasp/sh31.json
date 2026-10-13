@@ -1,8 +1,8 @@
 {
   "Id": 1557,
   "CatId": 59,
-  "Title": "بخش ۳۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳۱",
+  "Title": "بخش ۳۱ - سوگند اسفندیار بر کین ارجاسپ، جان دادن فرشیدورد و تاختن بر طلایهٔ ترکان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳۱ - سوگند اسفندیار بر کین ارجاسپ، جان دادن فرشیدورد و تاختن بر طلایهٔ ترکان",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh31",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,98 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیهِ شبِ کینه‌خواه به او مانند شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران همراه سپهبد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 222,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران همراه سپهبد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران همراه سپهبد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه؛ فرشیدورد از او دل‌آزرده است و جاماسپ دستورش است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستور گشتاسپ که راهبر سپاه پیش اوست"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که برای کین برادرش فرشیدورد نبرد می‌کند"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادرِ زخمیِ اسفندیار که در برابر او می‌میرد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که اسفندیار می‌خواهد کینش را بستاند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 214,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گفتار او مایهٔ گزند و آسیب بر ایرانیان شد"
     }
   ]
 }

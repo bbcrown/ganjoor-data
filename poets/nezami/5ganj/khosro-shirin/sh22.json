@@ -1186,5 +1186,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 44
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 27,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که شیفتهٔ تصویر شده و برای یافتن راز آن بی‌تاب است"
+    }
   ]
 }

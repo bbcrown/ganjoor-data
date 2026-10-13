@@ -45,9 +45,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "در رهی میرفت شبلی بیقرار\r\nدید کناسی شده مشغول کار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رهی میرفت شبلی بیقرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدید کناسی شده مشغول کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "د",
+      "PlainText": "کاین تیره غبار آسمان بنشیند\r\nوین توده ی خاک از میان برخیزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاین تیره غبار آسمان بنشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین توده ی خاک از میان برخیزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -55,19 +55,9 @@
       "Number": 3,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "د",
-      "PlainText": "کاین تیره غبار آسمان بنشیند\r\nوین توده ی خاک از میان برخیزد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاین تیره غبار آسمان بنشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین توده ی خاک از میان برخیزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ورسینا",
-      "PlainText": "خواهی طیران به طور سینا\r\nنزدیک مشو به پورسینا",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی طیران به طور سینا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک مشو به پورسینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "در رهی میرفت شبلی بیقرار\r\nدید کناسی شده مشغول کار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رهی میرفت شبلی بیقرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدید کناسی شده مشغول کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -81,13 +71,13 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 5,
-      "Number": 5,
+      "Index": 4,
+      "Number": 4,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "گفت نیست این کار خالی از خلل\r\nهر دو را می بینم اندر یک عمل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت نیست این کار خالی از خلل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو را می بینم اندر یک عمل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ورسینا",
+      "PlainText": "خواهی طیران به طور سینا\r\nنزدیک مشو به پورسینا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی طیران به طور سینا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک مشو به پورسینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -101,14 +91,14 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 6,
-      "Number": 6,
+      "Index": 5,
+      "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "داشتی",
-      "PlainText": "بد بسی کردی نکوپنداشتی\r\nهیچ جای آشتی نگذاشتی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبد بسی کردی نکوپنداشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ جای آشتی نگذاشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
+      "RhymeLetters": "ل",
+      "PlainText": "گفت نیست این کار خالی از خلل\r\nهر دو را می بینم اندر یک عمل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت نیست این کار خالی از خلل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو را می بینم اندر یک عمل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 6,
@@ -118,6 +108,16 @@
       "RhymeLetters": "گر",
       "PlainText": "زانکه هست این بیخبر چون آندگر\r\nاز برای یک دو من نان کارگر",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانکه هست این بیخبر چون آندگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز برای یک دو من نان کارگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "داشتی",
+      "PlainText": "بد بسی کردی نکوپنداشتی\r\nهیچ جای آشتی نگذاشتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبد بسی کردی نکوپنداشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ جای آشتی نگذاشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

@@ -1,8 +1,8 @@
 {
   "Id": 1846,
   "CatId": 88,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۱",
+  "Title": "بخش ۱۱ - گریز خسرو به یزدان‌سرای، فداکاری بندوی و فریفتن سپاه بهرام با جامهٔ شاهی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۱ - گریز خسرو به یزدان‌سرای، فداکاری بندوی و فریفتن سپاه بهرام با جامهٔ شاهی",
   "FullUrl": "/ferdousi/shahname/parviz/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2103,6 +2103,71 @@
       "CoupletIndex": 76,
       "SectionIndex1": 0,
       "SectionIndex2": 78
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 429,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به ایوان شاه رفت و سی‌هزار جنگجو برگزید. (احتمالاً همنامِ «بهرام» با کد 122؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 430,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپاه برگزیده‌شده به فرماندهی او سپرده شد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از دشمنان می‌گریزد و در یزدان‌سرای پناه می‌گیرد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 249,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر یزدان‌پرست و نگهبان رباط که از خسرو پذیرایی کرد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه چاره‌ساز خسرو که جامه و تاج او را پوشید."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام، فقط در لقب «پور سیاووش» آمده است."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیشروی سپاه که دژ را در محاصره دارد."
     }
   ]
 }

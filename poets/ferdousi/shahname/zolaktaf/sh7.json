@@ -1,8 +1,8 @@
 {
   "Id": 1739,
   "CatId": 77,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۷",
+  "Title": "بخش ۷ - گریز نهانی شاپور و دختر قیصر، فرود به خان باغبان و خبر ویرانی ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۷ - گریز نهانی شاپور و دختر قیصر، فرود به خان باغبان و خبر ویرانی ایران",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1428,6 +1428,44 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 14,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد ایرانیِ گریزان که با کنیزک نزد باغبان مهمان می‌شود و شاه خوانده شده است"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که لشکرش به ایرانیان زیان زده و شاپور از او گریزان است"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 249,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که ایرانیانِ ترسا شده در برابرش زنار بستند."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 215,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر شاپور که نام او در معرفی شاپور آمده است."
     }
   ]
 }

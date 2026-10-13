@@ -1,8 +1,8 @@
 {
   "Id": 1638,
   "CatId": 66,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۹",
+  "Title": "بخش ۹ - رسیدن اسکندر به دارای مجروح، اندرز و مرگ او، دخمهٔ شاهانه و دار کردن خائنان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۹ - رسیدن اسکندر به دارای مجروح، اندرز و مرگ او، دخمهٔ شاهانه و دار کردن خائنان",
   "FullUrl": "/ferdousi/shahname/dara/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2211,6 +2211,89 @@
       "CoupletIndex": 80,
       "SectionIndex1": 0,
       "SectionIndex2": 82
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه رومی که بر بالین دارای زخمی می‌گرید و به او دلداری می‌دهد. (نام در متن: اسکندر)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 255,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): وزیری که نزد اسکندر آمد و خبر کشتن دشمن او را داد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه زخمی و در حال مرگ که با اسکندر سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 254,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب اسکندر که او را به جایگاه دارا راه می‌نماید."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 256,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر دختر دارا."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار پیشین که نامش برای یادآوری آمده است."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آتش و آیین به نام او یاد شده است. (نام در متن: زردهشت)"
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آیین لهراسپی به نام او یاد شده است."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دین گشتاسپی به نام او یاد شده است."
     }
   ]
 }

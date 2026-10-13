@@ -1,8 +1,8 @@
 {
   "Id": 87963,
   "CatId": 51,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۹",
+  "Title": "بخش ۹ - تاختن زرسپ پسر طوس، کشته شدنش به تیر فرود و خیزش طوس به کین",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۹ - تاختن زرسپ پسر طوس، کشته شدنش به تیر فرود و خیزش طوس به کین",
   "FullUrl": "/ferdousi/shahname/forood/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -591,6 +591,53 @@
       "CoupletIndex": 20,
       "SectionIndex1": 0,
       "SectionIndex2": 22
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 193,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر طوس و شوهر خواهر ریونیز؛ با فرود می‌جنگد و با تیر او کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه و مخاطب فرود؛ زرسپ را به او می‌شناساند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی و پدر زرسپ؛ با کشته‌شدن پسر خشمگین می‌شود و به سوی فرود می‌تازد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خواهرش همسر زرسپ است."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلاوری که زرسپ را با تیر می‌زند و طوس به سوی او می‌رود."
     }
   ]
 }

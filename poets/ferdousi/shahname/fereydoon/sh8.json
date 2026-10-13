@@ -1,8 +1,8 @@
 {
   "Id": 1365,
   "CatId": 40,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۸",
+  "Title": "بخش ۸ - نامهٔ فریدون به سلم و تور",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۸ - نامهٔ فریدون به سلم و تور",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -537,6 +537,17 @@
       "CoupletIndex": 18,
       "SectionIndex1": 0,
       "SectionIndex2": 20
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 17,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با نامهٔ مهرشدهٔ شاه همراه چند برنا و پیر از ایوان راهی می‌شود."
     }
   ]
 }

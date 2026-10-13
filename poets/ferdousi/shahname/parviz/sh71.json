@@ -1,8 +1,8 @@
 {
   "Id": 1906,
   "CatId": 88,
-  "Title": "بخش ۷۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۱",
+  "Title": "بخش ۷۱ - بنای ایوان خسرو: شتاب شاه، گریز و بازگشت استاد رومی با برهان نشست دیوار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۱ - بنای ایوان خسرو: شتاب شاه، گریز و بازگشت استاد رومی با برهان نشست دیوار",
   "FullUrl": "/ferdousi/shahname/parviz/sh71",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2562,6 +2562,17 @@
       "CoupletIndex": 93,
       "SectionIndex1": 0,
       "SectionIndex2": 95
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 40,
+      "PersonId": 477,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گریخت و خشم خسرو بر گوینده ریخت."
     }
   ]
 }

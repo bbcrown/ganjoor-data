@@ -1,8 +1,8 @@
 {
   "Id": 1912,
   "CatId": 89,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۱",
+  "Title": "بخش ۱ - پیام شیروی به خسرو زندانی: نکوهش گناهان، خواست پوزش و فال شوم بهی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شیرویه » بخش ۱ - پیام شیروی به خسرو زندانی: نکوهش گناهان، خواست پوزش و فال شوم بهی",
   "FullUrl": "/ferdousi/shahname/shirooye/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3021,6 +3021,89 @@
       "CoupletIndex": 110,
       "SectionIndex1": 0,
       "SectionIndex2": 112
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 43,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بر تخت می‌نشیند و دو فرستاده را برای پیام به پدر می‌فرستد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن شیروی، کردار بد به او مانند شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد دانا و پیر؛ همراه اشتاد فرستادهٔ شیروی. (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 451,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دانا و گوینده؛ همراه خراد برزین فرستادهٔ شیروی نزد پدر."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی دانا و گوینده که با اشتاد به فرستادگی می‌رود."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که در پیام فرستادگان به سپاه و دختر دادن او اشاره می‌شود."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام او در اشاره به دار مسیحا در روم آمده است. (نام در متن: عیسی)"
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 480,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای نامور با لشکر آراسته در طیسفون که فرستادگان را می‌پذیرد."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 627,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران و فرستندهٔ پیام‌ها."
     }
   ]
 }

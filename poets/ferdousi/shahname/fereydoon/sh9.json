@@ -1,8 +1,8 @@
 {
   "Id": 1366,
   "CatId": 40,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۹",
+  "Title": "بخش ۹ - رفتن ایرج به نزد سلم و تور",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۹ - رفتن ایرج به نزد سلم و تور",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -591,6 +591,35 @@
       "CoupletIndex": 20,
       "SectionIndex1": 0,
       "SectionIndex2": 22
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر مهربان و نیک‌خوی که سپاهیان او را سزاوار تخت و شاهی می‌دانند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر کینه‌توز که از دلبستگی سپاه به ایرج خشمگین است و به تور شکایت می‌کند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر سلم که با او در سراپرده می‌نشیند و مخاطب سخنان او است."
     }
   ]
 }

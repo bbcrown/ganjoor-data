@@ -1,8 +1,8 @@
 {
   "Id": 1843,
   "CatId": 88,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۸",
+  "Title": "بخش ۸ - خواستن بهرام گروگان از خویشان سرکشان، بازگشت شبانهٔ پیک با هشدار شبیخون خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۸ - خواستن بهرام گروگان از خویشان سرکشان، بازگشت شبانهٔ پیک با هشدار شبیخون خسرو",
   "FullUrl": "/ferdousi/shahname/parviz/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,35 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و سردار لشکر که از سران لشکر خواستار فرستادن نشان خویشان و گروگان می‌شود. (نام در متن: بهرام گرد)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و سردار لشکر که از سرکشان می‌خواهد گروگان و نشان بفرستند. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ایرانیان به او وفادارند و از شبیخون او بیم دارند."
     }
   ]
 }

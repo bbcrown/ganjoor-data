@@ -699,7 +699,7 @@
       "CoupletIndex": 11,
       "SectionIndex1": 0,
       "SectionIndex2": 13,
-      "CoupletSummary": "دنیا برای چنین کسی نیز نماند، پس طمع نداشته باش و اندوه دنیا را نخور."
+      "CoupletSummary": "دنیا برای چنین کسی نیز نماند، پس طمع نداشته باش و اندوه دنیا را نخور.(گویش نَخَر در شعر درست است)"
     },
     {
       "VOrder": 24,
@@ -1294,7 +1294,7 @@
       "CoupletIndex": 46,
       "SectionIndex1": 0,
       "SectionIndex2": 48,
-      "CoupletSummary": "هوش مصنوعی: شخصی از آمل عبور کرد و به سمت تمیشه رفت و در آن جنگل معروف نشسته است."
+      "CoupletSummary": "فریدون از آمل\u00A0 به سمت تمیشه رفت و\u00A0 آنجا را محل استقرار خود قرار داد."
     },
     {
       "VOrder": 94,
@@ -1311,7 +1311,7 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49,
-      "CoupletSummary": "هوش مصنوعی: کجا می‌توانی در این دنیا صدایی بشنوی که نامش جز این نباشد؟"
+      "CoupletSummary": "درخطه جهان گوش ( منطقه گیلان و تبرستان)به نیکی و عدالت او را می شناسند"
     },
     {
       "VOrder": 96,
@@ -1320,6 +1320,49 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه تازه‌تاج‌گذاشته که جشن می‌گیرد و گنج‌ها را می‌بخشد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 23,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر فریدون که برای پادشاهی پسرش نیایش می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که تخت شاهی از او تهی شده است."
+    },
+    {
+      "CoupletIndex": 46,
+      "LocationId": 91,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 46,
+      "LocationId": 8671,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

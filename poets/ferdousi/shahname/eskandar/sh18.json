@@ -1,8 +1,8 @@
 {
   "Id": 1657,
   "CatId": 67,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۸",
+  "Title": "بخش ۱۸ - نبرد اسکندر با فور: گریز پیلان از آتش، کشتن فور در نبرد تن‌به‌تن و سپردن تخت به سورگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۸ - نبرد اسکندر با فور: گریز پیلان از آتش، کشتن فور در نبرد تن‌به‌تن و سپردن تخت به سورگ",
   "FullUrl": "/ferdousi/shahname/eskandar/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1752,6 +1752,35 @@
       "CoupletIndex": 63,
       "SectionIndex1": 0,
       "SectionIndex2": 65
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 263,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه هند که با اسکندر تن‌به‌تن می‌جنگد و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه لشکر روم که هندوان را دلداری داد و گنج فور را بخشید (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 265,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان هندی که سکندر تخت شاهی را به او سپرد"
     }
   ]
 }

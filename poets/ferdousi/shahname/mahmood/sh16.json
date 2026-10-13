@@ -1,8 +1,8 @@
 {
   "Id": 88075,
   "CatId": 57,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۶",
+  "Title": "بخش ۱۶ - نامهٔ فتح گلزریون و گنگ، هم‌پیمانی افراسیاب با فغفور چین و آرایش دو سپاه",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۶ - نامهٔ فتح گلزریون و گنگ، هم‌پیمانی افراسیاب با فغفور چین و آرایش دو سپاه",
   "FullUrl": "/ferdousi/shahname/mahmood/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1752,6 +1752,98 @@
       "CoupletIndex": 63,
       "SectionIndex1": 0,
       "SectionIndex2": 65
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کیانی؛ بخت او در نامه ستوده می‌شود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن ایرانیان؛ با لشکری از چین و ختن به جنگ می‌آید."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که با افراسیاب همدست شد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرور لشکر چین که برای افراسیاب مال و سپاه فرستاد. (نام در متن: خاقان)"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنج او به دست افراسیاب افتاد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با آگاهی از سپاه دشمن طلایه فرستاد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سپهداران ایرانی که به طلایه‌داری فرمان گرفت."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که فرمان طلایه‌داری و پناه سپاه به او سپرده شد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که به طلایه‌داری مأمور شد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که به طلایه‌داری مأمور شد."
     }
   ]
 }

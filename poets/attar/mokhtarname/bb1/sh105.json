@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ارتوكشد",
-      "PlainText": "کو دل که بلای روزگار تو کشد\r\nکو جان که عقوبت شمار تو کشد\r\nمن ننگ زنان مستحاضه شدهام\r\nکو گردن امردان که بار تو کشد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو دل که بلای روزگارِ تو کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو جان که عقوبتِ شمارِ تو کشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن ننگِ زنان مستحاضه شدهام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو گردنِ امردان که بارِ تو کشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "کو دل که بلای روزگار تو کشد\r\nکو جان که عقوبت شمار تو کشد\r\nمن ننگ زنان مستحاضه شده ام\r\nکو گردن امردان که بار تو کشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو دل که بلای روزگارِ تو کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو جان که عقوبتِ شمارِ تو کشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن ننگِ زنان مستحاضه شده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو گردنِ امردان که بارِ تو کشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -44,7 +44,7 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "من ننگِ زنان مستحاضه شدهام",
+      "Text": "من ننگِ زنان مستحاضه شده‌ام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: من به گونه‌ای شدم که به ننگ زنان حائض دچار شده‌ام، زیرا گردن جوانان زیبا را برای تحمل بار عشق تو انتخاب کرده‌ام."

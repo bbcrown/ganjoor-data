@@ -1,8 +1,8 @@
 {
   "Id": 1737,
   "CatId": 77,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۵",
+  "Title": "بخش ۵ - سفر نهانی شاپور به روم در کسوت بازرگان، دوختن در پوست خر و تاختن قیصر بر ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۵ - سفر نهانی شاپور به روم در کسوت بازرگان، دوختن در پوست خر و تاختن قیصر بر ایران",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1968,6 +1968,35 @@
       "CoupletIndex": 71,
       "SectionIndex1": 0,
       "SectionIndex2": 73
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که به روم می‌رود و با ستاره‌شمر سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که شاپور برای دیدارش می‌رود."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 317,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر قیصر که کلید زندان شاپور را گرفت"
     }
   ]
 }

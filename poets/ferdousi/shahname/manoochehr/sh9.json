@@ -1,8 +1,8 @@
 {
   "Id": 1386,
   "CatId": 41,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۹",
+  "Title": "بخش ۹ - رفتن زال به دیدار رودابه و انداختن رودابه کمند گیسو زال را",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۹ - رفتن زال به دیدار رودابه و انداختن رودابه کمند گیسو زال را",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,44 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبدی که شبانه نزد دختر بر بام کاخ می‌رود."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که زال از واکنش او اگر خبر شود بیم دارد."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که زال از خشم او بیم دارد."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که به پذیرفتن کیش و دین یکتاپرستی و پیمان با زال پاسخ می‌دهد."
     }
   ]
 }

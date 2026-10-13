@@ -1,8 +1,8 @@
 {
   "Id": 88106,
   "CatId": 57,
-  "Title": "بخش ۴۷",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۷",
+  "Title": "بخش ۴۷ - بر تخت نشستن لهراسب، بیعت زال و گودرز و تاج‌گذاری به آیین مهرگان",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۷ - بر تخت نشستن لهراسب، بیعت زال و گودرز و تاج‌گذاری به آیین مهرگان",
   "FullUrl": "/ferdousi/shahname/mahmood/sh47",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,89 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه تازه‌نشسته بر تخت که از سران پیمان و فرمان‌برداری می‌خواهد. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دستان."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که به لهراسب پاسخ می‌دهد و فرمان‌برداری را می‌پذیرد. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه دستان در وفاداری به شاه."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که لهراسب از او راز دل می‌خواهد و فرمان‌برداری می‌کند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان گودرز که او نام می‌برد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان گودرز که او نام می‌برد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان گودرز که او نام می‌برد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه فرخ‌نژاد که در مهرگان تاج بر سر نهاد؛ برای مقایسه آمده است."
     }
   ]
 }

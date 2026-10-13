@@ -1,8 +1,8 @@
 {
   "Id": 1784,
   "CatId": 83,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۵",
+  "Title": "بخش ۱۵ - دیدار بهرام گور با فرشیدوردِ ناسپاس، کشف گنج نهان و فرمان بخشش خواسته به نیازمندان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۵ - دیدار بهرام گور با فرشیدوردِ ناسپاس، کشف گنج نهان و فرمان بخشش خواسته به نیازمندان",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3534,6 +3534,107 @@
       "CoupletIndex": 129,
       "SectionIndex1": 0,
       "SectionIndex2": 131
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 41,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که با سپاه می‌رود و با کدیور و خارزن سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد ثروتمند و خسیس با گوسفندان و دینار بسیار"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 223,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خارزن نیرومند که راهنمای مردان شاه می‌شود و پاداش و اسب می‌گیرد"
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهنشاه، گیرندهٔ نامه که آن را می‌خواند و پاسخ می‌نویسد."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان گذشته که یادش برای مقایسه آمده است."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان گذشته که همراه فریدون یاد شده است."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان گذشته که همراه فریدون یاد شده است."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان گذشته که همراه فریدون یاد شده است."
+    },
+    {
+      "CoupletIndex": 114,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران گذشته که یادشان می‌شود. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 114,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران گذشته که یادشان می‌شود."
+    },
+    {
+      "CoupletIndex": 114,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران گذشته که یادشان می‌شود. (نام در متن: کاووس)"
     }
   ]
 }

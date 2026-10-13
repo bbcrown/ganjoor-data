@@ -1,8 +1,8 @@
 {
   "Id": 1596,
   "CatId": 61,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۲",
+  "Title": "بخش ۲۲ - هماوردی تنهای رستم و اسفندیار بر لب هیرمند، پیمان بی‌مدد و شکستن نیزه و تیغ و گرز",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۲ - هماوردی تنهای رستم و اسفندیار بر لب هیرمند، پیمان بی‌مدد و شکستن نیزه و تیغ و گرز",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1698,6 +1698,44 @@
       "CoupletIndex": 61,
       "SectionIndex1": 0,
       "SectionIndex2": 63
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلی که برای نبرد با اسفندیار به میدان می‌رود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر رستم که سپاه را آماده می‌کند و در جای خود می‌ماند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و شاهزادهٔ ایرانی که با رستم رویارو می‌شود."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه اسفندیار که او با وی سخن می‌گوید."
     }
   ]
 }

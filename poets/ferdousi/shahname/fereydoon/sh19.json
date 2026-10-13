@@ -1,12 +1,12 @@
 {
   "Id": 1376,
   "CatId": 40,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۹",
+  "Title": "بخش ۱۹ - ادامهٔ جنگ سپاه ایران",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۹ - ادامهٔ جنگ سپاه ایران",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در این متن، شخصیت سلم به خبر از جنگ و تیرگی‌هایی که در آن وجود دارد، می‌پردازد. او در فکر بهبود وضعیت است و تصمیم می‌گیرد که به یک دژ که آرامگاهش باشد، برود. در این دژ مخفی گنجینه‌ای وجود دارد و سلم به همراه مهر انگشتری شاه منوچهر قصد دارد نقشه‌ای برای حمله به دشمنان بریزد.\n\nاو سپاهیان را به دقت مدیریت می‌کند و طرد از نبرد را به سمت دژ هدایت می‌کند. در نهایت، قارن رزمخواه با درفشی که به نشانه پیروزی است، به میدان آمده و در جنگی سهمگین بر دشمنان پیروز می‌شوند. نبرد به شدت وحشیانه است و خسارات زیادی به دشمنان وارد می‌شود، و زمین و دریا به خون آغشته می‌شود. این خلاصه نشان‌دهنده جنگ، تدبیر و پیروزی در برابر دشمنان است.",
+  "PoemSummary": "وقتی سلم اگهی یافت از کشته شدن تور به دست منوچهر ترسید به دژ فرار کرد. همزمان قارن حدس زد که باید فرار کند به دژی که \u00A0بسیار بلند و سخت نفوذ است و در محاصره دریا است. بنابراین تصمیم گرفت به اون دژ نفوذ کند. و. ما بقی سپاه را با شیروی به محاصر دژ از دریا فرستاد. قارون انگشتر شاهی تور را برداشت و به دژ رفت و چون دژبان انگشتر را دید باور کرد و او را راه داد سپس در شب از درون و بیرون دژ حمله کرده و دژ را تسخیر کردند تمام دژ سوخته و تمام دریا دوده شد.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -499,7 +499,7 @@
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "SectionIndex2": 3,
-      "CoupletSummary": "هوش مصنوعی: پس پشت آن، دژی بلند و محکم وجود دارد که تا آسمان آبی بالا رفته است."
+      "CoupletSummary": "در پشت سلم دژي مستحکم وجود داشت که به بلندی اسمان بود"
     },
     {
       "VOrder": 4,
@@ -1239,6 +1239,62 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از میدان نبرد به سوی حصار می‌گریزد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبدی که با نیرنگ حصار را می‌گیرد (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): انگشتری او برای فریب دژبان به کار می‌رود"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که درفش او همراه سپاه به دژ فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 64,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و همراه قارن در راز و چارهٔ شبانه"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 43,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار سپاه که قارن سپاه را به او می‌سپارد"
     }
   ]
 }

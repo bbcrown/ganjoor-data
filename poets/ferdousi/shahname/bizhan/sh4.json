@@ -1,8 +1,8 @@
 {
   "Id": 88013,
   "CatId": 55,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۴",
+  "Title": "بخش ۴ - میانجیگری پیران و رهایی بیژن از دار، افکندنش به چاه و نان‌رسانی منیژه",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۴ - میانجیگری پیران و رهایی بیژن از دار، افکندنش به چاه و نان‌رسانی منیژه",
   "FullUrl": "/ferdousi/shahname/bizhan/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2400,6 +2400,143 @@
       "CoupletIndex": 87,
       "SectionIndex1": 0,
       "SectionIndex2": 89
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد تورانی که بیژن را می‌بیند، بر او می‌بخشاید و نزد شاه برای او میانجی‌گری می‌کند. (نام در متن: پیران ویسه)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به پیران می‌گوید که دارزده بیژن است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ایرانیِ دست‌بسته و زخم‌خورده که ترکان او را بر دار برده‌اند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که پیران نزد او آمده و برای بیژن شفاعت می‌کند."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که شمشیرش بر ترکان خون ریخته است."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 73,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از ایرانیانی که کشتن سیاوش آنان را دشمن توران می‌کند."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر سیاوش. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نژاد کیان که شاه توران او را به ناحق کشته است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شمشیر او در یادآوری کشتار ترکان آمده است. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گودرز."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کشواد و پدربزرگ بیژن که برای او به جنگ می‌آید."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 547,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر افراسیاب که مایهٔ ننگ او شمرده می‌شود و باید تاراج شود."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 170,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که سنگ مربوط به او بر سر چاه خواهد بود."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 103,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): چاه به نام او خوانده می‌شود."
     }
   ]
 }

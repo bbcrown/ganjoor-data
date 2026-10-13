@@ -1,8 +1,8 @@
 {
   "Id": 52172,
   "CatId": 87,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۵",
+  "Title": "بخش ۵ - گفت‌وگوی درشت بهرام و ساوه شاه، تنگنای هری و نیایش بهرام پیش از رزم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۵ - گفت‌وگوی درشت بهرام و ساوه شاه، تنگنای هری و نیایش بهرام پیش از رزم",
   "FullUrl": "/ferdousi/shahname/hormozd/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5883,6 +5883,80 @@
       "CoupletIndex": 216,
       "SectionIndex1": 0,
       "SectionIndex2": 218
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که گریخته و به او بدگمان شده‌اند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند ساوه شاه؛ به دستور پدر نزد بهرام می‌رود."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی که از بغداد آمده و با فغفور سخن می‌گوید. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 175,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام او برای وصف دام و نیرنگ دشمن آمده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 187,
+      "PersonId": 416,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در آرایش سپاه بهرام در یک سوی سپاه ایستاده است. (نام در متن: آذر گشسب)"
+    },
+    {
+      "CoupletIndex": 188,
+      "PersonId": 508,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار جناح چپ سپاه که از دریا با اسب می‌گذشت"
+    },
+    {
+      "CoupletIndex": 190,
+      "PersonId": 507,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در آرایش سپاه، در پیشاپیش لشکر ایستاده است."
+    },
+    {
+      "CoupletIndex": 212,
+      "PersonId": 195,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که بهرام در دعا از برگزیده‌شدنش بر خود بیم دارد"
     }
   ]
 }

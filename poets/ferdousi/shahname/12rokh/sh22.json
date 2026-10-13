@@ -1,8 +1,8 @@
 {
   "Id": 88044,
   "CatId": 56,
-  "Title": "بخش ۲۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۲",
+  "Title": "بخش ۲۲ - نبرد گیو با گروی زره: فروکوفتن، دست‌بستن و بردن او زنده به پیش خسرو",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۲ - نبرد گیو با گروی زره: فروکوفتن، دست‌بستن و بردن او زنده به پیش خسرو",
   "FullUrl": "/ferdousi/shahname/12rokh/sh22",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,44 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گیو"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز؛ گروی را شکست می‌دهد و اسیر می‌کند"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 151,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور ترک که گیو او را زخمی، بی‌هوش و اسیر می‌کند"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که اسیر را به پیشگاه او می‌برند (نام در متن: خسرو)"
     }
   ]
 }

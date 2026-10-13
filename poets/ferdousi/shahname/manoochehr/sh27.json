@@ -1,8 +1,8 @@
 {
   "Id": 1404,
   "CatId": 41,
-  "Title": "بخش ۲۷",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۷",
+  "Title": "بخش ۲۷ - آمدن سام برای دیدار رستم، جشن و پندهای پدرانه و بازگشت او به باختر",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۷ - آمدن سام برای دیدار رستم، جشن و پندهای پدرانه و بازگشت او به باختر",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh27",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1725,6 +1725,62 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و نیای رستم که برای دیدن او به زابلستان می‌رود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که با سپاه به پیشواز سام می‌رود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر زال و نوهٔ سام؛ کودکی شیرمرد و نیرومند که سام به دیدنش می‌آید."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کابل که همراه زال به پیشواز سام می‌رود."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجودی داستانی که در پایان بیت به یاد او آفرین گفته می‌شود."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آیین او نماد بدی است که مهراب می‌خواهد زنده کند"
     }
   ]
 }

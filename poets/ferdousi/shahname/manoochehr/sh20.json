@@ -1,8 +1,8 @@
 {
   "Id": 1397,
   "CatId": 41,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۰",
+  "Title": "بخش ۲۰ - آزمون خرد زال با معماهای موبدان در دربار منوچهر",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۰ - آزمون خرد زال با معماهای موبدان در دربار منوچهر",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,17 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه او را فرا می‌خواند تا موبدان از او پرسش‌هایی بپرسند."
     }
   ]
 }

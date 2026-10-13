@@ -1483,5 +1483,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 55
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 405,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که درگذشت و تخت را به هرمز سپرد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کسری، پادشاه دادگر و پدر خسرو پرویز."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو نام‌آور که در مقایسه با توانایی پرویز یاد شده است."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 646,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد دانا و آگاه که شاهزاده او را نزد خود خواند."
+    }
   ]
 }

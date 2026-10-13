@@ -1159,5 +1159,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 43
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 19,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوق زیبارویی که گوینده با او سخن می‌گوید و از او وصال می‌خواهد"
+    }
   ]
 }

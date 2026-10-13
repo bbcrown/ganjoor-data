@@ -1,8 +1,8 @@
 {
   "Id": 88083,
   "CatId": 57,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۴",
+  "Title": "بخش ۲۴ - پناه افراسیاب به هنگ، بستن او به دست هوم، بخشایش کمند و گریز به دریا",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۴ - پناه افراسیاب به هنگ، بستن او به دست هوم، بخشایش کمند و گریز به دریا",
   "FullUrl": "/ferdousi/shahname/mahmood/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,71 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گریزان که در غاری نزدیک بردع پنهان شده و هوم او را می‌بندد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای هوم؛ تبار او به فریدون می‌رسد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 578,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرستنده‌ای نیک از تبار فریدون که افراسیاب را اسیر می‌کند."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار یادشده در شمار قربانیان خونریزی‌های افراسیاب."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 70,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشتگان یادشده که هوم او را به افراسیاب یادآوری می‌کند."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یادگار جهان که یاد او در سرزنش افراسیاب آمده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که اسیر باید به دست او سپرده شود."
     }
   ]
 }

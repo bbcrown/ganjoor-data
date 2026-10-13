@@ -1,8 +1,8 @@
 {
   "Id": 88037,
   "CatId": 56,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۵",
+  "Title": "بخش ۱۵ - پاسخ نامهٔ گودرز به پیران: نکوهش فریب، رد آشتی و استوار کردن کین سیاوش",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۵ - پاسخ نامهٔ گودرز به پیران: نکوهش فریب، رد آشتی و استوار کردن کین سیاوش",
   "FullUrl": "/ferdousi/shahname/12rokh/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3858,6 +3858,188 @@
       "CoupletIndex": 141,
       "SectionIndex1": 0,
       "SectionIndex2": 143
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور که پیام افراسیاب را رسانده است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد ایرانی نیرومند که نخستین بار به جنگ با مخاطب آمد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیک‌بخت که تور برای تاج و تخت بر او ستم کرد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستمگری که برای تاج و تخت بر ایرج بیداد کرد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه تور که بیداد و کین را در زمین گسترد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شب و روز از دل‌دردی تور و سلم را نفرین می‌کرد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب نامه و پاسخ؛ نیای او با شاهان ایران کین داشت."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که کین تازه با او آغاز شد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان ایران که با او نیز کین نهاده شد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان ایران که با او نیز کین نهاده شد."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از او گرد از ایران برآمد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بی‌گناه که جان داد و کین او کینه‌ای تازه و دراز پدید آورد."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که همراه رویین نامش آمده و خسروپرست خوانده شده است."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از باختر تا مرز خزر زیر فرمان او درآمد. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تیغ‌زنی که ترکان و هندوان را سرکوب کرد و سر هندوان را نزد شاه فرستاد."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 142,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که در نبرد به نزدیک مرگ رسید."
+    },
+    {
+      "CoupletIndex": 115,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و پهلوان ایرانی که نامهٔ پاسخ را می‌خواند و پاداش می‌دهد"
+    },
+    {
+      "CoupletIndex": 127,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سالار سپاه توران، پدر رویین"
+    },
+    {
+      "CoupletIndex": 138,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار نامدار ترک که کشته شده و انگیزهٔ کین است"
+    },
+    {
+      "CoupletIndex": 139,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور کشته‌شده‌ای که پیران در سخن خود او را یاد می‌کند"
     }
   ]
 }

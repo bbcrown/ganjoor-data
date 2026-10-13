@@ -1,8 +1,8 @@
 {
   "Id": 1561,
   "CatId": 60,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۲",
+  "Title": "بخش ۲ - آغاز هفت‌خوان اسفندیار: پرسش راه از گرگسار و کشتن دو گرگ در خان نخست",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۲ - آغاز هفت‌خوان اسفندیار: پرسش راه از گرگسار و کشتن دو گرگ در خان نخست",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2022,6 +2022,71 @@
       "CoupletIndex": 73,
       "SectionIndex1": 0,
       "SectionIndex2": 75
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای که در بلخ سپاه می‌راند و از گرگسار دربارهٔ رویین‌دژ می‌پرسد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسیر بسته‌شده که راه و ویژگی‌های رویین‌دژ را برای اسفندیار توضیح می‌دهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که اسفندیار دربارهٔ او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب شارستانی که آن را پیکارستان نامیده است. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجود افسانه‌ای که در شمار خطرهای راه رویین‌دژ آمده است."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای وصف دل و زور آهرمنی در مقایسه آمده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد بیدار و نگهبان سپاه که اسفندیار نگهداری لشکر را به او می‌سپارد."
     }
   ]
 }

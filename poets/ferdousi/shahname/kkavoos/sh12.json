@@ -1,8 +1,8 @@
 {
   "Id": 1441,
   "CatId": 46,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۲",
+  "Title": "بخش ۱۲ - نامهٔ تهدیدآمیز کاووس به شاه مازندران و فرستادن فرهاد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۲ - نامهٔ تهدیدآمیز کاووس به شاه مازندران و فرستادن فرهاد",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,89 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 10,
+      "PersonId": 100,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه مازندران که نامه را دریافت می‌کند و می‌خواند"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از چنگ و نیروی او در نامه بیم داده می‌شود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو کشته‌شده که سرنوشتش هشدار و مایهٔ اندوه شاه مازندران است"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 103,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشته‌شدگان به دست رستم؛ سرنوشتش هشدار و مایهٔ اندوه شاه است"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که فرستاده و نامه از جانب او به مازندران می‌رسد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان فرستاده که نامهٔ کاووس را به مازندران می‌برد"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 93,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشته‌شدگانی که شاه مازندران به‌سبب مرگشان اندوهگین می‌شود. (نام در متن: پولاد غندی)"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 104,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشته‌شدگان که شاه مازندران برایشان اندوهگین می‌شود"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 107,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کشته‌شدگان که شاه مازندران برایشان اندوهگین می‌شود"
     }
   ]
 }

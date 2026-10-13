@@ -1,8 +1,8 @@
 {
   "Id": 1812,
   "CatId": 83,
-  "Title": "بخش ۴۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۳",
+  "Title": "بخش ۴۳ - نوشتن عهدنامهٔ شنگل، سپردن سپینود و هند به بهرام‌شاه و بازگشت او با هدایا",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۳ - نوشتن عهدنامهٔ شنگل، سپردن سپینود و هند به بهرام‌شاه و بازگشت او با هدایا",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh43",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -537,6 +537,17 @@
       "CoupletIndex": 18,
       "SectionIndex1": 0,
       "SectionIndex2": 20
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 310,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سپینود به جفتی او سپرده می‌شود و گنج و تاج به او می‌رسد."
     }
   ]
 }

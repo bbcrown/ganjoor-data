@@ -1,8 +1,8 @@
 {
   "Id": 1434,
   "CatId": 46,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۵",
+  "Title": "بخش ۵ - خان اول رستم: شکار گور و کشتن شیر توسط رخش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۵ - خان اول رستم: شکار گور و کشتن شیر توسط رخش",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,17 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سوار بر رخش که گور شکار می‌کند و در نیستان می‌خوابد"
     }
   ]
 }

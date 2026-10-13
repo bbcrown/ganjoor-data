@@ -1,8 +1,8 @@
 {
   "Id": 1928,
   "CatId": 96,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۵",
+  "Title": "بخش ۵ - نبرد تن‌به‌تن رستم و سعد، کشته شدن رستم و هزیمت ایرانیان سوی یزدگرد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۵ - نبرد تن‌به‌تن رستم و سعد، کشته شدن رستم و هزیمت ایرانیان سوی یزدگرد",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,26 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 327,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار تازی که با رستم می‌جنگد و رستم را زخمی می‌کند."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 691,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در بغداد سپاه گرد آورده است."
     }
   ]
 }

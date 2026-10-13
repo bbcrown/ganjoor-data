@@ -43,16 +43,6 @@
     },
     {
       "Index": 3,
-      "Number": 3,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "المیکنیمیگذرد",
-      "PlainText": "گر کسب کمال می کنی میگذرد\r\nور فکر محال می کنی میگذرد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کسب کمال می کنی، میگذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور فکر محال می کنی، میگذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 3,
       "Number": 4,
       "SectionType": "WholePoem",
       "VerseType": "First",
@@ -61,6 +51,16 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت اگر دولت جمشیدی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموی سفید آیت نومیدی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح برآمد چه شوی مست خواب؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز سر دیوار گذشت آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفت جانی به تغافل بسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجای دریغ است، دریغی بخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگم شده ای هر که چو یوسف بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگم شدنش جای تاسف بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفارغی از قدر جوانی که چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نشوی پیر ندانی که چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه جوانی همه چون آتش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیری، تلخ است و جوانی، خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهد باغ است درخت جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیر شود، برکندش باغبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاخِ تَر از بهر گل نوبر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیزم خشک از پی خاکستر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Masnavi",
       "CoupletsCount": 8
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "المیکنیمیگذرد",
+      "PlainText": "گر کسب کمال می کنی میگذرد\r\nور فکر محال می کنی میگذرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کسب کمال می کنی، میگذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور فکر محال می کنی، میگذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 4,
@@ -97,9 +97,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ویتوایم",
-      "PlainText": "هر چند شب آزرده تر از کوی توایم\r\nپیش از همه کس روز دگر سوی توایم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند شب آزرده تر از کوی توایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش از همه کس روز دگر سوی توایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یدیاست",
+      "PlainText": "دولت اگر دولت جمشیدی است\r\nموی سفید آیت نومیدی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت اگر دولت جمشیدی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموی سفید آیت نومیدی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -107,9 +107,9 @@
       "Number": 5,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یدیاست",
-      "PlainText": "دولت اگر دولت جمشیدی است\r\nموی سفید آیت نومیدی است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت اگر دولت جمشیدی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموی سفید آیت نومیدی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ویتوایم",
+      "PlainText": "هر چند شب آزرده تر از کوی توایم\r\nپیش از همه کس روز دگر سوی توایم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند شب آزرده تر از کوی توایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش از همه کس روز دگر سوی توایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {

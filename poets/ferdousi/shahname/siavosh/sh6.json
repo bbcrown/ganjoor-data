@@ -1,8 +1,8 @@
 {
   "Id": 1485,
   "CatId": 49,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۶",
+  "Title": "بخش ۶ - خواب سهمگین افراسیاب، تعبیر موبدان و فرستادن گرسیوز با پیام آشتی به سیاوش",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۶ - خواب سهمگین افراسیاب، تعبیر موبدان و فرستادن گرسیوز با پیام آشتی به سیاوش",
   "FullUrl": "/ferdousi/shahname/siavosh/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2967,6 +2967,98 @@
       "CoupletIndex": 108,
       "SectionIndex1": 0,
       "SectionIndex2": 110
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که از خوابی هولناک می‌ترسد و آن را بازمی‌گوید."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر افراسیاب که او را دلداری می‌دهد و خوابش را نیکو می‌گزارد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در خواب افراسیاب او را نزد او می‌برند. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 362,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوانی که در خواب افراسیاب بر تخت نشسته و او را با تیغ دو نیم می‌کند."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که جنگ با او یا کشته شدنش آشوب و ویرانی می‌آورد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که شاه می‌خواهد به او پیام و هدیه بفرستد."
+    },
+    {
+      "CoupletIndex": 95,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دلیران گذشته که همراه تور یاد شده است."
+    },
+    {
+      "CoupletIndex": 95,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دلیران گذشته که همراه سلم یاد شده است."
+    },
+    {
+      "CoupletIndex": 96,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بی‌گناهی که به ناحق کشته شد."
+    },
+    {
+      "CoupletIndex": 102,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که جهان را میان گردان بخشید."
     }
   ]
 }

@@ -754,5 +754,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 28
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 686,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه آمده است؛ از آب زندگانی بهره‌ای نبرد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 639,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اتابک و شاه ستایش‌شده، وارث شاهان و پناه خسروان. (نام در متن: ابوبکر محمد)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اتابک در پناه‌دهی و مبارکی پرچم به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده و سراینده که برایش آمرزش و رحمت خواسته می‌شود."
+    }
   ]
 }

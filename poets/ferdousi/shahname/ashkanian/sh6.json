@@ -1,8 +1,8 @@
 {
   "Id": 1692,
   "CatId": 68,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۶",
+  "Title": "بخش ۶ - شب دیدار گلنار و اردشیر، مرگ بابک و پیشگویی اخترشناسان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۶ - شب دیدار گلنار و اردشیر، مرگ بابک و پیشگویی اخترشناسان",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,44 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و صاحب کاخ؛ گلنار گنجور اوست و از اخترشناسان طالع می‌خواهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 294,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنیز ماه‌روی و گنجور اردوان که به اردشیر دل می‌بندد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوانی که گلنار را می‌بیند و از درد خود می‌خواهد بگریزد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 292,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد جهاندیده و بیدار که می‌میرد و اردشیر را اندوهگین می‌کند."
     }
   ]
 }

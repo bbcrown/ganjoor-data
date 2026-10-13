@@ -1240,5 +1240,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 46
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 637,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سلطان جوان‌بخت و دادگر که شاعر کتاب را به او تقدیم می‌کند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 638,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیش از طغرل بر تخت نشسته بود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 639,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای جهانگیری که پیام به او گفته می‌شود."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه برای شکوه پادشاه ممدوح آمده است."
+    }
   ]
 }

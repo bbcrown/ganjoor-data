@@ -1,8 +1,8 @@
 {
   "Id": 1836,
   "CatId": 88,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱",
+  "Title": "بخش ۱ - پیام آشوب بغداد، تاختن خسرو با سپاه، پذیرایی بزرگان و رفتن دردمند نزد پدر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱ - پیام آشوب بغداد، تاختن خسرو با سپاه، پذیرایی بزرگان و رفتن دردمند نزد پدر",
   "FullUrl": "/ferdousi/shahname/parviz/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -699,6 +699,35 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بندوی و آذرگشسپ، فرستندهٔ پیک شبانه نزد خسرو"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گستهم؛ با او پیکی تندرو را نزد خسرو فرستاد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 416,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گستهم و بندوی، فرستندهٔ پیک شبانه نزد خسرو"
     }
   ]
 }

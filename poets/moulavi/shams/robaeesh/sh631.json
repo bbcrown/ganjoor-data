@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "قدارد",
-      "PlainText": "چشم تو هزار سحر مطلق دارد\r\nهر گوشه هزار جان معلق دارد\r\nزلفت کفر است و دین رخ چون قمرست\r\nاز کفر نگر که دین چه رونق دارد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم تو هزار سحر مطلق دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر گوشه هزار جان معلق دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلفت کفر است و دین رخ چون قمرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کفر نگر که دین چه رونق دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "چشم تو هزار سحر مطلق دارد\r\nهر گوشه هزار جان معلق دارد\r\nزلفت کفر است و دین رخ چون قمرت\r\nاز کفر نگر که دین چه رونق دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم تو هزار سحر مطلق دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر گوشه هزار جان معلق دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلفت کفر است و دین رخ چون قمرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کفر نگر که دین چه رونق دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -44,7 +44,7 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "زلفت کفر است و دین رخ چون قمرست",
+      "Text": "زلفت کفر است و دین رخ چون قمرت",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: موهای تو نشانه‌ی بی‌دینی است و چهره‌ات مانند ماه نورانی می‌باشد. از روی بی‌دینی به آنچه که دین دارد، نگاه کن که چه زیبایی و رونق دارد."

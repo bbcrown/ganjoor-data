@@ -1,8 +1,8 @@
 {
   "Id": 88020,
   "CatId": 55,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۱",
+  "Title": "بخش ۱۱ - برداشتن سنگ چاه به نیروی رستم، رهایی بیژن، بخشایش گرگین و آراستن سپاه برای کین افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۱ - برداشتن سنگ چاه به نیروی رستم، رهایی بیژن، بخشایش گرگین و آراستن سپاه برای کین افراسیاب",
   "FullUrl": "/ferdousi/shahname/bizhan/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,71 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با سپاه آمده و بیژن را از چاه بیرون می‌آورد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زندانی در چاه که رستم او را نجات می‌دهد."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم که بیژن را در بازگشت از چاه همراهی می‌کند."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کردار بد خود نزد بیژن پوزش می‌خواهد."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تیزهوش؛ با بنه می‌رود و بیژن و منیژه را همراهی می‌کند."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 547,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بیژن و اشکش فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم از کین او آرام ندارد و بر درگاهش نقشه می‌کشد."
     }
   ]
 }

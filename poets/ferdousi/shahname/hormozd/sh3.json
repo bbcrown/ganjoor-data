@@ -1,8 +1,8 @@
 {
   "Id": 52170,
   "CatId": 87,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۳",
+  "Title": "بخش ۳ - داد هرمز، تاختن ساوه شاه و روم و خزر، پیشگویی مهران ستاد و آمدن بهرام چوبینه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۳ - داد هرمز، تاختن ساوه شاه و روم و خزر، پیشگویی مهران ستاد و آمدن بهرام چوبینه",
   "FullUrl": "/ferdousi/shahname/hormozd/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5208,6 +5208,161 @@
       "CoupletIndex": 191,
       "SectionIndex1": 0,
       "SectionIndex2": 193
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و پدر پرویز؛ بهرام را به زندان فرستاد و بر کشتمند داد کرد. (نام در متن: هرمز)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گرامی هرمز؛ صاحب اسبی که به کشتزار رفت"
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که با لشکر صدهزار نفری آمد."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیشین که شهری گرفت و قیصر از نامش ناتوان بود."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 503,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهان‌دیده‌ای که پیشاپیش سپاه خزر با گنج و لشکر خود بود."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 504,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پیشروان سپاهی که از دشت سواران آمد."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 505,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پیشروان سپاهی که از دشت سواران آمد."
+    },
+    {
+      "CoupletIndex": 99,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در داستان گذشته، همراه گشتاسب از ارجاسب بد دید. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 99,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در داستان گذشته، ارجاسب از بهر دین با او جنگید. (نام در متن: گشتاسب)"
+    },
+    {
+      "CoupletIndex": 101,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در داستان گذشته، با گشاده شدن کار او جنگ‌ها پیاپی بود."
+    },
+    {
+      "CoupletIndex": 112,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار سپاه ایرانیان، دارای فرّ و اورنگ و دادگر."
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 46,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بندهٔ خردمند شاه که از مهران ستاد یاد می‌کند"
+    },
+    {
+      "CoupletIndex": 119,
+      "PersonId": 423,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر کهنسال و آگاه از روزگار که برای شاه سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 134,
+      "PersonId": 459,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی چینی و مادر دختران که از دوری دخترش دل‌نگران بود"
+    },
+    {
+      "CoupletIndex": 141,
+      "PersonId": 264,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خاتون چینی از تبار او دانسته شده است"
+    },
+    {
+      "CoupletIndex": 160,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار و سپهبد سرافراز؛ پیش‌بینی شده با لقب چوبینه، فرمانده مرزبان بردع و اردبیل."
+    },
+    {
+      "CoupletIndex": 182,
+      "PersonId": 511,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام."
     }
   ]
 }

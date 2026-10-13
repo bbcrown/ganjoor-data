@@ -2374,5 +2374,70 @@
       "SectionIndex1": 0,
       "SectionIndex2": 88
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلبر زیبارو که پند بانو را می‌پذیرد و سوگند می‌خورد"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 656,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ زنی که به بدنامی مشهور شد"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مقایسه، رقیب کیخسرو"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مقایسه، نمونهٔ شاهی بزرگ"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ تیراندازی و سوارکاری برای سنجش دختران."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ مردی و دلاوری برای سنجش دختران."
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 657,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که در پی فرصت گفت‌وگو با شیرین است و او را به شادی دعوت می‌کند."
+    }
   ]
 }

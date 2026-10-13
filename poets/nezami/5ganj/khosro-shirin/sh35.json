@@ -1132,5 +1132,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 42
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی شکارگر و دل‌افروز که خسرو را به سرای خود می‌خواند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 636,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خسرو به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 655,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیرین به او مانند شده است."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1363,
   "CatId": 40,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۶",
+  "Title": "بخش ۶ - کینهٔ سلم و تور ایرج را",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۶ - کینهٔ سلم و تور ایرج را",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3021,6 +3021,44 @@
       "CoupletIndex": 110,
       "SectionIndex1": 0,
       "SectionIndex2": 112
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه سالخورده و پدر سلم، تور و ایرج؛ تخت را به کهتر پسر داده است."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر مهتر فریدون که از بخش پدر ناخشنود است و به تور پیام می‌فرستد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کهترین پسر فریدون که پدر ایران و تخت را به او می‌دهد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین و توران، برادر سلم، که از پیام او برمی‌آشوبد."
     }
   ]
 }

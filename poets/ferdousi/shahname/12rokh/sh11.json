@@ -1,8 +1,8 @@
 {
   "Id": 88033,
   "CatId": 56,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۱",
+  "Title": "بخش ۱۱ - شبیخون سپیده‌دم نستیهن، کشته شدنش به گرز بیژن و سوگ پیران بر برادر",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۱ - شبیخون سپیده‌دم نستیهن، کشته شدنش به گرز بیژن و سوگ پیران بر برادر",
   "FullUrl": "/ferdousi/shahname/12rokh/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1536,6 +1536,62 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار تورانی و برادر پیران، که بیژن او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و پهلوان ایرانی که بیژن را به نبرد می‌فرستد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن؛ فقط در نام‌بردن از بیژن یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی، پسر گیو، که با هزار سوار نستیهن را می‌کشد."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار تورانی و برادر نستیهن که از مرگ او سوگوار می‌شود."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر گوینده؛ پهلوان کشته‌شده‌ای که برای او سوگواری می‌شود."
     }
   ]
 }

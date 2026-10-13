@@ -1,8 +1,8 @@
 {
   "Id": 1673,
   "CatId": 67,
-  "Title": "بخش ۳۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۴",
+  "Title": "بخش ۳۴ - رسیدن سکندر به کوه رخشنده، گفت‌وگوی قیصر با مرغ سخنگو و فرمان رفتن تنها به تیغ کوه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۴ - رسیدن سکندر به کوه رخشنده، گفت‌وگوی قیصر با مرغ سخنگو و فرمان رفتن تنها به تیغ کوه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh34",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,26 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه رومی که به کوه می‌رسد و با مرغ سخن می‌گوید (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه رومی و یزدان‌پرست که به کوه روشنایی می‌رسد و با مرغ سخن می‌گوید."
     }
   ]
 }

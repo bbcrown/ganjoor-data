@@ -5236,5 +5236,178 @@
       "SectionIndex1": 0,
       "SectionIndex2": 194
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 19,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که بزرگان را در گلشن گرد آورده و دربارهٔ گور هشدار می‌دهد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تبار گرشاسپ؛ فقط به‌عنوان تبار یاد شده. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان حاضر در بزم که به شکار گور می‌رود."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان نشسته در بزم کیخسرو."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان حاضر در بزم کیخسرو."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان نشسته در بزم کیخسرو."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرخنده‌رای، از بزرگان حاضر در بزم."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان حاضر در بزم کیخسرو."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان حاضر در بزم کیخسرو."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کارآزموده، از بزرگان حاضر در بزم."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کینه‌جوی؛ در گمانِ شاه دربارهٔ گور به او مانند شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 170,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که به شکل گور درآمده و رستم خفته را برمی‌دارد."
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 12,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرشتهٔ پیام‌آور که در سخن رستم از جهان پس از مرگ یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب اسب‌های مرغزار که با دو هزار گرد به آنجا می‌رسد."
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای رستم که نامش در معرفی رستم آمده است."
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که رستم خود را پسر او معرفی می‌کند. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 131,
+      "PersonId": 170,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که با رستم جنگید و به دست او کشته شد."
+    },
+    {
+      "CoupletIndex": 180,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌ای که باید کینش ستانده شود (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 192,
+      "PersonId": 165,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): داستان کین او به‌عنوان روایت بعدی یاد می‌شود."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87970,
   "CatId": 51,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۶",
+  "Title": "بخش ۱۶ - رسیدن سپاه ایران به کاسه‌رود، نبرد بیژن با پلاشان و آوردن سر او پیش سپهبد",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۶ - رسیدن سپاه ایران به کاسه‌رود، نبرد بیژن با پلاشان و آوردن سر او پیش سپهبد",
   "FullUrl": "/ferdousi/shahname/forood/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1455,6 +1455,44 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 519,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوان و دلیر تورانی که برای دیدن سپاه ایران می‌آید و با بیژن می‌جنگد"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و پدر بیژن که زره سیاوش را به او می‌دهد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و پسر گیو که به نبرد پلاشان می‌رود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب پیشین سلیح و زرهی که بیژن به جنگ می‌پوشد. (نام در متن: سیاوش)"
     }
   ]
 }

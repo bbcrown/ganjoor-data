@@ -1,8 +1,8 @@
 {
   "Id": 1562,
   "CatId": 60,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۳",
+  "Title": "بخش ۳ - خان دوم اسفندیار: هشدار گرگسار از شیر و کشتن شیر نر و ماده",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۳ - خان دوم اسفندیار: هشدار گرگسار از شیر و کشتن شیر نر و ماده",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,35 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و سپهبد شیردل که دو شیر را می‌کشد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترک بسته‌شده که اسفندیار از او دربارهٔ جنگ می‌پرسد"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار لشکر که اسفندیار سپاه را به او می‌سپارد"
     }
   ]
 }

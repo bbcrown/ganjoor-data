@@ -1,8 +1,8 @@
 {
   "Id": 1759,
   "CatId": 82,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۷",
+  "Title": "بخش ۷ - خواب بهرام در بزم پیش پدر، خشم و بند یک‌ساله، رهایی به پایمردی طینوش و پناه به منذر در یمن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۷ - خواب بهرام در بزم پیش پدر، خشم و بند یک‌ساله، رهایی به پایمردی طینوش و پناه به منذر در یمن",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,53 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 277,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ رومی قیصر نزد شاه که پیام بهرام را می‌شنود."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که باژ و هدیه فرستاد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای که پدر او را زندانی کرد و سپس به یمن رفت."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگ یمن که بهرام او را از پدر و مادر برتر می‌داند"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه منذر در پیشواز از بهرام"
     }
   ]
 }

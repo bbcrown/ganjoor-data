@@ -1,8 +1,8 @@
 {
   "Id": 1670,
   "CatId": 67,
-  "Title": "بخش ۳۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۱",
+  "Title": "بخش ۳۱ - نبرد سکندر با نرم‌پایان، کشتن اژدهای کوه، بانگ مرگ و رفتن به شهر زنان هروم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۱ - نبرد سکندر با نرم‌پایان، کشتن اژدهای کوه، بانگ مرگ و رفتن به شهر زنان هروم",
   "FullUrl": "/ferdousi/shahname/eskandar/sh31",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4074,6 +4074,17 @@
       "CoupletIndex": 149,
       "SectionIndex1": 0,
       "SectionIndex2": 151
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سالار لشکر که با سپاهش راه می‌پیماید و با اژدها روبه‌رو می‌شود."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88064,
   "CatId": 57,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۵",
+  "Title": "بخش ۵ - پیام آشتی افراسیاب به دست شیده، پند سپاه و پافشاری کیخسرو بر کین سیاوش",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۵ - پیام آشتی افراسیاب به دست شیده، پند سپاه و پافشاری کیخسرو بر کین سیاوش",
   "FullUrl": "/ferdousi/shahname/mahmood/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3534,6 +3534,170 @@
       "CoupletIndex": 129,
       "SectionIndex1": 0,
       "SectionIndex2": 131
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نبیرهٔ شاه؛ پیام شاه برای او فرستاده می‌شود و رویاروی او در جنگ است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شدنش بنیاد کین و کشمکش میان دو طرف است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه می‌پرسد او در کشته شدن سیاوش چه گناهی داشت."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پیران و لهاک و فرشیدورد، در این گفتار نام‌برده شده است."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پیران و رویین و فرشیدورد، در این گفتار نام‌برده شده است."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پیران و رویین و لهاک، در این گفتار نام‌برده شده است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام او برای نکوهش و تشبیه به بدی آمده است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گودرز نام برده شده و کین به او واگذار می‌شود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه می‌گوید کین را به او و کاووس واگذار کند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 61,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر جنگی شاه؛ شاه می‌گوید کمر بسته نزد مخاطب خواهد آمد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر شاه است."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ افراسیاب با درفش سیاه؛ خالو و همالِ شاه ایران"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار چین و شاه توران؛ پدرِ مادرِ شاه ایران"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردنکش ایرانی که شاه او را برای شنیدن پیام شیده فرستاد (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسبان و گنج را برای زادشم نهاد؛ بر ایرج ستم کرد."
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 63,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "نمایانگر آن که زادشم فرزند یا جانشین تور بوده است"
+    },
+    {
+      "CoupletIndex": 98,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که از آشتی سر باز زد و از مرگ سیاوش کینه داشت."
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیکبخت؛ تور برای تاج و تخت بر او ستم کرد."
     }
   ]
 }

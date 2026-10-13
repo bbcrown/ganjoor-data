@@ -1,8 +1,8 @@
 {
   "Id": 1483,
   "CatId": 49,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۴",
+  "Title": "بخش ۴ - کام‌جویی سودابه از سیاوش، تهمت ناروا و گذر بی‌گزند او از کوه آتش",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۴ - کام‌جویی سودابه از سیاوش، تهمت ناروا و گذر بی‌گزند او از کوه آتش",
   "FullUrl": "/ferdousi/shahname/siavosh/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -8718,6 +8718,78 @@
       "CoupletIndex": 321,
       "SectionIndex1": 0,
       "SectionIndex2": 323
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی بر تخت‌نشسته که سیاوش را می‌خواند و به او پیشنهاد می‌دهد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه‌زادهٔ پاک‌دل که سودابه او را فرا می‌خواند و می‌آزماید. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 138,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور سودابه که سیاوش را نزد او می‌آورد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام اهریمن برای نشان دادن پرهیز سیاوش از بدی آمده است. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران و پدر سیاوش؛ به شبستان می‌آید و گنج می‌گشاید. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 200,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی بسیار نیرومند که شیر از بیمش می‌لرزد و زورش هشتاد پیل است."
+    },
+    {
+      "CoupletIndex": 200,
+      "PersonId": 361,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و پهلوان نیرومندی که شیر و لشکر از او می‌ترسند."
+    },
+    {
+      "CoupletIndex": 294,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سودابه جادو را به او نسبت می‌دهد."
     }
   ]
 }

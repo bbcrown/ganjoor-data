@@ -1,8 +1,8 @@
 {
   "Id": 1738,
   "CatId": 77,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۶",
+  "Title": "بخش ۶ - رازگشایی شاپور بر کنیزک، سوگند رازداری، رهایی از چرم خر با شیر و تدارک گریز از روم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۶ - رازگشایی شاپور بر کنیزک، سوگند رازداری، رهایی از چرم خر با شیر و تدارک گریز از روم",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,26 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در روم در چرم خر نهان است و با کنیزک راز می‌گوید."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنیزک در سوگند خود به جان او سوگند می‌خورد"
     }
   ]
 }

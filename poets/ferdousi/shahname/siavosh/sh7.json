@@ -1,8 +1,8 @@
 {
   "Id": 1486,
   "CatId": 49,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۷",
+  "Title": "بخش ۷ - آمدن گرسیوز با خواستهٔ آشتی، گروگان و بازگشت افراسیاب، و خشم کاووس و گسیل طوس",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۷ - آمدن گرسیوز با خواستهٔ آشتی، گروگان و بازگشت افراسیاب، و خشم کاووس و گسیل طوس",
   "FullUrl": "/ferdousi/shahname/siavosh/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -4317,6 +4317,62 @@
       "CoupletIndex": 158,
       "SectionIndex1": 0,
       "SectionIndex2": 160
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ افراسیاب که با پیشکش‌ها نزد سیاوش به بلخ می‌آید"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه سیاوش که دربارهٔ پیام افراسیاب رای می‌دهد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که گرسیوز را می‌پذیرد و با رستم مشورت می‌کند (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ گرسیوز و پیشکش‌ها که خواهان آشتی است"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که نامه به او فرستاده می‌شود و تندخو دانسته شده است (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 148,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار که شاه می‌خواهد کار را به او بسپارد."
     }
   ]
 }

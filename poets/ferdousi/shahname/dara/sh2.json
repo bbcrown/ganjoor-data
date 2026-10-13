@@ -1,8 +1,8 @@
 {
   "Id": 1631,
   "CatId": 66,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۲",
+  "Title": "بخش ۲ - مرگ فیلقوس، پند ارسطو به سکندر، رد باژ دارا، فتح مصر و لشکرکشیدن دارا بر فرات",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۲ - مرگ فیلقوس، پند ارسطو به سکندر، رد باژ دارا، فتح مصر و لشکرکشیدن دارا بر فرات",
   "FullUrl": "/ferdousi/shahname/dara/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,44 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 251,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که درگذشت و سکندر جانشین او شد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روم که بر تخت نشست و به جنگ دارا رفت"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 253,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): حکیم نامدار و خردمند روم که سکندر را پند داد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از سکندر باژ می‌خواهد و با لشکر به سوی روم می‌رود."
     }
   ]
 }

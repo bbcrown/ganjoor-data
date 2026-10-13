@@ -1,8 +1,8 @@
 {
   "Id": 88028,
   "CatId": 56,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۶",
+  "Title": "بخش ۶ - شکایت بیژن از درنگ گودرز، اندرز گیو به پسر و پذیرش رای نیا",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۶ - شکایت بیژن از درنگ گودرز، اندرز گیو به پسر و پذیرش رای نیا",
   "FullUrl": "/ferdousi/shahname/12rokh/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,62 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن؛ از سخن پسرش می‌خندد و او را می‌ستاید."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو؛ نزد پدر می‌رود و پیشنهاد رزم و کمین می‌دهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار ایران؛ سنجهٔ سنجش گودرز."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سوار نامدار ایران، جهان‌دیده، نیای بیژن."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 558,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگ و کشتار بازگشته است."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار با سپاه بی‌شمار که به سوی کوه رفته است."
     }
   ]
 }

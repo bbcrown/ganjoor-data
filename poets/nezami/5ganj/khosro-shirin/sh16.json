@@ -727,5 +727,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 27
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر خسرو که پسر را می‌بخشد و ولیعهد می‌کند"
+    }
   ]
 }

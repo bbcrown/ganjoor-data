@@ -1,8 +1,8 @@
 {
   "Id": 1743,
   "CatId": 77,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۱",
+  "Title": "بخش ۱۱ - نامهٔ پیروزی شاپور به مهتران، تاج‌گذاری در طیسفون و مکافات قیصر با مهار خر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۱ - نامهٔ پیروزی شاپور به مهتران، تاج‌گذاری در طیسفون و مکافات قیصر با مهار خر",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,26 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به دبیر فرمان نوشتن نامه می‌دهد؛ قیصر اسیر او را می‌بیند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم؛ اسیر و زندانی شده و از شاه زینهار می‌خواهد."
     }
   ]
 }

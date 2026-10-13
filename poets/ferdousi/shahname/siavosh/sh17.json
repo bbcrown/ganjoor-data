@@ -1,8 +1,8 @@
 {
   "Id": 1496,
   "CatId": 49,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۷",
+  "Title": "بخش ۱۷ - خواب گودرز و بشارت سروش به کیخسرو، پذیرفتن گیو و عزیمت او به توران",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۷ - خواب گودرز و بشارت سروش به کیخسرو، پذیرفتن گیو و عزیمت او به توران",
   "FullUrl": "/ferdousi/shahname/siavosh/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,89 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و پهلوان سالخورده‌ای که در خواب پیام سروش را می‌بیند"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 12,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور خجسته‌ای که در خواب بر گودرز پدیدار می‌شود و مژدهٔ کیخسرو را می‌دهد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار نامدار توران از نسل سیاوش که در خواب گودرز نویدش می‌رسد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر کیخسرو (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مادری کیخسرو"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای کیخسرو از سوی پدر"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که کیخسرو کین او را در دل دارد"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز که باید کیخسرو را بیابد"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کودک خردسالی که گوینده او را برای پرورش به گودرز می‌سپارد."
     }
   ]
 }

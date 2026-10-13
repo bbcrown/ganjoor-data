@@ -1,8 +1,8 @@
 {
   "Id": 87974,
   "CatId": 51,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۰",
+  "Title": "بخش ۲۰ - نامهٔ سوگ و خشم کیخسرو بر کشته شدن فرود، سپردن سپاه به فریبرز و بند کردن طوس",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۰ - نامهٔ سوگ و خشم کیخسرو بر کشته شدن فرود، سپردن سپاه به فریبرز و بند کردن طوس",
   "FullUrl": "/ferdousi/shahname/forood/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1698,6 +1698,89 @@
       "CoupletIndex": 61,
       "SectionIndex1": 0,
       "SectionIndex2": 63
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه می‌نویسد و برادرش را سوگوار است. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گیرندهٔ نامهٔ کاوس که سران را فرامی‌خواند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار دارندهٔ کاویانی درفش که شاه از او ناخشنود است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر جوان و خسرونژاد که شاه برایش سوگوار است."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرافراز و رایزن در انجمن سران."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که باید پیشرو سپاه در جنگ باشد."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که نامه می‌نویسد و طوس را سرزنش و زندانی می‌کند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در سرزنش شاه به‌عنوان نیای نژادی یاد شده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نژاد طوس که شاه او را یادآور می‌شود."
     }
   ]
 }

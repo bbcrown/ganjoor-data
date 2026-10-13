@@ -1,8 +1,8 @@
 {
   "Id": 88046,
   "CatId": 56,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۴",
+  "Title": "بخش ۲۴ - نبرد چهارم: کشتن زنگله به تیر فروهل، بریدن سر و افراشتن درفش پیروزی",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۴ - نبرد چهارم: کشتن زنگله به تیر فروهل، بریدن سر و افراشتن درفش پیروزی",
   "FullUrl": "/ferdousi/shahname/12rokh/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -375,6 +375,26 @@
       "CoupletIndex": 12,
       "SectionIndex1": 0,
       "SectionIndex2": 14
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 552,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور تیرانداز که زنگله را می‌کشد و سرش را می‌برد"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 559,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی ترک که با فروهل می‌جنگد و کشته می‌شود"
     }
   ]
 }

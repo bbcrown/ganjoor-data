@@ -1699,5 +1699,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 63
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی گوینده که در پاسخ به پادشاه از خود دفاع می‌کند."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با قلم کار می‌کند، در برابر می‌گساری مخاطب"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با تیشه کار می‌کند، در برابر می‌گساری مخاطب"
+    }
   ]
 }

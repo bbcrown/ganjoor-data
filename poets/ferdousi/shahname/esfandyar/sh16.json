@@ -1,8 +1,8 @@
 {
   "Id": 1590,
   "CatId": 61,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۶",
+  "Title": "بخش ۱۶ - پاسخ رستم به اسفندیار: ستایش نژاد، یادکرد پهلوانی‌های خویش و دعوت به می",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۶ - پاسخ رستم به اسفندیار: ستایش نژاد، یادکرد پهلوانی‌های خویش و دعوت به می",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,160 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده‌ای که به شاه پاسخ می‌دهد و از کارهای پهلوانی خود می‌گوید"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور نریمان، پهلوان بزرگ و نیک‌نام و نیای رستم"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان رستم، پدر او"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر سام و از گردان نیکوکار"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 64,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 56,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر مادر رستم"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 58,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر رستم که از نژاد ضحاک بود"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پنجمین نیای مادری رستم؛ فریدون او را از تخت فروآورد"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که رستم با او سخن می‌گوید و عهد او را یاد می‌کند"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دادگر که رستم با او پیمان داشت"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از توران به چین آمد، هنگامی که رستم از جیحون گذشت"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 101,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان مازندران که رستم او را از میان برد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو مازندران که رستم او را از میان برد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 103,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که رستم در مازندران از میان برد"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 104,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان مازندران که رستم او را از میان برد"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 128,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی بی‌همتا در زور و مردی که رستم او را کشت"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه فرخ‌نژاد که ضحاک را از تخت به زیر آورد"
     }
   ]
 }

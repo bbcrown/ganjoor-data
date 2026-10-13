@@ -1,8 +1,8 @@
 {
   "Id": 1547,
   "CatId": 59,
-  "Title": "بخش ۲۱ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۱ - سخن دقیقی",
+  "Title": "بخش ۲۱ - سخن دقیقی: سپردن فرمانروایی به اسفندیار و گسترش دین زرتشت در جهان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۱ - سخن دقیقی: سپردن فرمانروایی به اسفندیار و گسترش دین زرتشت در جهان",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1050,6 +1050,26 @@
       "CoupletIndex": 37,
       "SectionIndex1": 0,
       "SectionIndex2": 39
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه و پهلوان که جهان را با سپاه به دین می‌آورد"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر اسفندیار که سپاه و خراسان به او سپرده شد"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1869,
   "CatId": 88,
-  "Title": "بخش ۳۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۴",
+  "Title": "بخش ۳۴ - گریز بهرام چوبینه در بیراهه، سرزنش پیرزن، سوختن نیستان و بخشودن نستود",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۴ - گریز بهرام چوبینه در بیراهه، سرزنش پیرزن، سوختن نیستان و بخشودن نستود",
   "FullUrl": "/ferdousi/shahname/parviz/sh34",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1725,6 +1725,80 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 425,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار شاه که با سه هزار سوار برای نبرد با بهرام می‌رود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 454,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار جنگی؛ با لشکرش پریشان می‌راند و با پیرزن سخن می‌گوید. (احتمالاً همنامِ «بهرام» با کد 122؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و پهلوانی که همراه لشکر اسب می‌راند. (نام در متن: ایزد گشسپ)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه بهرام که برسم را به او می‌دهد."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 328,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر شاهی که بهرام با او می‌جنگد."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 455,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند هرمز که بهرام با او می‌جنگد."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بهرام در پایان به نزد او می‌رود."
     }
   ]
 }

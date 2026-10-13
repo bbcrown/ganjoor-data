@@ -1,8 +1,8 @@
 {
   "Id": 1403,
   "CatId": 41,
-  "Title": "بخش ۲۶",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۶",
+  "Title": "بخش ۲۶ - زادن رستم، نام‌گذاری او، فرستادن پیکرش نزد سام و رشد شگفت‌انگیز کودک",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۶ - زادن رستم، نام‌گذاری او، فرستادن پیکرش نزد سام و رشد شگفت‌انگیز کودک",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh26",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1347,6 +1347,43 @@
       "CoupletIndex": 48,
       "SectionIndex1": 0,
       "SectionIndex2": 50
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که مادرِ نوزاد پس از بیدار شدن با او سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پیکر رستم را نزد او می‌برند و شادمان می‌شود"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ نامه به سام و ستوده‌شده با شمشیر و کوپال"
     }
   ]
 }

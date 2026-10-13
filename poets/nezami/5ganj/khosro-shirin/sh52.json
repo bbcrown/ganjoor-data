@@ -5560,5 +5560,79 @@
       "SectionIndex1": 0,
       "SectionIndex2": 206
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نقاش و پیام‌رسان شاه که میان شاه و شیرین واسطه است"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی دل‌دار شاه که شاپور او را نزد شاه می‌خواند"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر شاه که از ناشکیبایی‌اش بیم می‌رود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه به صلیب کشیده شدن او آمده است (نام در متن: عیسا)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیمان او مایهٔ شرم و آزرم شاه است"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامی که برای مقایسه با خسرو یاد شده است."
+    },
+    {
+      "CoupletIndex": 115,
+      "PersonId": 669,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوگری که برای نمونه از او یاد شده است."
+    },
+    {
+      "CoupletIndex": 130,
+      "PersonId": 670,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که شیرین دربارهٔ گفته‌هایش پاسخ و پیام می‌فرستد."
+    }
   ]
 }

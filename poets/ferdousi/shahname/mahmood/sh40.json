@@ -1,8 +1,8 @@
 {
   "Id": 88099,
   "CatId": 57,
-  "Title": "بخش ۴۰",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۰",
+  "Title": "بخش ۴۰ - عهد و منشور کیخسرو برای رستم، سپردن نیمروز و خلعت مهان همراه زال",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۰ - عهد و منشور کیخسرو برای رستم، سپردن نیمروز و خلعت مهان همراه زال",
   "FullUrl": "/ferdousi/shahname/mahmood/sh40",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -267,6 +267,35 @@
       "CoupletIndex": 8,
       "SectionIndex1": 0,
       "SectionIndex2": 10
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دادگر و پاک‌دین که فرمان عهدنامه را می‌دهد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ستوده‌ای که عهدنامه و کشور نیمروز به او سپرده می‌شود"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهانی که همراه دیگران برفتند و خلعت یافتند"
     }
   ]
 }

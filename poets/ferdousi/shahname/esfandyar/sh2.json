@@ -1,8 +1,8 @@
 {
   "Id": 1576,
   "CatId": 61,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲",
+  "Title": "بخش ۲ - بازگشت مست اسفندیار، طلب تاج، پیشگویی مرگش به دست رستم و اندیشهٔ بد گشتاسپ",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲ - بازگشت مست اسفندیار، طلب تاج، پیشگویی مرگش به دست رستم و اندیشهٔ بد گشتاسپ",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1590,6 +1590,80 @@
       "CoupletIndex": 57,
       "SectionIndex1": 0,
       "SectionIndex2": 59
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر اسفندیار که پسرش را به گرفتن کین لهراسپ فرا می‌خواند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای که از پدر دل‌گرفته است و به مادرش از خواست تاج و تخت می‌گوید."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر اسفندیار که پسر را از گفتار خود پند می‌دهد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کین او از ارجاسپ باید خواسته شود."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستاره‌شناس و فال‌گوی دربار که از زیج‌ها سرنوشت اسفندیار را می‌خواند."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 178,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که جاماسپ با افسوس از او یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر تهم. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 230,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور دستان، در زاولستان؛ پیش‌بینی شده که هوش و چاره به دست اوست."
     }
   ]
 }

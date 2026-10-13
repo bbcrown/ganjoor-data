@@ -1,8 +1,8 @@
 {
   "Id": 88005,
   "CatId": 53,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۲",
+  "Title": "بخش ۱۲ - پاسخ‌نامهٔ خسرو در سپاس هدایا و ستایش رستم، و بازفرستادن فریبرز با خلعت و فرمان بستن افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۲ - پاسخ‌نامهٔ خسرو در سپاس هدایا و ستایش رستم، و بازفرستادن فریبرز با خلعت و فرمان بستن افراسیاب",
   "FullUrl": "/ferdousi/shahname/khaghan/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,44 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایران که نامه به او نوشته می‌شود و سپاسگزاری از او می‌رود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه را می‌نویسد و مهر می‌کند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده‌ای که هدیه‌ها و پیام شاه را نزد سپهبد می‌برد و بازمی‌گردد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن توران که جنگ با او موضوع پیام است."
     }
   ]
 }

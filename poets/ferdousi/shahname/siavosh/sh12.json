@@ -1,8 +1,8 @@
 {
   "Id": 1491,
   "CatId": 49,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۲",
+  "Title": "بخش ۱۲ - بریدن سر سیاوش، کشانیدن فرنگیس به قتلگاه، و رهانیدن او به دست پیران و بردن به ختن",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۲ - بریدن سر سیاوش، کشانیدن فرنگیس به قتلگاه، و رهانیدن او به دست پیران و بردن به ختن",
   "FullUrl": "/ferdousi/shahname/siavosh/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2157,6 +2157,107 @@
       "CoupletIndex": 78,
       "SectionIndex1": 0,
       "SectionIndex2": 80
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانبر افراسیاب که شاه او را مأمور آوردن فرنگیس می‌کند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده به دست گروی؛ سوگ او در خانه و شهر برپاست. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر سیاوش؛ در سوگ او موی می‌بُرد و افراسیاب را نفرین می‌کند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران؛ فرمان شکنجه فرنگیس را می‌دهد و نفرین می‌شنود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 154,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با رخسار خونین نزد لهاک و فرشیدورد می‌آید و پیران را هشدار می‌دهد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از سه سواری که با پیلسم نزد پیران می‌روند."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از سه سواری که با پیلسم نزد پیران می‌روند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با شنیدن خبر کشته‌شدن سیاوش از تخت می‌افتد و جامه می‌درد."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 155,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سیاوش را می‌کشد و سرش را می‌برد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی که همراه پهلوان و فرشیدورد با ده سوار به درگاه می‌شتابد."
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 148,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی در ایوان پیران که پیران به او دربارهٔ نهفتن فرنگیس می‌گوید."
     }
   ]
 }

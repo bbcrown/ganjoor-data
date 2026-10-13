@@ -1,8 +1,8 @@
 {
   "Id": 1838,
   "CatId": 88,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳",
+  "Title": "بخش ۳ - دیدار بامدادی خسرو با هرمزد نابینا، سه آرزوی پدر و دریغ از کین بر گستهم",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳ - دیدار بامدادی خسرو با هرمزد نابینا، سه آرزوی پدر و دریغ از کین بر گستهم",
   "FullUrl": "/ferdousi/shahname/parviz/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -861,6 +861,44 @@
       "CoupletIndex": 30,
       "SectionIndex1": 0,
       "SectionIndex2": 32
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین؛ هرمزد یادگار او در جهان خوانده شده است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر خسرو؛ در رنج است و سه آرزو از پسر دارد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان شده و سپاهی بی‌شمار دارد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در سخن شاه آمده است."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 88066,
   "CatId": 57,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۷",
+  "Title": "بخش ۷ - نبرد دور از سپاه کیخسرو و شیده، کشتن شیده و سوگ افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۷ - نبرد دور از سپاه کیخسرو و شیده، کشتن شیده و سوگ افراسیاب",
   "FullUrl": "/ferdousi/shahname/mahmood/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3453,6 +3453,116 @@
       "CoupletIndex": 126,
       "SectionIndex1": 0,
       "SectionIndex2": 128
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران و پسر سیاوش که برای کین پدر به جنگ آمده است"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که شاه درفش خود را به او می‌سپارد (نام در متن: رهام گودرز)"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاوری که شاه را میان دو صف می‌بیند و با او سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر شاه که بی‌گناه به دست شاه کشته شد (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شیده و نیای نژاد خسرو"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای رهام که نژاد او به وی می‌رسد"
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران که به پیشواز شاه می‌آید"
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با دیگر سران نزد شاه می‌آید"
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران که به پیشواز شاه می‌آید"
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه ایران که به پیشواز شاه می‌آید"
+    },
+    {
+      "CoupletIndex": 105,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که نزد شاه می‌آید"
+    },
+    {
+      "CoupletIndex": 109,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ترکان که خبر کشته شدن شیده را می‌شنود و سوگوار می‌شود"
     }
   ]
 }

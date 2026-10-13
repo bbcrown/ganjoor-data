@@ -1,8 +1,8 @@
 {
   "Id": 88043,
   "CatId": 56,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۱",
+  "Title": "بخش ۲۱ - نبرد فریبرز با کلباد ویسه: ناکامی تیر، دو نیم کردن تن و بستن او بر باره",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۱ - نبرد فریبرز با کلباد ویسه: ناکامی تیر، دو نیم کردن تن و بستن او بر باره",
   "FullUrl": "/ferdousi/shahname/12rokh/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -240,6 +240,26 @@
       "CoupletIndex": 7,
       "SectionIndex1": 0,
       "SectionIndex2": 9
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر ایرانی که نخست از لشکر بیرون تاخت و کلباد را کشت."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور دشمن که با کمان آمد و به دست فریبرز کشته شد."
     }
   ]
 }

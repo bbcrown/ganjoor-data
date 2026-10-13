@@ -1,8 +1,8 @@
 {
   "Id": 1578,
   "CatId": 61,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۴",
+  "Title": "بخش ۴ - فرمان گشتاسپ به بستن رستم در برابر تاج، اعتراض اسفندیار و بازگشت غمگین او",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۴ - فرمان گشتاسپ به بستن رستم در برابر تاج، اعتراض اسفندیار و بازگشت غمگین او",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,116 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم و از خاندان پهلوانان سیستان."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور سیستان که شاه می‌خواهد او را در بند کند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که رستم به او خدمت کرده بود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که رستم در روزگار او می‌زیست."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر اسفندیار که از او می‌خواهد رستم را در بند کند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خاندان رستم که شاه از او بیم دارد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خاندان رستم که شاه از او بیم دارد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه که به او پاسخ می‌دهد و فرمان او را نمی‌پذیرد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که از روزگارش نیکی‌های رستم یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که از روزگارش نیکی‌های رستم یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 15,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان او کاووس راه را گم کرد."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نام دستان سام آمده است."
     }
   ]
 }

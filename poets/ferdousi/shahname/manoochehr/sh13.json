@@ -1,8 +1,8 @@
 {
   "Id": 1390,
   "CatId": 41,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۳",
+  "Title": "بخش ۱۳ - آگاه شدن مهراب از داستان و خشم گرفتن او بر سیندخت و رودابه",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۳ - آگاه شدن مهراب از داستان و خشم گرفتن او بر سیندخت و رودابه",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1995,6 +1995,89 @@
       "CoupletIndex": 72,
       "SectionIndex1": 0,
       "SectionIndex2": 74
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سام؛ مهراب از او یاد می‌کند و رودابه را شیفتهٔ خود کرده است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرزبان کابل، شوهر سیندخت و پدر رودابه؛ از کار دخترش خشمگین می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر مهراب؛ نگران است و با گفتار خردمندانه او را آرام می‌کند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پدر زال؛ مهراب از خشم او بیمناک است."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر مهراب و سیندخت؛ مهراب از کارش خشمگین است."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه؛ مهراب بیم دارد او با سام بر کابل بتازد."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در مثال و یادآوری گذشته آمده است."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 31,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مثال فریدون و شاه شدن او یاد شده است. (نام در متن: سرو یمن)"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه و سرزنش پیوند رودابه و زال یاد شده است. (نام در متن: اهرمن)"
     }
   ]
 }

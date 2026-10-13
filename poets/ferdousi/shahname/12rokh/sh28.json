@@ -1,8 +1,8 @@
 {
   "Id": 88050,
   "CatId": 56,
-  "Title": "بخش ۲۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۸",
+  "Title": "بخش ۲۸ - رزم هشتم گردان: نبرد زنگهٔ شاوران با اوخواست، آسودن از تف دشت و اسیر کردن حریف",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۸ - رزم هشتم گردان: نبرد زنگهٔ شاوران با اوخواست، آسودن از تف دشت و اسیر کردن حریف",
   "FullUrl": "/ferdousi/shahname/12rokh/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -564,6 +564,26 @@
       "CoupletIndex": 19,
       "SectionIndex1": 0,
       "SectionIndex2": 21
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردِ نام‌آور که با همرزمش نبرد کرد و او را بر زمین افکند"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 556,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همرزم زنگه در نبرد؛ با نیزه از اسب افتاد"
     }
   ]
 }

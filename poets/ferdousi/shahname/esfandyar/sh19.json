@@ -1,8 +1,8 @@
 {
   "Id": 1593,
   "CatId": 61,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۹",
+  "Title": "بخش ۱۹ - بزم نیمروز نزد اسفندیار، پند آشتی رستم و پیمان نبرد فردا",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۹ - بزم نیمروز نزد اسفندیار، پند آشتی رستم و پیمان نبرد فردا",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2508,6 +2508,71 @@
       "CoupletIndex": 91,
       "SectionIndex1": 0,
       "SectionIndex2": 93
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و میزبان رستم که فردا با او می‌جنگد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زاولی، مهمان اسفندیار، نگران ننگ بستن یا کشتن او."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کیانی که رستم را به گفتن از او می‌آزمایند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): حاضر در مجلس که ساقی را به ندادن آب در می فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که رستم از بدنامی نزد او می‌هراسد."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای رستم که نامش در لقب دستان آمده است."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که نام او در خطر شکسته‌شدن است."
     }
   ]
 }

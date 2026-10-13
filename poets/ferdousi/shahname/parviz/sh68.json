@@ -1,8 +1,8 @@
 {
   "Id": 1903,
   "CatId": 88,
-  "Title": "بخش ۶۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۸",
+  "Title": "بخش ۶۸ - زهر دادن شیرین به مریم، فال شوم شیرویه و زندانی کردنش به دست خسرو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۸ - زهر دادن شیرین به مریم، فال شوم شیرویه و زندانی کردنش به دست خسرو",
   "FullUrl": "/ferdousi/shahname/parviz/sh68",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -942,6 +942,35 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 471,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر قیصر و همسر شاه که شیرین او را زهر داد (نام در متن: مریم)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از رشک مریم را زهر داد و پس از او سرپرست شبستان شد"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 43,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه که موبد او را پرورد و پدر زندانیش کرد (نام در متن: شیرویه)"
     }
   ]
 }

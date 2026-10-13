@@ -57,8 +57,8 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "وع",
-      "PlainText": "هم رکوع آرید با اهل رکوع\r\nوآن بود خود غایت عجز و خضوع",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم رکوع آرید با اهل رکوع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن بود خود غایت عجز و خضوع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "داد خاتم مرتضیع اندر رکوع\r\nزآنکه بد مستغرق بحر خضوع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداد خاتم مرتضی(ع) اندر رکوع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه بُد مستغرق بحر خضوع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -67,19 +67,9 @@
       "SectionType": "Couplet",
       "VerseType": "Second",
       "RhymeLetters": "وع",
-      "PlainText": "داد خاتم مرتضیع اندر رکوع\r\nزآنکه بد مستغرق بحر خضوع",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداد خاتم مرتضی(ع) اندر رکوع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه بُد مستغرق بحر خضوع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "هم رکوع آرید با اهل رکوع\r\nوآن بود خود غایت عجز و خضوع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم رکوع آرید با اهل رکوع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن بود خود غایت عجز و خضوع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 4,
-      "Number": 4,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "از",
-      "PlainText": "این اشارت بود یعنی در نماز\r\nدل شدم خالی ز غیر دلنواز",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اشارت بود یعنی در نماز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل شدم خالی ز غیر دلنواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
     },
     {
       "Index": 4,
@@ -99,6 +89,26 @@
       "RhymeLetters": "ن",
       "PlainText": "امر بر نیکی کنید آیا به فن\r\nبا فراموشی ز نفس خویشتن",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامر بر نیکی کنید آیا به فن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا فراموشی ز نفس خویشتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "این اشارت بود یعنی در نماز\r\nدل شدم خالی ز غیر دلنواز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین اشارت بود یعنی در نماز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل شدم خالی ز غیر دلنواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "حلقۀ هستی ز انگشت این چنین\r\nکرد بیرون در حضور رب دین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلقۀ هستی ز انگشت این چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد بیرون در حضور رب دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -122,26 +132,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 5,
-      "Number": 5,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ین",
-      "PlainText": "حلقۀ هستی ز انگشت این چنین\r\nکرد بیرون در حضور رب دین",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلقۀ هستی ز انگشت این چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد بیرون در حضور رب دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 6,
-      "Number": 6,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ات",
-      "PlainText": "در رکوعش شد تجلی صفات\r\nگشت خالی از صفات خویش و مات",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رکوعش شد تجلّی صفات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت خالی از صفات خویش و مات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 6,
       "Number": 6,
       "SectionType": "Couplet",
@@ -159,6 +149,26 @@
       "RhymeLetters": "اب",
       "PlainText": "می کنید آیا تعقل در کتاب\r\nچونکه میخوانید از بهر ثواب",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی کنید آیا تعقل در کتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونکه میخوانید از بهر ثواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ات",
+      "PlainText": "در رکوعش شد تجلی صفات\r\nگشت خالی از صفات خویش و مات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رکوعش شد تجلّی صفات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت خالی از صفات خویش و مات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "جود",
+      "PlainText": "بد تجلی ذاتی او را در سجود\r\nزآنکه سجده است آن فنای فی الوجود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبُد تجلّی ذاتی او را در سجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه سجده است آن فنای فی الوجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -182,26 +192,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 7,
-      "Number": 7,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "جود",
-      "PlainText": "بد تجلی ذاتی او را در سجود\r\nزآنکه سجده است آن فنای فی الوجود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبُد تجلّی ذاتی او را در سجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنکه سجده است آن فنای فی الوجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 8,
-      "Number": 8,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "یاش",
-      "PlainText": "تیر زآن در سجده بکشید از پی اش\r\nآنکه بود آگاهی از حال وی اش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیر زآن در سجده بکشید از پی اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه بود آگاهی از حال وی اش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 8,
       "Number": 8,
       "SectionType": "Couplet",
@@ -219,6 +209,26 @@
       "RhymeLetters": "اق",
       "PlainText": "کآن بسی باشد بزرگ اعنی که شاق\r\nجز بر ارباب خشوع از اتفاق",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکآن بسی باشد بزرگ اعنی که شاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز بر ارباب خشوع از اتفاق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یاش",
+      "PlainText": "تیر زآن در سجده بکشید از پی اش\r\nآنکه بود آگاهی از حال وی اش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیر زآن در سجده بکشید از پی اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه بود آگاهی از حال وی اش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "زآنکه او دیگر به جای خود نبود\r\nدیگری بود آنکه بود اندر سجود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه او دیگر به جای خود نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگری بود آنکه بود اندر سجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -242,26 +252,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 9,
-      "Number": 9,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ود",
-      "PlainText": "زآنکه او دیگر به جای خود نبود\r\nدیگری بود آنکه بود اندر سجود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه او دیگر به جای خود نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگری بود آنکه بود اندر سجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 10,
-      "Number": 10,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ق",
-      "PlainText": "تا نپنداری که گویم بوده حق\r\nحق برون است از لباس ماخلق",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نپنداری که گویم بوده حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق برون است از لباس ماخَلَق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 10,
       "Number": 10,
       "SectionType": "Couplet",
@@ -279,6 +269,26 @@
       "RhymeLetters": "اجتوست",
       "PlainText": "این صلاة ار حاضری معراج توست\r\nدر سلوک معرفت منهاج توست",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین صلاة ار حاضری معراج توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سلوک معرفت منهاج توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ق",
+      "PlainText": "تا نپنداری که گویم بوده حق\r\nحق برون است از لباس ماخلق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نپنداری که گویم بوده حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق برون است از لباس ماخَلَق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ورنیست",
+      "PlainText": "ور که هم بوده است او حق دور نیست\r\nشرح این کوته کنم دستور نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور که هم بوده است او حق دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرح این کوته کنم دستور نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -302,26 +312,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 11,
-      "Number": 11,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "ورنیست",
-      "PlainText": "ور که هم بوده است او حق دور نیست\r\nشرح این کوته کنم دستور نیست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور که هم بوده است او حق دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرح این کوته کنم دستور نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 12,
-      "Number": 12,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "لی",
-      "PlainText": "چون تو صورت بند این آب و گلی\r\nمن چه گویم با تو کز خود غافلی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو صورت بند این آب و گلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن چه گویم با تو کز خود غافلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 12,
       "Number": 12,
       "SectionType": "Couplet",
@@ -339,6 +329,26 @@
       "RhymeLetters": "کندناست",
       "PlainText": "چیست تکبیر  از جهان دل کندن است\r\nماسوی را پشت سر افکندن است",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیست تکبیر ، از جهان دل کندن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماسوی را پشت سر افکندن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لی",
+      "PlainText": "چون تو صورت بند این آب و گلی\r\nمن چه گویم با تو کز خود غافلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو صورت بند این آب و گلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن چه گویم با تو کز خود غافلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فی",
+      "PlainText": "وآنکه آگاه است ز اسرار خفی\r\nمیکند فهم آنچه می گوید صفی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنکه آگاه است ز اسرار خفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیکند فهم آنچه می گوید صفی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -362,26 +372,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 13,
-      "Number": 13,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "فی",
-      "PlainText": "وآنکه آگاه است ز اسرار خفی\r\nمیکند فهم آنچه می گوید صفی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنکه آگاه است ز اسرار خفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیکند فهم آنچه می گوید صفی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 14,
-      "Number": 14,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "اراببخش",
-      "PlainText": "گر تو میفهمی سخن یارا ببخش\r\nور نمی فهمی بهل ما را ببخش",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو میفهمی سخن یارا ببخش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نمی فهمی بهل ما را ببخش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 14,
       "Number": 14,
       "SectionType": "Couplet",
@@ -399,6 +389,26 @@
       "RhymeLetters": "معخویش",
       "PlainText": "از دو عالم باز بری طمع خویش\r\nبگذری از فرق خویش و جمع خویش",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دو عالم باز بُرّی طمع خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذری از فرق خویش و جمع خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اراببخش",
+      "PlainText": "گر تو میفهمی سخن یارا ببخش\r\nور نمی فهمی بهل ما را ببخش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو میفهمی سخن یارا ببخش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نمی فهمی بهل ما را ببخش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انهام",
+      "PlainText": "من به عشق او هنوز افسانه ام\r\nشد چو ذکر زلف او دیوانه ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن به عشق او هنوز افسانه ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد چو ذکر زلف او دیوانه ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -422,26 +432,6 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 15,
-      "Number": 15,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "انهام",
-      "PlainText": "من به عشق او هنوز افسانه ام\r\nشد چو ذکر زلف او دیوانه ام",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن به عشق او هنوز افسانه ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد چو ذکر زلف او دیوانه ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 16,
-      "Number": 16,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "یرمن",
-      "PlainText": "گاه گاهی بگسلد زنجیر من\r\nباز بندندم شنو تفسیر من",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاهی بگسلد زنجیر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز بندندم شنو تفسیر من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 3
-    },
-    {
       "Index": 16,
       "Number": 16,
       "SectionType": "Couplet",
@@ -459,6 +449,16 @@
       "RhymeLetters": "ار",
       "PlainText": "پس ببینی در یمین و در یسار\r\nنیست یاری غمگساری برقرار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس ببینی در یمین و در یسار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست یاری، غمگساری برقرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یرمن",
+      "PlainText": "گاه گاهی بگسلد زنجیر من\r\nباز بندندم شنو تفسیر من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاهی بگسلد زنجیر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز بندندم شنو تفسیر من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 3
     },
     {
@@ -806,9 +806,9 @@
       "Number": 34,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ال",
-      "PlainText": "در شریعت بذل عشر است از منال\r\nدر طریقت بذل جان بر ذوالجلال",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شریعت بذل عُشر است از منال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر طریقت بذل جان بر ذوالجلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "نگقلب",
+      "PlainText": "صیقل صبرت زداید زنگ قلب\r\nزآن بدل بر روح گردد رنگ قلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصیقل صبرت زداید زنگ قلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن بَدل بر روح گردد رنگ قلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -816,19 +816,9 @@
       "Number": 34,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "نگقلب",
-      "PlainText": "صیقل صبرت زداید زنگ قلب\r\nزآن بدل بر روح گردد رنگ قلب",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصیقل صبرت زداید زنگ قلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآن بَدل بر روح گردد رنگ قلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 35,
-      "Number": 35,
-      "SectionType": "Couplet",
-      "VerseType": "Second",
-      "RhymeLetters": "انیشوی",
-      "PlainText": "زآن جلای قلب  روحانی شوی\r\nدر صفات لم یزل  فانی شوی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن جلای قلب ، روحانی شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صفات «لم یزل » فانی شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ال",
+      "PlainText": "در شریعت بذل عشر است از منال\r\nدر طریقت بذل جان بر ذوالجلال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شریعت بذل عُشر است از منال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر طریقت بذل جان بر ذوالجلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -842,13 +832,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 36,
-      "Number": 36,
+      "Index": 35,
+      "Number": 35,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "است",
-      "PlainText": "جان و سر هم از تو نبود از وی است\r\nنفی محض از خود چه دارد  لاشیء است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان و سر هم از تو نبوَد از وی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفی محض از خود چه دارد ، لاشیء است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "انیشوی",
+      "PlainText": "زآن جلای قلب  روحانی شوی\r\nدر صفات لم یزل  فانی شوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن جلای قلب ، روحانی شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صفات «لم یزل » فانی شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -862,13 +852,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 37,
-      "Number": 37,
+      "Index": 36,
+      "Number": 36,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "یر",
-      "PlainText": "شد به مانند دو بال از بهر طیر\r\nمرغ جانت زآن هوا گیرد به سیر",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد به مانند دو بال از بهر طیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ جانت زآن هوا گیرد به سیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "است",
+      "PlainText": "جان و سر هم از تو نبود از وی است\r\nنفی محض از خود چه دارد  لاشیء است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان و سر هم از تو نبوَد از وی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفی محض از خود چه دارد ، لاشیء است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -882,13 +872,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 38,
-      "Number": 38,
+      "Index": 37,
+      "Number": 37,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "داده های او کنی یاد ار ز دل\r\nبالله ار سنگی و گل مانی خجل",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداده های او کنی یاد ار ز دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالله ار سنگی و گل مانی خجل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "یر",
+      "PlainText": "شد به مانند دو بال از بهر طیر\r\nمرغ جانت زآن هوا گیرد به سیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد به مانند دو بال از بهر طیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ جانت زآن هوا گیرد به سیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -902,13 +892,13 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 39,
-      "Number": 39,
+      "Index": 38,
+      "Number": 38,
       "SectionType": "Couplet",
       "VerseType": "Second",
-      "RhymeLetters": "لاست",
-      "PlainText": "ره شود طی سالک اندر منزل است\r\nخود فنای فی الله است و واصل است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره شود طی سالک اندر منزل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود فنای فی الله است و واصل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "RhymeLetters": "ل",
+      "PlainText": "داده های او کنی یاد ار ز دل\r\nبالله ار سنگی و گل مانی خجل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداده های او کنی یاد ار ز دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالله ار سنگی و گل مانی خجل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -919,6 +909,16 @@
       "RhymeLetters": "رگ",
       "PlainText": "تا چه داده است او تو را از ساز و برگ\r\nبین چه با خود برد خواهی وقت مرگ",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چه داده است او تو را از ساز و برگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبین چه با خود برد خواهی وقت مرگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لاست",
+      "PlainText": "ره شود طی سالک اندر منزل است\r\nخود فنای فی الله است و واصل است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره شود طی سالک اندر منزل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود فنای فی الله است و واصل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {

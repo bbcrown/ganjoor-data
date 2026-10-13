@@ -3140,5 +3140,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 117
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 470,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با رخ او فال شاه سنجیده می‌شود؛ شاه به سوی قصر او می‌رود."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان همراه شاه که در رکاب او حرکت می‌کند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فقط در وصف کلاهِ کیقبادیِ شاه به او اشاره شده است."
+    },
+    {
+      "CoupletIndex": 71,
+      "PersonId": 65,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ زنی بدنام که شیرین نمی‌خواهد مانند او شود"
+    }
   ]
 }

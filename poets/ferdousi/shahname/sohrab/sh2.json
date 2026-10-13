@@ -1,8 +1,8 @@
 {
   "Id": 1460,
   "CatId": 48,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۲",
+  "Title": "بخش ۲ - شکار رستم در مرز توران، دزدیده شدن رخش و رفتن او به سمنگان",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۲ - شکار رستم در مرز توران، دزدیده شدن رخش و رفتن او به سمنگان",
   "FullUrl": "/ferdousi/shahname/sohrab/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,17 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در شکار، اسبش رخش را گم می‌کند"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1659,
   "CatId": 67,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۰",
+  "Title": "بخش ۲۰ - رفتن اسکندر از جده به مصر، پذیرایی قیطون و نگاریدن پنهان چهره‌اش به فرمان قیدافه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۰ - رفتن اسکندر از جده به مصر، پذیرایی قیطون و نگاریدن پنهان چهره‌اش به فرمان قیدافه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -807,6 +807,44 @@
       "CoupletIndex": 28,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 267,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که شاه به او چند دینار بخشید."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهسالار که از جده به مصر می‌رود."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 271,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه مصر که با سپاه و پیشکش به پیشواز سکندر می‌آید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی شهریار اندلس، خردمند و دارای سپاه بسیار."
     }
   ]
 }

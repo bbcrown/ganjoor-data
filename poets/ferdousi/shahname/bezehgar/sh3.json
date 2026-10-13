@@ -1,8 +1,8 @@
 {
   "Id": 1755,
   "CatId": 82,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۳",
+  "Title": "بخش ۳ - سپردن بهرام به منذر، پرورش و فرهنگ‌آموزی در یمن و گزینش دو اسپ و دو کنیز",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۳ - سپردن بهرام به منذر، پرورش و فرهنگ‌آموزی در یمن و گزینش دو اسپ و دو کنیز",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2292,6 +2292,53 @@
       "CoupletIndex": 83,
       "SectionIndex1": 0,
       "SectionIndex2": 85
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار که بهرام را به منذر می‌سپارد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه‌زادهٔ خسرونژاد که نزد منذر پرورش یافت و آموزش دید. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه یمن که بهرام را پرورد و برایش موبدان گماشت."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان منذر برای گزینش اسبان نزد گله‌دار می‌رود."
+    },
+    {
+      "CoupletIndex": 77,
+      "PersonId": 327,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده‌ای که به فرمان به کلبهٔ برده‌فروش رفت."
     }
   ]
 }

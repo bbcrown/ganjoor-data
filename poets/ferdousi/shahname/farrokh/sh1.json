@@ -430,5 +430,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 16
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جهرم فراخوانده و بر تخت شاهی نشانده شد؛ پس از یک ماه با زهر مرد."
+    }
   ]
 }

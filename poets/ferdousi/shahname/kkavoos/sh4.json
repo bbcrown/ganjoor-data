@@ -1,8 +1,8 @@
 {
   "Id": 1433,
   "CatId": 46,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۴",
+  "Title": "بخش ۴ - نامهٔ پریشان کاووس به زال، برانگیختن رستم برای نجات شاه و وداع با خانواده",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۴ - نامهٔ پریشان کاووس به زال، برانگیختن رستم برای نجات شاه و وداع با خانواده",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,116 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گرفتار و خسته‌جگر که از زابلستان یاری می‌خواهد (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر و راهنمای رستم که پیام شاه را می‌شنود"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که زال او را به کینه‌خواهی و رفتن به مازندران برمی‌انگیزد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی اهریمنی که شاه خود را در چنگ او می‌بیند (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 102,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو مازندران که دشمن رستم و هدف نبرد اوست."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 103,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم باید او را نابود کند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 100,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه مازندران که رستم باید گردنش را بشکند."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 93,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که رستم او را زیر پای می‌کوبد. (نام در متن: پولاد غندی)"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 101,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که رستم می‌خواهد نابودشان کند."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 104,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که رستم قصد نابودی‌شان را دارد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 107,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که رستم می‌خواهد او را زیر پای رخش بسپرد."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر رستم که هنگام رفتن او اشک می‌ریزد."
     }
   ]
 }

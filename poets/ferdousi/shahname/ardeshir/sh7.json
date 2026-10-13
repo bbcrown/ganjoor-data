@@ -1,8 +1,8 @@
 {
   "Id": 1714,
   "CatId": 69,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۷",
+  "Title": "بخش ۷ - دیدار شاپور با دختر مهرک بر سر چاه، آشکار شدن نژاد و پیمان ازدواج",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۷ - دیدار شاپور با دختر مهرک بر سر چاه، آشکار شدن نژاد و پیمان ازدواج",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,53 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و شاه شکارکننده که به ده می‌رسد و با دختر سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 304,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختری که داستان دربارهٔ اوست"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 305,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر زیبایی که شاپور او را کنار چاه می‌بیند"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شاپور با او نسبت داده می‌شود"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 221,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاپور در توصیف به او مانند شده است"
     }
   ]
 }

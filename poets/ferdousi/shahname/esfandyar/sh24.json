@@ -1,8 +1,8 @@
 {
   "Id": 1598,
   "CatId": 61,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۴",
+  "Title": "بخش ۲۴ - خستن رستم و رخش به تیر اسفندیار، زینهار شبانه و سوگ نوش‌آذر و مهرنوش",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۴ - خستن رستم و رخش به تیر اسفندیار، زینهار شبانه و سوگ نوش‌آذر و مهرنوش",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2238,6 +2238,89 @@
       "CoupletIndex": 81,
       "SectionIndex1": 0,
       "SectionIndex2": 83
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در نبرد با اسفندیار زخمی می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تیرانداز جنگاور که رستم را زخمی می‌کند و به او پیشنهاد تسلیم می‌دهد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر رستم که او را زخمی می‌بیند و برای چاره نزد زال می‌رود."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای خاندان رستم که نامش در اشاره به تبار او آمده است."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر یا بزرگ خاندان رستم که پیام رستم به او می‌رسد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خویشان رستم که رستم می‌خواهد او را فراخواند."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه اسفندیار که از پرده‌سرای می‌آید و مخاطب او می‌شود."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 222,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی جوان و کشته‌شده که اسفندیار سوگوار اوست."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی جوان و کشته‌شده که اسفندیار سوگوار اوست."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1842,
   "CatId": 88,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷",
+  "Title": "بخش ۷ - آهنگ شبیخون خسرو بر بهرام، پند گستهم و گردوی و گزینش یاران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷ - آهنگ شبیخون خسرو بر بهرام، پند گستهم و گردوی و گزینش یاران",
   "FullUrl": "/ferdousi/shahname/parviz/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1050,6 +1050,89 @@
       "CoupletIndex": 37,
       "SectionIndex1": 0,
       "SectionIndex2": 39
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جوان که سران را فرامی‌خواند و می‌خواهد شبیخون بزند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار اسب‌افکن و کارکن؛ حریف خسرو در جنگ."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار اسب‌افکن و کارکرده که خسرو او را دشمن خود می‌داند. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران خسرو که او را از شبیخون بازمی‌دارد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد جهان‌دیده‌ای که خسرو او را فرامی‌خواند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهان‌دیده و پهلوان که خسرو را از ماندن در رزمگاه برحذر می‌دارد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرکشان برگزیدهٔ خسرو."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد دلیر برگزیدهٔ خسرو."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 425,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): لشکرکش نیوسوز، از برگزیدگان خسرو."
     }
   ]
 }

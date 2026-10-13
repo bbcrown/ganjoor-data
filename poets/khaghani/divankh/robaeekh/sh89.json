@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "اهیدهدت",
-      "PlainText": "غار سپید است پناهی دهدت\r\nوز بالش نقره تکیه گاهی دهدت\r\nده قطره سیماب بریزی در\r\nنه ماه شود چارده ماهی دهدت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغار سپید است پناهی دهدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بالش نقره تکیه‌گاهی دهدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eده قطرهٔ سیماب بریزی در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ماه شود چارده ماهی دهدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "کس غار سپید است پناهی دهدت\r\nوز بالش نقره تکیه گاهی دهدت\r\nده قطره سیماب بریزی در کس\r\nنه ماه شود چارده ماهی دهدت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس غار سپید است؛ پناهی دهدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بالش نقره، تکیه‌گاهی دهدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eده قطرهٔ سیماب بریزی در کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنُهْ ماه شود، چارده ماهی دهدت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "غار سپید است پناهی دهدت",
+      "Text": "کس غار سپید است؛ پناهی دهدت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: غار سفید به تو پناه می‌دهد و از بال‌های نقره‌ای‌اش برایت تکیه‌گاهی فراهم می‌کند."
@@ -37,14 +37,14 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "وز بالش نقره تکیه‌گاهی دهدت",
+      "Text": "وز بالش نقره، تکیه‌گاهی دهدت",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "ده قطرهٔ سیماب بریزی در",
+      "Text": "ده قطرهٔ سیماب بریزی در کس",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: اگر ده قطره از می‌توانی به‌دقت بریزی، بعد از نه ماه، نتیجهٔ آن به‌صورت یک موجود زیبا و کامل به تو خواهد داد که گویا به چهارده ماه رسیده است."
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "نه ماه شود چارده ماهی دهدت",
+      "Text": "نُهْ ماه شود، چارده ماهی دهدت",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ینمیدانم",
-      "PlainText": "کاری که ورای کفر و دین میدانم\r\nآن دوستی تست یقین میدانم\r\nدر جان من آن سلسله کانداخته ای\r\nهرگز نشود گسسته این میدانم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاری که ورای کفر و دین میدانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن دوستی تست، یقین میدانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جانِ من، آن سلسله کانداخته ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نشود گُسسته، این میدانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "کاری که ورای کفر و دین می دانم\r\nآن دوستی توست یقین می دانم\r\nدر جان من آن سلسله کانداخته ای\r\nهرگز نشود گسسته این می دانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاری که ورای کفر و دین می‌دانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن دوستی توست، یقین می‌دانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جانِ من، آن سلسله کانداخته‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نشود گُسسته، این می‌دانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "کاری که ورای کفر و دین میدانم",
+      "Text": "کاری که ورای کفر و دین می‌دانم",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: کاری که فراتر از باورهای مذهبی و غیرمذهبی است، دوستی تو را می‌دانم و به آن یقین دارم."
@@ -37,14 +37,14 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "آن دوستی تست، یقین میدانم",
+      "Text": "آن دوستی توست، یقین می‌دانم",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "در جانِ من، آن سلسله کانداخته ای",
+      "Text": "در جانِ من، آن سلسله کانداخته‌ای",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: در دل من، آن رابطه‌ای را برقرار کرده‌ای که هرگز گسسته نخواهد شد، این را خوب می‌دانم."
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "هرگز نشود گُسسته، این میدانم",
+      "Text": "هرگز نشود گُسسته، این می‌دانم",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

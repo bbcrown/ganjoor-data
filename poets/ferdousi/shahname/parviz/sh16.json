@@ -1,8 +1,8 @@
 {
   "Id": 1851,
   "CatId": 88,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۶",
+  "Title": "بخش ۱۶ - نامهٔ بهرام در باهله، گریز گرسنهٔ خسرو به فرات، کباب قیس و راهنمایی مهران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۶ - نامهٔ بهرام در باهله، گریز گرسنهٔ خسرو به فرات، کباب قیس و راهنمایی مهران",
   "FullUrl": "/ferdousi/shahname/parviz/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1806,6 +1806,62 @@
       "CoupletIndex": 65,
       "SectionIndex1": 0,
       "SectionIndex2": 67
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ نامه به مهتر باهله که سپاهش را در پی خسرو می‌داند. (نام در متن: بهرام چوبین)"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 438,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ساروان عرب کاروان مصر که خسرو و یارانش را میهمان می‌کند."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 259,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بازرگان دبیر و مایه‌دار از خرهٔ اردشیر که خوراک به شاه می‌دهد. (نام در متن: مهران ستاد)"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 423,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بازرگان دبیر از خرهٔ اردشیر که به سپاه خوراک می‌دهد"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرستندهٔ خسرو که آب و جام را از بازرگان می‌گیرد و نزد شاه می‌برد (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نویسنده‌ای که فرمان می‌رود نام جوانان و روستاها را بنویسد."
     }
   ]
 }

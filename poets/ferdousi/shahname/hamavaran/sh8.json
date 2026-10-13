@@ -1,8 +1,8 @@
 {
   "Id": 1454,
   "CatId": 47,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۸",
+  "Title": "بخش ۸ - پرواز کاووس به آسمان با عقاب‌ها و سقوط او",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۸ - پرواز کاووس به آسمان با عقاب‌ها و سقوط او",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,44 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 15,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردسته‌ٔ دیوان که انجمن پنهانی برای گمراه‌کردن شاه برپا می‌کند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که دیو او را فریب می‌دهد و با تخت عقاب‌ها به آسمان می‌رود. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 11,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی اهریمنی که دل کاووس را از راه برده بود."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در بیت ۴۳ نامش آمده و از او خواسته‌ای نقل شده است."
     }
   ]
 }

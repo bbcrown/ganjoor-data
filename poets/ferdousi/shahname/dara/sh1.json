@@ -1,8 +1,8 @@
 {
   "Id": 1630,
   "CatId": 66,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۱",
+  "Title": "بخش ۱ - نشستن دارا بر تخت پس از سوگ داراب، خطابهٔ قهر و نامه‌های خنجرآسا، گشادن گنج و بنای نوشاد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۱ - نشستن دارا بر تخت پس از سوگ داراب، خطابهٔ قهر و نامه‌های خنجرآسا، گشادن گنج و بنای نوشاد",
   "FullUrl": "/ferdousi/shahname/dara/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,44 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 242,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر درگذشتهٔ دارا و پسر اردشیر"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 371,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر داراب و شاه تازه‌نشسته که فرمان‌نامه می‌نویسد و گنج می‌بخشد (احتمالاً همنامِ «دارا» با کد 247؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر داراب"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که فرستاده‌اش با هدیه نزد دارا می‌آید"
     }
   ]
 }

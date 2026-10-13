@@ -1,8 +1,8 @@
 {
   "Id": 1790,
   "CatId": 83,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۱",
+  "Title": "بخش ۲۱ - تاختن نهانی بهرام به مرو، شبیخون بر خاقان در نخچیر کشمیهن و گرفتاری او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۱ - تاختن نهانی بهرام به مرو، شبیخون بر خاقان در نخچیر کشمیهن و گرفتاری او",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,35 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهدار ایرانی که بیدار و آگاه است و خاقان را شکست می‌دهد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سنجش با دستور خاقان برای بدخواهی و پلیدی آمده است."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه بهرام که در تعقیب گریزندگان پشت سر او می‌تازد. (نام در متن: قارن)"
     }
   ]
 }

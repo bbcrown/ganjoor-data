@@ -1,8 +1,8 @@
 {
   "Id": 1644,
   "CatId": 67,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۵",
+  "Title": "بخش ۵ - ده خواب شگفت کید هندی، ناتوانی دانایان و بازگفتن خواب‌ها به مهران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۵ - ده خواب شگفت کید هندی، ناتوانی دانایان و بازگفتن خواب‌ها به مهران",
   "FullUrl": "/ferdousi/shahname/eskandar/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,26 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه هند که ده شب پیاپی خواب‌های شگفت دید و تعبیرشان را جست."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 259,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد دانا و یزدان‌پرستی که در کوه با جانوران می‌زیست و خواب‌گزار شد."
     }
   ]
 }

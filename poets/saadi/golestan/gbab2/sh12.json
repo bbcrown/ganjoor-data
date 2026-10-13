@@ -15,7 +15,7 @@
       "VerseType": "First",
       "RhymeLetters": "ختی",
       "PlainText": "پای مسکین پیاده چند رود\r\nکز تحمل ستوه شد بختی\r\nتا شود جسم فربهی لاغر \r\nلاغری مرده باشد از سختی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپایِ مسکینْ پیاده چند رود؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز تحمّل ستوه شد بُختی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شود جسمِ فربهی لاغر \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاغری مرده باشد از سختی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپایِ مسکینْ پیاده چند رود؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز تحمّل ستوه شد بختی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شود جسمِ فربهی لاغر \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاغری مرده باشد از سختی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 2
     },
@@ -50,7 +50,7 @@
     {
       "VOrder": 3,
       "Position": "Left",
-      "Text": "کز تحمّل ستوه شد بُختی",
+      "Text": "کز تحمّل ستوه شد بختی",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     },

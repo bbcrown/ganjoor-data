@@ -1,8 +1,8 @@
 {
   "Id": 1645,
   "CatId": 67,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۶",
+  "Title": "بخش ۶ - تعبیر خواب کید هندی: اندرز مهران به پرهیز از رزم و سپردن چهار چیز به اسکندر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۶ - تعبیر خواب کید هندی: اندرز مهران به پرهیز از رزم و سپردن چهار چیز به اسکندر",
   "FullUrl": "/ferdousi/shahname/eskandar/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1887,6 +1887,53 @@
       "CoupletIndex": 68,
       "SectionIndex1": 0,
       "SectionIndex2": 70
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که خوابش را برای مهران بازمی‌گوید و مخاطب او است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 259,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخن کید را می‌شنود و خواب او را تعبیر می‌کند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با سپاهی گران از روم و ایران به سوی کید می‌آید."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 260,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دین او در تعبیر خواب به‌عنوان یکی از دین‌ها یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که روزگار کنونی به نام او و بر سر مهتران است."
     }
   ]
 }

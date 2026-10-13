@@ -1,8 +1,8 @@
 {
   "Id": 88061,
   "CatId": 57,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲",
+  "Title": "بخش ۲ - نشستن کیخسرو بر تخت پیل و زدن مهره، فراخوان مهتران و آرایش سپاه برای جنگ افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲ - نشستن کیخسرو بر تخت پیل و زدن مهره، فراخوان مهتران و آرایش سپاه برای جنگ افراسیاب",
   "FullUrl": "/ferdousi/shahname/mahmood/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2940,6 +2940,296 @@
       "CoupletIndex": 107,
       "SectionIndex1": 0,
       "SectionIndex2": 109
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کار او به پایان رسیده و این رویداد آغاز جنگ دیگر شاه است (نام در متن: پیران ویسه)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیروزگر که لشکر می‌آراید، بر پشت پیل می‌نشیند و نامه می‌فرستد"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامورانی که شاه پیش‌تر به مرز فرستاده بود (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ، راد و روشن‌روان که شاه او را برگزید"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیر، بینادل و همچون گرگ، از سه برگزیده"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زرینه‌کفش و دارندهٔ درفش کاویانی؛ در یک سوی سپاه جای گرفت"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 560,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه خوزیان، فرخنده‌رای و دارای نامداران بسیار"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 561,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و گرد لشکرفروز، هم‌رزم‌سوز"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیردل و پیل‌تن"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 562,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزانه و شاه یمن"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بزرگانی که از تخمهٔ او هستند"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان رزم‌زن، پیروز و لشکرشکن"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 193,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای گروهی از جنگاوران (نام در متن: زرسب)"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و از بزرگان سپاه"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان سپاه، پسر گیو"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که پشت شاه را نگه داشتند"
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خویشان او در سپاه میمنه‌اند (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان گودرز در میسره"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان گودرز در میسره"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان گودرز در میسره"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گردان بغداد در سپاه"
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سی هزار سوار و نستوه"
+    },
+    {
+      "CoupletIndex": 77,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و فرمانده لشکر که سپاهیان نزد او جای می‌گیرند."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 75,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار از تخمهٔ کیقباد، شاه غرچگان و سپهبد پیروز. (نام در متن: گروخان)"
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای سپاهیان که به تبار او اشاره شده است."
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 63,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای گروه دشمن که از تخمهٔ او یاد شده است."
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای سپاهیان که به تبار او اشاره شده است."
+    },
+    {
+      "CoupletIndex": 89,
+      "PersonId": 563,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه برته در انجمن سپاه."
+    },
+    {
+      "CoupletIndex": 91,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیشرو سپاه در جنگ."
+    },
+    {
+      "CoupletIndex": 94,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب فرمان که باید با قارن جفت باشد."
+    },
+    {
+      "CoupletIndex": 94,
+      "PersonId": 76,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در بیت فرمانی به گستهم می‌دهد."
+    },
+    {
+      "CoupletIndex": 95,
+      "PersonId": 207,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر طوس که مأمور گشتن با پیل و کوس می‌شود."
     }
   ]
 }

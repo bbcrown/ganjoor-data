@@ -1,8 +1,8 @@
 {
   "Id": 88072,
   "CatId": 57,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۳",
+  "Title": "بخش ۱۳ - آمدن جهن از دژ و گزاردن پیام افراسیاب به کیخسرو: پشیمانی از خون سیاوش، پیشنهاد آشتی و تهدید جنگ",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۳ - آمدن جهن از دژ و گزاردن پیام افراسیاب به کیخسرو: پشیمانی از خون سیاوش، پیشنهاد آشتی و تهدید جنگ",
   "FullUrl": "/ferdousi/shahname/mahmood/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1968,6 +1968,98 @@
       "CoupletIndex": 71,
       "SectionIndex1": 0,
       "SectionIndex2": 73
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری که جهن پیش او می‌آید و پیام افراسیاب را به او می‌رساند. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر افراسیاب و فرستادهٔ او نزد شاه."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران و پدر جهن که پیام او گزارده می‌شود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مادری شاه که نژاد او از سوی مادر به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای پدری شاه که نژاد او به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر سیاووش. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس که بی‌گناه کشته شد و بهانهٔ این کین است."
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای گوینده؛ پدر تور"
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان گوینده"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که تور از فریدون چیزی به او نداد"
     }
   ]
 }

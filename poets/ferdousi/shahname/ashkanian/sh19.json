@@ -1,8 +1,8 @@
 {
   "Id": 1705,
   "CatId": 68,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۹",
+  "Title": "بخش ۱۹ - گریز اردشیر از کرم و هفتواد، پناه دو جوان و کشتن مهرک نوشزاد جز دخترش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۹ - گریز اردشیر از کرم و هفتواد، پناه دو جوان و کشتن مهرک نوشزاد جز دخترش",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,98 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 300,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و دشمن اردشیر، با دژی بر کوه و همراه هفتواد؛ او را دیوی جنگی می‌خوانند"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که گریزان است و سپاه کرم او را دنبال می‌کند؛ فرزند ساسان."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 377,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گریزان، پسر ساسان، که از کرم و هفتواد می‌گریزد و از دو جوان یاری می‌خواهد (احتمالاً همنامِ «اردشیر» با کد 211؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 298,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همدست کرم و دشمن اردشیر، با لشکری بدنژاد"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیدادگری که تخت شاهی را از دست داد؛ نمونهٔ ناپایداری روزگار."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بداندیشی که دل شهریاران از او به درد بود."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آمد و بدشهریاران جهان را کشت"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 240,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر اردشیر"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کرم از مغز او دانسته می‌شود و با جهان‌آفرین دشمن است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 299,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن شاه؛ از جنگ می‌گریزد و پنهان می‌شود، سپس گرفتار و کشته می‌شود. (نام در متن: مهرک)"
     }
   ]
 }

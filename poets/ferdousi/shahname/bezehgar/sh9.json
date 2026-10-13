@@ -1,8 +1,8 @@
 {
   "Id": 1761,
   "CatId": 82,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۹",
+  "Title": "بخش ۹ - یزدگرد در چشمهٔ سو: ایستادن خون، گردنکشی شاه و مرگ به لگد اسب آبی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۹ - یزدگرد در چشمهٔ سو: ایستادن خون، گردنکشی شاه و مرگ به لگد اسب آبی",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,17 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی بیمار که با لگد اسب دریایی کشته شد"
     }
   ]
 }

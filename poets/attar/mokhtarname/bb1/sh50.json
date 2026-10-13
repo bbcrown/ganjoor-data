@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "انمیجوید",
-      "PlainText": "هم عقل ز کنْه تو نشان میجوید\r\nهم فهم ترا گرد جهان میجوید\r\nای راحت جان ودل عجب ماندهام\r\nتو در دل ودل ترا به جان میجوید",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم عقل ز کُنْه تو نشان میجوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم فهم ترا گرد جهان میجوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای راحت جان ودل! عجب ماندهام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو در دل ودل ترا به جان میجوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "هم عقل ز کنه تو نشان می جوید\r\nهم فهم تو را گرد جهان می جوید\r\nای راحت جان و دل عجب مانده ام\r\nتو در دل و دل تو را به جان می جوید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم عقل ز کُنْه تو نشان می‌جوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم فهمْ تو را گردِ جهان می‌جوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای راحت جان و دل! عجب مانده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو در دل و دل تو را به جان می‌جوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "هم عقل ز کُنْه تو نشان میجوید",
+      "Text": "هم عقل ز کُنْه تو نشان می‌جوید",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: عقل و درک تو در پی پیدا کردن ریشه‌ها و اصل وجود تو هستند و تلاش می‌کنند تا حقیقت را در تمام عالم بیابند."
@@ -37,14 +37,14 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "هم فهم ترا گرد جهان میجوید",
+      "Text": "هم فهمْ تو را گردِ جهان می‌جوید",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "ای راحت جان ودل! عجب ماندهام",
+      "Text": "ای راحت جان و دل! عجب مانده‌ام",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: ای آرام جان و دلم! عجیب است که من چقدر در دل مانده‌ام و دل تو به جان من craving می‌کند."
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "تو در دل ودل ترا به جان میجوید",
+      "Text": "تو در دل و دل تو را به جان می‌جوید",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

@@ -1,8 +1,8 @@
 {
   "Id": 87958,
   "CatId": 51,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۴",
+  "Title": "بخش ۴ - آگاهی فرود از آمدن سپاه طوس، پند جریره به کین‌خواهی و شناسایی سران با تخوار",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۴ - آگاهی فرود از آمدن سپاه طوس، پند جریره به کین‌خواهی و شناسایی سران با تخوار",
   "FullUrl": "/ferdousi/shahname/forood/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,89 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان پسر جریره و برادر کیخسرو که با رسیدن سپاه ایران نگران می‌شود"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فرود و برادر کیخسرو که کشته شده و کین او خواسته می‌شود (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 147,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر فرود که او را به کین‌خواهی سیاوش و پیوستن به کیخسرو راهنمایی می‌کند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرافراز پیشاپیش سپاه ایران"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نو ایران و برادر فرود"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مورد نفرین جانوران به سبب کشتن سیاوش"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که جریره را در گذشته به فرود/سیاوش داد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراهی که فرود را برای جستن نشان گردان می‌فرستد"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که فرود باید از او نشان بجوید"
     }
   ]
 }

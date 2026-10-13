@@ -1,8 +1,8 @@
 {
   "Id": 1901,
   "CatId": 88,
-  "Title": "بخش ۶۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۶",
+  "Title": "بخش ۶۶ - آرایش نخچیر پرویز، زاری شیرین بر بام ایوان و پیوند به آیین پیشین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۶ - آرایش نخچیر پرویز، زاری شیرین بر بام ایوان و پیوند به آیین پیشین",
   "FullUrl": "/ferdousi/shahname/parviz/sh66",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1320,6 +1320,26 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به شکارگاه می‌رود و شیرین به پیشوازش می‌آید."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که به پیشواز شاه می‌آید و با او سخن می‌گوید."
     }
   ]
 }

@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "امینکند",
-      "PlainText": "خورشید که در خانه بقا می نکند\r\nمی گردد جابجا و جا می نکند\r\nآن نرو به جز قصد هوا می نکند\r\nمی گوید کاصل ما خطا می نکند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید که در خانه بقا می نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گردد جابجا و جا می نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نرو به جز قصد هوا می‌نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گوید کاصل ما خطا می نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "خورشید که در خانه بقا می نکند\r\nمی گردد جابجا و جا می نکند\r\nآن نور\u00A0به جز قصد هوا می نکند\r\nمی گوید کاصل ما خطا می نکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید که در خانه بقا می نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گردد جابجا و جا می نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نور\u00A0به جز قصد هوا می‌نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گوید کاصل ما خطا می نکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -44,7 +44,7 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "آن نرو به جز قصد هوا می‌نکند",
+      "Text": "آن نور\u00A0به جز قصد هوا می‌نکند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: او به جز در پی خوشی و لذت، از هدف دیگری نمی‌رود و می‌گوید که ما در اصل کار اشتباه نمی‌کنیم."

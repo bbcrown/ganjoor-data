@@ -1,8 +1,8 @@
 {
   "Id": 1530,
   "CatId": 59,
-  "Title": "بخش ۴ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۴ - سخن دقیقی",
+  "Title": "بخش ۴ - سخن دقیقی: قطع باژ به توران به توصیه زرتشت و خشم ارجاسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۴ - سخن دقیقی: قطع باژ به توران به توصیه زرتشت و خشم ارجاسپ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -942,6 +942,71 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران، پسر لهراسپ، که زردشت با او سخن می‌گوید و ارجاسپ از او خشمگین است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 202,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر دین‌آور که ارجاسپ او را جادوگر و مدعی پیغمبری می‌خواند."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین و توران که از دین زردشت و گشتاسپ خشمگین می‌شود. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 363,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که گشتاسپ را نزد شاه چین بدگویی می‌کند"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گشتاسپ و زریر که تنها به عنوان پدر یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در گفتهٔ زردشت، در دوزخ دیده شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر گشتاسپ و سپهدار ایران که به دین زردشت می‌گرود."
     }
   ]
 }

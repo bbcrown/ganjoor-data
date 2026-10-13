@@ -1,8 +1,8 @@
 {
   "Id": 87994,
   "CatId": 52,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۶",
+  "Title": "بخش ۱۶ - کشته شدن الوای به دست کاموس، گرفتار شدن کاموس در کمند رستم و کشته شدنش به دست ایرانیان",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۶ - کشته شدن الوای به دست کاموس، گرفتار شدن کاموس در کمند رستم و کشته شدنش به دست ایرانیان",
   "FullUrl": "/ferdousi/shahname/kamoos/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1914,6 +1914,89 @@
       "CoupletIndex": 69,
       "SectionIndex1": 0,
       "SectionIndex2": 71
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که سلاح می‌پوشد و با کاموس می‌جنگد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد سپاه توران که به میدان می‌آید و نبرد می‌خواهد"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در قلب سپاه توران جای دارد"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سپاه ایران بر میسره ایستاده است"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 536,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سپاه ایران بر میمنه با ساز و برگ پولادین است"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در قلب سپاه با کوس و کرنا"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که کاموس را دیده بودند"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان ایران که کاموس را دیده بودند"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 234,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زابلی و شاگرد رستم که با کاموس می‌جنگد و کشته می‌شود"
     }
   ]
 }

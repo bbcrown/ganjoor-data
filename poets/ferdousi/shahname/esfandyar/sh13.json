@@ -1,8 +1,8 @@
 {
   "Id": 1587,
   "CatId": 61,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۳",
+  "Title": "بخش ۱۳ - پند پشوتن و پاسخ اسفندیار، نخواندن رستم به بزم و بازگشت خشمگین او",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۳ - پند پشوتن و پاسخ اسفندیار، نخواندن رستم به بزم و بازگشت خشمگین او",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,53 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار که از لب هیرمند بازگشته و در ایوان خود نشسته است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر اسفندیار و رهنمای شاه که او را اندرز می‌دهد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یل و شاهزاده‌ای که رستم را نمی‌خواند و با پشوتن گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تبار رستم که نامش همراه دستان آمده است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم، که رستم «پور» او خوانده شده است. (نام در متن: دستان)"
     }
   ]
 }

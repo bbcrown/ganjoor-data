@@ -1,8 +1,8 @@
 {
   "Id": 87983,
   "CatId": 52,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۵",
+  "Title": "بخش ۵ - تیرگی آوردگاه و بیم طوس از پیشگویی، گزیدن پهلوانان و صف پیادگان پیش از نبرد سران",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۵ - تیرگی آوردگاه و بیم طوس از پیشگویی، گزیدن پهلوانان و صف پیادگان پیش از نبرد سران",
   "FullUrl": "/ferdousi/shahname/kamoos/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,161 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار که لشکر را می‌آراید و پیاده و پیل به میدان می‌آورد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار که در میمنه یا میسره جای دارد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در صف لشکر و از هماوردان برگزیده"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان که از صف به میان سپاه می‌آید"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان که با دیگران از صف بیرون می‌آید"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیو که از صف بیرون می‌آید"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زره‌دار که از صف به میان سپاه می‌آید"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان که از صف بیرون می‌آید و هماورد برمی‌گزیند"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار دشمن که لشکر آورده و سپاهیان را برمی‌انگیزد"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد گرانمایه و شیردل که به نبرد برگزیده می‌شود"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 525,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد شیردل که با گرازه هماورد برگزیده می‌شود"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان برگزیده برای نبرد"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان برگزیده برای نبرد"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیرومند که هماورد بیژن شمرده می‌شود"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان فرزند گیو که برای نبرد برگزیده می‌شود"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 526,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور که هماورد گیو شمرده می‌شود"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران حاضر در صف نبرد"
     }
   ]
 }

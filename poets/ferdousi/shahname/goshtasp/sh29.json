@@ -1,8 +1,8 @@
 {
   "Id": 1555,
   "CatId": 59,
-  "Title": "بخش ۲۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۹",
+  "Title": "بخش ۲۹ - گریز و محاصرهٔ گشتاسپ بر کوه، پشیمانی از بند اسفندیار و رفتن جاماسپ به دژ گنبدان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۹ - گریز و محاصرهٔ گشتاسپ بر کوه، پشیمانی از بند اسفندیار و رفتن جاماسپ به دژ گنبدان",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,44 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که در کوه به محاصره افتاده و از بند کردن پسرش پشیمان است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده لشکری که کوه را محاصره کرده است. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستاره‌شناس و مشاور دانای گشتاسپ که پیام او را می‌برد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند گشتاسپ که به گفتهٔ شاه بی‌گناه در بند است."
     }
   ]
 }

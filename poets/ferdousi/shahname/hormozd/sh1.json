@@ -403,5 +403,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 15
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 12,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب دیهیم؛ تاج او برای تشبیه و مقایسه یاد شده است."
+    }
   ]
 }

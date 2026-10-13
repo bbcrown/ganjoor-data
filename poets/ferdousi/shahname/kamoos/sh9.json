@@ -1,8 +1,8 @@
 {
   "Id": 87987,
   "CatId": 52,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۹",
+  "Title": "بخش ۹ - شب نبرد طوس و گیو با هومان، رسیدن یاران تا سپیده‌دم و نامه خواستن رستم از کیخسرو",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۹ - شب نبرد طوس و گیو با هومان، رسیدن یاران تا سپیده‌دم و نامه خواستن رستم از کیخسرو",
   "FullUrl": "/ferdousi/shahname/kamoos/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,125 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران همراه در حمله به سپاه پیران."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی که در نبرد شرکت دارد و تأخیرش نگرانی می‌آورد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار سپاه مقابل که درفشش در جنگ دو نیم می‌شود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار جنگاور که لشکر را به دستگیری سران ایرانی برمی‌انگیزد."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی که تأخیرش در رسیدن به لشکر ذکر می‌شود."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی که در تنگنای جنگ است."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که ایرانیان در تنگنا یادش می‌کنند و اکنون در زابلستان است."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 47,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که یادش می‌کنند و دربارهٔ تأخیر سالار سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 74,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با شیدوش دربارهٔ تأخیر پیکار سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 165,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که گرازه با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه تهمتن در زابلستان و دور از میدان نبرد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که به بیژن دربارهٔ درازا کشیدن کار سالار سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه دربارهٔ رزم به نزد او فرستاده می‌شود."
     }
   ]
 }

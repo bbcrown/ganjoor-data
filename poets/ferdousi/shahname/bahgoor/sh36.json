@@ -1,8 +1,8 @@
 {
   "Id": 1805,
   "CatId": 83,
-  "Title": "بخش ۳۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۶",
+  "Title": "بخش ۳۶ - نیرنگ شنگل: گسیل بهرام به اژدهای هند، کشتن اژدها و کشیدن سرش نزد شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۶ - نیرنگ شنگل: گسیل بهرام به اژدهای هند، کشتن اژدها و کشیدن سرش نزد شاه",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh36",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,17 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و شاه ایرانی که اژدها را می‌کشد."
     }
   ]
 }

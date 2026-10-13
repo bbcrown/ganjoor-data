@@ -1,8 +1,8 @@
 {
   "Id": 87978,
   "CatId": 51,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۴",
+  "Title": "بخش ۲۴ - یافتن بهرام خسته، گرفتن تژاو، کشتن او به دست بیژن و مرگ و دخمهٔ بهرام",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۴ - یافتن بهرام خسته، گرفتن تژاو، کشتن او به دست بیژن و مرگ و دخمهٔ بهرام",
   "FullUrl": "/ferdousi/shahname/forood/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,44 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر بهرام؛ برای گرفتن کین او تژاو را اسیر می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گیو در آغاز با او سخن می‌گوید و همراه او می‌رود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 520,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی دشمن که بهرام را زخمی کرد و گیو اسیرش می‌کند"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بهرام می‌گوید پیران نخست او را دید. (نام در متن: پیران ویسه)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1800,
   "CatId": 83,
-  "Title": "بخش ۳۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۱",
+  "Title": "بخش ۳۱ - سفر نهانی بهرام گور به هند در کسوت فرستاده و گشودن پیام شاه در بارگاه شنگل",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۱ - سفر نهانی بهرام گور به هند در کسوت فرستاده و گشودن پیام شاه در بارگاه شنگل",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh31",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -861,6 +861,17 @@
       "CoupletIndex": 30,
       "SectionIndex1": 0,
       "SectionIndex2": 32
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با نامه به هند می‌آید و خود را فرستاده می‌نماید."
     }
   ]
 }

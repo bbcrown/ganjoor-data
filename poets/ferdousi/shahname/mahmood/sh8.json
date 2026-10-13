@@ -1,8 +1,8 @@
 {
   "Id": 88067,
   "CatId": 57,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۸",
+  "Title": "بخش ۸ - چیرگی قارن بر جهن، نیایش کیخسرو و گریز شبانگاهی افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۸ - چیرگی قارن بر جهن، نیایش کیخسرو و گریز شبانگاهی افراسیاب",
   "FullUrl": "/ferdousi/shahname/mahmood/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3210,6 +3210,188 @@
       "CoupletIndex": 117,
       "SectionIndex1": 0,
       "SectionIndex2": 119
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که با سی هزار شمشیرزن به نبرد آمد و شکست خورد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که از قلب سپاه حمله کرد و جهن را شکست داد. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نام پدری گستهم یاد شده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که از سوی راست سپاه با درفش نبرد آمد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه توران و دشمن خسرو که در نبرد سپاه را فرماندهی می‌کند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 63,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای سپهدار ایران که تبار او به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 568,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شیر جنگی که با نامداران بر میسره می‌تازد"
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و فرمانده سپاه ایران که دستورهای جنگی می‌دهد"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 569,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شیران پرخاشجو که خسرو او را به میسره می‌فرستد"
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 570,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شیران پرخاشجو که همراه آوه به میسره می‌رود"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 571,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مأمور گزینش ده‌هزار جنگاور از سپاه ایران"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که در راست سپاه می‌جنگد"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایران در کنار خسرو"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر رستم که در راست سپاه می‌ایستد"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگ جهاندیدهٔ ایرانی در سپاه"
+    },
+    {
+      "CoupletIndex": 75,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده میمنه در سپاه"
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر فریبرز (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس شاه که جرنجاش را از میان برمی‌دارد"
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 572,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای که در جناح چپ شکست خورد"
+    },
+    {
+      "CoupletIndex": 84,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر شاه ترکان؛ سپاه آراست و او را به بازگشت خواند"
     }
   ]
 }

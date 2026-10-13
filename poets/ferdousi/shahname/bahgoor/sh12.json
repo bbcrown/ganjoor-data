@@ -1,8 +1,8 @@
 {
   "Id": 1781,
   "CatId": 83,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۲",
+  "Title": "بخش ۱۲ - شکار بهرام گور، پریدن طغری و خواستگاری سه دختر برزین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۲ - شکار بهرام گور، پریدن طغری و خواستگاری سه دختر برزین",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3210,6 +3210,89 @@
       "CoupletIndex": 117,
       "SectionIndex1": 0,
       "SectionIndex2": 119
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با شکوه بسیار به شکارگاه می‌رود و به باغ می‌رسد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 168,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ تخت، تاج، طوق و هدیه‌های دیگر برای شاه"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر خردمند و دهقان باغ که از دیدن شاه می‌ترسد"
+    },
+    {
+      "CoupletIndex": 102,
+      "PersonId": 1,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که برزین به راه او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 102,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که برزین به راه او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 23,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر دوم برزین."
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 35,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر مهین برزین."
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 349,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر سوم برزین."
+    },
+    {
+      "CoupletIndex": 115,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مست شد، با عماری به مشکوی خود رفت و یک هفته بزم کرد."
     }
   ]
 }

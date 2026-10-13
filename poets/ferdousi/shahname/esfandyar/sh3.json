@@ -1,8 +1,8 @@
 {
   "Id": 1577,
   "CatId": 61,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۳",
+  "Title": "بخش ۳ - گلایهٔ اسفندیار از گشتاسپ: بند گنبدان، کشتن ارجاسپ و طلب تاجِ وعده‌شده",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۳ - گلایهٔ اسفندیار از گشتاسپ: بند گنبدان، کشتن ارجاسپ و طلب تاجِ وعده‌شده",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1158,6 +1158,62 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بر تخت زر نشسته و اسفندیار او را پدر می‌خواند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پسر شاه که با درد و گلهمندی نزد پدر سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 214,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که با گفتار خود اسفندیار را خوار کرد."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیرمردی که به خون افتاد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 205,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسفندیار را در بند دید و با او سخن گفت."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 157,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد آزاده‌ای که زخمی در میدان نبرد افتاد."
     }
   ]
 }

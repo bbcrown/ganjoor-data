@@ -1,8 +1,8 @@
 {
   "Id": 1689,
   "CatId": 68,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۳",
+  "Title": "بخش ۳ - کشته شدن دارا و شبانی زادگان ساسان، خواب بابک و دادن دختر و افسر بدو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۳ - کشته شدن دارا و شبانی زادگان ساسان، خواب بابک و دادن دختر و افسر بدو",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1347,6 +1347,80 @@
       "CoupletIndex": 48,
       "SectionIndex1": 0,
       "SectionIndex2": 50
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 371,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که در جنگ کشته شد و پسری به نام ساسان داشت."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 375,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر دارا؛ خردمند و جنگی بود، از میدان گریخت و در هندوستان مرد. (احتمالاً همنامِ «ساسان» با کد 240؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 241,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کهتر پسر و نوادهٔ ساسان؛ نزد بابک شبان شد و در خواب بابک شاه دیده شد. (نام در متن: ساسان (شبان))"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 292,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب گله و دشت که ساسان را پذیرفت و خواب دید."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 293,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوانی که خود را نبیرهٔ اردشیر و از تبار اسفندیار می‌شمارد."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 221,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جهاندار و نیای جوان. (نام در متن: اردشیر)"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر اسفندیار."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پسر گشتاسپ؛ از نیاکان جوان."
     }
   ]
 }

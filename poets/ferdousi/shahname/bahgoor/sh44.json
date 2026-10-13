@@ -1,8 +1,8 @@
 {
   "Id": 1813,
   "CatId": 83,
-  "Title": "بخش ۴۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۴",
+  "Title": "بخش ۴۴ - بهرام گور: اندیشهٔ مرگ و شمار گنج، برداشتن خراج و فرمان کشت و آبادانی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴۴ - بهرام گور: اندیشهٔ مرگ و شمار گنج، برداشتن خراج و فرمان کشت و آبادانی",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh44",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1941,6 +1941,17 @@
       "CoupletIndex": 70,
       "SectionIndex1": 0,
       "SectionIndex2": 72
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از پیشگویی ستاره‌شمر دربارهٔ مرگ خود می‌اندیشد و به داد روی می‌آورد. (نام در متن: بهرام‌شاه)"
     }
   ]
 }

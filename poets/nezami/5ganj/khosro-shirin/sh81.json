@@ -727,5 +727,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 27
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رامشگری که پس از نکیسا آهنگ برداشت."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گلزار او در تشبیه و یادآوری آمده است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 470,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، افشاندن شیرینی از لب لعل او یاد شده است."
+    }
   ]
 }

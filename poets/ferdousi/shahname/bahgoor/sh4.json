@@ -1,8 +1,8 @@
 {
   "Id": 1773,
   "CatId": 83,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴",
+  "Title": "بخش ۴ - پناه شبانهٔ بهرام گور به خانهٔ جهود، شرط پاک‌کردن سرگین و وفای پیمان با دستار حریر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۴ - پناه شبانهٔ بهرام گور به خانهٔ جهود، شرط پاک‌کردن سرگین و وفای پیمان با دستار حریر",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,44 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 339,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب‌خانهٔ جهود و درویش که سرانجام بهرام را در خانه می‌پذیرد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سواری نامدار که از شکار جدا مانده و شبانه در خانهٔ به‌راهام پناه می‌جوید"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار ازلشکرجامانده که شب را در خانهٔ به‌راهام می‌گذراند (نام در متن: بهرام گور)"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 340,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): میزبان که مهمان را به پیمانش درباره روفتن سرگین پایبند می‌خواهد"
     }
   ]
 }

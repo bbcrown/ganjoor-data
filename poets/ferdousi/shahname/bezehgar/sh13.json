@@ -1,8 +1,8 @@
 {
   "Id": 1765,
   "CatId": 82,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۳",
+  "Title": "بخش ۱۳ - رایزنی بهرام و منذر، آمدن سپاه یمن به جهرم و پیشواز بزرگان ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۱۳ - رایزنی بهرام و منذر، آمدن سپاه یمن به جهرم و پیشواز بزرگان ایران",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,44 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نشسته بر تخت، همراه منذر و رایزن او (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 333,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامی که با رسیدن آگاهی نزد دلیران ایران آمده است"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 326,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رای‌زن شاه که با سپاه از یمن به جهرم می‌رسد"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 325,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در کنار بهرام و منذر با تیغی در دست نشسته است"
     }
   ]
 }

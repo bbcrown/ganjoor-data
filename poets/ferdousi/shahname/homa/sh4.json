@@ -1,8 +1,8 @@
 {
   "Id": 1622,
   "CatId": 64,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۴",
+  "Title": "بخش ۴ - تندباد و پناه داراب در طاق ویران، خروش نهانی و شناختن رشنواد و خواندن گازر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۴ - تندباد و پناه داراب در طاق ویران، خروش نهانی و شناختن رشنواد و خواندن گازر",
   "FullUrl": "/ferdousi/shahname/homa/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1131,6 +1131,53 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 243,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و سالار لشکر که داراب را در طاق ویران می‌یابد و می‌پرسد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 242,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان خفته در طاق ویران؛ فرزند اردشیر که رشنواد او را می‌یابد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر داراب"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 244,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زن گازر که رشنواد فرمان می‌دهد او را حاضر کنند"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گازر که رشنواد فرمان می‌دهد او را حاضر کنند"
     }
   ]
 }

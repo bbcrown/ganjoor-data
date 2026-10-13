@@ -1,8 +1,8 @@
 {
   "Id": 1371,
   "CatId": 40,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۴",
+  "Title": "بخش ۱۴ - لشکرکشی سلم و تور به ایران",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۴ - لشکرکشی سلم و تور به ایران",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,107 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که خبر رسیدن سپاه به او می‌رسد و منوچهر را راهی می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و فرمانده سپاه ایران که به کین‌خواهی می‌رود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و پهلوان کینه‌دار در سپاه منوچهر. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 24,
+      "LocationId": 8671,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌ای که سپاه ایران برای کین او می‌جنگد."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 50,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 31,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 51,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو دشمن خونی که از آمادگی ایرانیان آگاه می‌شوند."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو دشمن خونی که از آمادگی ایرانیان آگاه می‌شوند."
     }
   ]
 }

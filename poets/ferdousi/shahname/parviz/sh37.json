@@ -1,8 +1,8 @@
 {
   "Id": 1872,
   "CatId": 88,
-  "Title": "بخش ۳۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۷",
+  "Title": "بخش ۳۷ - خلعت نیاطوس و بازگشت رومیان، نیایش خسرو در آذرگشسپ و بخشش ولایت‌ها",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۷ - خلعت نیاطوس و بازگشت رومیان، نیایش خسرو در آذرگشسپ و بخشش ولایت‌ها",
   "FullUrl": "/ferdousi/shahname/parviz/sh37",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,152 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه به او فرمان می‌دهد لشکر رومیان را عرض ببیند؛ مهتران زیر فرمان او می‌روند. (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مأمور عرض لشکر و پرداخت حقوق رومیان؛ مهتران به فرمان او شدند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 443,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار رومی که شاه به او گوهر و هدیهٔ بسیار داد و شهرها را به او سپرد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرخ‌نژاد، از پادشاهانی که شهرهایی از روم گرفتند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پادشاهانی که شهرهایی از روم گرفتند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که شهرهایی از روم گرفته بود."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سازندهٔ ایوانی که پادشاه در آن می‌ماند."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کدخدای جهاندیده و راد که به کار گمارده می‌شود."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خراسان سراسر به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 387,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دستور و دبیر جهاندیده و خوب‌چهر."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): منشور، پرستنده و خلعت را نزد او می‌برند."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهر شاه برای او فرستاده شد."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهر او همراه منشور فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشوری با منشور مهرشده به او داده می‌شود."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 439,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهر چاچ به او داده شد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 456,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کلید درِ گنج‌ها را به او می‌سپارند."
     }
   ]
 }

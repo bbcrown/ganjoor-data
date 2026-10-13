@@ -1,8 +1,8 @@
 {
   "Id": 1780,
   "CatId": 83,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۱",
+  "Title": "بخش ۱۱ - یافتن گنج گاوان جمشید به نشان دهقان، نپذیرفتن بهرام و بخشش گوهر به نیازمندان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۱ - یافتن گنج گاوان جمشید به نشان دهقان، نپذیرفتن بهرام و بخشش گوهر به نیازمندان",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2319,6 +2319,71 @@
       "CoupletIndex": 84,
       "SectionIndex1": 0,
       "SectionIndex2": 86
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به نخچیرگاه می‌آید و گنج را می‌یابد"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهر او بر گاو گنج دیده می‌شود."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که تاج داشت و یادگار بزرگ بود"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان نامدار پیشین"
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که تاج فریدون بر سر نهاد"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 254,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیرمرد ۱۶۴ ساله که به شاه پاسخ می‌دهد"
     }
   ]
 }

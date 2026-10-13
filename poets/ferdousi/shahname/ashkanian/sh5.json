@@ -1,8 +1,8 @@
 {
   "Id": 1691,
   "CatId": 68,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۵",
+  "Title": "بخش ۵ - شکار گور و ستیز اردشیر با پسر اردوان، خشم شاه و گماردنش به سالاری آخور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۵ - شکار گور و ستیز اردشیر با پسر اردوان، خشم شاه و گماردنش به سالاری آخور",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,35 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوانی فرستادهٔ بابک که نزد اردوان می‌ماند و بر سر شکار با پسر شاه اختلاف پیدا می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که اردشیر را نزد خود پذیرفت و سپس از او خشمگین شد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 292,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که اردشیر را فرستاد و نامهٔ او را دریافت کرد."
     }
   ]
 }

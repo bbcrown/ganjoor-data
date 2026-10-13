@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ایتونداشت",
-      "PlainText": "جان دردو جهان کسی بجای تو نداشت\r\nدل دیده براه جز برای تو نداشت\r\nیا رب سگ نفس را به صد درد بسوز\r\nکاین ناکس بیوفا وفای تو نداشت",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان دردو جهان کسی بجای تو نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل دیده براه، جز برای تو نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب سگ نفس را به صد درد بسوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین ناکس بیوفا وفای تو نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "جان در دو جهان کسی بجای تو نداشت\r\nدل دیده به راه جز برای تو نداشت\r\nیا رب سگ نفس را به صد درد بسوز\r\nکاین ناکس بیوفا وفای تو نداشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان در دو جهان کسی بجای تو نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل دیده به راه، جز برای تو نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب سگ نفس را به صد درد بسوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین ناکس بیوفا وفای تو نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "جان دردو جهان کسی بجای تو نداشت",
+      "Text": "جان در دو جهان کسی بجای تو نداشت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: هیچ‌کس در این جهان و در زندگی‌ام به اندازه تو برایم مهم نبوده و دل من هیچ‌گاه برای کسی جز تو تپش نداشته است."
@@ -37,7 +37,7 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "دل دیده براه، جز برای تو نداشت",
+      "Text": "دل دیده به راه، جز برای تو نداشت",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },

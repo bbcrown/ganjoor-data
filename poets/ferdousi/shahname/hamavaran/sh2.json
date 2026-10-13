@@ -1,8 +1,8 @@
 {
   "Id": 1448,
   "CatId": 47,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۲",
+  "Title": "بخش ۲ - خواستگاری کاووس از سودابه دختر شاه هاماوران و ازدواج با او",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۲ - خواستگاری کاووس از سودابه دختر شاه هاماوران و ازدواج با او",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,53 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که برای ازدواج، دختر شاه هاماوران را خواستگاری می‌کند. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 115,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختر مورد خواستگاری که از پیام کاووس غمگین می‌شود و تسلیم می‌گردد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 50,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر کاووس."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه هاماوران با او دربارهٔ پیام کاووس مشورت می‌کند و او موافقت می‌دهد."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 115,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای هاماوران که پیمان می‌بندد و کاروان سودابه را آماده و روانه می‌کند."
     }
   ]
 }

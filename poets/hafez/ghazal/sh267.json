@@ -161,5 +161,14 @@
       "CoupletIndex": 8,
       "SectionIndex1": 0
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 151,
+      "VerifiedDate": false,
+      "IgnoreInCategory": true,
+      "MachineGenerated": false
+    }
   ]
 }

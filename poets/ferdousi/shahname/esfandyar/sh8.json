@@ -1,8 +1,8 @@
 {
   "Id": 1582,
   "CatId": 61,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۸",
+  "Title": "بخش ۸ - آمدن بهمن به زاولستان، دیدار با زال و خواستن راه نخچیرگاه رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۸ - آمدن بهمن به زاولستان، دیدار با زال و خواستن راه نخچیرگاه رستم",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,89 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان شاهزاده‌ای که با شکوه شاهانه به زابلستان می‌آید و خود را بهمن می‌نامد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان که بهمن را می‌پذیرد و با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زال گمان می‌کند بهمن از نژاد اوست."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور دستان؛ هنگام این رویداد در نخچیرگاه است و بهمن از او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بهمن می‌گوید اسفندیار به زابل آمده و فرمان او را بهانه می‌کند."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم در بازگشت از نخچیرگاه."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم در بازگشت از نخچیرگاه."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که زال بهمن را از تخمهٔ او می‌پندارد."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 231,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد جهان‌دیده‌ای که راهنمای بهمن به نخچیرگاه می‌شود."
     }
   ]
 }

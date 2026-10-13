@@ -516,6 +516,17 @@
     },
     {
       "Index": 25,
+      "Number": 26,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "بماند سال ها این نظم و ترتیب\r\nز ما هر ذره خاک افتاده جایی\r\nغرض نقشی ست کز ما باز ماند\r\nکه هستی را نمی بینم بقایی\r\nمگر صاحب دلی روزی به رحمت\r\nکند در کار درویشان دعایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبمانَد سال‌ها این نظم و ترتیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ما هر ذرّه خاک افتاده جایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرض نقشی‌ست کز ما باز ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستی را نمی‌بینم بقایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر صاحب‌دلی روزی به رحمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند در کار درویشان دعایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 25,
       "Number": 25,
       "SectionType": "Couplet",
       "VerseType": "Second",
@@ -532,28 +543,6 @@
       "RhymeLetters": "ازد",
       "PlainText": "مزن تا توانی به گفتار دم\r\nنکو گوی گر دیر گویی چه غم\r\nهر که گردن به دعوی افرازد\r\nخویشتن را به گردن اندازد",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن تا توانی به گفتار، دم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکو گوی، گر دیر گویی چه غم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گردن به دعوی افرازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را به گردن اندازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 25,
-      "Number": 26,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "ایی",
-      "PlainText": "بماند سال ها این نظم و ترتیب\r\nز ما هر ذره خاک افتاده جایی\r\nغرض نقشی ست کز ما باز ماند\r\nکه هستی را نمی بینم بقایی\r\nمگر صاحب دلی روزی به رحمت\r\nکند در کار درویشان دعایی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبمانَد سال‌ها این نظم و ترتیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ما هر ذرّه خاک افتاده جایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرض نقشی‌ست کز ما باز ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستی را نمی‌بینم بقایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر صاحب‌دلی روزی به رحمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند در کار درویشان دعایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Generic",
-      "CoupletsCount": 3
-    },
-    {
-      "Index": 26,
-      "Number": 27,
-      "SectionType": "WholePoem",
-      "VerseType": "First",
-      "RhymeLetters": "م",
-      "PlainText": "در این مدت که ما را وقت خوش بود\r\nز هجرت شش صد و پنجاه و شش بود\r\nمراد ما نصیحت بود و گفتیم\r\nحوالت با خدا کردیم و رفتیم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این مدت که ما را وقت خوش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز هجرت شش‌صد و پنجاه و شش بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمراد ما نصیحت بود و گفتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحوالت با خدا کردیم و رفتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "PoemFormat": "Ghete",
       "CoupletsCount": 2
     },
     {
@@ -574,6 +563,17 @@
       "RhymeLetters": "س",
       "PlainText": "بیندیش وآن گه بر آور نفس\r\nوز آن پیش بس کن که گویند بس\r\nسعدی افتاده ای ست آزاده\r\nکس نیاید به جنگ افتاده",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیندیش، وآن‌گه بر آور نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آن پیش بس کن، که گویند «بس»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی افتاده‌ای‌ست آزاده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نیاید به جنگ افتاده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 26,
+      "Number": 27,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "در این مدت که ما را وقت خوش بود\r\nز هجرت شش صد و پنجاه و شش بود\r\nمراد ما نصیحت بود و گفتیم\r\nحوالت با خدا کردیم و رفتیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این مدت که ما را وقت خوش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز هجرت شش‌صد و پنجاه و شش بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمراد ما نصیحت بود و گفتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحوالت با خدا کردیم و رفتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
       "CoupletsCount": 2
     },
     {

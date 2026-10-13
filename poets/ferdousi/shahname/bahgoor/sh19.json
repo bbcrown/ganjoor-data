@@ -1,8 +1,8 @@
 {
   "Id": 1788,
   "CatId": 83,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۹",
+  "Title": "بخش ۱۹ - کشتن اژدها، میهمانی نهانی بهرام گور و خشک شدن شیر گاو از بیداد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۹ - کشتن اژدها، میهمانی نهانی بهرام گور و خشک شدن شیر گاو از بیداد",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3156,6 +3156,35 @@
       "CoupletIndex": 115,
       "SectionIndex1": 0,
       "SectionIndex2": 117
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه شکارجو که اژدهایی را می‌کشد و مهمان زنی روستایی می‌شود."
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در سوگند زن به خدای او آمده است."
+    },
+    {
+      "CoupletIndex": 112,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پالیزبان و میزبان شاه که شاه مرز و ده را به او می‌دهد."
     }
   ]
 }

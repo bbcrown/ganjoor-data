@@ -1,8 +1,8 @@
 {
   "Id": 1883,
   "CatId": 88,
-  "Title": "بخش ۴۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۸",
+  "Title": "بخش ۴۸ - سوگواری خاقان چین بر بهرام، سوزاندن سرای قلون و فرزندانش و کشیدن خاتون از گیسو",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۸ - سوگواری خاقان چین بر بهرام، سوزاندن سرای قلون و فرزندانش و کشیدن خاتون از گیسو",
   "FullUrl": "/ferdousi/shahname/parviz/sh48",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,53 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که مرگ یا بلای او مایهٔ سوگ خاقان و چینیان است. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین؛ از خبر بهرام اندوهگین می‌شود و جهاندیدگان را فرامی‌خواند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 84,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در توران دو فرزند و خویشان دارد؛ خانه و خانواده‌اش سوزانده می‌شود."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 459,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که او را با گیسو از پرده بیرون می‌کشند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که با فرستادن هیونان در جست‌وجویش‌اند اما به دست نیامد."
     }
   ]
 }

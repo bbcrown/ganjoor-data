@@ -1,8 +1,8 @@
 {
   "Id": 88011,
   "CatId": 55,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۲",
+  "Title": "بخش ۲ - آغاز داستان بیژن و منیژه: کشتن گرازان ارمان، فریب گرگین و بردن بیژن به ایوان افراسیاب",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۲ - آغاز داستان بیژن و منیژه: کشتن گرازان ارمان، فریب گرگین و بردن بیژن به ایوان افراسیاب",
   "FullUrl": "/ferdousi/shahname/bizhan/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5829,6 +5829,224 @@
       "CoupletIndex": 214,
       "SectionIndex1": 0,
       "SectionIndex2": 216
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که به کین‌خواهی آمده و در بزم می‌نشیند"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خسرو کین او را می‌خواهد (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانِ حاضر در بزم خسرو"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانِ حاضر در بزم خسرو"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با لقب «نیو»؛ از حاضران بزم"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانِ حاضر در بزم"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانِ حاضر در بزم"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانِ حاضر در بزم"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانِ حاضر در بزم"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 98,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانِ حاضر در بزم"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانِ حاضر در بزم"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با عنوان «شه»؛ از حاضران بزم"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): لشکرشکن؛ از حاضران بزم"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانِ حاضر در بزم"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رزم‌زن؛ از حاضران بزم"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین؛ نامش بر اسبان داغ شده و به یادش می‌نوشند (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 5,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوبند؛ در کمندافکنی بیژن با او سنجیده می‌شود"
+    },
+    {
+      "CoupletIndex": 89,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه گراز به او مانند شده و دل گرگین را به بدی می‌کشاند. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همرزمان پیشین گرگین."
+    },
+    {
+      "CoupletIndex": 117,
+      "PersonId": 76,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همرزمان پیشین گرگین."
+    },
+    {
+      "CoupletIndex": 129,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر منیژه."
+    },
+    {
+      "CoupletIndex": 129,
+      "PersonId": 547,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر افراسیاب که در جشنگاه حاضر خواهد بود."
+    },
+    {
+      "CoupletIndex": 156,
+      "PersonId": 230,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب کلاهی که بیژن بر سر دارد. (نام در متن: تهم پهلوان)"
+    },
+    {
+      "CoupletIndex": 207,
+      "PersonId": 548,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خدایی که بیژن به او شکایت می‌برد"
     }
   ]
 }

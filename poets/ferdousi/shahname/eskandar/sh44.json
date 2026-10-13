@@ -1,8 +1,8 @@
 {
   "Id": 1683,
   "CatId": 67,
-  "Title": "بخش ۴۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۴",
+  "Title": "بخش ۴۴ - مرگ اسکندر، سوگ لشکر و روانه شدن تابوت از جرم به اسکندریه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۴ - مرگ اسکندر، سوگ لشکر و روانه شدن تابوت از جرم به اسکندریه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh44",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,35 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه رومیان که بیمار می‌شود، در می‌گذرد و بر سر محل دفنش بحث می‌شود. (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه رومیان که بیمار می‌شود و می‌میرد و لشکر برای خاکسپاری‌اش گفت‌وگو می‌کند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 249,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیکر شاه را با گلاب می‌شوید و کافور بر آن می‌پراکند."
     }
   ]
 }

@@ -392,7 +392,7 @@
       "CoupletIndex": 3,
       "SectionIndex1": 0,
       "SectionIndex2": 1,
-      "CoupletSummary": "هوش مصنوعی: وقتی که سر انگشتان بر روی لحن بربط می‌رقصد، صدای دلنوازی از آن بیرون می‌آید که مانند جریانی تازه از آب زنده است."
+      "CoupletSummary": "زمانی که بر بربط زخمه زد، از ساز خشک بانگ دلنشین برخواست. [رود=ساز؛ تر=دلنشین]"
     },
     {
       "VOrder": 8,
@@ -1393,6 +1393,53 @@
       "CoupletIndex": 75,
       "SectionIndex1": 0,
       "SectionIndex2": 30
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نوازنده و خنیاگر که سی لحن را با بربط می‌نوازد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب حقه‌ای که نام یکی از لحن‌ها شده است (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام او در نام یکی از نواها (کین سیاوش) آمده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نام او در نام یکی از نواها (کین ایرج) آمده است."
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سراینده که در پایان خود را خطاب می‌کند و به خرسندی می‌خواند."
     }
   ]
 }

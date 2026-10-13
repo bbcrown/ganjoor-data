@@ -1,8 +1,8 @@
 {
   "Id": 1611,
   "CatId": 62,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۶",
+  "Title": "بخش ۶ - کین‌ستانی فرامرز از کابل: آویختن شاه در چاه و سوزاندن شغاد و چنار",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۶ - کین‌ستانی فرامرز از کابل: آویختن شاه در چاه و سوزاندن شغاد و چنار",
   "FullUrl": "/ferdousi/shahname/shqad/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -915,6 +915,44 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 34
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان درگذشته که فرامرز برای او سوگوار است و گنجش را دارد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلی و سوگوار رستم؛ سپاه را به کابل برد و پیروز شد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 237,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که فرامرز به سوی او می‌رود و آتشی بزرگ او را می‌سوزاند"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خاکِ آورده‌شده از کابل را سپاه به سوی او کشید. (نام در متن: دستان)"
     }
   ]
 }

@@ -943,5 +943,52 @@
       "SectionIndex1": 0,
       "SectionIndex2": 35
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند آبتین و فرانک؛ از راز نژاد خود می‌پرسد و آهنگ نبرد با ضحاک می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 23,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر فریدون؛ راز پدر و نژاد او را برایش بازمی‌گوید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 22,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریدون، مردی از تخم کیان، خردمند و بی‌آزار."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 5,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای آبتین که نژاد او به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جادوپرست با دو مار بر کتف؛ دشمن آبتین و فریدون."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1866,
   "CatId": 88,
-  "Title": "بخش ۳۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۱",
+  "Title": "بخش ۳۱ - کشتن کوت رومی به تیغ بهرام، فرستادن تنش نزد قیصر و تپهٔ بهرام‌چید",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۱ - کشتن کوت رومی به تیغ بهرام، فرستادن تنش نزد قیصر و تپهٔ بهرام‌چید",
   "FullUrl": "/ferdousi/shahname/parviz/sh31",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2211,6 +2211,125 @@
       "CoupletIndex": 80,
       "SectionIndex1": 0,
       "SectionIndex2": 82
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار و جنگاور ایرانی که سپاه را آراسته و با کوت روبه‌رو می‌شود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و جنگاوری که لشکر ایرانیان را آراسته و به نبرد کوت می‌رود. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که بهرام او را به نگهبانی قلبگاه می‌گمارد و به بهرام هشدار می‌دهد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که از فراز کوه نبرد را می‌نگرد و کوت را به جنگ می‌فرستد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان شاه که با او بر کوه نشسته است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان شاه که با او بر کوه نشسته است."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 443,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران همراه شاه بر کوه."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 445,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاوری که از سپاه بیرون می‌آید و به نبرد بهرام فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که بهرام او را مخاطب می‌کند (نام در متن: ایزد گسسپ)"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 447,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از یلانی که بهرام مخاطبشان می‌کند."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 448,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از یلانی که بهرام مخاطبشان می‌کند."
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که خسرو برایش پیام می‌فرستد."
+    },
+    {
+      "CoupletIndex": 77,
+      "PersonId": 444,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب شهریار؛ به او گفته می‌شود فردا سپاه را به جنگ نبرد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1518,
   "CatId": 58,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۹",
+  "Title": "بخش ۹ - خواستگاری میرین از دختر قیصر، شرط گرگ فاسقون و رفتن گشتاسپ به بیشه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۹ - خواستگاری میرین از دختر قیصر، شرط گرگ فاسقون و رفتن گشتاسپ به بیشه",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2157,6 +2157,62 @@
       "CoupletIndex": 78,
       "SectionIndex1": 0,
       "SectionIndex2": 80
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 185,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد رومیِ ثروتمند و سرافراز که دختر قیصر را خواستگاری می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم و پدر دختری که میرین او را می‌خواهد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر قیصر که میرین او را می‌خواهد و با گشتاسپ همراه بوده است."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار ایرانی که با کتایون همراه است و از شکار می‌آید."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 180,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): میزبان رومی که میرین برایش سخن می‌گوید و با او به پیشواز می‌رود."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای میرین و صاحب پیشین شمشیر الماس‌گون."
     }
   ]
 }

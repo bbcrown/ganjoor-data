@@ -3940,5 +3940,52 @@
       "SectionIndex1": 0,
       "SectionIndex2": 146
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از دسیسه و دشمنی می‌گریزد و به ارمن می‌رود"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 646,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خبر را درمی‌یابد و در خلوت به خسرو هشدار می‌دهد (نام در متن: بزرگ امید)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 279,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در تشبیه رفتن خسرو به صحرا آمده است"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 636,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در تشبیه خسرو و همراهان پری‌زادش آمده است"
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 459,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیبارو که بر شبدیز سوار می‌شود و ناپدید می‌گردد. (نام در متن: پری‌رخ)"
+    }
   ]
 }

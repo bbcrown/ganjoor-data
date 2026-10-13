@@ -1,8 +1,8 @@
 {
   "Id": 1546,
   "CatId": 59,
-  "Title": "بخش ۲۰ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۰ - سخن دقیقی",
+  "Title": "بخش ۲۰ - سخن دقیقی: بازگشت گشتاسپ، بخشش همای به اسفندیار و تعقیب ارجاسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۰ - سخن دقیقی: بازگشت گشتاسپ، بخشش همای به اسفندیار و تعقیب ارجاسپ",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,53 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیروزی که از رزمگاه برمی‌گردد و بر تخت می‌نشیند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 213,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر مهین شاه که فرماندهی سپاه را می‌گیرد و به تعقیب شاه توران می‌رود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که شکست می‌خورد و شاه از او با نفرین یاد می‌کند. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبدی که نگهبانی در گنبد کاخ به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روم که از پیروزی شاه آگاه می‌شود و هدیه می‌فرستد."
     }
   ]
 }

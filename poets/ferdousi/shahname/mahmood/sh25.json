@@ -1,8 +1,8 @@
 {
   "Id": 88084,
   "CatId": 57,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۵",
+  "Title": "بخش ۲۵ - گریختن افراسیاب به دریای چیچست، نالهٔ گرسیوز و گرفتن دوبارهٔ او به دست هوم",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۵ - گریختن افراسیاب به دریای چیچست، نالهٔ گرسیوز و گرفتن دوبارهٔ او به دست هوم",
   "FullUrl": "/ferdousi/shahname/mahmood/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2049,6 +2049,80 @@
       "CoupletIndex": 74,
       "SectionIndex1": 0,
       "SectionIndex2": 76
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی از تبار کشواد که با گیو و آزادگان همراه است و سخن هوم را می‌شنود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گودرز در رفتن به کنار دریا."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسیر هوم که گریخت و در آب چیچست پنهان شد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که با هوم سخن می‌گوید و او را می‌ستاید. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 12,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور ایزدی که راز را شبانه بر هوم آشکار کرد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر افراسیاب که به فرمان شهریار بسته و شکنجه می‌شود"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای افراسیاب که در گفتار او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر افراسیاب"
     }
   ]
 }

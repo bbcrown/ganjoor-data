@@ -1,8 +1,8 @@
 {
   "Id": 1626,
   "CatId": 65,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۱",
+  "Title": "بخش ۱ - نشستن داراب بر تخت داد، گشودن آب دریا، بنیاد دارابگرد و ایمن کردن گیتی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۱ - نشستن داراب بر تخت داد، گشودن آب دریا، بنیاد دارابگرد و ایمن کردن گیتی",
   "FullUrl": "/ferdousi/shahname/darab/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -726,6 +726,62 @@
       "CoupletIndex": 25,
       "SectionIndex1": 0,
       "SectionIndex2": 27
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه خورشیدچهر و دادگر که ستایش می‌شود"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که دهقان پیر از او سخن گفته است"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار یادشده در گفتار دهقان پیر"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 242,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران یادشده؛ شهر به نام او داراب‌گرد نامیده شد"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 623,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران یادشده در گفتار دهقان پیر"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که بر تخت نشست، سخن گفت و شهری سودمند ساخت"
     }
   ]
 }

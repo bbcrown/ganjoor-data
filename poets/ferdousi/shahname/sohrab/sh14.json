@@ -1,8 +1,8 @@
 {
   "Id": 1472,
   "CatId": 48,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۴",
+  "Title": "بخش ۱۴ - خروش سهراب بر کاووس، برکندن سراپرده، دیدار نخست با رستم و انکار نام",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۴ - خروش سهراب بر کاووس، برکندن سراپرده، دیدار نخست با رستم و انکار نام",
   "FullUrl": "/ferdousi/shahname/sohrab/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,116 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سهراب او را تهدید و تحقیر می‌کند (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که کاووس را به جنگ می‌خواند و با رستم رو‌به‌رو می‌شود"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 137,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که کشته شدنش در سوگند سهراب یاد شده است"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که کاووس او را فرامی‌خواند و به نبرد سهراب می‌رود"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام کاووس را نزد رستم می‌برد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم او را از خیمه در راه می‌بیند"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): هنگام آماده‌شدن، دیگران را به شتاب فرامی‌خواند"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در آماده‌کردن اسب برای نبرد مشغول است"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم آشوب را کار او می‌داند (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان بارگاه و سپاه که همراه رستم است"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سینهٔ سهراب به سینهٔ او مانند شده است"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نامور که نسب رستم به او پیوند داده می‌شود. (نام در متن: نریمان)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1929,
   "CatId": 96,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۶",
+  "Title": "بخش ۶ - شکست ایرانیان بیرون بغداد، پند فرخ‌زاد به پناه نارون و عزم یزدگرد سوی خراسان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۶ - شکست ایرانیان بیرون بغداد، پند فرخ‌زاد به پناه نارون و عزم یزدگرد سوی خراسان",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2103,6 +2103,62 @@
       "CoupletIndex": 76,
       "SectionIndex1": 0,
       "SectionIndex2": 78
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 187,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار شکست‌خورده که نزد شاه برمی‌گردد و او را به رفتن به ناروَن می‌خواند"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نمونه که شاه را به پیروی از کار او می‌خوانند"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای چین که ترکانش به یاری شاه می‌آیند"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که شاه می‌خواهد با دخترش پیوند خویشی ببندد"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 492,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنارنگ مرو که شاه از او یاری می‌خواهد و او را برکشیده خود می‌داند"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که بستگانی از او همراه شاهند و سپاه به سوی او می‌رود."
     }
   ]
 }

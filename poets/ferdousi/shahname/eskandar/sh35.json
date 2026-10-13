@@ -1,8 +1,8 @@
 {
   "Id": 1674,
   "CatId": 67,
-  "Title": "بخش ۳۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۵",
+  "Title": "بخش ۳۵ - دیدار سکندر با اسرافیل بر کوه، رفتن به تاریکی و پشیمانی از گوهرهای وانهاده",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۵ - دیدار سکندر با اسرافیل بر کوه، رفتن به تاریکی و پشیمانی از گوهرهای وانهاده",
   "FullUrl": "/ferdousi/shahname/eskandar/sh35",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,26 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری که به کوه می‌رود و سپاه را از تاریکی می‌گذراند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 280,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرشته‌ای که صور به دست دارد و منتظر فرمان یزدان است."
     }
   ]
 }

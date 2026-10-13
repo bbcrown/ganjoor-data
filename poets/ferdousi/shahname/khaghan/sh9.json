@@ -1,8 +1,8 @@
 {
   "Id": 88002,
   "CatId": 53,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۹",
+  "Title": "بخش ۹ - پیام آشتی خاقان چین به رستم پس از کشته شدن کاموس و رد کردن صلح",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۹ - پیام آشتی خاقان چین به رستم پس از کشته شدن کاموس و رد کردن صلح",
   "FullUrl": "/ferdousi/shahname/khaghan/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,44 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای چین که از پشت پیل میدان نبرد را می‌نگرد. (نام در متن: خاقان)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و سوار رخش که پیام آشتی را نمی‌پذیرد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریاری که انگیزهٔ گردآمدن جهان برای این جنگ است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 167,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رزمجویی که پیش‌تر به دست رستم کشته شده است."
     }
   ]
 }

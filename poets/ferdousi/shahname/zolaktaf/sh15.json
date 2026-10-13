@@ -1,8 +1,8 @@
 {
   "Id": 1747,
   "CatId": 77,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۵",
+  "Title": "بخش ۱۵ - دعوی پیغمبری مانی نزد شاپور، شکست در مناظره با موبد و پوست‌کندن او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۱۵ - دعوی پیغمبری مانی نزد شاپور، شکست در مناظره با موبد و پوست‌کندن او",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,35 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که مانی را می‌پذیرد، با موبدان می‌سنجد و سرانجام فرمان کشتنش را می‌دهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 227,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صورتگر چینی که ادعای پیغمبری دارد؛ در برابر موبد درمی‌ماند و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در استدلال موبد، فرضِ همتایی او با یزدان آمده است. (نام در متن: اهرمن)"
     }
   ]
 }

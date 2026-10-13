@@ -2212,5 +2212,23 @@
       "SectionIndex1": 0,
       "SectionIndex2": 82
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 48,
+      "PersonId": 4,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 5,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

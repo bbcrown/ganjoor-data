@@ -1105,5 +1105,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 41
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 10,
+      "PersonId": 266,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونه‌ای که در عشق‌بازی با بت و پاک‌سازی بت‌خانه به او مثل زده می‌شود."
+    }
   ]
 }

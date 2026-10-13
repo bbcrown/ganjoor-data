@@ -1,8 +1,8 @@
 {
   "Id": 87964,
   "CatId": 51,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۰",
+  "Title": "بخش ۱۰ - هشدار تخوار به فرود از آمدن طوس، خشم شاهزاده و پند بازگشت به دژ",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۰ - هشدار تخوار به فرود از آمدن طوس، خشم شاهزاده و پند بازگشت به دژ",
   "FullUrl": "/ferdousi/shahname/forood/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -456,6 +456,44 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 17
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنگو و هشداردهنده که فرود را از جنگ با طوس بازمی‌دارد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهداری که با لشکر ایران به جنگ آمده است"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزادهٔ جوان و جنگاور که تخوار او را اندرز می‌دهد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از گزند رسیدن به طوس اندوهگین می‌شود (نام در متن: خسرو)"
     }
   ]
 }

@@ -1699,5 +1699,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 63
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 645,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ گنج‌اندوزی؛ در سرزنش مخاطب به گنج او مثل زده شده است."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 260,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مثل پایانی همراه عیسی یاد شده است."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مثل پایانی با دم او و موسی اشاره شده است. (نام در متن: عیسی)"
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1401,
   "CatId": 41,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۴",
+  "Title": "بخش ۲۴ - ورود سام و زال به کابل، جشن عروسی زال و رودابه و سپردن پادشاهی به زال",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۴ - ورود سام و زال به کابل، جشن عروسی زال و رودابه و سپردن پادشاهی به زال",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,62 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کابل؛ میزبان جشن است و عقد را می‌بندد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهان‌پهلوان؛ زال را در آغوش می‌گیرد و در جشن و پیوند رودابه حضور دارد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به کابل می‌آید و تاج زرین بر سرش نهاده می‌شود. (نام در متن: زال زر)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با پرستندگان به پیشواز می‌آید و با سام گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی ماه‌روی که سام او را می‌بیند و با زال پیوند می‌یابد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که منشور آن شهر را به گوینده داده است."
     }
   ]
 }

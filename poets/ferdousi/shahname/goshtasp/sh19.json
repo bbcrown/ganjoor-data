@@ -1,8 +1,8 @@
 {
   "Id": 1545,
   "CatId": 59,
-  "Title": "بخش ۱۹ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۹ - سخن دقیقی",
+  "Title": "بخش ۱۹ - سخن دقیقی: پیروزی اسفندیار، بخشیدن اسیران و سوگ گشتاسپ بر زریر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۹ - سخن دقیقی: پیروزی اسفندیار، بخشیدن اسیران و سوگ گشتاسپ بر زریر",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -942,6 +942,35 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 220,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپاهیانش شکست خورده‌اند و ترکان رفتن او را دیدند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرکردهٔ ایرانیان؛ به شکست‌خوردگان زینهار می‌دهد و دستور بازداشتن از کشتار را صادر می‌کند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شدهٔ میدان نبرد که برادرش بر او می‌گرید و او را در تابوت زرین می‌نهد."
     }
   ]
 }

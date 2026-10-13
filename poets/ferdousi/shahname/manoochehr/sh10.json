@@ -1,8 +1,8 @@
 {
   "Id": 1387,
   "CatId": 41,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۰",
+  "Title": "بخش ۱۰ - نامهٔ زال به پدرش و درخواست اجازه برای وصلت با رودابه",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۰ - نامهٔ زال به پدرش و درخواست اجازه برای وصلت با رودابه",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1132,7 +1132,7 @@
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "SectionIndex2": 2,
-      "CoupletSummary": "هوش مصنوعی: چون خورشید روشن از پشت کوه سر برآورد، همه گروه به سمت آن حرکت کردند و پراکنده شدند."
+      "CoupletSummary": "وقتی خورشید تابان از پشت کوه طلوع کرد، همهٔ پهلوانان و بزرگان با هم به راه افتادند."
     },
     {
       "VOrder": 2,
@@ -1166,7 +1166,7 @@
       "CoupletIndex": 2,
       "SectionIndex1": 0,
       "SectionIndex2": 4,
-      "CoupletSummary": "هوش مصنوعی: رئیس سپاه فرستاد تا کسی را صدا کند که بزرگان و دانایان را گرد آورد و سخنانی را برای آنها بخواند."
+      "CoupletSummary": "فرمانده (زال) کسی را فرستاد تا بزرگان و دانایان را فرا بخواند."
     },
     {
       "VOrder": 6,
@@ -1642,7 +1642,7 @@
       "CoupletIndex": 30,
       "SectionIndex1": 0,
       "SectionIndex2": 32,
-      "CoupletSummary": "هوش مصنوعی: دل من در عشقی گرفتار شده که مانند زیبایی دختری به نام سیندخت است. نمی‌دانم چه باید بگویم، زیرا این دل به شدت در چنگال این عشق گرفتار است."
+      "CoupletSummary": "دل من نسبت به دختر سیندخت (رودابه) آرام و مایل شده است. حال سام چه باید بگوید و چگونه تصمیم بگیرد؟"
     },
     {
       "VOrder": 62,
@@ -1659,7 +1659,7 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33,
-      "CoupletSummary": "هوش مصنوعی: منوچهر شاه جوان به آرامی می‌گوید که شاید گناهی در کار است یا احساساتی در او ایجاد شده است."
+      "CoupletSummary": "اگر منوچهر شاه این موضوع را بفهمد، آیا آن را می‌پذیرد؟ یا ممکن است تصور کند این جوان (زال) مرتکب خطا و گناه شده است؟"
     },
     {
       "VOrder": 64,
@@ -1676,7 +1676,7 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 34,
-      "CoupletSummary": "هوش مصنوعی: هر کسی، چه بزرگ و چه کوچک، زمانی که به هم پیوسته شوند، مسیر خود را به سوی دین و آیین مشخص می‌کنند."
+      "CoupletSummary": "چه فرد بزرگ باشد و چه کوچک، وقتی به دنبال همسر می‌رود، در حقیقت مطابق دین و آیین رفتار کرده است."
     },
     {
       "VOrder": 66,
@@ -1693,7 +1693,7 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35,
-      "CoupletSummary": "هوش مصنوعی: بسیار کسی که با عقل و تدبیر است، با این مسأله درگیر نیست؛ زیرا این مسیر، هم مطابق با دین است و هم عیب و ننگی ندارد."
+      "CoupletSummary": "در این مسئله خردمند نباید مخالفت کند، زیرا ازدواج هم مطابق دین است و هم کاری ننگ‌آور نیست."
     },
     {
       "VOrder": 68,
@@ -1727,7 +1727,7 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37,
-      "CoupletSummary": "هوش مصنوعی: سخن و حرف زدن عالمان و خردمندان به خاطر مداخله و حرف زدن دیوان و نادانان خاموش شد."
+      "CoupletSummary": "موبدان و بزرگان سکوت کردند و خردمندان نتوانستند چیزی بگویند."
     },
     {
       "VOrder": 72,
@@ -1744,7 +1744,7 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38,
-      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف شخصی به نام ضحاک می‌پردازد که در ذهن شاه نگرانی و اضطراب ایجاد کرده است. دل شاه از او پر از احساسات گران‌بها و شگفت‌انگیز است که به مانند کیمیا ارزشمند و نادر هستند."
+      "CoupletSummary": "زیرا ضحاک، جدّ/نیای مهراب بوده و دل شاه نسبت به خاندان آنها پر از نفرت و بدگمانی است."
     },
     {
       "VOrder": 74,
@@ -1761,7 +1761,7 @@
       "CoupletIndex": 37,
       "SectionIndex1": 0,
       "SectionIndex2": 39,
-      "CoupletSummary": "هوش مصنوعی: هیچ‌کس جرأت بیان کردن پیدا نکرد، چون هیچ‌کس اشکالی ندارد که شنیده شود. برای انجام این کار، باید زهر و شکر را با هم ترکیب کرد."
+      "CoupletSummary": "هیچ‌کس جرئت نکرد آزادانه نظر بدهد؛ زیرا کسی ندیده است که شیرینی و زهر با هم سازگار باشند."
     },
     {
       "VOrder": 76,
@@ -1778,7 +1778,7 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40,
-      "CoupletSummary": "هوش مصنوعی: زمانی که سردار از صحبت‌های آنها حرفی نشنید، خشمگین شد و تصمیم جدیدی گرفت."
+      "CoupletSummary": "وقتی دستان هیچ پاسخی از آنها نشنید، به خشم و جوش آمد و اندیشه‌ای تازه مطرح کرد."
     },
     {
       "VOrder": 78,
@@ -1795,7 +1795,7 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41,
-      "CoupletSummary": "هوش مصنوعی: می‌دانم که اگر به این موضوع بپردازید، بر من انتقاد خواهید کرد."
+      "CoupletSummary": "می دانم اگر دربارهٔ این موضوع تحقیق و فکر کنید، ممکن است به خاطر این نظر مرا سرزنش کنید."
     },
     {
       "VOrder": 80,
@@ -1812,7 +1812,7 @@
       "CoupletIndex": 40,
       "SectionIndex1": 0,
       "SectionIndex2": 42,
-      "CoupletSummary": "هوش مصنوعی: هر کسی که دارای روح بزرگ و نیک است، باید توجه کند که ممکن است به خاطر این فضیلت‌ها، criticism و انتقادهای زیادی را بشنود و تحمل کند."
+      "CoupletSummary": "اما هر انسان بزرگ‌منش و صاحب شخصیت باید تحمل شنیدن سرزنش را داشته باشد."
     },
     {
       "VOrder": 82,
@@ -1829,7 +1829,7 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43,
-      "CoupletSummary": "هوش مصنوعی: اگر مرا در این دنیا نشان دهید و از این بند، راهی برای رهایی به من نشان دهید."
+      "CoupletSummary": "اگر در این مسئله به من کمک کنید و راهی برای رهایی از این مشکل پیدا کنید..."
     },
     {
       "VOrder": 84,
@@ -1846,7 +1846,7 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44,
-      "CoupletSummary": "هوش مصنوعی: من در این دنیا کاری می‌کنم که هیچ‌کس از بزرگان با افراد کم‌مرتبه انجام نداده است."
+      "CoupletSummary": "من نیز در حق شما چنان لطف و بزرگواری خواهم کرد که هیچ بزرگ‌مردی در حق افراد پایین‌تر از خود چنین نکرده باشد."
     },
     {
       "VOrder": 86,
@@ -1863,7 +1863,7 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45,
-      "CoupletSummary": "هوش مصنوعی: از زیبایی و نیکی و راستی، هیچ نارسایی و کمبودی بر شما نمی‌گذارم."
+      "CoupletSummary": "از خوبی، نیکی و راستی دربارهٔ شما کوتاهی نخواهم کرد و بدی در حق شما روا نمی‌دارم."
     },
     {
       "VOrder": 88,
@@ -1880,7 +1880,7 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46,
-      "CoupletSummary": "هوش مصنوعی: تمامی دانشمندان و روحانیان آماده پاسخگویی شدند و همگی در پی این بودند که آرامش و رضایت او را فراهم کنند."
+      "CoupletSummary": "موبدان پاسخی آماده کردند و همگی خواستار آرامش و برآورده شدن خواستهٔ دستان شدند."
     },
     {
       "VOrder": 90,
@@ -1897,7 +1897,7 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47,
-      "CoupletSummary": "هوش مصنوعی: ما به تو یک به یک خدمت می‌کنیم و این نشان نمی‌دهد که ما از شگفتی تو نگران یا شرمنده‌ایم."
+      "CoupletSummary": "ما یکایک فرمانبردار تو هستیم و از بیان این موضوع شرمنده یا درمانده نیستیم."
     },
     {
       "VOrder": 92,
@@ -1914,7 +1914,7 @@
       "CoupletIndex": 46,
       "SectionIndex1": 0,
       "SectionIndex2": 48,
-      "CoupletSummary": "هوش مصنوعی: با وجود اینکه مهراب به این مقام تعلق ندارد، اما بزرگی و اهمیت او بیش از آن است که به سادگی بتوان به ویژگی‌هایش اشاره کرد."
+      "CoupletSummary": "با اینکه مهراب هم‌تراز و هم‌پایهٔ خاندان تو نیست، اما خودش مردی بزرگ و پهلوان است و آدم کم‌ارزشی نیست."
     },
     {
       "VOrder": 94,
@@ -1931,7 +1931,7 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49,
-      "CoupletSummary": "هوش مصنوعی: او دانست که اژدها از گوهر ارزشمندی برخوردار است و هرچند بر عرب‌ها سلطنت دارد."
+      "CoupletSummary": "می‌دانیم که او از نسل و تبار اژدها (ضحاک) است، هرچند بر تازیان/کابل فرمانروایی می‌کند"
     },
     {
       "VOrder": 96,
@@ -1948,7 +1948,7 @@
       "CoupletIndex": 48,
       "SectionIndex1": 0,
       "SectionIndex2": 50,
-      "CoupletSummary": "هوش مصنوعی: اگر پادشاه به خوشرویی رفتار نکند، ننگ و عیب او بر دودمانش سایه می‌افکند."
+      "CoupletSummary": "اگر شاه نسبت به این خاندان بدگمان نشود، از نظر ما پیوند با مهراب باعث ننگ خاندان نخواهد بود."
     },
     {
       "VOrder": 98,
@@ -2994,6 +2994,80 @@
       "CoupletIndex": 109,
       "SectionIndex1": 0,
       "SectionIndex2": 111
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در انجمن موبدان سخن می‌گوید و از دلبستگی‌اش به دختر سیندخت می‌گوید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زال؛ واکنش او به این پیوند مایهٔ نگرانی است."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "اشاره به این که رودابه دختر سیندخت است."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نگرانی دربارهٔ واکنش او به این پیوند هست."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مهراب که به همین سبب مایهٔ نگرانی است."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "اشاره به این که نیای مهراب ضحاک است"
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زال را به کوه هند برد"
+    },
+    {
+      "CoupletIndex": 75,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زال از عشق او گریان و بی‌قرار است (نام در متن: دختر مهراب)"
     }
   ]
 }

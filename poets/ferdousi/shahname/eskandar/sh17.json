@@ -1,8 +1,8 @@
 {
   "Id": 1656,
   "CatId": 67,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۷",
+  "Title": "بخش ۱۷ - لشکرکشی اسکندر سوی فور، شکایت و پوزش سپاه و ساختن سواران آهنین برابر پیل",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۷ - لشکرکشی اسکندر سوی فور، شکایت و پوزش سپاه و ساختن سواران آهنین برابر پیل",
   "FullUrl": "/ferdousi/shahname/eskandar/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,44 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه رومیان و فرمانده سپاه؛ سران را برمی‌گزیند و با سپاهیان سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 263,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه هند که سپاه سکندر به سوی او می‌رود."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 264,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که به گفتهٔ سپاهیان با سکندر جنگ نمی‌جوید."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیشین ایران که از زیردستان خود آسیب دید."
     }
   ]
 }

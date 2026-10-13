@@ -1,8 +1,8 @@
 {
   "Id": 1614,
   "CatId": 63,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۱",
+  "Title": "بخش ۱ - نشستن بهمن بر تخت نیا، انجمن کین اسفندیار و تاختن سپاه به سیستان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۱ - نشستن بهمن بر تخت نیا، انجمن کین اسفندیار و تاختن سپاه به سیستان",
   "FullUrl": "/ferdousi/shahname/bahman/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,152 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بر تخت می‌نشیند و سپاه را برای کین‌خواهی گرد می‌آورد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار کشته‌شده در زابلستان که بهمن به کین او برمی‌خیزد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیرمردی افسونگر که بهمن او را در کنار رستم یاد می‌کند"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که بهمن کردارش را یادآوری می‌کند و کین او خواسته شده"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که به گفتهٔ بهمن جز کین‌جویی از آنان کاری ندارد"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 222,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو جنگاور سوگ‌آور که از درد آنان خروش برآمد"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 224,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از دو جنگاور سوگ‌آور که از درد آنان خروش برآمد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کردارش نمونهٔ کین‌خواهی و خون‌ریزی شمرده می‌شود (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که خونش دلیل کشتار ضحاک یاد می‌شود (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که به‌سبب خون جم نام‌آوران جهان را کم کرد"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه منوچهر در داستان کین‌خواهی یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه منوچهر در داستان کین‌خواهی یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با سپاهی بزرگ از آمل به چین رفت و کین نیا خواست"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که کیخسرو از او کین خواست"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از افراسیاب کین خواست و جهان را از خون پر کرد"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که کین او خواسته شد"
     }
   ]
 }

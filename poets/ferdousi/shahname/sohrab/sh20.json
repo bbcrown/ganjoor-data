@@ -1,8 +1,8 @@
 {
   "Id": 1478,
   "CatId": 48,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۲۰",
+  "Title": "بخش ۲۰ - زاری رستم بر مرگ سهراب، سوختن خیمه و گذشتن کاووس از کین توران",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۲۰ - زاری رستم بر مرگ سهراب، سوختن خیمه و گذشتن کاووس از کین توران",
   "FullUrl": "/ferdousi/shahname/sohrab/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,80 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پدر سهراب که او را ناآگاهانه کشته و سوگوار است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان نبرده و نبیرهٔ سام که به دست پدرش کشته شد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نامدار سهراب و تبار پهلوانی او."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خاندان رستم که رستم گمان می‌برد او را نکوهش کند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 58,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی پرهنر خاندان رستم که رستم گمان می‌برد او را نکوهش کند."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که پهلوانانش با رستم همدردی می‌کنند و او با رستم سخن می‌گوید. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران دشمن که در دشت نشسته است."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مأمور بردن سپاه به راه به فرمان شاه."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1504,
   "CatId": 52,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱",
+  "Title": "بخش ۱ - دیباچهٔ رزم کاموس: ستایش یزدان، شگفتی رستم و آغاز گفتار",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱ - دیباچهٔ رزم کاموس: ستایش یزدان، شگفتی رستم و آغاز گفتار",
   "FullUrl": "/ferdousi/shahname/kamoos/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -456,6 +456,26 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 17
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 12,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که مایهٔ شگفتی جهان و سرچشمهٔ مردی و جنگاوری و خرد وصف شده است."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رزم او موضوع داستان پیش رو است."
     }
   ]
 }

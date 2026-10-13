@@ -1,8 +1,8 @@
 {
   "Id": 1860,
   "CatId": 88,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۵",
+  "Title": "بخش ۲۵ - طلسم دختر سوگوار قیصر، پند بی‌ثمر پهلوانان و شناختن فریب به دست خراد برزین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۵ - طلسم دختر سوگوار قیصر، پند بی‌ثمر پهلوانان و شناختن فریب به دست خراد برزین",
   "FullUrl": "/ferdousi/shahname/parviz/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1725,6 +1725,98 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه و پدر دختر سوگوار؛ فرمان ساختن طلسم می‌دهد و گستهم را فرامی‌خواند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر برای او می‌گریست و به راه او شوهر کرده بود"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نام‌آور که قیصر او را برای آرام کردن دخترش می‌خواند"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 385,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از سه مرد آزاده که همراه بالوی نزد دختر می‌روند"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 439,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از فرستادگان قیصر نزد دختر سوگوار."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر نژاده‌ای که قیصر او را برای شاد کردن دختر می‌فرستد"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر نامدار از تخمهٔ اردشیر که برای سخن گفتن با زن می‌رود. (نام در متن: رای خراد)"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دبیر نامدار از تخمهٔ اردشیر که برای سخن گفتن با زن می‌رود"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 377,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای خراد که از تخمهٔ او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 440,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایرانی که رومیان او را نشناخته‌اند."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1643,
   "CatId": 67,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴",
+  "Title": "بخش ۴ - فرستادن مادر اسکندر به اصفهان، آوردن روشنک با جهاز شاهانه و نشاندنش بر تخت زرین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴ - فرستادن مادر اسکندر به اصفهان، آوردن روشنک با جهاز شاهانه و نشاندنش بر تخت زرین",
   "FullUrl": "/ferdousi/shahname/eskandar/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -915,6 +915,44 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 34
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سخنان او را مادرِ شاه بازگو می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 257,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی اصفهان؛ برای روشنک جهیز بسیار برمی‌دارد. (نام در متن: دلارا)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 256,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با جهیز و مهد زرین نزد شاه می‌رود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که مادرش را می‌خواند و روشنک را به مشکوی می‌پذیرد."
     }
   ]
 }

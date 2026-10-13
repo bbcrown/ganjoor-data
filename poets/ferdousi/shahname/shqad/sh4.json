@@ -1,8 +1,8 @@
 {
   "Id": 1609,
   "CatId": 62,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۴",
+  "Title": "بخش ۴ - مرگ رستم: نکوهش شغاد، درخواست کمان، دوختن برادر به چنار و جان دادن تهمتن",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۴ - مرگ رستم: نکوهش شغاد، درخواست کمان، دوختن برادر به چنار و جان دادن تهمتن",
   "FullUrl": "/ferdousi/shahname/shqad/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,98 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 237,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر بدخواه رستم که او را فریب می‌دهد و تیر می‌خورد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر رستم که رستم می‌گوید کین او را خواهد خواست."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زخمی که شغاد او را فریب داد و با تیر انتقام گرفت."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که فرّ داشت و بیور او را از میان برید."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 239,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که میان جمشید را با ارّه برید."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان و بزرگانی که مرگ گریبانشان را گرفت. (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان فرخ‌نژاد که درگذشتند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که گلویش را گروی زره با خنجر برید. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 151,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشندهٔ سیاوش به خنجر."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در چاهی دیگر مُرد."
     }
   ]
 }

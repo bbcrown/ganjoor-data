@@ -1,8 +1,8 @@
 {
   "Id": 87961,
   "CatId": 51,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۷",
+  "Title": "بخش ۷ - بازگشت بهرام نزد طوس، شناساندن فرود و نافرمانی ستمکارانهٔ او از اندرز کیخسرو",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۷ - بازگشت بهرام نزد طوس، شناساندن فرود و نافرمانی ستمکارانهٔ او از اندرز کیخسرو",
   "FullUrl": "/ferdousi/shahname/forood/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -321,6 +321,62 @@
       "CoupletIndex": 10,
       "SectionIndex1": 0,
       "SectionIndex2": 12
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار لجوج که اندرز بهرام را نمی‌پذیرد و فرود را خوار می‌شمارد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فرود که بی‌گناه کشته شد (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند سیاوش بر کوه که طوس با او رویارو می‌شود"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نژاد فرود که نشان آن نژاد از اوست (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای نژاد فرود که نشان آن نژاد از اوست"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به طوس اندرز داد گرد فرود نگردد"
     }
   ]
 }

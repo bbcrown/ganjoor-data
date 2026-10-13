@@ -1,8 +1,8 @@
 {
   "Id": 1778,
   "CatId": 83,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۹",
+  "Title": "بخش ۹ - خشم بهرام گور بر ده بی‌آفرین، ویرانی از همه‌مهتری و آبادی دوباره با یک کدخدا",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۹ - خشم بهرام گور بر ده بی‌آفرین، ویرانی از همه‌مهتری و آبادی دوباره با یک کدخدا",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2535,6 +2535,62 @@
       "CoupletIndex": 92,
       "SectionIndex1": 0,
       "SectionIndex2": 94
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه شکارگر که از ویرانی روستا پشیمان می‌شود و به موبد فرمان آبادانی می‌دهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موبد و مشاور شاه که فرمان او را به مردم ده می‌رساند. (نام در متن: موبد)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کدخدا که هنگام شکار در سمت چپ شاه همراه اوست."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در داستان‌هایی که برای شاه می‌خوانند از او یاد می‌شود. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در داستان‌هایی که برای شاه می‌خوانند از او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که برای شکار می‌رود و ده آباد را می‌بیند."
     }
   ]
 }

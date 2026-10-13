@@ -1,8 +1,8 @@
 {
   "Id": 1453,
   "CatId": 47,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۷",
+  "Title": "بخش ۷ - بازگشت کاووس به پارس، برقراری داد و ساخت کاخ البرز",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۷ - بازگشت کاووس به پارس، برقراری داد و ساخت کاخ البرز",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,26 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایران که به پارس آمد، داد گسترد و پهلوانی را به رستم سپرد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که کاووس پهلوانی جهان را به او سپرد."
     }
   ]
 }

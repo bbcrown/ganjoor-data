@@ -1,8 +1,8 @@
 {
   "Id": 1520,
   "CatId": 58,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۱",
+  "Title": "بخش ۱۱ - خواستگاری اهرن از دختر کهتر قیصر، شرط اژدهای سقیلا و چاره‌جویی از میرین و هیشوی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۱ - خواستگاری اهرن از دختر کهتر قیصر، شرط اژدهای سقیلا و چاره‌جویی از میرین و هیشوی",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2130,6 +2130,53 @@
       "CoupletIndex": 77,
       "SectionIndex1": 0,
       "SectionIndex2": 79
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 186,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان رومی از تخم بزرگان، خواستار دختر قیصر."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم؛ برای دادن دخترش کشتن اژدها را شرط می‌کند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 185,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد خردمند و آگاه رومی که اهرن از او چاره می‌پرسد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اژدها به دام او مانند شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 180,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گیرندهٔ نامه‌ای که میرین دربارهٔ اهرن می‌نویسد."
     }
   ]
 }

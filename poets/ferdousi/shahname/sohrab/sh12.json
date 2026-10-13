@@ -1,8 +1,8 @@
 {
   "Id": 1470,
   "CatId": 48,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۲",
+  "Title": "بخش ۱۲ - شب رفتن رستم با جامهٔ ترکان به بزم سهراب، کشتن ژنده‌رزم و گزارش برز او به کاووس",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱۲ - شب رفتن رستم با جامهٔ ترکان به بزم سهراب، کشتن ژنده‌رزم و گزارش برز او به کاووس",
   "FullUrl": "/ferdousi/shahname/sohrab/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1347,6 +1347,80 @@
       "CoupletIndex": 48,
       "SectionIndex1": 0,
       "SectionIndex2": 50
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با جامهٔ ترکان به دژ می‌رود و ژنده‌رزم را می‌کشد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که رستم از او اجازه می‌گیرد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار جوان و تنومند لشکر که بر تخت بزم نشسته است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 137,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همنشین سهراب در بزم که رستم او را با مشت می‌کشد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نام‌بردار که در بزم کنار سهراب نشسته است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار دلیری که در بزم در کنار سهراب نشسته است."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پاسدار و طلایه‌دار سپاه ایران که رستم را در راه می‌بیند."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار نامدار که در مقایسه با سهراب یاد می‌شود."
     }
   ]
 }

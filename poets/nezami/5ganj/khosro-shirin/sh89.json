@@ -1132,5 +1132,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 42
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 22,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عروس خسرو که با شکوه فراوان به مدائن آورده می‌شود."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه کهن که کاخ او برای مقایسه با جایگاه شیرین یاد می‌شود."
+    }
   ]
 }

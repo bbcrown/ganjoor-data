@@ -1,8 +1,8 @@
 {
   "Id": 1519,
   "CatId": 58,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۰",
+  "Title": "بخش ۱۰ - کشتن گرگ بیشه به دست گشتاسپ، پنهان داشتن راز از کتایون و دعوی دروغین میرین نزد قیصر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۰ - کشتن گرگ بیشه به دست گشتاسپ، پنهان داشتن راز از کتایون و دعوی دروغین میرین نزد قیصر",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2454,6 +2454,71 @@
       "CoupletIndex": 89,
       "SectionIndex1": 0,
       "SectionIndex2": 91
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 185,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه هیشوی که گشتاسپ را تا بیشه می‌برد و بازمی‌گردد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جوان و دلیر که با گرگ (اژدها) می‌جنگد و او را می‌کشد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 180,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه میرین که از جان گشتاسپ بیمناک است"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه سالخورده و پدر گشتاسپ"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم که میرین برای نشان دادن شگفتی به نزد او می‌رود"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شمشیر منسوب به او در سخن گشتاسپ یاد شده است."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر گشتاسپ؛ نگران رفتن او به ایران است و به او چاره می‌گوید."
     }
   ]
 }

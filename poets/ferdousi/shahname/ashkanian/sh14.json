@@ -1,8 +1,8 @@
 {
   "Id": 1700,
   "CatId": 68,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۴",
+  "Title": "بخش ۱۴ - حملهٔ نیمه‌شب اردشیر بر کردان خفته، کشتار و تاراج و بازگشت به اصطخر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۴ - حملهٔ نیمه‌شب اردشیر بر کردان خفته، کشتار و تاراج و بازگشت به اصطخر",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,17 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و شاه جهاندار که شبانه بر دشمن می‌تازد، پیروز می‌شود و به صطخر بازمی‌گردد."
     }
   ]
 }

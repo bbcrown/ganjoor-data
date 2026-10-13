@@ -87,5 +87,17 @@
       "Text": "تمام",
       "CoupletIndex": 5
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 3,
+      "LunarYear": 444,
+      "LunarMonth": 6,
+      "LunarDay": 26,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

@@ -16,5 +16,37 @@
       "CoupletIndex": 0,
       "CoupletSummary": "هوش مصنوعی: در دوم ماه جمادی الاخر به شهر سرخس رسیدیم و از بصره تا سرخس مسافتی برابر با سیصد و نود فرسنگ طی کردیم. سپس از سرخس به سمت رباط جعفری، رباط عمروی و رباط نعمتی که هر سه در نزدیکی یکدیگر و بر سر راه بودند، سفر کردیم. در دوازدهم ماه جمادی الاخر به شهر مروالرود رسیدیم و پس از دو روز، راهی به سمت آب گرم گرفتیم. در نوزدهم ماه به باریاب رسیدیم که فاصله آن سی و شش فرسنگ بود. امیر خراسان در آن زمان جعفری بیک ابوسلیمان داود بن میکاییل بن سلجوق بود که در شهر شبورغان بود و قصد داشت به مرو برود که آنجا پایتخت او بود. به دلیل ناایمنی راه، تصمیم گرفتیم به سمت سنگلان برویم."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 97,
+      "LunarYear": 444,
+      "LunarMonth": 6,
+      "LunarDay": 2,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 149,
+      "LunarYear": 444,
+      "LunarMonth": 6,
+      "LunarDay": 12,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 150,
+      "LunarYear": 444,
+      "LunarMonth": 6,
+      "LunarDay": 19,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

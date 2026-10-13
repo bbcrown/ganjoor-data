@@ -1,8 +1,8 @@
 {
   "Id": 88088,
   "CatId": 57,
-  "Title": "بخش ۲۹",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۹",
+  "Title": "بخش ۲۹ - هفتهٔ پرستش کیخسرو، آمدن بر تخت و پاسخ به نگرانی پهلوانان، نیایش شبانه برای گذشتن از سپنجی‌سرای",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۹ - هفتهٔ پرستش کیخسرو، آمدن بر تخت و پاسخ به نگرانی پهلوانان، نیایش شبانه برای گذشتن از سپنجی‌سرای",
   "FullUrl": "/ferdousi/shahname/mahmood/sh29",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1293,6 +1293,71 @@
       "CoupletIndex": 46,
       "SectionIndex1": 0,
       "SectionIndex2": 48
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و شاه ایران که هفته‌ای نیایش کرد و بر تخت نشست (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و بزرگانی که نزد شاه آمدند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و بزرگانی که نزد شاه آمدند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دلیر از بزرگانی که نزد شاه آمدند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و بزرگانی که نزد شاه آمدند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان شیرمرد از بزرگانی که نزد شاه آمدند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و بزرگانی که نزد شاه آمدند"
     }
   ]
 }

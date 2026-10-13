@@ -1,8 +1,8 @@
 {
   "Id": 1488,
   "CatId": 49,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۹",
+  "Title": "بخش ۹ - ورود سیاوش به توران، پذیرایی پیران و افراسیاب، پیوند با جریره و فرنگیس و بنیاد سیاوش‌گرد",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۹ - ورود سیاوش به توران، پذیرایی پیران و افراسیاب، پیوند با جریره و فرنگیس و بنیاد سیاوش‌گرد",
   "FullUrl": "/ferdousi/shahname/siavosh/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -16278,6 +16278,260 @@
       "CoupletIndex": 601,
       "SectionIndex1": 0,
       "SectionIndex2": 603
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار جوان که با لشکر به جیحون و قچقار می‌رسد و به یاد ایران غمگین می‌شود"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار که با هزار تن از خویشان به پیشواز سیاووش می‌آید"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیران او را همچون پدرِ سیاووش معرفی می‌کند"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاهانهٔ سیاوش که نژاد او به وی می‌رسد."
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلاوری که جهان از او به آشوب آمده بود."
+    },
+    {
+      "CoupletIndex": 79,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر سیاوش که افراسیاب او را تندخو و کم‌خرد می‌داند. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 97,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب افراسیاب که مأمور فرستادن هدیه و پیشواز سیاوش می‌شود."
+    },
+    {
+      "CoupletIndex": 121,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران برگزیدهٔ شاه توران برای بازی."
+    },
+    {
+      "CoupletIndex": 121,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران برگزیدهٔ شاه توران برای بازی چوگان."
+    },
+    {
+      "CoupletIndex": 121,
+      "PersonId": 93,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران برگزیدهٔ شاه توران برای بازی."
+    },
+    {
+      "CoupletIndex": 121,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران برگزیدهٔ شاه توران برای بازی."
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران برگزیده که در گوی‌بازی ماهر است."
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی برگزیده در شمار یاران شاه توران."
+    },
+    {
+      "CoupletIndex": 123,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران فرستاده‌شده نزد سیاوش."
+    },
+    {
+      "CoupletIndex": 124,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار اسب‌افکن و شیردل از یاران فرستاده‌شده. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 124,
+      "PersonId": 146,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار دلیر از یاران فرستاده‌شده نزد سیاوش."
+    },
+    {
+      "CoupletIndex": 219,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای دختران گرسیوز که از نژاد او هستند."
+    },
+    {
+      "CoupletIndex": 222,
+      "PersonId": 147,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهترین دختر پیران، زیبا و بی‌همتا."
+    },
+    {
+      "CoupletIndex": 231,
+      "PersonId": 148,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر پیران و مادر جریره که دخترش را می‌آراید"
+    },
+    {
+      "CoupletIndex": 233,
+      "PersonId": 50,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای سیاوش که سیاوش نبیرهٔ اوست"
+    },
+    {
+      "CoupletIndex": 240,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرورندهٔ سیاوش که سیاوش دوری از او را یاد می‌کند (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 249,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر زیبا و دانای افراسیاب که پیران او را به سیاوش پیشنهاد می‌کند"
+    },
+    {
+      "CoupletIndex": 258,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که سیاوش او را بهار روشن خود می‌خواند (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 259,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایران که سیاوش دوری از او را یاد می‌کند"
+    },
+    {
+      "CoupletIndex": 259,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایران که سیاوش جدایی از او را یاد می‌کند"
+    },
+    {
+      "CoupletIndex": 531,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگارهٔ او در کنار رستم و زال بر ایوان نقش شده است."
+    },
+    {
+      "CoupletIndex": 565,
+      "PersonId": 99,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه به بهشت و آنچه در آن کاشته است یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 566,
+      "PersonId": 12,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، پیام‌آور و فرستادهٔ آسمانی (مینو) یاد می‌شود."
     }
   ]
 }

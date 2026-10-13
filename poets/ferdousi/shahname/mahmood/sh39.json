@@ -1,8 +1,8 @@
 {
   "Id": 88098,
   "CatId": 57,
-  "Title": "بخش ۳۹",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۹",
+  "Title": "بخش ۳۹ - فرارسیدن هنگام کیخسرو، زاری مهتران و سخن زال در کردارهای رستم و بی‌همتایی او",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۹ - فرارسیدن هنگام کیخسرو، زاری مهتران و سخن زال در کردارهای رستم و بی‌همتایی او",
   "FullUrl": "/ferdousi/shahname/mahmood/sh39",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,107 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی خسرو‌پرست که در برابر شهریار از کارهای رستم سخن می‌گوید. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که تنها به مازندران رفت و دیو سپید را کشت."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در مازندران گرفتار دیوان شد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه کاووس و گودرز که دیوان او را بستند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردنکشی که همراه کاووس و طوس در بند بود."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 102,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که پهلوی او دریده شد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 104,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پولاد غندی که جگرگاهش دریده شد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 107,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جگرگاهش دریده شد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 101,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرش ناگهان از تن کنده شد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزندی بی‌همتا در جهان که کشته شد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم با او رزم کرد."
     }
   ]
 }

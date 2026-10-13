@@ -1,8 +1,8 @@
 {
   "Id": 1599,
   "CatId": 61,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۵",
+  "Title": "بخش ۲۵ - رسیدن رستم زخمی از نبرد اسفندیار، شیون زال و رودابه و چارهٔ خواندن سیمرغ",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۵ - رسیدن رستم زخمی از نبرد اسفندیار، شیون زال و رودابه و چارهٔ خواندن سیمرغ",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -780,6 +780,80 @@
       "CoupletIndex": 27,
       "SectionIndex1": 0,
       "SectionIndex2": 29
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که برای زخم‌های او اندوهگین است و چاره می‌جوید"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زخمی که به ایوان می‌رسد و از نبرد با اسفندیار می‌گوید"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نزدیکان رستم که برای او می‌گرید و میانش را می‌گشاید"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از حاضران که با دیدن زخم‌های رستم می‌گرید"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که از اندوه موی می‌کَند و بر چهره می‌زند"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم کمربندش را گرفت و بر زمین زد"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن زورمند رستم که در نبرد با او جنگیده است"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 53,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجودی که زال می‌خواهد او را یاری‌دهنده بخواند"
     }
   ]
 }

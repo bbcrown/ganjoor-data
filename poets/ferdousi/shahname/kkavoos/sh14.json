@@ -1,8 +1,8 @@
 {
   "Id": 1443,
   "CatId": 46,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۴",
+  "Title": "بخش ۱۴ - رفتن رستم به عنوان فرستاده به مازندران، نمایش قدرت و بازگشت با خبر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۱۴ - رفتن رستم به عنوان فرستاده به مازندران، نمایش قدرت و بازگشت با خبر",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1617,6 +1617,35 @@
       "CoupletIndex": 58,
       "SectionIndex1": 0,
       "SectionIndex2": 60
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و پیک کاووس که نامه را به مازندران می‌برد"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که نامه را به شاه مازندران فرستاده است (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 111,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار جنگجوی مازندرانی که دستش در پنجهٔ رستم آسیب می‌بیند"
     }
   ]
 }

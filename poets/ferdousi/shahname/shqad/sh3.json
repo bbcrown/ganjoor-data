@@ -1,8 +1,8 @@
 {
   "Id": 1608,
   "CatId": 62,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۳",
+  "Title": "بخش ۳ - چاه‌های حربه‌دار نخچیرگاه کابل، پوزش ساختگی شاه و فرو افتادن رستم و رخش",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۳ - چاه‌های حربه‌دار نخچیرگاه کابل، پوزش ساختگی شاه و فرو افتادن رستم و رخش",
   "FullUrl": "/ferdousi/shahname/shqad/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,35 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بی‌سپاه که به نخچیرگاه کابل می‌رود و در چاه می‌افتد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 237,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سواری که خبر آمدن رستم را به شاه کابل می‌رساند."
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم در نخچیرگاه."
     }
   ]
 }

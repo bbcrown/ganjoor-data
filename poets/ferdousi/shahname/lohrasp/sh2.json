@@ -1,8 +1,8 @@
 {
   "Id": 1511,
   "CatId": 58,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۲",
+  "Title": "بخش ۲ - خواست تاج و تخت از لهراسپ، رنجش گشتاسپ و گریز شبانه‌اش به هند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۲ - خواست تاج و تخت از لهراسپ، رنجش گشتاسپ و گریز شبانه‌اش به هند",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,107 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر لهراسپ و برادر زریر؛ دلخور از پدر، شبانه با سیصد سوار به هند می‌رود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر گشتاسپ؛ لهراسپ او را با هزار سوار به هندوستان می‌فرستد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای گشتاسپ و زریر."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر گشتاسپ و زریر."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که به لهراسپ تاج داد و اندرز او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نسب رستم نام برده می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نسب رستم نام برده می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که گشتاسپ جز او کسی را همتای خود نمی‌داند."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به سوی روم رفته است."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به سوی چین رفته است."
     }
   ]
 }

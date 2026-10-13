@@ -511,5 +511,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 19
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نواسازی که در خواب، نامش به‌عنوان بشارت برای خسرو آورده می‌شود."
+    }
   ]
 }

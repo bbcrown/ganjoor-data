@@ -1,8 +1,8 @@
 {
   "Id": 1858,
   "CatId": 88,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۳",
+  "Title": "بخش ۲۳ - نامهٔ قیصر به خسرو: ترک کین ایرج، پیمان یگانگی ایران و روم و خواستگاری دختر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۳ - نامهٔ قیصر به خسرو: ترک کین ایرج، پیمان یگانگی ایران و روم و خواستگاری دختر",
   "FullUrl": "/ferdousi/shahname/parviz/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1698,6 +1698,134 @@
       "CoupletIndex": 61,
       "SectionIndex1": 0,
       "SectionIndex2": 63
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 45,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روزگار گذشته که از رنج و کشتار در زمان او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 377,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روزگار گذشته، همراه با شاپور یاد شده"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که از داد یزدان یاد نکرد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که از داد یزدان یاد نکرد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان گذشته که داد یزدان را یاد نکرد (نام در متن: کی قباد)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مخاطب نامه که با دادگری جوان‌بخت شد و روم را ویران کرد"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ویران‌کنندهٔ ایران، مثال ویرانی روم به دست نوشین‌روان"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کینهٔ دیرین ایرج و داستان کهن یاد شده"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کینهٔ دیرین ایرج و داستان کهن یاد شده"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین او در روزگار کهن بوده و نباید دوباره یاد شود"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم؛ نامه را مهر می‌کند و به فرستاده می‌دهد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 330,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که با خوشنواز پیمان‌شکنی و جنگ کرد؛ برای پند و عبرت یاد شده."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 399,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): حریف پیروز که برای او چاره‌جویی کرد؛ در مثال پیمان‌شکنی آمده است."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 283,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبری که سخنش دربارهٔ پیمان‌شکنی یاد شده است."
     }
   ]
 }

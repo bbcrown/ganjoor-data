@@ -2806,5 +2806,79 @@
       "SectionIndex1": 0,
       "SectionIndex2": 104
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوقهٔ فرهاد که خسرو نیز خبر او را می‌جوید."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق شیرین که در بیستون کوه می‌کَند."
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه برای کسی که در دیر می‌نشیند."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای یادآوری خون‌های ریخته‌شده بر خاک آمده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در یادکرد نمونه‌ای از بزرگانی که به خاک رفته‌اند."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در یادکرد نمونه‌ای از شاهانی که به خاک رفته‌اند."
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مثل، کسی که از ترنج رو می‌گرداند و از آن پرهیز می‌کند."
+    },
+    {
+      "CoupletIndex": 102,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاعر و گوینده که نام خود را در پایان می‌آورد."
+    }
   ]
 }

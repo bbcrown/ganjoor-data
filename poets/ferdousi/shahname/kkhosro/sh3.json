@@ -1,8 +1,8 @@
 {
   "Id": 87955,
   "CatId": 50,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کیخسرو شصت سال بود » بخش ۳",
+  "Title": "بخش ۳ - آرایش و سان سپاه کیخسرو بر جنگ توران، پیمان پهلوانان و گسیل فرامرز به هند",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کیخسرو شصت سال بود » بخش ۳ - آرایش و سان سپاه کیخسرو بر جنگ توران، پیمان پهلوانان و گسیل فرامرز به هند",
   "FullUrl": "/ferdousi/shahname/kkhosro/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -6504,6 +6504,341 @@
       "CoupletIndex": 239,
       "SectionIndex1": 0,
       "SectionIndex2": 241
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کیانی؛ سپاهیان از خویشان او برگزیده می‌شوند. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیشرو سپاه و وابسته به کاوس و شاه نو."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 193,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و نگهبان نوذریان، فرزند طوس."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زرسپ و پدرزن رویین."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نسب گودرز نام برده می‌شود."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ با رأیی استوار و هفتاد و هشت نبیره."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 76,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تبار گستهم و شصت و سه بزرگ."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 516,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگ و سالار شصت و سه تن. (احتمالاً همنامِ «گستهم» با کد 74؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیروزگر و مایه‌دار، در کنار خویشان میلاد."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 98,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صد سوار از خویشان او در سپاه‌اند."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 517,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تبار هشتاد و پنج سوار."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 518,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان و پشتیبان سواران تبار لواده در رزم."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه تبار پشنگ، پیشاهنگ سپاه و داماد طوس."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوی برگزیده و در رزم سندان پولاد؛ نگهبان تبار گرازه."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 114,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تبار صد و پنج گرد."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که هدیه و پاداش می‌دهد و بیژن او را ستایش می‌کند"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 519,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دژخیم و اژدهاسیرت که شاه برای سر او پاداش تعیین می‌کند"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دشمن که تژاو را پهلوان خوانده و تاج بر سرش نهاده است"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو که برمی‌خیزد و پاداش‌ها را می‌گیرد"
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 520,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان دشمن که افراسیاب تاج بر سر او نهاده است"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 521,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرستندهٔ ماهروی که جزو پاداش شاه است"
+    },
+    {
+      "CoupletIndex": 82,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درگذشته‌ای که بر روانش درود فرستاده می‌شود (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 106,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به درگاه شاه می‌آید و دربارهٔ زابلستان سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم نزد شاه می‌رود"
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه رستم نزد شاه می‌رود"
+    },
+    {
+      "CoupletIndex": 109,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بهره‌ای از آن بوم و بر از آنِ او بوده است"
+    },
+    {
+      "CoupletIndex": 110,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهری را از ترکان تهی کرده بود"
+    },
+    {
+      "CoupletIndex": 161,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در سپاه به سمت چپ می‌رود و درفش دارد"
+    },
+    {
+      "CoupletIndex": 162,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی با درفش شیرپیکر بنفش در سپاه"
+    },
+    {
+      "CoupletIndex": 178,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرزداری تیزگوش و دلیر با سپاه کوچ و بلوچ و درفش پلنگ (نام در متن: گستهم اشکش)"
+    },
+    {
+      "CoupletIndex": 197,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که با دلیران می‌گذرد و بر شاه آفرین می‌خواند. (نام در متن: زنگه)"
+    },
+    {
+      "CoupletIndex": 210,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان فرامرز."
+    },
+    {
+      "CoupletIndex": 210,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان فرامرز. (نام در متن: نیرم)"
+    },
+    {
+      "CoupletIndex": 210,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای فرامرز در تبار رستم. (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 233,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گذشتگان که اکنون ناپدید و خاک شده‌اند."
+    },
+    {
+      "CoupletIndex": 233,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گذشتگان که اکنون ناپدید و خاک شده‌اند."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1525,
   "CatId": 58,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۶",
+  "Title": "بخش ۱۶ - فرستادن لهراسپ زریر را با تاج و درفش کاویانی به حلب، پیام جنگ و پذیرش قیصر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۶ - فرستادن لهراسپ زریر را با تاج و درفش کاویانی به حلب، پیام جنگ و پذیرش قیصر",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,107 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که زریر را برای رفتن نزد قیصر و حلب می‌فرستد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و فرستادهٔ لهراسپ که لشکر را می‌برد و نزد قیصر می‌رود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای برخی از نامداران لشکر. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای سپاهیان نامدار، تنها برای یاد تبار آمده است"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 193,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای برخی از سپاهیان زریر"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران همراه لشکر زریر"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران لشکر زریر که سپاه به او سپرده می‌شود"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که زریر را در درگاه خود می‌پذیرد"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در درگاه قیصر است و از آمدن زریر شاد می‌شود."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 191,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در کاخ قیصر همراه او و گشتاسپ است."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 188,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در کنار خزر در سخن پیغام آمده است."
     }
   ]
 }

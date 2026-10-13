@@ -1186,5 +1186,70 @@
       "SectionIndex1": 0,
       "SectionIndex2": 44
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 288,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر که شبانه بر براق سوار می‌شود و به معراج می‌رود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 680,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب سرایی که شب معراج در آن بوده است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 175,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرشته‌ای که براق را می‌آورد و همراه پیامبر تا جایی می‌رود. (نام در متن: جبرئیل)"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه در وصف برج دلو آمده است."
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 682,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برای تشبیه در وصف برج حوت آمده است."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 681,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرشته‌ای که پیامبر در مسیر معراج از او می‌گذرد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 280,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرشته‌ای که پیامبر را بر پر می‌نشاند و به رفرف می‌رساند."
+    }
   ]
 }

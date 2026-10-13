@@ -1,8 +1,8 @@
 {
   "Id": 88102,
   "CatId": 57,
-  "Title": "بخش ۴۳",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۳",
+  "Title": "بخش ۴۳ - سپردن تاج کیخسرو به لهراسب، خروش ایرانیان و پوزش خاک‌آلود زال",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۴۳ - سپردن تاج کیخسرو به لهراسب، خروش ایرانیان و پوزش خاک‌آلود زال",
   "FullUrl": "/ferdousi/shahname/mahmood/sh43",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1158,6 +1158,53 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که تاج را به لهراسب می‌سپارد (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتری گمنام که شاه تاج و تخت ایران را به او می‌سپارد (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمان‌بردار شاه که لهراسب را نزد او می‌آورد"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در انجمن به شاه‌شدن لهراسب اعتراض می‌کند و سپس پشیمان می‌شود"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 4,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای لهراسب"
     }
   ]
 }

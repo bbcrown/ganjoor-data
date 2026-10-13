@@ -1,8 +1,8 @@
 {
   "Id": 1802,
   "CatId": 83,
-  "Title": "بخش ۳۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۳",
+  "Title": "بخش ۳۳ - بزم شنگل، پیروزی بهرام در کشتی و شکستن نشانه با یک تیر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۳ - بزم شنگل، پیروزی بهرام در کشتی و شکستن نشانه با یک تیر",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh33",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,17 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ ایران که در بزم کشتی می‌گیرد و تیر می‌اندازد"
     }
   ]
 }

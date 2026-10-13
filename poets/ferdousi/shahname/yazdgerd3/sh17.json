@@ -1,8 +1,8 @@
 {
   "Id": 1940,
   "CatId": 96,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۷",
+  "Title": "بخش ۱۷ - انجام شاهنامه: از رنج شصت‌وپنج تا هفتادویک، یاری دیلمی و قتیب، ستایش محمود و تخم سخن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۷ - انجام شاهنامه: از رنج شصت‌وپنج تا هفتادویک، یاری دیلمی و قتیب، ستایش محمود و تخم سخن",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,44 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 502,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یکی از نامداران شهر که کارش نزد بزرگان روان است"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 335,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از آزادگان و پشتیبان گوینده که از او سخن رایگان نمی‌خواهد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که گوینده او را می‌ستاید و برایش آرزوی شادی می‌کند"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 691,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): قصهٔ او به پایان رسیده است"
     }
   ]
 }

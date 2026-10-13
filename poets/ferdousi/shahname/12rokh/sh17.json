@@ -1,8 +1,8 @@
 {
   "Id": 88039,
   "CatId": 56,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۷",
+  "Title": "بخش ۱۷ - پیغام افراسیاب به پیران: سوگند کشتن کیخسرو، فرمان کشتار گودرز و زاری نهانی پیران",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۷ - پیغام افراسیاب به پیران: سوگند کشتن کیخسرو، فرمان کشتار گودرز و زاری نهانی پیران",
   "FullUrl": "/ferdousi/shahname/12rokh/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1887,6 +1887,71 @@
       "CoupletIndex": 68,
       "SectionIndex1": 0,
       "SectionIndex2": 70
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 9,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش برای سنجش بزرگی پهلوان مخاطب آمده است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نام‌آوران گذشته که پهلوان با او سنجیده می‌شود"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از توران به ایران آمده و دشمنی آغاز کرده است؛ گوینده قصد کشتنش دارد."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از ایرانیانی که گوینده می‌خواهد نابودشان کند."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از ایرانیانی که گوینده می‌خواهد نابودشان کند."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که پیغام و سپاه می‌فرستد و در جنگ با کیخسرو است."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار توران که پیغام شاه را می‌شنود و نگران است."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87956,
   "CatId": 51,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲",
+  "Title": "بخش ۲ - سپردن سپاه به طوس با مهر شاهی، هشدار از راه کلات و فرود سیاوش",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲ - سپردن سپاه به طوس با مهر شاهی، هشدار از راه کلات و فرود سیاوش",
   "FullUrl": "/ferdousi/shahname/forood/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,53 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و سالار لشکر که درفش کاویانی را با خود می‌برد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بزرگانی که نزد شاه می‌آیند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 484,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که طوس را سالار سپاه می‌کند و به او فرمان می‌دهد. (نام در متن: بیدار شاه)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درگذشته‌ای که شاه برای روانش آرزوی نیکی می‌کند. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختری که مادر پسری در کلات است."
     }
   ]
 }

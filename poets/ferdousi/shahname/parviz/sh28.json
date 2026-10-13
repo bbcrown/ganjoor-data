@@ -1,8 +1,8 @@
 {
   "Id": 1863,
   "CatId": 88,
-  "Title": "بخش ۲۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۸",
+  "Title": "بخش ۲۸ - رسیدن خسرو به آذربایجان، دیدار بندوی و موسیل و نیایش در آذرگشسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۸ - رسیدن خسرو به آذربایجان، دیدار بندوی و موسیل و نیایش در آذرگشسپ",
   "FullUrl": "/ferdousi/shahname/parviz/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1455,6 +1455,71 @@
       "CoupletIndex": 52,
       "SectionIndex1": 0,
       "SectionIndex2": 54
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و فرمانده سپاه؛ بندوی و موسیل نزد او می‌آیند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 443,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار لشکر که شاه سپاه را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 437,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد ارمنی و بزرگ لشکرگاه که به خسرو وفادار می‌ماند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دایی خسرو و برادر گستهم؛ همراه موسیل نزد شاه می‌آید."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار دلیر نزد خسرو که بندوی را برادر خود می‌شناسد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بندوی از مردمی و کنش او با خود برای خسرو می‌گوید."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که بندوی از مهربانی او سخن می‌گوید. (نام در متن: بهرام)"
     }
   ]
 }

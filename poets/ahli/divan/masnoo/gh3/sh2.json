@@ -64,6 +64,16 @@
     {
       "Index": 3,
       "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "تویی که روز وصالم ز گریه زهر دهی\r\nمنم که خون خورم از آن دو لاله گون رخسار\r\nاگر زکین کشدم غم گذار تا بکشد\r\nتو جان دهی چو ببینیم یکنظر بردار\r\nچو دیده ام برخت بیند و دعا خواند\r\nبگو که چشم در آثار صنع بیچون دار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتویی که روز وصالم ز گریه زهر دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنم که خون خورم از آن دو لاله گون رخسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر زکین کشدم غم گذار تا بکشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو جان دهی چو ببینیم یکنظر بردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دیده ام برخت بیند و دعا خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگو که چشم در آثار صنع بیچون دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ار",
@@ -71,16 +81,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه وصال تو هر کس که یافت تا بابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبصبر جسته و ما را کجاست صبر و قرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنکو بمکر و بدستان کجا شود حالش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر وصال نیابد بدست این بیمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 3,
-      "Number": 4,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "تویی که روز وصالم ز گریه زهر دهی\r\nمنم که خون خورم از آن دو لاله گون رخسار\r\nاگر زکین کشدم غم گذار تا بکشد\r\nتو جان دهی چو ببینیم یکنظر بردار\r\nچو دیده ام برخت بیند و دعا خواند\r\nبگو که چشم در آثار صنع بیچون دار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتویی که روز وصالم ز گریه زهر دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنم که خون خورم از آن دو لاله گون رخسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر زکین کشدم غم گذار تا بکشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو جان دهی چو ببینیم یکنظر بردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دیده ام برخت بیند و دعا خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگو که چشم در آثار صنع بیچون دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 3,
@@ -157,6 +157,16 @@
     {
       "Index": 6,
       "Number": 7,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "بدستان",
+      "PlainText": "وصالت که یابد بمکر و بدستان\r\nبصبرست و ما را نیاید بدست آن",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eوصالت که یابد بمکر و بدستان\u003C/p\u003E\r\n\u003Cp\u003Eبصبرست و ما را نیاید بدست آن\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 7,
       "SectionType": "Band",
       "VerseType": "Second",
       "RhymeLetters": "ار",
@@ -174,26 +184,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبسکه بوی تو آورده باد خاک رهش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شوق پای تو بوسید دل چو عاشق زار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخورده باده بمستی شتافت در عشقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی که پایه عشق از تو یافت مجنون وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 6,
-      "Number": 7,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "بدستان",
-      "PlainText": "وصالت که یابد بمکر و بدستان\r\nبصبرست و ما را نیاید بدست آن",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eوصالت که یابد بمکر و بدستان\u003C/p\u003E\r\n\u003Cp\u003Eبصبرست و ما را نیاید بدست آن\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 7,
-      "Number": 8,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "یدردمند",
-      "PlainText": "ای ترا همچو من عالمی دردمند\r\nکز وفا بر رخت صد دعا دردمند",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eای ترا همچو من عالمی دردمند\u003C/p\u003E\r\n\u003Cp\u003Eکز وفا بر رخت صد دعا دردمند\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 7,
@@ -215,6 +205,26 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم اگر همه شیرست بگذر از شمشیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خوار عاشق و غمخوارتست چون من خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون بعشق تو جیحون ز اشک خواهم ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو آب روی خود از گریه ریختم چو بحار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "یدردمند",
+      "PlainText": "ای ترا همچو من عالمی دردمند\r\nکز وفا بر رخت صد دعا دردمند",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eای ترا همچو من عالمی دردمند\u003C/p\u003E\r\n\u003Cp\u003Eکز وفا بر رخت صد دعا دردمند\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "فروخت",
+      "PlainText": "نقش رخ تو شمع محبت چو برفروخت\r\nنقد دو کون عاشق یکرنگ او فروخت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنقش رخ تو شمع محبت چو برفروخت\u003C/p\u003E\r\n\u003Cp\u003Eنقد دو کون عاشق یکرنگ او فروخت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 8,
@@ -236,26 +246,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین بلاغ من آنگه بود درست که شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیان حال نماید به کلک سحر شعار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیان حسن تو هر چند راغبم نکنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شوق آمده غالب بعقل دعوی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 8,
-      "Number": 9,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "فروخت",
-      "PlainText": "نقش رخ تو شمع محبت چو برفروخت\r\nنقد دو کون عاشق یکرنگ او فروخت",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنقش رخ تو شمع محبت چو برفروخت\u003C/p\u003E\r\n\u003Cp\u003Eنقد دو کون عاشق یکرنگ او فروخت\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 9,
-      "Number": 10,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "افت",
-      "PlainText": "بوی تو آورد باد باده بمستی شتافت\r\nپای تو بوسید دل پایه عشق از تو یافت",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبوی تو آورد باد باده بمستی شتافت\u003C/p\u003E\r\n\u003Cp\u003Eپای تو بوسید دل پایه عشق از تو یافت\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 9,
@@ -277,6 +267,26 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن بسوخته مجمر صفت دلم محنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مجرمم من مست از شکایت دلدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکایتم که تو میسوزی از تغافل نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنانکه زلف تو کند از تطاولم بن و بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "افت",
+      "PlainText": "بوی تو آورد باد باده بمستی شتافت\r\nپای تو بوسید دل پایه عشق از تو یافت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبوی تو آورد باد باده بمستی شتافت\u003C/p\u003E\r\n\u003Cp\u003Eپای تو بوسید دل پایه عشق از تو یافت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ریخت",
+      "PlainText": "دل اگر شیرست از شمشیر عشقت چون گریخت\r\nخوار غمخوارست چون من آبروی از گریه ریخت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدل اگر شیرست از شمشیر عشقت چون گریخت\u003C/p\u003E\r\n\u003Cp\u003Eخوار غمخوارست چون من آبروی از گریه ریخت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 10,
@@ -300,26 +310,6 @@
       "CoupletsCount": 2
     },
     {
-      "Index": 10,
-      "Number": 11,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ریخت",
-      "PlainText": "دل اگر شیرست از شمشیر عشقت چون گریخت\r\nخوار غمخوارست چون من آبروی از گریه ریخت",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدل اگر شیرست از شمشیر عشقت چون گریخت\u003C/p\u003E\r\n\u003Cp\u003Eخوار غمخوارست چون من آبروی از گریه ریخت\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 11,
-      "Number": 12,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ب",
-      "PlainText": "بلاغ من که بود در بیان حسن تو راغب\r\nبیان حال نماید که شوق آمده غالب",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبلاغ من که بود در بیان حسن تو راغب\u003C/p\u003E\r\n\u003Cp\u003Eبیان حال نماید که شوق آمده غالب\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
       "Index": 11,
       "Number": 12,
       "SectionType": "Band",
@@ -341,6 +331,26 @@
       "CoupletsCount": 2
     },
     {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "بلاغ من که بود در بیان حسن تو راغب\r\nبیان حال نماید که شوق آمده غالب",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبلاغ من که بود در بیان حسن تو راغب\u003C/p\u003E\r\n\u003Cp\u003Eبیان حال نماید که شوق آمده غالب\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "مجمر صفت دل من میسوزی از تغافل\r\nمجرم منم اگر چه زلفت کند تطاول",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eمجمر صفت دل من میسوزی از تغافل\u003C/p\u003E\r\n\u003Cp\u003Eمجرم منم اگر چه زلفت کند تطاول\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
       "Index": 12,
       "Number": 13,
       "SectionType": "Band",
@@ -360,26 +370,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر که همدم اهل نظر ز عین وقار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشمع عارض تو تافت تا فزود انوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که از نظر التفات بخت امشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخ چو لاله ات آمد مه تمام عیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 12,
-      "Number": 13,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ل",
-      "PlainText": "مجمر صفت دل من میسوزی از تغافل\r\nمجرم منم اگر چه زلفت کند تطاول",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eمجمر صفت دل من میسوزی از تغافل\u003C/p\u003E\r\n\u003Cp\u003Eمجرم منم اگر چه زلفت کند تطاول\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 13,
-      "Number": 14,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ن",
-      "PlainText": "ریش کردی دلم زخنجر آهن\r\nشیر از عشق سر نهاد بدامن",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eریش کردی دلم زخنجر آهن\u003C/p\u003E\r\n\u003Cp\u003Eشیر از عشق سر نهاد بدامن\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 13,
@@ -403,6 +393,26 @@
       "CoupletsCount": 2
     },
     {
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "ریش کردی دلم زخنجر آهن\r\nشیر از عشق سر نهاد بدامن",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eریش کردی دلم زخنجر آهن\u003C/p\u003E\r\n\u003Cp\u003Eشیر از عشق سر نهاد بدامن\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "هدید",
+      "PlainText": "دیده کنم زارتر از من که دید\r\nدیده جزاها همه آه از چه دید",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدیده کنم زارتر از من که دید\u003C/p\u003E\r\n\u003Cp\u003Eدیده جزاها همه آه از چه دید\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
       "Index": 14,
       "Number": 15,
       "SectionType": "Band",
@@ -422,26 +432,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن که درد تو دل داد خواه هر در کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز درد و داوری دل بحق برم زنهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقبول درد توام داد پایه اقبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل مرا بدر آورد دردت از ادبار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 14,
-      "Number": 15,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "هدید",
-      "PlainText": "دیده کنم زارتر از من که دید\r\nدیده جزاها همه آه از چه دید",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدیده کنم زارتر از من که دید\u003C/p\u003E\r\n\u003Cp\u003Eدیده جزاها همه آه از چه دید\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 15,
-      "Number": 16,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ه",
-      "PlainText": "همدم اهل التفات امشب\r\nبشما تافت لاله آمد مه",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eهمدم اهل التفات امشب\u003C/p\u003E\r\n\u003Cp\u003Eبشما تافت لاله آمد مه\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 15,
@@ -465,6 +455,26 @@
       "CoupletsCount": 3
     },
     {
+      "Index": 15,
+      "Number": 16,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "همدم اهل التفات امشب\r\nبشما تافت لاله آمد مه",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eهمدم اهل التفات امشب\u003C/p\u003E\r\n\u003Cp\u003Eبشما تافت لاله آمد مه\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 17,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "من",
+      "PlainText": "کاشت سنبل ز زلف تا بسمن\r\nچاشت بیشک نمود شب مه من",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکاشت سنبل ز زلف تا بسمن\u003C/p\u003E\r\n\u003Cp\u003Eچاشت بیشک نمود شب مه من\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
       "Index": 16,
       "Number": 17,
       "SectionType": "Band",
@@ -486,13 +496,13 @@
       "CoupletsCount": 1
     },
     {
-      "Index": 16,
-      "Number": 17,
-      "SectionType": "BandCouplets",
+      "Index": 17,
+      "Number": 18,
+      "SectionType": "Band",
       "VerseType": "Second",
-      "RhymeLetters": "من",
-      "PlainText": "کاشت سنبل ز زلف تا بسمن\r\nچاشت بیشک نمود شب مه من",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکاشت سنبل ز زلف تا بسمن\u003C/p\u003E\r\n\u003Cp\u003Eچاشت بیشک نمود شب مه من\u003C/p\u003E\u003C/div\u003E",
+      "RhymeLetters": "ر",
+      "PlainText": "درد دل داد و درد دردم داد\r\nدرد او دل در آورد در داد\r\nپیشش بنشین به شب نشینی\r\nبیشیش ببین به پیش بینی\r\nاگر چه دام بلایی گر آنکه بفریبی\r\nهمانست یاری اگر آن رقیب نیست دچار",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدرد دل داد و درد دردم داد\u003C/p\u003E\r\n\u003Cp\u003Eدرد او دل در آورد در داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیشش بنشین به شب‌نشینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیشیش ببین به پیش‌بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه دام بلایی گر آنکه بفریبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمانست یاری اگر آن رقیب نیست دچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -510,7 +520,7 @@
       "Number": 18,
       "SectionType": "Band",
       "VerseType": "Second",
-      "RhymeLetters": "ر",
+      "RhymeLetters": "ینی",
       "PlainText": "درد دل داد و درد دردم داد\r\nدرد او دل در آورد در داد\r\nپیشش بنشین به شب نشینی\r\nبیشیش ببین به پیش بینی\r\nاگر چه دام بلایی گر آنکه بفریبی\r\nهمانست یاری اگر آن رقیب نیست دچار",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدرد دل داد و درد دردم داد\u003C/p\u003E\r\n\u003Cp\u003Eدرد او دل در آورد در داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیشش بنشین به شب‌نشینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیشیش ببین به پیش‌بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه دام بلایی گر آنکه بفریبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمانست یاری اگر آن رقیب نیست دچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 2
@@ -525,26 +535,6 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب تو جان کسی جان من زغمزه شکافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیا خدنگ غمت بین نشسته تا سوفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشدست جان مرا تاب لیک ناچارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحریف ناوک پرتاب کیست جز ناچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
-    },
-    {
-      "Index": 17,
-      "Number": 18,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ینی",
-      "PlainText": "درد دل داد و درد دردم داد\r\nدرد او دل در آورد در داد\r\nپیشش بنشین به شب نشینی\r\nبیشیش ببین به پیش بینی\r\nاگر چه دام بلایی گر آنکه بفریبی\r\nهمانست یاری اگر آن رقیب نیست دچار",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدرد دل داد و درد دردم داد\u003C/p\u003E\r\n\u003Cp\u003Eدرد او دل در آورد در داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیشش بنشین به شب‌نشینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیشیش ببین به پیش‌بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه دام بلایی گر آنکه بفریبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمانست یاری اگر آن رقیب نیست دچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 18,
-      "Number": 19,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "ینی",
-      "PlainText": "پیشش بنشین به شب نشینی\r\nبیشیش ببین به پیش بینی\r\nلب تو جان کسی جان من زغمزه شکافت\r\nبیا خدنگ غمت بین نشسته تا سوفار\r\nشدست جان مرا تاب لیک ناچارست\r\nحریف ناوک پرتاب کیست جز ناچار",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eپیشش بنشین به شب‌نشینی\u003C/p\u003E\r\n\u003Cp\u003Eبیشیش ببین به پیش‌بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب تو جان کسی جان من زغمزه شکافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیا خدنگ غمت بین نشسته تا سوفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشدست جان مرا تاب لیک ناچارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحریف ناوک پرتاب کیست جز ناچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
     },
     {
       "Index": 18,
@@ -566,6 +556,26 @@
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر نه آینه را گه گه ای پری بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو عالم ارچه به بیزی نظیر چشم مدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار ماه که محمل نشین شود پیشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب که همسر از آن بینی ای فرشته وقار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
       "CoupletsCount": 2
+    },
+    {
+      "Index": 18,
+      "Number": 19,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ینی",
+      "PlainText": "پیشش بنشین به شب نشینی\r\nبیشیش ببین به پیش بینی\r\nلب تو جان کسی جان من زغمزه شکافت\r\nبیا خدنگ غمت بین نشسته تا سوفار\r\nشدست جان مرا تاب لیک ناچارست\r\nحریف ناوک پرتاب کیست جز ناچار",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eپیشش بنشین به شب‌نشینی\u003C/p\u003E\r\n\u003Cp\u003Eبیشیش ببین به پیش‌بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب تو جان کسی جان من زغمزه شکافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیا خدنگ غمت بین نشسته تا سوفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشدست جان مرا تاب لیک ناچارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحریف ناوک پرتاب کیست جز ناچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 20,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "دام بلایی کان فریبی\r\nآنست یارا کان رقیبیکذا",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدام بلایی کان فریبی\u003C/p\u003E\r\n\u003Cp\u003Eآنست یارا کان رقیبی(کذا)\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
     },
     {
       "Index": 19,
@@ -589,13 +599,13 @@
       "CoupletsCount": 4
     },
     {
-      "Index": 19,
-      "Number": 20,
-      "SectionType": "BandCouplets",
+      "Index": 20,
+      "Number": 21,
+      "SectionType": "Band",
       "VerseType": "Second",
-      "RhymeLetters": "ی",
-      "PlainText": "دام بلایی کان فریبی\r\nآنست یارا کان رقیبیکذا",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدام بلایی کان فریبی\u003C/p\u003E\r\n\u003Cp\u003Eآنست یارا کان رقیبی(کذا)\u003C/p\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "گدای در ز در ای آفتاب دور مساز\r\nکه تن بسوختش از حسرت این فقیر اطوار\r\nلبان وصف دلم زان رخ چو آذریست کذا\r\nکه ثابت است بسی عاشق تو در اسرار\r\nگر آنکه پیش همه نقش ملک چین گلهاست\r\nگل جهان خشبی پیش لمعه ات انگار\r\nوجود ماه فلک نیست غیر عکس تنت\r\nچو فیض مهر تواش همسرست شد سیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگدای در ز در ای آفتاب دور مساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تن بسوختش از حسرت این فقیر اطوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلبان وصف دلم زان رخ چو آذریست (کذا)\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ثابت است بسی عاشق تو در اسرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آنکه پیش همه نقش ملک چین گلهاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل جهان خشبی پیش لمعه ات انگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوجود ماه فلک نیست غیر عکس تنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو فیض مهر تواش همسرست شد سیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -606,16 +616,6 @@
       "RhymeLetters": "تابکجا",
       "PlainText": "جان کجا غم ز کجا تاب کجا\r\nیا خدنگ غم پرتاب کجا",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eجان کجا غم ز کجا تاب کجا\u003C/p\u003E\r\n\u003Cp\u003Eیا خدنگ غم پرتاب کجا\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 20,
-      "Number": 21,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "گدای در ز در ای آفتاب دور مساز\r\nکه تن بسوختش از حسرت این فقیر اطوار\r\nلبان وصف دلم زان رخ چو آذریست کذا\r\nکه ثابت است بسی عاشق تو در اسرار\r\nگر آنکه پیش همه نقش ملک چین گلهاست\r\nگل جهان خشبی پیش لمعه ات انگار\r\nوجود ماه فلک نیست غیر عکس تنت\r\nچو فیض مهر تواش همسرست شد سیار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگدای در ز در ای آفتاب دور مساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تن بسوختش از حسرت این فقیر اطوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلبان وصف دلم زان رخ چو آذریست (کذا)\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ثابت است بسی عاشق تو در اسرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آنکه پیش همه نقش ملک چین گلهاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل جهان خشبی پیش لمعه ات انگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوجود ماه فلک نیست غیر عکس تنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو فیض مهر تواش همسرست شد سیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -673,22 +673,22 @@
     {
       "Index": 22,
       "Number": 23,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "سر",
+      "PlainText": "ای دزدی آب رز از آن رخ آذر\r\nتن سوخت حریف طربت عاشق سر\r\nپیش همه نقش ملک چین عکس تنت\r\nگلها خشبی لمعه فیضش همسر",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eای دزدی آب رز از آن رخ آذر\u003C/p\u003E\r\n\u003Cp\u003Eتن سوخت حریف طربت عاشق سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eپیش همه نقش ملک چین عکس تنت\u003C/p\u003E\r\n\u003Cp\u003Eگلها خشبی لمعه فیضش همسر\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 22,
+      "Number": 23,
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ار",
       "PlainText": "زصد نگار تو داری ز بی نیازی ننگ\r\nز صد هزار فقیرت به دلنوازی عار\r\nفتاده سر و بپایت همین هنر دارد\r\nکه جان برای قدت میدهند سرو و چنار",
       "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزصد نگار تو داری ز بی نیازی ننگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز صد هزار فقیرت به دلنوازی عار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتاده سر و بپایت همین هنر دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جان برای قدت میدهند سرو و چنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghaside",
-      "CoupletsCount": 2
-    },
-    {
-      "Index": 22,
-      "Number": 23,
-      "SectionType": "BandCouplets",
-      "VerseType": "Second",
-      "RhymeLetters": "سر",
-      "PlainText": "ای دزدی آب رز از آن رخ آذر\r\nتن سوخت حریف طربت عاشق سر\r\nپیش همه نقش ملک چین عکس تنت\r\nگلها خشبی لمعه فیضش همسر",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eای دزدی آب رز از آن رخ آذر\u003C/p\u003E\r\n\u003Cp\u003Eتن سوخت حریف طربت عاشق سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eپیش همه نقش ملک چین عکس تنت\u003C/p\u003E\r\n\u003Cp\u003Eگلها خشبی لمعه فیضش همسر\u003C/p\u003E\u003C/div\u003E",
       "CoupletsCount": 2
     },
     {
@@ -745,6 +745,16 @@
     {
       "Index": 24,
       "Number": 25,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "شم",
+      "PlainText": "دمی ناله از داغ هجرت کشم\r\nگهی باده از نوش وصلت چشم",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدمی ناله از داغ هجرت کشم\u003C/p\u003E\r\n\u003Cp\u003Eگهی باده از نوش وصلت چشم\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 25,
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ار",
@@ -754,13 +764,13 @@
       "CoupletsCount": 3
     },
     {
-      "Index": 24,
-      "Number": 25,
-      "SectionType": "BandCouplets",
+      "Index": 25,
+      "Number": 26,
+      "SectionType": "Band",
       "VerseType": "Second",
-      "RhymeLetters": "شم",
-      "PlainText": "دمی ناله از داغ هجرت کشم\r\nگهی باده از نوش وصلت چشم",
-      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدمی ناله از داغ هجرت کشم\u003C/p\u003E\r\n\u003Cp\u003Eگهی باده از نوش وصلت چشم\u003C/p\u003E\u003C/div\u003E",
+      "RhymeLetters": "ار",
+      "PlainText": "نشسته ام همه شب دل حزین براه ستم\r\nلب از فغان چو سگان بازو چشم کرده چهار\r\nچرا تو تابی از افغان رخ ار چو سگ نالم\r\nکه هستمت همه شب پاسبان من بیدار\r\nملول از همه غم کیست چون من بی بخت\r\nحزین براه ستم کیست چون من غمخوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشسته ام همه شب دل حزین براه ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب از فغان چو سگان بازو چشم کرده چهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا تو تابی از افغان رخ ار چو سگ نالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستمت همه شب پاسبان من بیدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملول از همه غم کیست چون من بی بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحزین براه ستم کیست چون من غمخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {
@@ -782,16 +792,6 @@
       "RhymeLetters": "هند",
       "PlainText": "صد نگار از نیاز سر بپات می نهند\r\nصد هزار دلنواز جان برات می دهند",
       "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eصد نگار از نیاز سر بپات می نهند\u003C/p\u003E\r\n\u003Cp\u003Eصد هزار دلنواز جان برات می دهند\u003C/p\u003E\u003C/div\u003E",
-      "CoupletsCount": 1
-    },
-    {
-      "Index": 25,
-      "Number": 26,
-      "SectionType": "Band",
-      "VerseType": "Second",
-      "RhymeLetters": "ار",
-      "PlainText": "نشسته ام همه شب دل حزین براه ستم\r\nلب از فغان چو سگان بازو چشم کرده چهار\r\nچرا تو تابی از افغان رخ ار چو سگ نالم\r\nکه هستمت همه شب پاسبان من بیدار\r\nملول از همه غم کیست چون من بی بخت\r\nحزین براه ستم کیست چون من غمخوار",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشسته ام همه شب دل حزین براه ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب از فغان چو سگان بازو چشم کرده چهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا تو تابی از افغان رخ ار چو سگ نالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستمت همه شب پاسبان من بیدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملول از همه غم کیست چون من بی بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحزین براه ستم کیست چون من غمخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "CoupletsCount": 1
     },
     {

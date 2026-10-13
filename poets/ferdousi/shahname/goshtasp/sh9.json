@@ -1,8 +1,8 @@
 {
   "Id": 1535,
   "CatId": 59,
-  "Title": "بخش ۹ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۹ - سخن دقیقی",
+  "Title": "بخش ۹ - سخن دقیقی: آگاهی گشتاسپ از حملهٔ ارجاسپ و بسیج سپاه ایران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۹ - سخن دقیقی: آگاهی گشتاسپ از حملهٔ ارجاسپ و بسیج سپاه ایران",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -672,6 +672,35 @@
       "CoupletIndex": 23,
       "SectionIndex1": 0,
       "SectionIndex2": 25
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با سپاه بسیار به جنگ ارجاسپ می‌رود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 209,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ارجاسپ که پیشاپیش سپاه فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنجی به او نسبت داده شده که گشتاسپ می‌گشاید. (نام در متن: جم)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1797,
   "CatId": 83,
-  "Title": "بخش ۲۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۸",
+  "Title": "بخش ۲۸ - گفتگوی موبد با فرستادهٔ قیصر در سود و زیان خرد، و خلعت شاه بر او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۸ - گفتگوی موبد با فرستادهٔ قیصر در سود و زیان خرد، و خلعت شاه بر او",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,17 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم؛ فرستاده‌اش نزد شاه ایران آمده و از او باژ خواسته می‌شود."
     }
   ]
 }

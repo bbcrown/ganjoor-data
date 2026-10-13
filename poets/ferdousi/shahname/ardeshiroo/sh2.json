@@ -1,8 +1,8 @@
 {
   "Id": 1919,
   "CatId": 90,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر شیروی » بخش ۲",
+  "Title": "بخش ۲ - نامهٔ گراز به پیروز خسرو، کشتن اردشیر در شب مستی و تاختن سپاه روم به طیسفون",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر شیروی » بخش ۲ - نامهٔ گراز به پیروز خسرو، کشتن اردشیر در شب مستی و تاختن سپاه روم به طیسفون",
   "FullUrl": "/ferdousi/shahname/ardeshiroo/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1104,6 +1104,53 @@
       "CoupletIndex": 39,
       "SectionIndex1": 0,
       "SectionIndex2": 41
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 119,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آگاهی مرگ شیروی را می‌شنود، کین‌خواه است و با سپاه روم به طیسفون می‌تازد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کشته شده و گراز برای او سوگوار و کین‌خواه است. (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 479,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که تاجش به خاک رفته و گراز او را نفرین می‌کند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 610,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهِ تاجدار زمان که پیروز خسرو او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامهٔ گراز را می‌گیرد و علیه اردشیر توطئه می‌کند. (نام در متن: پیروز خسرو)"
     }
   ]
 }

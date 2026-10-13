@@ -1,8 +1,8 @@
 {
   "Id": 87966,
   "CatId": 51,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۲",
+  "Title": "بخش ۱۲ - تیر فرود بر سینهٔ اسپ گیو، تازیانهٔ پدر بر بیژن و رهسپار شدنش به سپیدکوه",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۲ - تیر فرود بر سینهٔ اسپ گیو، تازیانهٔ پدر بر بیژن و رهسپار شدنش به سپیدکوه",
   "FullUrl": "/ferdousi/shahname/forood/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1779,6 +1779,98 @@
       "CoupletIndex": 64,
       "SectionIndex1": 0,
       "SectionIndex2": 66
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فرود؛ سلاحش یاد می‌شود و به کین‌خواهی او اشاره می‌رود. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سیاوش؛ از بالا نبرد را می‌نگرد و کمان بر زه می‌کند."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): امید می‌رود که به توران‌زمین بیاید. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بالا می‌نگرد و سوار دشمن را به فرود می‌شناساند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی و پدر بیژن؛ اسبش با تیر زخمی می‌شود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای فرود که دستش به گفتهٔ تخوار بسته شده است."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو؛ پدر او را می‌زند و او سوگند کین‌خواهی می‌خورد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 193,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیژن سوگند می‌خورد که کین او را بخواهد."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیژن از او اسب و سلیح نبرد می‌خواهد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 194,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهداری که زرسپ در شایستگی به او مانند شده است."
     }
   ]
 }

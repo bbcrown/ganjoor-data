@@ -23,5 +23,17 @@
       "CoupletIndex": 1,
       "CoupletSummary": "هوش مصنوعی: ما در روز جمعه بیست و پنجم جمادی الآخر سال ۴۳۸ هجری به حران رسیدیم. این تاریخ معادل بیست و دوم دی ماه است و در آن زمان، هوای حران به گونه‌ای بود که مشابه هوای خراسان در نوروز بود."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 107,
+      "LunarYear": 438,
+      "LunarMonth": 6,
+      "LunarDay": 25,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

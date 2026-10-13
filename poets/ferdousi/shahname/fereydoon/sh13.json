@@ -1,8 +1,8 @@
 {
   "Id": 1370,
   "CatId": 40,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۳",
+  "Title": "بخش ۱۳ - آگاهی سلم و تور از منوچهر",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۳ - آگاهی سلم و تور از منوچهر",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3480,6 +3480,147 @@
       "CoupletIndex": 127,
       "SectionIndex1": 0,
       "SectionIndex2": 129
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دو برادر بیدادگر که بیمناک‌اند و برای پوزش نزد فریدون فرستاده می‌فرستند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه سلم؛ با او برای چارهٔ پوزش‌خواهی از فریدون فرستاده می‌فرستد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهنشاه و پدر سلم و تور که فرستاده و پیشکش نزد او می‌آید."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نوه یا فرزندزادهٔ فریدون؛ بر دست شاه نشسته و کلاه بر سر دارد."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که شاه از فرستاده دربارهٔ تن او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 42,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهداری رزم‌زن که در سپاه آیندهٔ منوچهر یاد می‌شود. (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 68,
+      "PersonId": 46,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 43,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان همراه سپاه آیندهٔ منوچهر."
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 166,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان و رهنمایان سپاه آیندهٔ منوچهر."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 31,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 103,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که منوچهر در شکوه به او مانند شده است"
+    },
+    {
+      "CoupletIndex": 104,
+      "PersonId": 5,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که منوچهر به او مانند شده است"
+    },
+    {
+      "CoupletIndex": 110,
+      "PersonId": 44,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سپهداران که پیشاپیش سپاه منوچهر است"
     }
   ]
 }

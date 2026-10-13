@@ -1,8 +1,8 @@
 {
   "Id": 88056,
   "CatId": 56,
-  "Title": "بخش ۳۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۴",
+  "Title": "بخش ۳۴ - خفتن لهاک و فرشیدورد در بیشه، کشته شدنشان به دست گستهم و نیایش زخمی بر سر چشمه",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۴ - خفتن لهاک و فرشیدورد در بیشه، کشته شدنشان به دست گستهم و نیایش زخمی بر سر چشمه",
   "FullUrl": "/ferdousi/shahname/12rokh/sh34",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1482,6 +1482,53 @@
       "CoupletIndex": 53,
       "SectionIndex1": 0,
       "SectionIndex2": 55
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان توران، برادر فرشیدورد؛ می‌گریزد و در نبرد با گستهم زخمی می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان توران، برادر لهاک؛ با تیر گستهم کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به تنهایی به لهاک و فرشیدورد می‌تازد و آنان را می‌زند."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی ایرانی که گستهم از خدا می‌خواهد او را پدیدار کند."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که گستهم از خدا می‌خواهد او را برای یاری‌اش پدیدار کند."
     }
   ]
 }

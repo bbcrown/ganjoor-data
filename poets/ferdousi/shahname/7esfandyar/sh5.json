@@ -1,8 +1,8 @@
 {
   "Id": 1564,
   "CatId": 60,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۵",
+  "Title": "بخش ۵ - خان چهارم اسفندیار: هشدار گرگسار، فریب زن جادو و کشتن او با زنجیر زردشت",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۵ - خان چهارم اسفندیار: هشدار گرگسار، فریب زن جادو و کشتن او با زنجیر زردشت",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1590,6 +1590,53 @@
       "CoupletIndex": 57,
       "SectionIndex1": 0,
       "SectionIndex2": 59
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پهلوان لشکرکش که می‌خورد، تنبور می‌نوازد و با زن جادو روبه‌رو می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دل‌پردرد و ناتوان که پیش اسفندیار آورده می‌شود و راه منزل را می‌گوید."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپاه را اسفندیار به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زردهشت زنجیر را از بهشت برای او آورده بود."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زنجیر پولادین را از بهشت برای گشتاسپ آورده بود (نام در متن: زردهشت)"
     }
   ]
 }

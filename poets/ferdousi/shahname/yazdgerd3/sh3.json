@@ -1,8 +1,8 @@
 {
   "Id": 1926,
   "CatId": 96,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۳",
+  "Title": "بخش ۳ - نامهٔ رستم فرخزاد به سعد وقاص: نکوهش آز عرب و پند پرهیز از جنگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۳ - نامهٔ رستم فرخزاد به سعد وقاص: نکوهش آز عرب و پند پرهیز از جنگ",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,62 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 327,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دریافت‌کنندهٔ نامه که آمادهٔ جنگ است (نام در متن: سعد وقاص)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 495,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب نامهٔ رستم؛ جوینده جنگ با ایرانیان"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فر خداوند در بند است (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاهی که نامه از او سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامه را نزد سعد وقاص می‌برد"
     }
   ]
 }

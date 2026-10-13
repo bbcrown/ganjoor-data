@@ -1,8 +1,8 @@
 {
   "Id": 1721,
   "CatId": 69,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۴",
+  "Title": "بخش ۱۴ - بیماری و مرگ اردشیر، اندرز به شاپور در پیوند دین و شهریاری",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۱۴ - بیماری و مرگ اردشیر، اندرز به شاپور در پیوند دین و شهریاری",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3966,6 +3966,53 @@
       "CoupletIndex": 145,
       "SectionIndex1": 0,
       "SectionIndex2": 147
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب پندهای پادشاه بیمار؛ پادشاه او را «پسر» می‌خواند."
+    },
+    {
+      "CoupletIndex": 88,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نماد بدی؛ کیش بد به او نسبت داده شده است (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 97,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه گوینده که شهرها را بنا کرد و نام خود را بر آن‌ها نهاد"
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 288,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بر روان او درود فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 123,
+      "PersonId": 307,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرِ انجمن یارانش بود و او را علی ولی می‌خوانند."
     }
   ]
 }

@@ -2374,5 +2374,88 @@
       "SectionIndex1": 0,
       "SectionIndex2": 88
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 441,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر شیرویه."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 479,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند خسرو و مریم که بر پدر می‌شورد، بر تخت می‌نشیند و او را بند می‌کند. (نام در متن: شیرویه)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر خسرو که در بند با او می‌ماند و مایهٔ شادی اوست."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 646,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خردمندی که خسرو با او سخن می‌گوید و او شاه را دلداری می‌دهد."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که فرمانروایی از او به خسرو رسیده است."
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ مسیحادمی که برای خیر یافتن در خران لازم است."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خونخواری که از پشتش مار می‌رویید."
+    },
+    {
+      "CoupletIndex": 74,
+      "PersonId": 676,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در کوه ناپیداست و با قناعت از انبوه مردم رسته است."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به‌عنوان نمونهٔ یافتن سعادت در چاه یاد شده است."
+    }
   ]
 }

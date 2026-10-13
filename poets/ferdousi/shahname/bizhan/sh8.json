@@ -1,8 +1,8 @@
 {
   "Id": 88017,
   "CatId": 55,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۸",
+  "Title": "بخش ۸ - پیام گرگین به رستم، بخشایش کیخسرو و تدبیر نهانی رفتن به توران با گنج و هفت یل",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۸ - پیام گرگین به رستم، بخشایش کیخسرو و تدبیر نهانی رفتن به توران با گنج و هفت یل",
   "FullUrl": "/ferdousi/shahname/bizhan/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1806,6 +1806,143 @@
       "CoupletIndex": 65,
       "SectionIndex1": 0,
       "SectionIndex2": 67
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پیام گرگین را می‌شنود و نزد شاه از او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به رستم پیام می‌فرستد و از گناه خود پشیمان است و آمرزش شاه را می‌خواهد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جوان و خورشیدفر که رستم نزد او رفته و سوگند خورده است. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرفتار در بند است و رهایی او شرط بخشایش گرگین است."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گیو، از کسانی که ممکن است کین بیژن را بخواهند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گودرز، از کسانی که ممکن است کین را از گرگین بخواهند."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بدگوهری که از او بر جان بیژن بیم می‌رود."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی بد که در سخن رستم دل را می‌لرزاند. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان نامبرده، با وصف شیر جنگ‌آوران."
+    },
+    {
+      "CoupletIndex": 59,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان برگزیده؛ بعدتر دربارهٔ خسرو می‌پرسد."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان برگزیده که سپاه می‌راند."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 552,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان تخت و کلاه، از گردان برگزیده."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی دلیر، از گردان برگزیده."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردان نامبرده برای همراهی رستم."
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صیادی نره‌شیر و از گردان برگزیدهٔ رستم."
     }
   ]
 }

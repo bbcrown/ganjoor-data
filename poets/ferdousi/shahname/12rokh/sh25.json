@@ -1,8 +1,8 @@
 {
   "Id": 88047,
   "CatId": 56,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۵",
+  "Title": "بخش ۲۵ - رخ پنجم: نبرد رهام با بارمان، کشتن او به نیزه و بردنش به کین سیاوش",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۲۵ - رخ پنجم: نبرد رهام با بارمان، کشتن او به نیزه و بردنش به کین سیاوش",
   "FullUrl": "/ferdousi/shahname/12rokh/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -456,6 +456,53 @@
       "CoupletIndex": 15,
       "SectionIndex1": 0,
       "SectionIndex2": 17
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی ترک که با رهام می‌جنگد و کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رهام."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی، پسر گودرز، که با بارمان نبرد می‌کند و او را می‌کشد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که پیروزی به نام او ستوده می‌شود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که رهام به کین او بارمان را سرنگون می‌کند. (نام در متن: سیاوش)"
     }
   ]
 }

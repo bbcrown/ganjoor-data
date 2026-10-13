@@ -1,8 +1,8 @@
 {
   "Id": 1715,
   "CatId": 69,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۸",
+  "Title": "بخش ۸ - تولد و نهفت اورمزد، بازی چوگان و آشکار شدن نژادش، شادی اردشیر از آمیزش تخمهٔ مهرک",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۸ - تولد و نهفت اورمزد، بازی چوگان و آشکار شدن نژادش، شادی اردشیر از آمیزش تخمهٔ مهرک",
   "FullUrl": "/ferdousi/shahname/ardeshir/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,71 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کودک نوزاد به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و نیای اورمزد که او را پیش خود می‌خواند و می‌پذیرد."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر اورمزد و پسر اردشیر که فرزندش را پنهان نگه داشته بود."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 215,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کودک هفت‌ساله و نوهٔ اردشیر که گوی را برمی‌دارد و نژادش آشکار می‌شود."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 304,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر مادر اورمزد"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 306,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دانای هندی که پیش‌گویی دربارهٔ بخت و تخت شاهی را به او نسبت می‌دهند."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 299,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در پیشگویی آمده که بخت به پیوند با تبار او بسته است."
     }
   ]
 }

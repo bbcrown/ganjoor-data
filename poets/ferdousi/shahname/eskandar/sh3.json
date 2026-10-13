@@ -1,8 +1,8 @@
 {
   "Id": 1642,
   "CatId": 67,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳",
+  "Title": "بخش ۳ - پاسخ دلارای به نامهٔ سکندر: سوگ دارا، پذیرفتن شهریاری و نهادن تاج کیانی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳ - پاسخ دلارای به نامهٔ سکندر: سوگ دارا، پذیرفتن شهریاری و نهادن تاج کیانی",
   "FullUrl": "/ferdousi/shahname/eskandar/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,62 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 257,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با شنیدن سخنان از مرگ دارا اندوهگین می‌شود و به نامه پاسخ می‌نویسد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که درگذشته و بر مرگش اشک می‌ریزند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب نامه که ایرانیان او را شهنشاه می‌خوانند و فرستاده نزدش می‌رسد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 254,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه جانوشیار؛ از کیفر آنان سخن می‌رود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 255,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه ماهیار؛ از کیفر بدخواهی او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 256,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سکندر در نامه از او یاد کرده و پاسخ‌دهندگان شاد شده‌اند."
     }
   ]
 }

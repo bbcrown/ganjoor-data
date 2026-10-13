@@ -1,8 +1,8 @@
 {
   "Id": 87957,
   "CatId": 51,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۳",
+  "Title": "بخش ۳ - مجلس کیخسرو با رستم، دوراهی بیابان و کلات، و برگزیدن راه چرم به رای طوس",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۳ - مجلس کیخسرو با رستم، دوراهی بیابان و کلات، و برگزیدن راه چرم به رای طوس",
   "FullUrl": "/ferdousi/shahname/forood/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,62 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه شاه در بازگشت به کاخ و مخاطب سخن او"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که مجلس می‌آراید، از رنج خود می‌گوید و طوس را فرستاده است. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که شاه دربارهٔ او و رنج‌های خود سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار فرستاده‌شده با سپاه که دربارهٔ انتخاب راه سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار که با طوس دربارهٔ انتخاب راه گفتگو می‌کند"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 76,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): راهبر سپاه در سفر پیشین طوس از این راه"
     }
   ]
 }

@@ -14,8 +14,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "نگ",
-      "PlainText": "شنیدم که مردان راه خدای\r\nدل دشمنان را نکردند تنگ\r\nتو را کی میسر شود این مقام \r\nکه با دوستانت خلاف است و جنگ",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم که مردانِ راهِ خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلِ دشمنان را نکردند تنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را کی میسّر شود این مَقام \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با دوستانت خلاف است و جنگ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "شنیدم که مردان راه خدای\r\nدل دشمنان را نکردند تنگ\r\nتو را کی میسر شود این مقام\r\nکه با دوستانت خلاف است و جنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم که مردانِ راهِ خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلِ دشمنان را نکردند تنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را کی میسّر شود این مَقام؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با دوستانت خلاف است و جنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 2
     },
@@ -88,7 +88,7 @@
     {
       "VOrder": 4,
       "Position": "Right",
-      "Text": "تو را کی میسّر شود این مَقام ",
+      "Text": "تو را کی میسّر شود این مَقام؟",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
       "CoupletSummary": "رسیدن به پایگاهِ مردانِ حق برای تو آسان نیست چه تو با یارانِ خویش هم سرِ ستیزه و دشمنی داری."
@@ -96,14 +96,14 @@
     {
       "VOrder": 5,
       "Position": "Left",
-      "Text": "که با دوستانت خلاف است و جنگ؟",
+      "Text": "که با دوستانت خلاف است و جنگ",
       "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 6,
       "Position": "Paragraph",
-      "Text": "مودّتِ اهلِ صفا، چه در روی و چه در قفا، نه چنان کز پست عیب گیرند و پیشت بیش میرند.",
+      "Text": "مودّتِ اهلِ صفا، چه در روی و چه در قفا، نه چنان کز پَسَت عیب گیرند و پیشت بیش میرند.",
       "CoupletIndex": 3,
       "CoupletSummary": "دوستیِ یارانِ پاکدل، خواه در برابر خواه در پشت سر یکسان است و چنان نیست که در غیاب تو بر تو خرده گیرند و در حضور سختْ برخیِ جانت شوند و قربانت گردند."
     },

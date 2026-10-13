@@ -1,8 +1,8 @@
 {
   "Id": 1594,
   "CatId": 61,
-  "Title": "بخش ۲۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۰",
+  "Title": "بخش ۲۰ - سخن تلخ رستم بر در سراپرده، پند آشتی پشوتن و پافشاری اسفندیار بر جنگ",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۲۰ - سخن تلخ رستم بر در سراپرده، پند آشتی پشوتن و پافشاری اسفندیار بر جنگ",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh20",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,98 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از پرده‌سرا بیرون می‌آید و اسفندیار با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه گذشته که از روزگار خوش او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه گذشته که از بارگاه و روزگارش یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه گذشته که روزگار نیکش یادآوری می‌شود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پسر شاه که با رستم گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که اسفندیار فرمان او را بهانه می‌آورد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همنشینان در دربار گشتاسپ."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 202,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در بارگاه گشتاسپ نشسته و آورندهٔ دین است. (نام در متن: زردهشت)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر اسفندیار که او را به آرامی و پرهیز از کین می‌خواند."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 15,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اهریمن؛ به‌گفتهٔ پشوتن در گذشته چنین گمانی دربارهٔ مخاطب نداشت."
     }
   ]
 }

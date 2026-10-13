@@ -3049,5 +3049,79 @@
       "SectionIndex1": 0,
       "SectionIndex2": 113
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده که خود را مخاطب قرار می‌دهد و پند می‌دهد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خونش در تشبیه به دارویی برای درمان آمده است"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 635,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، کسی که از هر ریشه‌ای دارو می‌سازد"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 683,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ دانایی در پزشکی که از مرگ نگریخت"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 644,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ دوستی و پاکی؛ پیراهنش در تشبیه آمده"
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ کهنسالی و کهنگی در تشبیه سخن کهن (نام در متن: زال زر)"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 684,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ کهنگی در مقایسهٔ زر پیشین"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 279,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ حضور پنهان و آشکار در تشبیه"
+    }
   ]
 }

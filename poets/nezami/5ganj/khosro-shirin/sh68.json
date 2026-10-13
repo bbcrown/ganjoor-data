@@ -565,5 +565,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 21
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیبایی که در قصر نشسته و خسرو او را مخاطب می‌کند."
+    }
   ]
 }

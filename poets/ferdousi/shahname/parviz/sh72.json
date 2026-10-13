@@ -1,8 +1,8 @@
 {
   "Id": 1907,
   "CatId": 88,
-  "Title": "بخش ۷۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۲",
+  "Title": "بخش ۷۲ - دیباچهٔ داستان خسرو پرویز: شکوه دستگاه، گنج‌های شاهی و پند ناپایداری جهان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۷۲ - دیباچهٔ داستان خسرو پرویز: شکوه دستگاه، گنج‌های شاهی و پند ناپایداری جهان",
   "FullUrl": "/ferdousi/shahname/parviz/sh72",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,35 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه بزرگ و باشکوه که از کشورهای گوناگون به او باج می‌دادند. (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنجی نامور به نام او در شمار گنج‌های خسرو یاد شده است."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رامشگر درگاه با آوازی خوش"
     }
   ]
 }

@@ -1105,5 +1105,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 41
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 474,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): استاد نوازنده و خواننده‌ای که در پیشگاه شاه می‌نوازد و می‌سراید."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که با آواز و ساز خود شاه را بی‌تاب می‌کند."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه هشیار شاه که به فرمان او سرا را خالی می‌کند."
+    }
   ]
 }

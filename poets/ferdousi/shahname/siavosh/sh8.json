@@ -1,8 +1,8 @@
 {
   "Id": 1487,
   "CatId": 49,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۸",
+  "Title": "بخش ۸ - نامهٔ پرخشم کاووس، امتناع سیاوش از پیمان‌شکنی و دعوت افراسیاب به توران",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۸ - نامهٔ پرخشم کاووس، امتناع سیاوش از پیمان‌شکنی و دعوت افراسیاب به توران",
   "FullUrl": "/ferdousi/shahname/siavosh/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -6018,6 +6018,141 @@
       "CoupletIndex": 221,
       "SectionIndex1": 0,
       "SectionIndex2": 223
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که نامه‌ای خشم‌آلود به سیاوش می‌فرستد و پدر او است. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در نامه از او گله می‌شود و سیاوش از او ناخشنود می‌گردد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که کاووس می‌خواهد سیاوش سپاه را به او بسپارد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران و دشمن، که نامه از آمدنش به جنگ می‌گوید."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس و گیرندهٔ نامه، که از دستور پدر دچار اندیشه می‌شود. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زنی فریبنده که گوینده از او بدی دیده است."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 113,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کندآوران لشکر که به نزد افراسیاب فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کندآوران لشکر که گوینده او را به راز خود می‌خواند."
+    },
+    {
+      "CoupletIndex": 50,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد کینه‌خواهی که سپاه بلخ به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی بد که گوینده نمی‌خواهد کامش را برآورد. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 50,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که آمد و رفت و جهان را سپرد."
+    },
+    {
+      "CoupletIndex": 77,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه نام بهرام آمده است."
+    },
+    {
+      "CoupletIndex": 85,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که پیشنهاد می‌شود دوباره از شاه خواسته شود. (نام در متن: پیلتن)"
+    },
+    {
+      "CoupletIndex": 115,
+      "PersonId": 141,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامداری بزرگ و جنگی که به پیشواز زنگه رفت"
+    },
+    {
+      "CoupletIndex": 121,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مشاور افراسیاب که نوازش و پذیرفتن سیاوش را پیشنهاد می‌کند"
     }
   ]
 }

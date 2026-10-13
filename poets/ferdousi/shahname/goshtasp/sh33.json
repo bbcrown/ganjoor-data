@@ -1,8 +1,8 @@
 {
   "Id": 1559,
   "CatId": 59,
-  "Title": "بخش ۳۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳۳",
+  "Title": "بخش ۳۳ - گفتار گشتاسپ با اسفندیار، پیمان رهایی خواهران و گسیل سپاه به توران",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۳۳ - گفتار گشتاسپ با اسفندیار، پیمان رهایی خواهران و گسیل سپاه به توران",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh33",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -645,6 +645,53 @@
       "CoupletIndex": 22,
       "SectionIndex1": 0,
       "SectionIndex2": 24
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر اسفندیار که او را برای رهاندن خواهران به توران می‌فرستد"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامدار نبرد که از کین او سخن می‌رود"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که در گفت‌وگوی شاه یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه که پیمان می‌بندد برای رهایی خواهران به توران برود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن توران که اسفندیار از او کین می‌خواهد (نام در متن: ارجاسپ)"
     }
   ]
 }

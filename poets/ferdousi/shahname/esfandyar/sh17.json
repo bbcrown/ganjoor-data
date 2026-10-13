@@ -1,8 +1,8 @@
 {
   "Id": 1591,
   "CatId": 61,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۷",
+  "Title": "بخش ۱۷ - پاسخ اسفندیار به رستم: فخر به نژاد، شکستن بند و گشودن رویین‌دژ",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۱۷ - پاسخ اسفندیار به رستم: فخر به نژاد، شکستن بند و گشودن رویین‌دژ",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1158,6 +1158,134 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب اسفندیار که رنج و کردارش را برشمرده است."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده؛ شاهزادهٔ ایرانی که به رستم از کارها و نژاد خود می‌گوید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گشتاسپ و پسر اورند؛ شاهی که از بند اسفندیار آسیب دید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر اسفندیار و پسر لهراسپ؛ شاهی که اسفندیار تخت را به او داد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 233,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر لهراسپ و از نژاد کی‌پشین."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 86,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای اسفندیار، از تخمهٔ کیقباد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای دور که پشین از تخمهٔ او بود."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه جهان و نیای دور اسفندیار."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 120,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر مادر اسفندیار و شاه رومیان، از نژاد سلم."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر فریدون و نیای قیصر."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 214,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که به گفتهٔ او اسفندیار در بند افتاد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آهنگران را آورد تا بند اسفندیار را بگشایند."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه فریدون برای نشان دادن دیرینگی دژ یاد شده است."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آتشی که از بهشت آورده بود، به نام او آمده است."
     }
   ]
 }

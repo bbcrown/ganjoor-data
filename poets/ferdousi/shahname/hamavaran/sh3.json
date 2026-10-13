@@ -1,8 +1,8 @@
 {
   "Id": 1449,
   "CatId": 47,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۳",
+  "Title": "بخش ۳ - خیانت شاه هاماوران، اسارت کاووس و سودابه و آشفتگی ایران",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۳ - خیانت شاه هاماوران، اسارت کاووس و سودابه و آشفتگی ایران",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2238,6 +2238,89 @@
       "CoupletIndex": 81,
       "SectionIndex1": 0,
       "SectionIndex2": 83
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 115,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر سودابه که برای کاووس چاره می‌جوید و او را مهمان می‌کند"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر شاه هاماوران که کاووس را از نیت پدرش آگاه می‌کند"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 118,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که شاه هاماوران با او دشمنی دارد"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که به مهمانی هاماوران می‌رود و گرفتار می‌شود (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان کاووس که با او گرفتار و به دژ فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان کاووس که با او گرفتار و به دژ فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان کاووس که با او گرفتار و به دژ فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 61,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار و پادشاه ترکان که لشکر می‌کشد و بر تازیان پیروز می‌شود."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ایرانیان در زاولستان از او پناه و یاری می‌خواهند."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1703,
   "CatId": 68,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۷",
+  "Title": "بخش ۱۷ - کمین هفتواد و شکست سپاه اردشیر، آمدن شاهوی و کارزار تا شب با تنگی خورش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۱۷ - کمین هفتواد و شکست سپاه اردشیر، آمدن شاهوی و کارزار تا شب با تنگی خورش",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,44 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که با هفتواد می‌جنگد و لشکر را از نبرد باز می‌خواند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 298,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن اردشیر، پدر شاهوی، که در حصار گنج دارد"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 228,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر بزرگ هفتواد که با کشتی نزد پدر می‌آید. (نام در متن: شاهوی)"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 301,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر مهتر هفتواد که با کشتی به یاری پدر آمد"
     }
   ]
 }

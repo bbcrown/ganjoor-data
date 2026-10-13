@@ -1,8 +1,8 @@
 {
   "Id": 1728,
   "CatId": 72,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام اورمزد » بخش ۲",
+  "Title": "بخش ۲ - اندرز بهرام به بهرام‌بهرام، سپردن تخت و دخمهٔ پدر، و تأمل در مرگ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام اورمزد » بخش ۲ - اندرز بهرام به بهرام‌بهرام، سپردن تخت و دخمهٔ پدر، و تأمل در مرگ",
   "FullUrl": "/ferdousi/shahname/bahram/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -429,6 +429,35 @@
       "CoupletIndex": 14,
       "SectionIndex1": 0,
       "SectionIndex2": 16
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه تاجور که می‌میرد و پسرش را اندرز می‌دهد (نام در متن: بهرام (پدر))"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 378,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که پس از سه سال و سه ماه درگذشت و به پسرش اندرز داد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 311,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر دلارام شاه که پدر او را نشاند و اندرز داد. (نام در متن: بهرام (پسر))"
     }
   ]
 }

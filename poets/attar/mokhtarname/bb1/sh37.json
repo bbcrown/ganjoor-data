@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "التبیند",
-      "PlainText": "کو چشم که ذرهای جمالت بیند\r\nکو عقل که سده کمالت بیند\r\nگر جمله ذرات جهان دیده شود\r\nممکن نبود که در وصالت بیند",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو چشم که ذرّهای جمالت بیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو عقل که سُدَّهٔ کمالت بیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر جملهٔ ذرّات جهان دیده شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eممکن نبود که در وصالت بیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "کو چشم که ذره ای جمالت بیند\r\nکو عقل که سده کمالت بیند\r\nگر جمله ذرات جهان دیده شود\r\nممکن نبود که در وصالت بیند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو چشم که ذرّه‌ای جمالت بیند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو عقل که سُدَّهٔ کمالت بیند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر جملهٔ ذرّات جهان دیده شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eممکن نبود که در وصالت بیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "کو چشم که ذرّهای جمالت بیند",
+      "Text": "کو چشم که ذرّه‌ای جمالت بیند؟",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: کدام چشمی وجود دارد که بتواند زیبایی تو را ببیند؟ کدام عقل و درک وجود دارد که بتواند کمال تو را درک کند؟"
@@ -37,7 +37,7 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "کو عقل که سُدَّهٔ کمالت بیند",
+      "Text": "کو عقل که سُدَّهٔ کمالت بیند؟",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },

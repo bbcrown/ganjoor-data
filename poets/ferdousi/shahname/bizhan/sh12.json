@@ -1,8 +1,8 @@
 {
   "Id": 88021,
   "CatId": 55,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۲",
+  "Title": "بخش ۱۲ - یورش شبانهٔ رستم بر درگاه افراسیاب، بانگ رهایی بیژن، گریز شاه توران و تاراج کاخ",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۲ - یورش شبانهٔ رستم بر درگاه افراسیاب، بانگ رهایی بیژن، گریز شاه توران و تاراج کاخ",
   "FullUrl": "/ferdousi/shahname/bizhan/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,71 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که بیژن را از بند می‌رهاند و به افراسیاب شبیخون می‌زند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی تیزهش که رستم بنه را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که شبانه مورد حمله قرار می‌گیرد و می‌گریزد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسیر زندانی در چاه که رستم او را آزاد می‌کند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم به کین‌خواهی او برای افراسیاب اشاره می‌کند. (نام در متن: سیاوخش)"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 547,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در خیمه نشسته و پرستندگان پیش او هستند؛ رستم برایش داستان می‌زند."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1662,
   "CatId": 67,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۳",
+  "Title": "بخش ۲۳ - دیدار اسکندر در کسوت بیقطون با قیدافه و شناخته شدن او با حریر نگاشته",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۳ - دیدار اسکندر در کسوت بیقطون با قیدافه و شناخته شدن او با حریر نگاشته",
   "FullUrl": "/ferdousi/shahname/eskandar/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2400,6 +2400,44 @@
       "CoupletIndex": 87,
       "SectionIndex1": 0,
       "SectionIndex2": 89
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه رومی که با نام بیقطون و ده همراه نزد قیدافه می‌رود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 274,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر قیدافه و فرستادهٔ اسکندر که راهنمای آنان است"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهبانوی بر تخت عاج، مادر قیدروش و میزبان فرستاده"
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 251,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر سکندر."
     }
   ]
 }

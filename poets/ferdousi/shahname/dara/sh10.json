@@ -1,8 +1,8 @@
 {
   "Id": 1639,
   "CatId": 66,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۱۰",
+  "Title": "بخش ۱۰ - پیام اسکندر به پوشیده‌رویان و مهان ایران، نامهٔ داد و تاج‌گذاری در اصطخر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۱۰ - پیام اسکندر به پوشیده‌رویان و مهان ایران، نامهٔ داد و تاج‌گذاری در اصطخر",
   "FullUrl": "/ferdousi/shahname/dara/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1428,6 +1428,17 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کشته‌شده که سکندر برای او سوگ می‌دارد و جانشینش می‌شود."
     }
   ]
 }

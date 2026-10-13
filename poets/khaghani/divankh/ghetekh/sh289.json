@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ون",
-      "PlainText": "قسم تو ریاست از ریاست\r\nاسمی است شریف و معنیی دون\r\nسقا بودی چو ر از اول\r\nچون یه رییس گشتی اکنون\r\nچون ر نهی کلاه اطلس\r\nچون س پوشی قبای اکسون\r\nخونت به گلو رساد چون س\r\nرویت به قفا گشاد چون ن",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقسم تو ریاست از ریاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسمی است شریف و معنیی دون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسقا بودی چو ...ر از اول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ...یه رئیس گشتی اکنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ...ر نهی کلاه اطلس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ...س پوشی قبای اکسون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخونت به گلو رساد چون ...س\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرویت به قفا گشاد چون ...ن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "قسم تو ریاست از ریاست\r\nاسمیت شریف و معنیی دون\r\nسقا بودی چو کیر از اول\r\nچون خایه رییس گشتی اکنون\r\nچون کیر نهی کلاه اطلس\r\nچون کس پوشی قبای اکسون\r\nخونت به گلو رساد چون کس\r\nرویت به قفا گشاد چون کون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقسم تو ریاست از ریاسَت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسمیت شریف و معنیی دون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسقا بودی چو کیر از اول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خایه رئیس گشتی اکنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون کیر نهی کلاه اطلس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون کس پوشی قبای اکسون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخونت به گلو رساد چون کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرویت به قفا گشاد چون کون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghete",
       "CoupletsCount": 4
     }
@@ -29,7 +29,7 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "قسم تو ریاست از ریاست",
+      "Text": "قسم تو ریاست از ریاسَت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: قسمت تو رهبری است که در واقع تنها یک عنوان شکوهمند است و معنایش در واقع براساس ارزش‌های والایی نیست."
@@ -37,14 +37,14 @@
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "اسمی است شریف و معنیی دون",
+      "Text": "اسمیت شریف و معنیی دون",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "سقا بودی چو ...ر از اول",
+      "Text": "سقا بودی چو کیر از اول",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: در ابتدا، تو فقط یک خدمتکار بودی، اما اکنون به مقام رهبری رسیده‌ای."
@@ -52,14 +52,14 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "چون ...یه رئیس گشتی اکنون",
+      "Text": "چون خایه رئیس گشتی اکنون",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     },
     {
       "VOrder": 5,
       "Position": "Right",
-      "Text": "چون ...ر نهی کلاه اطلس",
+      "Text": "چون کیر نهی کلاه اطلس",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: وقتی که کلاهی از جنس اطلس بر سر می‌گذاری، چون لباس گرانبهایی به تن می‌کنی، نشان از شیکی و زیبایی توست."
@@ -67,14 +67,14 @@
     {
       "VOrder": 6,
       "Position": "Left",
-      "Text": "چون ...س پوشی قبای اکسون",
+      "Text": "چون کس پوشی قبای اکسون",
       "CoupletIndex": 2,
       "SectionIndex1": 0
     },
     {
       "VOrder": 7,
       "Position": "Right",
-      "Text": "خونت به گلو رساد چون ...س",
+      "Text": "خونت به گلو رساد چون کس",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
       "CoupletSummary": "هوش مصنوعی: خونت به گلو رسید، چون روی تو به عقب باز شد."
@@ -82,7 +82,7 @@
     {
       "VOrder": 8,
       "Position": "Left",
-      "Text": "رویت به قفا گشاد چون ...ن",
+      "Text": "رویت به قفا گشاد چون کون",
       "CoupletIndex": 3,
       "SectionIndex1": 0
     }

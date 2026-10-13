@@ -781,5 +781,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 29
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 6,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که فرّه از او برگشت و ایرانیان از او برگشتند؛ ضحاک او را با ارّه دو نیم کرد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه تازیان با لقب اژدهافش؛ ایرانیان به او روی آوردند و او شاه ایران شد."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1725,
   "CatId": 71,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اورمزد » بخش ۱",
+  "Title": "بخش ۱ - نشستن شاه اورمزد بر تخت، اندرز داد و خرد به بخردان، و مرگ زودهنگام او",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اورمزد » بخش ۱ - نشستن شاه اورمزد بر تخت، اندرز داد و خرد به بخردان، و مرگ زودهنگام او",
   "FullUrl": "/ferdousi/shahname/oormazd/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,35 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 215,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که بر تخت می‌نشیند و به بزرگان پند و وعدهٔ داد می‌دهد"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 45,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی پیشین که رسم و آیینش سرمشق شاه است"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه، همراه شاپور در اشاره به رسم و آیین گذشته"
     }
   ]
 }

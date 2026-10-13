@@ -1,8 +1,8 @@
 {
   "Id": 87965,
   "CatId": 51,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۱",
+  "Title": "بخش ۱۱ - تیر فرود بر اسب طوس، بازگشت پیادهٔ سپهبد و خشم و سوگ ایرانیان",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۱ - تیر فرود بر اسب طوس، بازگشت پیادهٔ سپهبد و خشم و سوگ ایرانیان",
   "FullUrl": "/ferdousi/shahname/forood/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,107 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان صاحب دژ که با تیر اسب طوس را می‌اندازد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 427,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرود را از جنگ با طوس برحذر می‌دارد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی که اسبش با تیر فرود می‌افتد و پیاده بازمی‌گردد"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پیاده بازآمدن سپهبد آشفته می‌شود و سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در سوگند و یادکرد گیو آمده است (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای زرسپ که فقط در نسب او یاد شده است"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 193,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار سرافراز از نسل نوذر که در این نبرد آسیب دید"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تنش در این نبرد به خون آغشته شده است"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر یا نیای گرو که برای نسب او یاد می‌شود"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 522,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور جم و مغز قباد که از نادانی جنگ را گشود"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 627,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در وصف گرو با عبارت «مغز قباد» یاد شده است"
     }
   ]
 }

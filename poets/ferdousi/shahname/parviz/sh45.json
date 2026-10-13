@@ -1,8 +1,8 @@
 {
   "Id": 1880,
   "CatId": 88,
-  "Title": "بخش ۴۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۵",
+  "Title": "بخش ۴۵ - سفارت خراد برزین به چین، ناکامی نزد خاقان و درمان دخترش به حیلهٔ پزشکی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۵ - سفارت خراد برزین به چین، ناکامی نزد خاقان و درمان دخترش به حیلهٔ پزشکی",
   "FullUrl": "/ferdousi/shahname/parviz/sh45",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2427,6 +2427,125 @@
       "CoupletIndex": 88,
       "SectionIndex1": 0,
       "SectionIndex2": 90
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپاهی فراهم می‌آورد که روشنایی آسمان را می‌پوشاند. (نام در متن: بهرام گرد)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ شاه نزد خاقان؛ دانا و سخنگو."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروایی که فرستادهٔ شاه را می‌پذیرد و گرامی می‌دارد."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 5,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که در ستایش یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که فرستاده یادش می‌کند."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان نامدار پیشین."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامدار که در شمار نامداران گذشته یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران گذشته که یادشان می‌رود."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران گذشته که یادشان می‌رود."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن بدگو، نمونهٔ بدکنشی است و بهرام از او بدتر خوانده می‌شود (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در سخن بدگو بهرام را برکشیده بود"
+    },
+    {
+      "CoupletIndex": 57,
+      "PersonId": 459,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی دربار خاقان که خراد برزین از او یاری می‌جوید."
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 84,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترک پیر و زیرک و کاردان که ترکان او را خوار می‌داشتند"
     }
   ]
 }

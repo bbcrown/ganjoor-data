@@ -430,5 +430,16 @@
       "SectionIndex1": 0,
       "SectionIndex2": 16
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 4,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که پیشه‌ها و آبیاری را پدید آورد و از جهان رفت."
+    }
   ]
 }

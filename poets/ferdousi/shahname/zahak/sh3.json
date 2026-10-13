@@ -1233,7 +1233,7 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35,
-      "CoupletSummary": "موبدان ترسیدند و لبهایشان خشک و چشمشان از اشک تر شد و با هم مشغول گفتگو شدند."
+      "CoupletSummary": "موبدان ترسیدند و لبهایشان خشک و صورتشان از تعریق تر شد و با هم مشغول گفتگو شدند."
     },
     {
       "VOrder": 68,
@@ -1607,7 +1607,7 @@
       "CoupletIndex": 55,
       "SectionIndex1": 0,
       "SectionIndex2": 57,
-      "CoupletSummary": "هوش مصنوعی: جوانمرد به او گفت: اگر کسی عاقل و خردمند باشد، بدون دلیل به بدی نمی‌پردازد."
+      "CoupletSummary": "آن دلاور مرد به ضحاک گفت: اگر کمی اندیشه کنی متوجه میشوی اگر کسی عاقل و خردمند باشد، بدون دلیل به نمی‌پردازد."
     },
     {
       "VOrder": 112,
@@ -1752,6 +1752,43 @@
       "CoupletIndex": 63,
       "SectionIndex1": 0,
       "SectionIndex2": 65
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 10,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر یا بانوی شاه که از او دلیل ترس را می‌پرسد و چاره را پیشنهاد می‌کند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بیدادگر که خواب هراسناکی می‌بیند و از موبدان تعبیر می‌خواهد."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 18,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به گفتهٔ موبد، در آینده زاده می‌شود و تخت ضحاک را برمی‌اندازد."
     }
   ]
 }

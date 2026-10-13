@@ -1,8 +1,8 @@
 {
   "Id": 1378,
   "CatId": 41,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱",
+  "Title": "بخش ۱ - به تخت نشستن منوچهر",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱ - به تخت نشستن منوچهر",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -452,7 +452,7 @@
       "CoupletIndex": 0,
       "SectionIndex1": 0,
       "SectionIndex2": 2,
-      "CoupletSummary": "هوش مصنوعی: منوچهر به مدت یک هفته از درد رنج می‌برد و چشمانش پر از اشک و چهره‌اش زرد بود."
+      "CoupletSummary": "از درد فوت فریدون یک هفته چشمانش گریان و صورتش زرد( استعاره از بی حالی و غم) بود"
     },
     {
       "VOrder": 2,
@@ -1158,6 +1158,44 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه که پس از بیماری بر تخت می‌نشیند و به یزدان‌پرستی و داد می‌خواند."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین و نیای منوچهر که راه او سرمشق است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجود بدکنش که بدکاران از او بدتر شمرده می‌شوند. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهان‌پهلوان که شاه را می‌ستاید و آمادهٔ جنگ می‌شود."
     }
   ]
 }

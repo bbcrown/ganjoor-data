@@ -1,8 +1,8 @@
 {
   "Id": 1510,
   "CatId": 58,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱",
+  "Title": "بخش ۱ - نشستن لهراسپ بر تخت داد، اندرز شاهی، آمدن دانایان به بلخ و ساختن آتشکدهٔ برزین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱ - نشستن لهراسپ بر تخت داد، اندرز شاهی، آمدن دانایان به بلخ و ساختن آتشکدهٔ برزین",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,26 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بر تخت می‌نشیند، تاج بر سر می‌نهد و شهری در بلخ می‌سازد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیشین که لهراسپ از پند او یاد می‌کند."
     }
   ]
 }

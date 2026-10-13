@@ -1,8 +1,8 @@
 {
   "Id": 1417,
   "CatId": 42,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱۲",
+  "Title": "بخش ۱۲ - سوگواری برای نوذر، نجات اسیران به یاری اغریرث و کشواد و بازگشت آنان به زابل",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی نوذر » بخش ۱۲ - سوگواری برای نوذر، نجات اسیران به یاری اغریرث و کشواد و بازگشت آنان به زابل",
   "FullUrl": "/ferdousi/shahname/nozar/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1968,6 +1968,105 @@
       "CoupletIndex": 71,
       "SectionIndex1": 0,
       "SectionIndex2": 73
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گستهم، آگاه‌شده از خبر تیره‌شدن فر شاهی"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه طوس، آگاه‌شده از خبر تیره‌شدن فر شاهی"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سرش را بریدند و برای او سوگواری می‌کنند"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلستان که سوگواران نزد او می‌روند و سوگند کین‌خواهی می‌خورد"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که نوذر نشانی از او داشت"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمن ایرانیان که سران از او بیمناک می‌شوند"
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 70,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر نیک‌نام و پرخرد که پیام به او می‌رسد"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یل رزم‌زن از همراهان زال (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یل لشکرشکن از همراهان زال"
     }
   ]
 }

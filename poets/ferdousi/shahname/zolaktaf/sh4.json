@@ -1,8 +1,8 @@
 {
   "Id": 1736,
   "CatId": 77,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۴",
+  "Title": "بخش ۴ - مست کردن طایر و سپاهش به نبید، شبیخون شاپور به دژ، برکندن کتف و سوختن گل نوبهار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی شاپور ذوالاکتاف » بخش ۴ - مست کردن طایر و سپاهش به نبید، شبیخون شاپور به دژ، برکندن کتف و سوختن گل نوبهار",
   "FullUrl": "/ferdousi/shahname/zolaktaf/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1077,6 +1077,35 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 314,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دژنشین که در مستی اسیر و کشته می‌شود"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که دژ را گرفت، طایر را کشت و به او لقب ذوالاکتاف دادند."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در عبارت «دخت بهرام» آمده است."
     }
   ]
 }

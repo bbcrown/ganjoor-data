@@ -154,5 +154,15 @@
       "CoupletIndex": 20,
       "CoupletSummary": "هوش مصنوعی: من او را به فرزندی قبول کردم و او نیز مرا چون پدر خود شناخت و اکنون برای من مانند سایر فرزندانم است."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 12,
+      "LunarYear": 547,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

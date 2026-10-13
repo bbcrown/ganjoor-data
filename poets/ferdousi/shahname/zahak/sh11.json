@@ -1456,5 +1456,60 @@
       "SectionIndex1": 0,
       "SectionIndex2": 54
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپهبدی که کندرو خبر آمدن مهمان نو را به او می‌دهد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 29,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تاجور نو که بر تخت می‌نشیند و به کندرو فرمان می‌دهد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 9,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرو سهی که در کنار تاجور نو نشسته است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 10,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ماه‌روی و لب‌عقیق که در کنار تاجور نو نشسته است."
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جهاندار که شهرناز و ارنواز دختران او خوانده می‌شوند. (نام در متن: جم)"
+    }
   ]
 }

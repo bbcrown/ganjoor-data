@@ -2293,5 +2293,14 @@
       "SectionIndex1": 0,
       "SectionIndex2": 85
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "LocationId": 13,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

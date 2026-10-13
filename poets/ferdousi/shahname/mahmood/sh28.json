@@ -1,8 +1,8 @@
 {
   "Id": 88087,
   "CatId": 57,
-  "Title": "بخش ۲۸",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۸",
+  "Title": "بخش ۲۸ - اندیشهٔ کیخسرو پس از شصت سال شاهی، بستن بارگاه و نیایش از بیم گسستن فرّه",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۲۸ - اندیشهٔ کیخسرو پس از شصت سال شاهی، بستن بارگاه و نیایش از بیم گسستن فرّه",
   "FullUrl": "/ferdousi/shahname/mahmood/sh28",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,71 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجود اهریمنی که دلش از آسودگی جهان دو نیم می‌شود. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شاه سخنگو نمی‌خواهد مانند او شود."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه تور در یادکرد جنگ و ستیز."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه سلم در یادکرد جنگ و ستیز."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که در کنار ضحاک و کاووس مثال آمده است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شاه او را نیای خود و نمونهٔ کژی می‌شمارد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادو و کژرو، همراه کاووس در مثال بدی."
     }
   ]
 }

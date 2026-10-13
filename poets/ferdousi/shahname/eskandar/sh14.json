@@ -1,8 +1,8 @@
 {
   "Id": 1653,
   "CatId": 67,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۴",
+  "Title": "بخش ۱۴ - راز جام زرد کید: کشیدن آب از گردون، پیمان پیران با میلاد و نهفتن گنج در کوه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۴ - راز جام زرد کید: کشیدن آب از گردون، پیمان پیران با میلاد و نهفتن گنج در کوه",
   "FullUrl": "/ferdousi/shahname/eskandar/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -618,6 +618,26 @@
       "CoupletIndex": 21,
       "SectionIndex1": 0,
       "SectionIndex2": 23
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سازندهٔ جام که شاه به پیمان او وفادار می‌ماند"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 98,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب سخن شاه دربارهٔ پیمان با کید."
     }
   ]
 }

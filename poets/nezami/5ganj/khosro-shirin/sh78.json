@@ -2455,5 +2455,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 91
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یار آهوچشم و تندخوی خسرو که با او عتاب کرده است"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): استاد نقاش و همراه شاه که او را دلداری می‌دهد"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 172,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه جمال یار به افسونگری بابل آمده است"
+    }
   ]
 }

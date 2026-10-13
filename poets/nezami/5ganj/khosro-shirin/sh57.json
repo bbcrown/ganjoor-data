@@ -1350,7 +1350,7 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46,
-      "CoupletSummary": "هوش مصنوعی: خسرو به کوهی اشاره کرد که هر کسی اکنون می‌تواند تماشا کند و آن را بشناسد."
+      "CoupletSummary": "خسرو به کوهی فرستادش که الان اون کوه رو بیستون می‌خوانند"
     },
     {
       "VOrder": 90,
@@ -1563,6 +1563,35 @@
       "CoupletIndex": 56,
       "SectionIndex1": 0,
       "SectionIndex2": 58
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 4,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوقه‌ای که فرهاد عاشق اوست و خسرو به حرمت او سوگند می‌خورد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق شیرین که پذیرفته است برای خسرو راهی در کوه بکَند."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 227,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نقاش نامور که در تشبیه به نقش‌آفرینی فرهاد یاد می‌شود."
     }
   ]
 }

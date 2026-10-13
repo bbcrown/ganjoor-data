@@ -1,8 +1,8 @@
 {
   "Id": 1936,
   "CatId": 96,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۳",
+  "Title": "بخش ۱۳ - پرسش بی‌پاسخ داد و کین یزدگرد، شکایت از تگرگ و ناپایداری روزگار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۳ - پرسش بی‌پاسخ داد و کین یزدگرد، شکایت از تگرگ و ناپایداری روزگار",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -294,6 +294,17 @@
       "CoupletIndex": 9,
       "SectionIndex1": 0,
       "SectionIndex2": 11
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 691,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که سرنوشتش موضوع داد یا کین‌خواهی روزگار در سخن شاعر است."
     }
   ]
 }

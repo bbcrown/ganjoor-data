@@ -1,8 +1,8 @@
 {
   "Id": 87992,
   "CatId": 52,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۴",
+  "Title": "بخش ۱۴ - جنگ کاموس با گیو و طوس تا شب، رسیدن رستم به هماون و آرایش دو سپاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۴ - جنگ کاموس با گیو و طوس تا شب، رسیدن رستم به هماون و آرایش دو سپاه",
   "FullUrl": "/ferdousi/shahname/kamoos/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -5370,6 +5370,188 @@
       "CoupletIndex": 197,
       "SectionIndex1": 0,
       "SectionIndex2": 199
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و پیشرو لشکر توران که به جنگ ایرانیان می‌آید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که درفشش از دور پیدا می‌شود و به رزمگاه می‌آید. (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایران که کوس جنگ می‌زند و به یاری گیو می‌آید."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که سواری را نزد فریبرز می‌فرستد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده ایرانی که با لشکری به طوس و گیو می‌پیوندد."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با کاموس می‌جنگد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): لشکر او در مقایسه با لشکر کاموس یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 132,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): لشکر او در مقایسه با لشکر کاموس یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گودرز"
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که بزرگان در گفتگو از او یاد می‌کنند."
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 389,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که بزرگان در گفتگو از او یاد می‌کنند."
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 531,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنانی که بزرگان در گفتگو از او یاد می‌کنند."
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فریبرز؛ تنها برای نسبت‌دادن فریبرز نامش آمده است. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 528,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان کاموس که پیران نزد او می‌رود."
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان کاموس که پیران نزد او می‌رود."
+    },
+    {
+      "CoupletIndex": 128,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کاموس می‌گوید او خود به جنگ آمده است."
+    },
+    {
+      "CoupletIndex": 139,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران؛ خاقان با آزرم او از دریا گذشته است."
+    },
+    {
+      "CoupletIndex": 155,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای توران که با سپاه بزرگ در قلب لشکر می‌آید"
+    },
+    {
+      "CoupletIndex": 157,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی در میسرهٔ سپاه"
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر طوس"
     }
   ]
 }

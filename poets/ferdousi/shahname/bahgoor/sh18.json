@@ -1,8 +1,8 @@
 {
   "Id": 1787,
   "CatId": 83,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۸",
+  "Title": "بخش ۱۸ - شب بهرام در سرای بازارگان بخیل، خوان شاگرد و بندگی بازارگان بر تخت شاه",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۸ - شب بهرام در سرای بازارگان بخیل، خوان شاگرد و بندگی بازارگان بر تخت شاه",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1563,6 +1563,17 @@
       "CoupletIndex": 56,
       "SectionIndex1": 0,
       "SectionIndex2": 58
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و شاهی که به شکار می‌رود و مهمان بازارگان می‌شود."
     }
   ]
 }

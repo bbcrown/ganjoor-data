@@ -1,8 +1,8 @@
 {
   "Id": 87990,
   "CatId": 52,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۲",
+  "Title": "بخش ۱۲ - شب مژدهٔ رسیدن سپاه ایران به طوس، رد درنگ پیران و پذیرش رأی ویرانگر کاموس",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۱۲ - شب مژدهٔ رسیدن سپاه ایران به طوس، رد درنگ پیران و پذیرش رأی ویرانگر کاموس",
   "FullUrl": "/ferdousi/shahname/kamoos/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,107 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و پهلوان سپاه ایران"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که طوس امید دارد به یاری سپاه بیاید"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 361,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از او انتظار می‌رود با یاری برسد. (نام در متن: گو پیلتن)"
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین و فرمانده سپاه دشمن"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار و مشاور خاقان چین"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد ایرانی که درفش کاویان را آورد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 167,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خاقان که با دیگران بر کوه هماون نظاره کرد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 331,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خاقان که با دیگران بر کوه هماون نظاره کرد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 389,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خاقان که با دیگران بر کوه هماون نظاره کرد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خاقان که با دیگران بر کوه هماون نظاره کرد"
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رای کاموس را می‌پذیرد و او را لشکرآرای بی‌همتا می‌خواند."
     }
   ]
 }

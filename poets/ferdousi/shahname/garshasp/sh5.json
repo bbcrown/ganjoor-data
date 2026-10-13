@@ -1,8 +1,8 @@
 {
   "Id": 1424,
   "CatId": 44,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۵",
+  "Title": "بخش ۵ -\u00A0دیدار رستم با کیقباد در البرزکوه و آگاهی او از خواب شاه و بازگشت هر دو به ایران پس از شکست قلون",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گرشاسپ » بخش ۵ -\u00A0دیدار رستم با کیقباد در البرزکوه و آگاهی او از خواب شاه و بازگشت هر دو به ایران پس از شکست قلون",
   "FullUrl": "/ferdousi/shahname/garshasp/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2400,6 +2400,61 @@
       "CoupletIndex": 87,
       "SectionIndex1": 0,
       "SectionIndex2": 89
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و پادشاه توران؛ از شکست طلایه‌داران خشمگین می‌شود و قلون را می‌فرستد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 84,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که به سوی البرز می‌رود تا نزد قباد برود."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 83,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه آینده یا برگزیدهٔ ایران که در البرز است و رستم در جستجوی اوست."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که او را با پیام نزد قباد فرستاده است. (نام در متن: زال زر)"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای قباد که قباد خود را از تخم او می‌داند."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1567,
   "CatId": 60,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۸",
+  "Title": "بخش ۸ - گذر شبانهٔ اسفندیار از دریای بی‌بن، کشتن گرگسار و دو ترک و نومیدی از رویین دژ",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۸ - گذر شبانهٔ اسفندیار از دریای بی‌بن، کشتن گرگسار و دو ترک و نومیدی از رویین دژ",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1806,6 +1806,62 @@
       "CoupletIndex": 65,
       "SectionIndex1": 0,
       "SectionIndex2": 67
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ترک اسیر که اسفندیار را به دریا و گذرگاه آن راهنمایی می‌کند"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و فرمانده لشکر که گرگسار را اسیر می‌کند"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که اسفندیار می‌خواهد جانش را با کین‌خواهی شاد کند"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 157,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که خونش لشکر را پر از درد کرد"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 163,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان که با ریختن خون فرشیدورد لشکر را دردمند کرد"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 146,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که پیروز شد و سی و هشت دلیر را کشت"
     }
   ]
 }

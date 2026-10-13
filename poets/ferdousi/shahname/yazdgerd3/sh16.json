@@ -1,8 +1,8 @@
 {
   "Id": 1939,
   "CatId": 96,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۶",
+  "Title": "بخش ۱۶ - گرفتاری ماهوی به دست برسام، بریدن دست و پا و سوزاندن او با سه پسر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۱۶ - گرفتاری ماهوی به دست برسام، بریدن دست و پا و سوزاندن او با سه پسر",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,44 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهسالار ایرانی که ماهوی را اسیر می‌کند و بر او داوری می‌کند."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 499,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی در سپاه بیژن که ماهوی را از اسب برمی‌گیرد و اسیر می‌کند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که شاهِ کشته‌شده از نسل اوست."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 351,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از او به عنوان صاحب دورانی در آینده یاد شده است."
     }
   ]
 }

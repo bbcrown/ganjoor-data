@@ -1,8 +1,8 @@
 {
   "Id": 1925,
   "CatId": 96,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۲",
+  "Title": "بخش ۲ - نامهٔ رستم فرخزاد به برادر: اخترشماریِ شکست در قادسی و پیشگویی زوال ساسانیان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد » بخش ۲ - نامهٔ رستم فرخزاد به برادر: اخترشماریِ شکست در قادسی و پیشگویی زوال ساسانیان",
   "FullUrl": "/ferdousi/shahname/yazdgerd3/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3048,6 +3048,98 @@
       "CoupletIndex": 111,
       "SectionIndex1": 0,
       "SectionIndex2": 113
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 323,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که سپاه گرد آورد و رستم را به جنگ فرستاد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 351,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تازیان که با سپاه برای جنگ با شاه فرستاده شد. (نام در متن: عمر سعد وقاص)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 495,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده سپاه تازیان که برای جنگ با شاه فرستاده می‌شود. (نام در متن: عمر سعد وقاس)"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم خود را به‌نوعی گرفتار او می‌داند. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 489,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که همراه رستم با تازیان می‌جنگد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 490,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از مهتران همراه رستم در جنگ، دارندهٔ کوپال و گرز."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 416,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گنجور؛ فرمان می‌رسد گلهٔ اسب‌ها را نزد او ببرند."
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 484,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آخرین شاه از تخمهٔ ساسانیان که گیتی بر او تنگ شده است."
+    },
+    {
+      "CoupletIndex": 66,
+      "PersonId": 350,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در پیش‌بینی آیندهٔ تازیان و برآمدن منبر به جای تخت آمده است. (نام در متن: بوبکر)"
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): روزگار او نمونهٔ شادی و خوشی یاد شده است."
     }
   ]
 }

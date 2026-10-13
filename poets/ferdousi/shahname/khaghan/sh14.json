@@ -1,8 +1,8 @@
 {
   "Id": 88007,
   "CatId": 53,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۴",
+  "Title": "بخش ۱۴ - کشتن کافور و گشودن دژ بیداد، نامهٔ افراسیاب به پولادوند و لاف کشتن رستم",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۱۴ - کشتن کافور و گشودن دژ بیداد، نامهٔ افراسیاب به پولادوند و لاف کشتن رستم",
   "FullUrl": "/ferdousi/shahname/khaghan/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -6693,6 +6693,386 @@
       "CoupletIndex": 246,
       "SectionIndex1": 0,
       "SectionIndex2": 248
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به یاری سپاه می‌آید و کافور را می‌کشد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که با سپاه به دژ فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 540,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی خردمند که همراه گستهم به دژ فرستاده می‌شود."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 541,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای شهر بیداد که با ایرانیان می‌جنگد."
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌رسان گستهم که خبر را به رستم می‌رساند."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که کافور به‌سوی او کمند می‌اندازد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سازندهٔ باروی دژ در گذشته."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): افسون او در گفتار درباره‌ٔ نفوذناپذیری دژ یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران سپاه که در یک سوی لشکر ایستاده است."
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان رستم با ده هزار سوار به مرز ختن می‌رود."
+    },
+    {
+      "CoupletIndex": 81,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایرانی حاضر در مجلس آفرین."
+    },
+    {
+      "CoupletIndex": 81,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایرانی حاضر در مجلس آفرین."
+    },
+    {
+      "CoupletIndex": 98,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که از خبر ویرانی و جنگ رستم اندوهگین می‌شود."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران؛ دشمن افراسیاب و موضوع گفتگوهای جنگی"
+    },
+    {
+      "CoupletIndex": 127,
+      "PersonId": 542,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد شیردل که برای جاسوسی به لشکر ایران فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 136,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در گفتگوی پدر و فرزند سخن می‌گوید و از رستم و لشکرش هشدار می‌دهد (نام در متن: بشیده)"
+    },
+    {
+      "CoupletIndex": 140,
+      "PersonId": 167,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان پیشین رستم"
+    },
+    {
+      "CoupletIndex": 140,
+      "PersonId": 168,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان پیشین رستم"
+    },
+    {
+      "CoupletIndex": 140,
+      "PersonId": 530,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از جنگاوران همراه کاموس که رستم بر آنان چیره شد."
+    },
+    {
+      "CoupletIndex": 140,
+      "PersonId": 538,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران دشمن که در شمار شکست‌خوردگان رستم یاد شده است."
+    },
+    {
+      "CoupletIndex": 140,
+      "PersonId": 543,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان پیشین رستم"
+    },
+    {
+      "CoupletIndex": 140,
+      "PersonId": 618,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران همراه کاموس که در فهرست شکست‌خوردگان آمده است."
+    },
+    {
+      "CoupletIndex": 141,
+      "PersonId": 389,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه هند و از دشمنان پیشین رستم"
+    },
+    {
+      "CoupletIndex": 141,
+      "PersonId": 544,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دشمنان پیشین رستم"
+    },
+    {
+      "CoupletIndex": 153,
+      "PersonId": 619,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم در توصیف به او مانند شده است، نه مردم‌نژاد."
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان توران که دلی شکسته دارد"
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان توران که دلی شکسته دارد"
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان توران که دلی شکسته دارد"
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان توران که دلی شکسته دارد"
+    },
+    {
+      "CoupletIndex": 170,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان توران که دلی شکسته دارد"
+    },
+    {
+      "CoupletIndex": 185,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی در سپاه رستم"
+    },
+    {
+      "CoupletIndex": 185,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار ایرانی در سپاه رستم"
+    },
+    {
+      "CoupletIndex": 186,
+      "PersonId": 119,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در طلایه‌داری سپاه"
+    },
+    {
+      "CoupletIndex": 199,
+      "PersonId": 545,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گرد و فرمانده‌ای که افراسیاب از او یاری می‌خواهد"
+    },
+    {
+      "CoupletIndex": 215,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از اسیران رستم"
+    },
+    {
+      "CoupletIndex": 215,
+      "PersonId": 528,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اسیر رستم در بند."
+    },
+    {
+      "CoupletIndex": 228,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): افراسیاب از خون او و ماجرای گذشته یاد می‌کند. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 236,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم در مازندران پهلویش را درید."
+    },
+    {
+      "CoupletIndex": 244,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که پولادوند به آزردن او می‌بالد."
+    },
+    {
+      "CoupletIndex": 244,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که پولادوند به آزردن او می‌بالد."
+    },
+    {
+      "CoupletIndex": 244,
+      "PersonId": 462,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان پیشین که پولادوند به آزردن او می‌بالد."
     }
   ]
 }

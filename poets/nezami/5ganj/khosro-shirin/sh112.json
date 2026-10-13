@@ -1402,5 +1402,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 52
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر شاه که پایش را می‌بوسد و پس از بیدار شدن، پیکرش را می‌شوید"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 479,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلبستهٔ شیرین؛ پنهانی پیام می‌فرستد و به او وعدهٔ خداوندی و گنج می‌دهد. (نام در متن: شیرویه)"
+    }
   ]
 }

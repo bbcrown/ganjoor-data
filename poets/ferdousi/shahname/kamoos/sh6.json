@@ -1,8 +1,8 @@
 {
   "Id": 87984,
   "CatId": 52,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۶",
+  "Title": "بخش ۶ - جادوی برف و سرمای بازور به فرمان پیران، کشتن جادوگر به دست رهام و شکست خونین ایرانیان",
+  "FullTitle": "فردوسی » شاهنامه » داستان کاموس کشانی » بخش ۶ - جادوی برف و سرمای بازور به فرمان پیران، کشتن جادوگر به دست رهام و شکست خونین ایرانیان",
   "FullUrl": "/ferdousi/shahname/kamoos/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2805,6 +2805,134 @@
       "CoupletIndex": 102,
       "SectionIndex1": 0,
       "SectionIndex2": 104
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 527,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جادوگر تُرک که با افسون برف و سرما بر سپاه ایران آورد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده تورانی که بازور را به افسون فرستاد و به سپاه فرمان حمله داد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که فریاد برآورد و بر ایرانیان حمله کرد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به کوه رفت و دست بازور جادو را برید."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ایرانی که به گودرز پاسخ داد هوا پاک شده است."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که به طوس پیشنهاد کشیدن شمشیر و جنگ داد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهبان میسرهٔ سپاه ایران"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در میمنه که طوس او را برای بازگرداندن سپاه می‌فرستد"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در میمنهٔ سپاه"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 47,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی در پیش صف"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 114,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان خشمگین و کینه‌جوی در پیش صف"
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 193,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که گوینده خود را با خاک‌نشینی او می‌سنجد"
+    },
+    {
+      "CoupletIndex": 93,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): طوس یاد او را سرچشمهٔ رنج و تیمار خود می‌شمارد."
+    },
+    {
+      "CoupletIndex": 101,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که قرار است شاه او را با سپاه به کمک بفرستد."
     }
   ]
 }

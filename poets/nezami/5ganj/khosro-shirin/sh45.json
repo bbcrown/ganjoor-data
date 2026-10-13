@@ -1672,5 +1672,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 62
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خسرو واپس می‌ماند و دلش در بند و هوس می‌ماند."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد خردمندی که او نیز با نکته‌هایی به شکیبایی دعوتش می‌کند."
+    }
   ]
 }

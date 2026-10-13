@@ -1,8 +1,8 @@
 {
   "Id": 88019,
   "CatId": 55,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۰",
+  "Title": "بخش ۱۰ - نالیدن منیژه نزد رستم بازرگان، نهفتن انگشتری در خورش و افروختن آتش بر سر چاه",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۰ - نالیدن منیژه نزد رستم بازرگان، نهفتن انگشتری در خورش و افروختن آتش بر سر چاه",
   "FullUrl": "/ferdousi/shahname/bizhan/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3507,6 +3507,89 @@
       "CoupletIndex": 128,
       "SectionIndex1": 0,
       "SectionIndex2": 130
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 547,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر افراسیاب که برهنه و پریشان نزد رستم می‌آید و از بیژن می‌گوید"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که منیژه را از خود می‌راند و سپس به او خوراک می‌دهد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر منیژه"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران که بیژن از خاندان اوست."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان ایران که منیژه از او خبر می‌پرسد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان گودرزی که در چاه زنجیر و بند گران بسته شده است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که درگاه او جای گیو و گودرز است."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم او را به‌عنوان عامل آشفتگی منیژه یاد می‌کند. (نام در متن: اهرمن)"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گودرز."
     }
   ]
 }

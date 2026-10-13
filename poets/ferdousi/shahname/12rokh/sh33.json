@@ -1,8 +1,8 @@
 {
   "Id": 88055,
   "CatId": 56,
-  "Title": "بخش ۳۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۳",
+  "Title": "بخش ۳۳ - گریز لهاک و فرشیدورد از چنگ طلایه، داوطلبی گستهم و پافشاری بیژن بر یاری او",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۳۳ - گریز لهاک و فرشیدورد از چنگ طلایه، داوطلبی گستهم و پافشاری بیژن بر یاری او",
   "FullUrl": "/ferdousi/shahname/12rokh/sh33",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2886,6 +2886,98 @@
       "CoupletIndex": 105,
       "SectionIndex1": 0,
       "SectionIndex2": 107
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 156,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از دو سرافراز تورانی که از طلایه ایرانیان جان به در بردند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 157,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه لهاک؛ از دو پهلوان تورانی که از جنگ با طلایه گریختند."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار ایرانیان که از میان سپاه، جنگجوی نام‌آور برای نبرد می‌خواهد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که داوطلب نبرد با لهاک و فرشیدورد می‌شود."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که لشکری را به یاری فرستاده است."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار تورانی که درگذشته و نبرد را دگرگون کرده است."
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که نگران رفتن گستهم به نبرد است."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 132,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان توران که دو نامدار توران از او دلاورتر شمرده می‌شوند."
+    },
+    {
+      "CoupletIndex": 70,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن که با شنیدن خبر جنگ او شتابان آماده می‌شود."
+    },
+    {
+      "CoupletIndex": 101,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بیژن به کین او سوگند می‌خورد. (نام در متن: سیاوش)"
     }
   ]
 }

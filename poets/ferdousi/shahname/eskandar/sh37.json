@@ -1,8 +1,8 @@
 {
   "Id": 1676,
   "CatId": 67,
-  "Title": "بخش ۳۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۷",
+  "Title": "بخش ۳۷ - رسیدن سکندر به کوه لاژورد و خانهٔ یاقوت، جسد گرازسر و هشدار مرگ از چشمهٔ شور",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۷ - رسیدن سکندر به کوه لاژورد و خانهٔ یاقوت، جسد گرازسر و هشدار مرگ از چشمهٔ شور",
   "FullUrl": "/ferdousi/shahname/eskandar/sh37",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -510,6 +510,17 @@
       "CoupletIndex": 17,
       "SectionIndex1": 0,
       "SectionIndex2": 19
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سپاه‌سالار که به کوه می‌رسد، از ندا می‌ترسد و برمی‌گردد."
     }
   ]
 }

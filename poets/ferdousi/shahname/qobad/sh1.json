@@ -5668,5 +5668,88 @@
       "SectionIndex1": 0,
       "SectionIndex2": 210
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 48,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای ری که با لشکر نزد شاه می‌آید و چاره می‌اندیشد (نام در متن: شاپور رازی)"
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 304,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاپور که نژاد شاپور به او می‌رسد"
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 361,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درگذشته؛ ایرانیان برایش مویه کردند؛ پدر زرمهر. (نام در متن: سوفزا)"
+    },
+    {
+      "CoupletIndex": 118,
+      "PersonId": 402,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر کهتر قباد که او را به شاهی نشاندند."
+    },
+    {
+      "CoupletIndex": 123,
+      "PersonId": 403,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سوفزا، جوانی یزدان‌پرست که قباد را از بند رها کرد."
+    },
+    {
+      "CoupletIndex": 162,
+      "PersonId": 404,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه هیتالیان که با قباد پیمان می‌بندد و به او لشکر می‌دهد."
+    },
+    {
+      "CoupletIndex": 175,
+      "PersonId": 405,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر نوزاد قباد که در خانهٔ دهقان زاده می‌شود."
+    },
+    {
+      "CoupletIndex": 179,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از تخمهٔ او شاهی گرفته شده است."
+    },
+    {
+      "CoupletIndex": 179,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای دهقان که نژاد خود را به او می‌رساند. (نام در متن: آفریدون)"
+    }
   ]
 }

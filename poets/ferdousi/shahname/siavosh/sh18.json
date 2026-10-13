@@ -1,8 +1,8 @@
 {
   "Id": 1497,
   "CatId": 49,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۸",
+  "Title": "بخش ۱۸ - جستن هفت‌سالهٔ گیو در توران، یافتن کیخسرو کنار چشمه و نبرد با سپاه پیران",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۸ - جستن هفت‌سالهٔ گیو در توران، یافتن کیخسرو کنار چشمه و نبرد با سپاه پیران",
   "FullUrl": "/ferdousi/shahname/siavosh/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -6207,6 +6207,161 @@
       "CoupletIndex": 228,
       "SectionIndex1": 0,
       "SectionIndex2": 230
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 24,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان پیر که پسرش را به توران فرستاد."
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز؛ به فرمان پدر به توران رفت و نشان کیخسرو می‌جست."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که گیو در توران نشان او را می‌جوید."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه پیشین که کیخسرو در شکوه به او مانند شده است"
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر کیخسرو (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 72,
+      "PersonId": 91,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نیاکان گیو که نامش در پرسش کیخسرو آمده است"
+    },
+    {
+      "CoupletIndex": 84,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای کیانیان؛ نشان بازو از روزگار او میراث مانده است."
+    },
+    {
+      "CoupletIndex": 87,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیک‌خواه که خسرو از او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 94,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از درد پسر ناتوان شد. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 107,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر خسرو که در فرار همراه آنان می‌شود و هشدار می‌دهد."
+    },
+    {
+      "CoupletIndex": 110,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که فرنگیس از آگاه شدن او می‌ترسد."
+    },
+    {
+      "CoupletIndex": 111,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که آمدن افراسیاب به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرز توران به‌گونهٔ استعاره جای او خوانده شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 176,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با شنیدن خبر خشمگین می‌شود و سپاهی برای کشتن گیو می‌فرستد."
+    },
+    {
+      "CoupletIndex": 180,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی که پیران او را برای رفتن به جنگ برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 180,
+      "PersonId": 93,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی که پیران او را برای رفتن به جنگ برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 180,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گردی که پیران او را برای رفتن به جنگ برمی‌گزیند."
     }
   ]
 }

@@ -1078,5 +1078,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 40
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوق خسرو که در بزم همراه اوست."
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرغ افسانه‌ای که در تشبیه ناپایی‌بودن به لب شیرین آمده است."
+    }
   ]
 }

@@ -25,8 +25,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "م",
-      "PlainText": "از تو بتو گر نگریزم چه کنم\r\nپیش که روم قصه بدست که دهم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو بتو گر نگریزم چه کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش که روم، قصه بدست که دهم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "گر از تو بتو گر نگریزم چه کنم\r\nپیش که روم قصه بدست که دهم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر از تو بتو گر نگریزم چه کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش که روم، قصه بدست که دهم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 1
     }
@@ -74,7 +74,7 @@
     {
       "VOrder": 7,
       "Position": "Right",
-      "Text": "از تو بتو گر نگریزم چه کنم",
+      "Text": "گر از تو بتو گر نگریزم چه کنم",
       "CoupletIndex": 3,
       "SectionIndex1": 1,
       "CoupletSummary": "هوش مصنوعی: اگر از تو فرار کنم، به کجا بروم؟ و اگر کسی بخواهد داستانم را به دست بیاورد، چه بگویم؟"

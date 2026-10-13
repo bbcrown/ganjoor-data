@@ -673,5 +673,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 25
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بر تخت نشست، نه سال زیست و سپس درگذشت."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 215,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند نرسی که بر بالین او می‌دود و پند می‌شنود."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 379,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند نرسی که به بالین پدر آمد و پند شنید. (احتمالاً همنامِ «اورمزد» با کد 215؛ نسبت‌های این بخش با اطلاعات ثبت‌شده در تناقض بود)"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پیشینیان که نامش در کنار نرسی یاد می‌شود."
+    }
   ]
 }

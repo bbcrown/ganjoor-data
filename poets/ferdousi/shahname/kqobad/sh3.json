@@ -1,8 +1,8 @@
 {
   "Id": 1427,
   "CatId": 45,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۳",
+  "Title": "بخش ۳-\u00A0آگاهی از پشنگ\u00A0شکست سپاه توران و دلاوری رستم و سفارش او افراسیاب را به آشتی با کیقباد",
+  "FullTitle": "فردوسی » شاهنامه » کیقباد » بخش ۳-\u00A0آگاهی از پشنگ\u00A0شکست سپاه توران و دلاوری رستم و سفارش او افراسیاب را به آشتی با کیقباد",
   "FullUrl": "/ferdousi/shahname/kqobad/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1374,6 +1374,170 @@
       "CoupletIndex": 49,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 61,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): شاه نامبردار که جنگ جستن گناه اوست"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): از تخم او جهان پاک نشد"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 50,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که تاج بر سر نهاد و نبرد را آغاز کرد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 83,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): آمد، تاج نهاد و نامداران را به خواری برد (نام در متن: قباد)"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): نیای سوار که دستبردش با رستم سنجیده می‌شود"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): رستم را نام نهاده است"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): سوار پیلتن که لشکر را به هم درید"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): گردی که زمین را به تور سپرد (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): دلاوری که زمین به او سپرده شد"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): دلیری که شکارش نره شیر بود"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 69,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): نامدار گرد که به خواری برده شد"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): با گرز گران بر خزروان دستبرد نمود"
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 72,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): نامداری که زال با گرز بر او دستبرد نمود"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 42,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): رزم‌زن که شماساس را در آوردگاه کشت (نام در متن: قارن)"
+    },
+    {
+      "CoupletIndex": 37,
+      "PersonId": 71,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): کین‌توز لشکرپناه که قارن کشتش"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 70,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): پرخرد که کشته شد"
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 91,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): زرین‌کلاه که سپاه را به آمل برد"
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (grok-4.7): کابل‌خدای و دستور شاه و زابل‌خدای"
     }
   ]
 }

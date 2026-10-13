@@ -1,8 +1,8 @@
 {
   "Id": 88023,
   "CatId": 55,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۴",
+  "Title": "بخش ۱۴ - بازگشت پیروزمند رستم با بیژن، پیشواز کیخسرو، بزم و بخشش منیژه و تأمل در تقدیر",
+  "FullTitle": "فردوسی » شاهنامه » داستان بیژن و منیژه » بخش ۱۴ - بازگشت پیروزمند رستم با بیژن، پیشواز کیخسرو، بزم و بخشش منیژه و تأمل در تقدیر",
   "FullUrl": "/ferdousi/shahname/bizhan/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2103,6 +2103,80 @@
       "CoupletIndex": 76,
       "SectionIndex1": 0,
       "SectionIndex2": 78
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که با لشکر به پیشواز رستم و بیژن می‌رود. (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بند و زندان رها شده و پسر گیو است."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که همراه گیو به پیشواز می‌رود."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بیژن که رستم را می‌ستاید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ایرانی که درفش در پشت او و گودرز است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان زابلی که بیژن را آزاد کرد و به شاه سپرد."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که شاه او را ستایش می‌کند."
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده از پرداختن به داستان او و گودرز خبر می‌دهد."
     }
   ]
 }

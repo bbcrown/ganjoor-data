@@ -1,8 +1,8 @@
 {
   "Id": 1693,
   "CatId": 68,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۷",
+  "Title": "بخش ۷ - پیمان گریز اردشیر و گلنار، بردن گوهر شاهوار و تاختن شبانه از اردوان به پارس",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اشکانیان » بخش ۷ - پیمان گریز اردشیر و گلنار، بردن گوهر شاهوار و تاختن شبانه از اردوان به پارس",
   "FullUrl": "/ferdousi/shahname/ashkanian/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -726,6 +726,35 @@
       "CoupletIndex": 25,
       "SectionIndex1": 0,
       "SectionIndex2": 27
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد جوانی که از نزد اردوان می‌گریزد و با گلنار راهی پارس می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 294,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنیزکی ماه‌روی که گوهر برمی‌دارد و همراه اردشیر می‌گریزد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 291,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامدار که گلنار در دربارش است و در شب می‌خوابد."
     }
   ]
 }

@@ -20,7 +20,7 @@
       "VerseType": "First",
       "RhymeLetters": "یركنم",
       "PlainText": "یا رب غم تو چگونه تقدیر کنم\r\nاز دست بشد عمر چه تدبیر کنم\r\nاز جرم من و عفو تو شرمم بگرفت\r\nدر بندگی تو چند تقصیر کنم",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب غم تو چگونه تقدیر کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست بشد عمر، چه تدبیر کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جرمِ من و عفوِ تو شرمم بگرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بندگی تو چند تقصیر کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب غم تو چگونه تقدیر کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست بشد عمر، چه تدبیر کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جرمِ من و عفوِ تو شرمم بگرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بندگی تو چند تقصیر کنم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -52,7 +52,7 @@
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "در بندگی تو چند تقصیر کنم",
+      "Text": "در بندگی تو چند تقصیر کنم؟",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

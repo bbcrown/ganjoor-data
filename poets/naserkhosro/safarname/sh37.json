@@ -44,5 +44,37 @@
       "CoupletIndex": 4,
       "CoupletSummary": "هوش مصنوعی: در آن مکان، زنان در زمان‌هایی مشخص به حالتی دچار می‌شوند که مانند کسی که به خود می‌آید، چند بار فریاد می‌زنند و دوباره به حالت طبیعی برمی‌گردند. در خراسان هم شنیده‌ام که جزیره‌ای وجود دارد که زنان آنجا مانند گربه‌ها به صدا درمی‌آیند و این به این شکل است که توضیح داده شد."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 123,
+      "LunarYear": 439,
+      "LunarMonth": 1,
+      "LunarDay": 2,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 127,
+      "LunarYear": 439,
+      "LunarMonth": 1,
+      "LunarDay": 3,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 128,
+      "LunarYear": 439,
+      "LunarMonth": 1,
+      "LunarDay": 4,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

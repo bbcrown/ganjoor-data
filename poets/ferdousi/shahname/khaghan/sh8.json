@@ -1,8 +1,8 @@
 {
   "Id": 88001,
   "CatId": 53,
-  "Title": "بخش ۸",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۸",
+  "Title": "بخش ۸ - کشتن گهار گهانی، تاختن رستم بر خاقان چین و افکندن کمند بر مهتران",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۸ - کشتن گهار گهانی، تاختن رستم بر خاقان چین و افکندن کمند بر مهتران",
   "FullUrl": "/ferdousi/shahname/khaghan/sh8",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2130,6 +2130,143 @@
       "CoupletIndex": 77,
       "SectionIndex1": 0,
       "SectionIndex2": 79
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 539,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور تورانی با درفش سیاه؛ از رستم می‌گریزد و به دست او کشته می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که گهار گهانی را شکست می‌دهد و به دشمن حمله می‌برد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران ایرانی که همراه گودرز است."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران ایرانی که آواز گهار گهانی را می‌شنود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم به خاک او سوگند می‌خورد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که سپاه ایران به او حمله می‌کند."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار ایران که رستم تاج و گنج دشمن را سزاوار او می‌داند."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه دشمن در میدان نبرد که به رستم دشنام می‌دهد."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 389,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در کنار خاقان چین نام برده شده است."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 530,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه شنگل و خاقان در سخن رستم از اسیرانی که نزد شاه می‌فرستد."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که فرمان می‌یابد پشتیبان رستم باشد و به یاری او می‌آید."
+    },
+    {
+      "CoupletIndex": 58,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که فرمان می‌گیرد سپاه را به نبرد ببرد."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران دشمن که باید جای او را جست."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سرداران دشمن که باید جای او را جست."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نفرین رستم به‌عنوان جفت روم و چین نام برده می‌شود. (نام در متن: اهرمن)"
     }
   ]
 }

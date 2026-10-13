@@ -1,8 +1,8 @@
 {
   "Id": 1803,
   "CatId": 83,
-  "Title": "بخش ۳۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۴",
+  "Title": "بخش ۳۴ - گمان شنگل در فر بهرام، برادر خواندن او و پیشنهاد سپهداری، و نهفتن نام به برزوی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۳۴ - گمان شنگل در فر بهرام، برادر خواندن او و پیشنهاد سپهداری، و نهفتن نام به برزوی",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh34",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,71 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ ایرانی نزد شنگل؛ شاه هند او را می‌آزماید و می‌ستاید."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 323,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ایرانی که بهرام می‌گوید از تخمهٔ او نیست."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خداوند گیتی در گذشته که زمانه به او استوار بود."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان خسرونژاد و جهاندار."
+    },
+    {
+      "CoupletIndex": 36,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان خسرونژاد و جهاندار."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 390,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده‌ای که خود را برزوی نام می‌خواند و پیامی برای بشنگل می‌فرستد"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 391,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که پیام را می‌شنود و برای چاره‌جویی خشمگین می‌شود"
     }
   ]
 }

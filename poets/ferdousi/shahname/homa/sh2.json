@@ -1,8 +1,8 @@
 {
   "Id": 1620,
   "CatId": 64,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۲",
+  "Title": "بخش ۲ - یافتن داراب در صندوق جوی، پرورش نزد گازر و روی آوردن به فرهنگ و سواری",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی همای چهرزاد سی و دو سال بود » بخش ۲ - یافتن داراب در صندوق جوی، پرورش نزد گازر و روی آوردن به فرهنگ و سواری",
   "FullUrl": "/ferdousi/shahname/homa/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1698,6 +1698,26 @@
       "CoupletIndex": 61,
       "SectionIndex1": 0,
       "SectionIndex2": 63
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 211,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه، چهرهٔ کودک به دیدار او مانند شده است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 242,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کودکی که گازر او را در صندوق روی آب یافت و پرورد."
     }
   ]
 }

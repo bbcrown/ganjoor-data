@@ -1,8 +1,8 @@
 {
   "Id": 1649,
   "CatId": 67,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۰",
+  "Title": "بخش ۱۰ - دیدار نه فرزانهٔ اسکندر از دختر کید، وصف اندام‌ها و شگفتی شاه از خرم‌بهشت",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۰ - دیدار نه فرزانهٔ اسکندر از دختر کید، وصف اندام‌ها و شگفتی شاه از خرم‌بهشت",
   "FullUrl": "/ferdousi/shahname/eskandar/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -996,6 +996,26 @@
       "CoupletIndex": 35,
       "SectionIndex1": 0,
       "SectionIndex2": 37
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه هند که فرستادگان رومی را می‌پذیرد و می‌نوازد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار رومی که نامه می‌نویسد، فرستادگان می‌فرستد و به نامه‌ها پاسخ می‌دهد."
     }
   ]
 }

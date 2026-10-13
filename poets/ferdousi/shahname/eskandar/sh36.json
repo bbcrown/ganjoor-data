@@ -1,8 +1,8 @@
 {
   "Id": 1675,
   "CatId": 67,
-  "Title": "بخش ۳۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۶",
+  "Title": "بخش ۳۶ - رفتن اسکندر سوی باختر، شکایت مردم از یأجوج و مأجوج و برآوردن سد آهنین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۳۶ - رفتن اسکندر سوی باختر، شکایت مردم از یأجوج و مأجوج و برآوردن سد آهنین",
   "FullUrl": "/ferdousi/shahname/eskandar/sh36",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1509,6 +1509,35 @@
       "CoupletIndex": 54,
       "SectionIndex1": 0,
       "SectionIndex2": 56
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 228,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جهانگرد که به شهر می‌رسد و دیوار را در برابر یاجوج و ماجوج می‌سازد. (نام در متن: سکندر)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 281,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از موجوداتی که مردم شهر از آن‌ها بیم دارند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 282,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از موجوداتی که مردم شهر از آن‌ها بیم دارند."
     }
   ]
 }

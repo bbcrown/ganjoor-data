@@ -1,8 +1,8 @@
 {
   "Id": 1861,
   "CatId": 88,
-  "Title": "بخش ۲۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۶",
+  "Title": "بخش ۲۶ - گشودن راز سوار مغناطیس، دفاع از آیین کیومرثی و پاداش قیصر به خراد برزین",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۲۶ - گشودن راز سوار مغناطیس، دفاع از آیین کیومرثی و پاداش قیصر به خراد برزین",
   "FullUrl": "/ferdousi/shahname/parviz/sh26",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1644,6 +1644,71 @@
       "CoupletIndex": 59,
       "SectionIndex1": 0,
       "SectionIndex2": 61
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که خانهٔ شگفت را به خراد نشان می‌دهد و از او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی دانا که سوار آهنین را می‌بیند و برای قیصر سخن می‌گوید. (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبری که سخنش نقل می‌شود و بر دار رفت. (نام در متن: عیسی)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 441,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر عیسی."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 442,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 1,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کهن؛ دین او به‌عنوان دین نیاکان یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 5,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کهن؛ راه و آیین او به‌عنوان آیین نیاکان یاد می‌شود."
     }
   ]
 }

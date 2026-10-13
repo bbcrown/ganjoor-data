@@ -1,8 +1,8 @@
 {
   "Id": 1658,
   "CatId": 67,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۹",
+  "Title": "بخش ۱۹ - رفتن سکندر به بیت‌الحرام، کشتن تخمهٔ خزاعه و برکشیدن نژاد سماعیل",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۹ - رفتن سکندر به بیت‌الحرام، کشتن تخمهٔ خزاعه و برکشیدن نژاد سماعیل",
   "FullUrl": "/ferdousi/shahname/eskandar/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -969,6 +969,62 @@
       "CoupletIndex": 34,
       "SectionIndex1": 0,
       "SectionIndex2": 36
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه جهانگیری که به حرم و بیت‌الحرام آمد و ستمگران را برانداخت."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 266,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیغمبر و سازندهٔ خانهٔ حرم، پدر اسماعیل"
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 267,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مهتر مکه که به پیشواز سکندر می‌آید و تاریخ آنجا را می‌گوید"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 268,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور ابراهیم و نیای مردم مکه"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 270,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از قحطان مهتر حرم شد و بر نژاد اسماعیل ستم کرد"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 269,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از مرگ اسماعیل با سپاه آمد و به بیداد یمن را گرفت"
     }
   ]
 }

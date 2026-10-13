@@ -1,8 +1,8 @@
 {
   "Id": 1902,
   "CatId": 88,
-  "Title": "بخش ۶۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۷",
+  "Title": "بخش ۶۷ - اعتراض بزرگان بر آمدن شیرین به مشکوی خسرو و تمثیل موبد با تشت خون و می",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۷ - اعتراض بزرگان بر آمدن شیرین به مشکوی خسرو و تمثیل موبد با تشت خون و می",
   "FullUrl": "/ferdousi/shahname/parviz/sh67",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1293,6 +1293,17 @@
       "CoupletIndex": 46,
       "SectionIndex1": 0,
       "SectionIndex2": 48
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که به شبستان خسرو رفته و موضوع نگرانی بزرگان است"
     }
   ]
 }

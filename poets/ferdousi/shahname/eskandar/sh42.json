@@ -1,8 +1,8 @@
 {
   "Id": 1681,
   "CatId": 67,
-  "Title": "بخش ۴۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۲",
+  "Title": "بخش ۴۲ - نزدیکی مرگ اسکندر، اندرز ارسطو و پیمان ملوک طوایف و فال کودک شیرسر در بابل",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۴۲ - نزدیکی مرگ اسکندر، اندرز ارسطو و پیمان ملوک طوایف و فال کودک شیرسر در بابل",
   "FullUrl": "/ferdousi/shahname/eskandar/sh42",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,26 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 253,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): حکیمی که شاه به او نامه می‌نویسد و او پاسخ و پند می‌دهد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که مرگ را نزدیک می‌داند، بزرگان را فرامی‌خواند و به بابل می‌رسد."
     }
   ]
 }

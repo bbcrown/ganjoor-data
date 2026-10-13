@@ -1,8 +1,8 @@
 {
   "Id": 88092,
   "CatId": 57,
-  "Title": "بخش ۳۳",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۳",
+  "Title": "بخش ۳۳ - پاسخ کیخسرو به دستان: ستایش رستم و بشارت سروش به ترک تاج و تخت",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۳ - پاسخ کیخسرو به دستان: ستایش رستم و بشارت سروش به ترک تاج و تخت",
   "FullUrl": "/ferdousi/shahname/mahmood/sh33",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -564,6 +564,53 @@
       "CoupletIndex": 19,
       "SectionIndex1": 0,
       "SectionIndex2": 21
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیری نیک‌اندیش که خسرو او را می‌ستاید (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که روزگار او نقطهٔ آغاز زمان یادشده است"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور، ستون کیان و پرورندهٔ سیاووش"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که رستم او را پرورده است"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 12,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آور خجستهٔ یزدان که در خواب نزد خسرو می‌آید"
     }
   ]
 }

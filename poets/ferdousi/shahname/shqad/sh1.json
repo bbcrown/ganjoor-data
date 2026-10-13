@@ -1,8 +1,8 @@
 {
   "Id": 1606,
   "CatId": 62,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۱",
+  "Title": "بخش ۱ - آزادسروِ مرو و نامهٔ خسروان، ستایش محمود و امید فردوسی به دینار و آمرزش",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و شغاد » بخش ۱ - آزادسروِ مرو و نامهٔ خسروان، ستایش محمود و امید فردوسی به دینار و آمرزش",
   "FullUrl": "/ferdousi/shahname/shqad/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,62 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 31,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیری دانا از مرو که نامهٔ خسروان و داستان پهلوانان را داشت (نام در متن: آزاد سرو)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 235,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مرو همراه آزاد سرو بود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که آزاد سرو نژادش را بازمی‌گفت"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که آزاد سرو رزم‌هایش را به یاد داشت"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 173,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار بخشنده و دادگر که سراینده او را می‌ستاید (نام در متن: محمود شاه)"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 236,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای آزاد سرو، که او را فروزندهٔ او می‌خوانند"
     }
   ]
 }

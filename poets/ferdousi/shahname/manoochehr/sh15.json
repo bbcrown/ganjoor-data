@@ -1,8 +1,8 @@
 {
   "Id": 1392,
   "CatId": 41,
-  "Title": "بخش ۱۵",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۵",
+  "Title": "بخش ۱۵ - رفتن زال نزد سام، شکایت از پدر و نوشتن نامهٔ شفاعت به شاه",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۵ - رفتن زال نزد سام، شکایت از پدر و نوشتن نامهٔ شفاعت به شاه",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh15",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3561,6 +3561,53 @@
       "CoupletIndex": 130,
       "SectionIndex1": 0,
       "SectionIndex2": 132
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سام که خشمگین از کابل می‌آید و به پیش پدر می‌رود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه دستان که خبر به او می‌رسد."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پدر زال که لشکر به پیشواز پسر می‌برد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): درفش او در آراستن لشکر سام یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 55,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه به او نوشته می‌شود و در نامه ستایش می‌گردد."
     }
   ]
 }

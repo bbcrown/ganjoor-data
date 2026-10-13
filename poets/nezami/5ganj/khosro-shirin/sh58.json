@@ -3751,5 +3751,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 139
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): عاشق شیرین که کوه می‌بُرد و با کوه و صورت سنگی سخن می‌گفت"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): معشوق فرهاد که در قصر است و دل به خسرو دارد"
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87968,
   "CatId": 51,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۴",
+  "Title": "بخش ۱۴ - شب بستن دژ کلات، خواب آتش جریره و آمادگی فرود برای نبرد",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۴ - شب بستن دژ کلات، خواب آتش جریره و آمادگی فرود برای نبرد",
   "FullUrl": "/ferdousi/shahname/forood/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -510,6 +510,44 @@
       "CoupletIndex": 17,
       "SectionIndex1": 0,
       "SectionIndex2": 19
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 147,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر فرود؛ خواب آتش می‌بیند و او را از خطر بیدار می‌کند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر جریره؛ جنگاوری که با دشمن در پیرامون دژ روبه‌رو می‌شود."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 155,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر فرود به دست او کشته شده است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به گفتهٔ فرود، به‌سوی جان او می‌تازد."
     }
   ]
 }

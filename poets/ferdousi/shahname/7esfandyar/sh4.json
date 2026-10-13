@@ -1,8 +1,8 @@
 {
   "Id": 1563,
   "CatId": 60,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۴",
+  "Title": "بخش ۴ - خان سوم اسفندیار: هشدار گرگسار، کشتن اژدها با گردون تیغ‌دار و بیهوشی از دود زهر",
+  "FullTitle": "فردوسی » شاهنامه » داستان هفتخوان اسفندیار » بخش ۴ - خان سوم اسفندیار: هشدار گرگسار، کشتن اژدها با گردون تیغ‌دار و بیهوشی از دود زهر",
   "FullUrl": "/ferdousi/shahname/7esfandyar/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1357,6 +1357,53 @@
       "CoupletIndex": 48,
       "SectionIndex1": 0,
       "SectionIndex2": 51
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 208,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد بداندیش و بدروزگار که به فرمان شاه نزد او می‌آید و جام می می‌گیرد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه شادی گرگسار از جام می یاد شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پهلوانی که با صندوق چوبین به نبرد اژدها می‌رود و آن را می‌کشد."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 199,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر شاه که سپاه به او سپرده می‌شود."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 228,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از دود زهر اژدها بیهوش می‌شود و بعد به خود می‌آید."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 87972,
   "CatId": 51,
-  "Title": "بخش ۱۸",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۸",
+  "Title": "بخش ۱۸ - شکست تژاو از بیژن، ربودن تاج و اسپنوی و لشکرکشی پیران به کین",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۸ - شکست تژاو از بیژن، ربودن تاج و اسپنوی و لشکرکشی پیران به کین",
   "FullUrl": "/ferdousi/shahname/forood/sh18",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2778,6 +2778,98 @@
       "CoupletIndex": 101,
       "SectionIndex1": 0,
       "SectionIndex2": 103
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 520,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد و مرزبان ترک، داماد شاه، که با گیو و ایرانیان می‌جنگد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و پدر بیژن که با تژاو گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد ایرانی که گیو تژاو را نزد او می‌خواند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که تژاو شاهی خود را به او مانند می‌کند."
+    },
+    {
+      "CoupletIndex": 27,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گیو که پدر را به جنگ با تژاو برمی‌انگیزد."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 521,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی ماه‌روی همراه تژاو که بیژن او را با خود می‌برد."
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 519,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران که سرش به خاک افتاده است."
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب افراسیاب که فرمان گردآوری سپاه را می‌شنود"
+    },
+    {
+      "CoupletIndex": 84,
+      "PersonId": 68,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در میمنهٔ سپاه جای می‌گیرد."
+    },
+    {
+      "CoupletIndex": 85,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان گرد که در میسرهٔ سپاه جای می‌گیرد."
     }
   ]
 }

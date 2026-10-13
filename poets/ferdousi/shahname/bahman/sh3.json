@@ -1,8 +1,8 @@
 {
   "Id": 1616,
   "CatId": 63,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۳",
+  "Title": "بخش ۳ - نبرد فرامرز با بهمن در غور، گرفتاری و زنده بر دار کردنش به باران تیر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهمن اسفندیار صد و دوازده سال بود » بخش ۳ - نبرد فرامرز با بهمن در غور، گرفتاری و زنده بر دار کردنش به باران تیر",
   "FullUrl": "/ferdousi/shahname/bahman/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1239,6 +1239,71 @@
       "CoupletIndex": 44,
       "SectionIndex1": 0,
       "SectionIndex2": 46
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپاه زابل که با بهمن جنگید، اسیر و بر دار شد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 123,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اندرزگویی که پدر فرامرز سخنش را نپذیرفت."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌ای که بهمن کینش را می‌خواهد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که برای کین اسفندیار به جنگ فرامرز آمد."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 224,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دلیری که بهمن در پی کین او نیز هست."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که فرامرز از رزمش یاد کرد. (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرامرز به دست او گرفتار شد؛ شاهی که فرمان تیرباران داد."
     }
   ]
 }

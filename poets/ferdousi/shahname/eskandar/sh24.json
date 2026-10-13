@@ -1,8 +1,8 @@
 {
   "Id": 1663,
   "CatId": 67,
-  "Title": "بخش ۲۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۴",
+  "Title": "بخش ۲۴ - پند قیدافه به اسکندر، نام بیطقون و سوگند او به نیکی با خاندانش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲۴ - پند قیدافه به اسکندر، نام بیطقون و سوگند او به نیکی با خاندانش",
   "FullUrl": "/ferdousi/shahname/eskandar/sh24",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -915,6 +915,62 @@
       "CoupletIndex": 32,
       "SectionIndex1": 0,
       "SectionIndex2": 34
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه مخاطب قیدافه؛ سوگند می‌خورد و نامش «بیطقون» می‌شود."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 272,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی گفت‌وگوکننده با اسکندر؛ او را پند می‌دهد و پیمان می‌گیرد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 263,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه هند که کشته شده است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کشته شده است."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 277,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند قیدافه"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 278,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): داماد فور که قیدافه از او بیم دارد"
     }
   ]
 }

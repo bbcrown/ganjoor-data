@@ -1,8 +1,8 @@
 {
   "Id": 1641,
   "CatId": 67,
-  "Title": "بخش ۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲",
+  "Title": "بخش ۲ - نامهٔ اسکندر به مادر روشنک و خود او: وصیت دارا و فراخواندن به شبستان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۲ - نامهٔ اسکندر به مادر روشنک و خود او: وصیت دارا و فراخواندن به شبستان",
   "FullUrl": "/ferdousi/shahname/eskandar/sh2",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -834,6 +834,26 @@
       "CoupletIndex": 29,
       "SectionIndex1": 0,
       "SectionIndex2": 31
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 256,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر دارا که شاه به او و مادرش نامه می‌نویسد"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه کشته‌شده به دست بنده و پدر روشنک"
     }
   ]
 }

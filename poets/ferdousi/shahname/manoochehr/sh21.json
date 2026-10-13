@@ -1,8 +1,8 @@
 {
   "Id": 1398,
   "CatId": 41,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۱",
+  "Title": "بخش ۲۱ - پاسخ زال به معماهای موبدان، هنرنمایی در میدان و دریافت خلعت از منوچهر",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۲۱ - پاسخ زال به معماهای موبدان، هنرنمایی در میدان و دریافت خلعت از منوچهر",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2076,6 +2076,35 @@
       "CoupletIndex": 75,
       "SectionIndex1": 0,
       "SectionIndex2": 77
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به پرسش‌های موبدان پاسخ می‌دهد و دل شهریار را شاد می‌کند (نام در متن: زال زر)"
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زال و پهلوان زابل که زال آرزوی دیدارش را دارد"
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر دختری که شاه از دلبستگی زال به او سخن می‌گوید"
     }
   ]
 }

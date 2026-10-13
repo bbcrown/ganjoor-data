@@ -1,8 +1,8 @@
 {
   "Id": 1756,
   "CatId": 82,
-  "Title": "بخش ۴",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۴",
+  "Title": "بخش ۴ - شکار بهرام گور با آزاده، چالش ناممکن تیر و کشتن چنگ‌زن",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی یزدگرد بزه‌گر » بخش ۴ - شکار بهرام گور با آزاده، چالش ناممکن تیر و کشتن چنگ‌زن",
   "FullUrl": "/ferdousi/shahname/bezehgar/sh4",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -942,6 +942,26 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 41,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کنیزک رومی چنگ‌نواز، همراه بهرام در شکارگاه"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهزاده‌ای شکارگر و کمان‌انداز که در شکار هنر خود را به کنیزک می‌نماید."
     }
   ]
 }

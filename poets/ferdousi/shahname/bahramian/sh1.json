@@ -430,5 +430,43 @@
       "SectionIndex1": 0,
       "SectionIndex2": 16
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 311,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی دادگر که پس از مرگ خود تاج و تخت را به نرسی سپرد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که بر تخت می‌نشیند، اندرز می‌دهد، می‌میرد و جهان را به فرزند می‌سپارد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطبی که از او خواسته می‌شود می لعل بیاورد."
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 290,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جانشین بهرام که تاج و تخت به او سپرده شد."
+    }
   ]
 }

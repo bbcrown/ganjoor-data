@@ -1,8 +1,8 @@
 {
   "Id": 87999,
   "CatId": 53,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۶",
+  "Title": "بخش ۶ - رزم رستم با شنگل، گریختن شنگل و درهم شکستن لشکر چین و سقلاب",
+  "FullTitle": "فردوسی » شاهنامه » داستان خاقان چین » بخش ۶ - رزم رستم با شنگل، گریختن شنگل و درهم شکستن لشکر چین و سقلاب",
   "FullUrl": "/ferdousi/shahname/khaghan/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1590,6 +1590,62 @@
       "CoupletIndex": 57,
       "SectionIndex1": 0,
       "SectionIndex2": 59
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 389,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاور تورانی که رستم را به نبرد می‌خواند و از او می‌گریزد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سگزی که شنگل را شکست می‌دهد و سپاه توران را پراکنده می‌کند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که رستم را نام نهاده است. (نام در متن: زال زر)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای سپاه دشمن که به شنگل پاسخ می‌دهد و فرمان یورش همگانی می‌دهد."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه توران که از این نبرد و کین رستم بر او بد می‌آید."
+    },
+    {
+      "CoupletIndex": 56,
+      "PersonId": 544,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رستم پس از حمله به میمنه نخست به سوی او آمد."
     }
   ]
 }

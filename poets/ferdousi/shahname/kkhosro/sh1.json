@@ -1,8 +1,8 @@
 {
   "Id": 1502,
   "CatId": 50,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کیخسرو شصت سال بود » بخش ۱",
+  "Title": "بخش ۱ - داد کیخسرو و آبادانی ایران، آمدن رستم و زال از نیمروز و دیدار اشک‌بار بر یاد سیاوش",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کیخسرو شصت سال بود » بخش ۱ - داد کیخسرو و آبادانی ایران، آمدن رستم و زال از نیمروز و دیدار اشک‌بار بر یاد سیاوش",
   "FullUrl": "/ferdousi/shahname/kkhosro/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1590,6 +1590,143 @@
       "CoupletIndex": 57,
       "SectionIndex1": 0,
       "SectionIndex2": 59
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 14,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از توران به ایران آمد و بر تخت نشست."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که دادگری او برای مقایسه با شاه آمده است. (نام در متن: جم)"
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که دادگری او برای مقایسه با شاه آمده است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیروی بدی که با دادگری شاه دستش بسته می‌شود."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیمروز که با سپاه به دیدار شاه می‌رود."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر زال، به‌عنوان نیای او یاد شده است."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 52,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر سام و نیای زال."
+    },
+    {
+      "CoupletIndex": 26,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر سام و نیای رستم که همراه سپاه به ایران می‌آید."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 123,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان رستم در سپاهی که به ایران می‌رود."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 160,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان رستم در سپاهی که به ایران می‌رود."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که شاه برای پیشواز می‌فرستد."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که شاه برای پیشواز می‌فرستد."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگانی که شاه برای پیشواز می‌فرستد."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 166,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که رستم از او دربارهٔ شهریار می‌پرسد."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر شاه که رستم پرورندهٔ او بوده و از کارش یاد می‌شود. (نام در متن: سیاوش)"
     }
   ]
 }

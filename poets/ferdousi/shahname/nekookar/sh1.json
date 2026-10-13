@@ -484,5 +484,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 18
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر اردشیر که جهان را به او سپرد و تخت از او مانده است. (نام در متن: شاپور پیر)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 211,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بر تخت می‌نشیند، تاج را برای شاپورِ خردسال نگه می‌دارد و نکوکار خوانده می‌شود."
+    }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 52177,
   "CatId": 87,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۱۰",
+  "Title": "بخش ۱۰ - سرپیچی بهرام از پند گردیه، گریز خسرو، کشتن آیین‌گشسب و داغ بر چشم هرمز",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی هرمزد دوازده سال بود » بخش ۱۰ - سرپیچی بهرام از پند گردیه، گریز خسرو، کشتن آیین‌گشسب و داغ بر چشم هرمز",
   "FullUrl": "/ferdousi/shahname/hormozd/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -7314,6 +7314,287 @@
       "CoupletIndex": 269,
       "SectionIndex1": 0,
       "SectionIndex2": 271
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان بزرگ ایرانیان که ایرانیان او را شایستهٔ تخت می‌دانند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که از یاران رستم و رهاننده کاوس از بند است."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 73,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که از بند رها شدند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که از بند رهانیده شد. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 95,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران رهاننده کاوس از بند."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 330,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که کشته شد و ایرانیان پس از او دچار آشفتگی شدند."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 399,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 627,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی خردسال که سوفرای را کشت و سپس بسته شد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 403,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پس از بند قباد در کار شاه و تخت دخالت دارد و او را آزاد می‌کند."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 422,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامور ترک که برای به دست آوردن نگین و تاج آمد."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پور گشسب که در سخن از او یاد شده است. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 511,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه خردمند که برای مقایسه آمده است."
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 417,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در پیری جوان‌بخت است و مخاطب پند است. (نام در متن: هرمز)"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 464,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خواهر بهرام؛ او را پند می‌دهد و از جاه‌طلبی‌اش برحذر می‌دارد."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در انجمن به گردیه پاسخ می‌دهد."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاهان تاج‌دار که یادشان در گفتار آمده است."
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 402,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ دانایی که گردیه از او داناتر دانسته می‌شود."
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که داستان رفتنش به رویین‌دز در مجلس خوانده می‌شود."
+    },
+    {
+      "CoupletIndex": 73,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گیرندهٔ نامهٔ بهرام که از او پوزش می‌خواهد."
+    },
+    {
+      "CoupletIndex": 88,
+      "PersonId": 12,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده به خجستگی به سروش مانند شده است."
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 424,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در نامه از لشکر و جنگ او یاد می‌شود."
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 449,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردنکشان و پهلوانان همراه خسرو. (نام در متن: شیر زیل)"
+    },
+    {
+      "CoupletIndex": 122,
+      "PersonId": 512,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردنکشانی که به سوی خسرو می‌آیند."
+    },
+    {
+      "CoupletIndex": 123,
+      "PersonId": 513,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان یزدان‌پرست از همراهان خسرو."
+    },
+    {
+      "CoupletIndex": 123,
+      "PersonId": 514,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی از عمان که به خسرو می‌پیوندد."
+    },
+    {
+      "CoupletIndex": 124,
+      "PersonId": 331,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوارِ پهلوانی از کرمان که به خسرو می‌پیوندد."
+    },
+    {
+      "CoupletIndex": 124,
+      "PersonId": 515,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در شمار سپاه همراه خسرو آمده است."
+    },
+    {
+      "CoupletIndex": 143,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خالان خسرو؛ هرمز او را به بند و زندان می‌فرستد."
+    },
+    {
+      "CoupletIndex": 143,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از خالان خسرو؛ هرمز او را به بند و زندان می‌فرستد."
+    },
+    {
+      "CoupletIndex": 152,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): رأی بد آیین گشسب به او نسبت داده می‌شود (نام در متن: آهرمن)"
     }
   ]
 }

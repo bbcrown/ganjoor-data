@@ -1,8 +1,8 @@
 {
   "Id": 88035,
   "CatId": 56,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۳",
+  "Title": "بخش ۱۳ - پاسخ نامهٔ کیخسرو به گودرز، گسیل طوس و آراستن سپاه و چاره‌جویی پیران",
+  "FullTitle": "فردوسی » شاهنامه » داستان دوازده رخ » بخش ۱۳ - پاسخ نامهٔ کیخسرو به گودرز، گسیل طوس و آراستن سپاه و چاره‌جویی پیران",
   "FullUrl": "/ferdousi/shahname/12rokh/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3129,6 +3129,143 @@
       "CoupletIndex": 114,
       "SectionIndex1": 0,
       "SectionIndex2": 116
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 8,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بزرگی که نویسنده به او پند داده و پند نپذیرفته است."
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مردی که گیو را نزد او فرستاده‌اند و دلش از کین تهی نیست."
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپاه را از آب می‌گذراند و کنار جیحون درنگ کرده است."
+    },
+    {
+      "CoupletIndex": 31,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از چین به افراسیاب لشکر می‌آورد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان شیرمرد که از کشمیر و کابل گرد برآورد."
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که دربارهٔ آنان آگاهی خواسته‌اند. (نام در متن: لهراسب)"
+    },
+    {
+      "CoupletIndex": 35,
+      "PersonId": 553,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که از خوارزم برخاسته و خروش برآورده است"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 142,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در جنگ برگشت و به سوی گرگان رفت."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار که فرمان می‌یابد کوس ببندد و لشکر براند"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 132,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پیران که از پشت او جدا می‌ماند"
+    },
+    {
+      "CoupletIndex": 53,
+      "PersonId": 144,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه پیران که از پشت او جدا می‌ماند"
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سوی او و طوس به سپاه درود فرستاده می‌شود (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 62,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نامه را مهر می‌کند و فرستاده را روانه می‌کند (نام در متن: خسرو)"
+    },
+    {
+      "CoupletIndex": 64,
+      "PersonId": 133,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده‌ای که از پیش خسرو بیرون می‌رود"
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که نامهٔ شاه را می‌گیرد و لشکر را آماده می‌کند"
     }
   ]
 }

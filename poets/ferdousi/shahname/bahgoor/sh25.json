@@ -1,8 +1,8 @@
 {
   "Id": 1794,
   "CatId": 83,
-  "Title": "بخش ۲۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۵",
+  "Title": "بخش ۲۵ - نامهٔ داد بهرام گور به مرزبانان: بخشش خراج هفت‌ساله و شادمانی جهان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۲۵ - نامهٔ داد بهرام گور به مرزبانان: بخشش خراج هفت‌ساله و شادمانی جهان",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1671,6 +1671,26 @@
       "CoupletIndex": 60,
       "SectionIndex1": 0,
       "SectionIndex2": 62
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین؛ به دست نویسندهٔ نامه گرفتار شد."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهنشاه بخشنده و دادگر که به مرزبانان نامه می‌نویسد و مردم او را آفرین می‌گویند"
     }
   ]
 }

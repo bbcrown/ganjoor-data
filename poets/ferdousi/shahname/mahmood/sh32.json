@@ -1,8 +1,8 @@
 {
   "Id": 88091,
   "CatId": 57,
-  "Title": "بخش ۳۲",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۲",
+  "Title": "بخش ۳۲ - رسیدن زال و رستم به بارگاه کیخسرو گوشه‌نشین، راست شدن پشت شاه و پند زال در گنج و نیایش",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۳۲ - رسیدن زال و رستم به بارگاه کیخسرو گوشه‌نشین، راست شدن پشت شاه و پند زال در گنج و نیایش",
   "FullUrl": "/ferdousi/shahname/mahmood/sh32",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1320,6 +1320,143 @@
       "CoupletIndex": 47,
       "SectionIndex1": 0,
       "SectionIndex2": 49
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سالخورده که با رستم نزد شاه می‌رود و او را دلداری می‌دهد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان همراه زال که ایرانیان به پیشواز او می‌آیند."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از نامداران ایرانی که به پیشواز می‌آید."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که با دیدن رستم اشک می‌ریزد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه اندوهگین و پژمرده که در بارگاه نهان شده است."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 15,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گفتار او شاه را از راه به در برده است."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که با دیگران به بارگاه رفتند."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 96,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که با دیگران به بارگاه رفتند."
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از گردانی که با دیگران به بارگاه رفتند."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روزگاران گذشته که زال از دورهٔ او یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 625,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روزگاران گذشته که زال از او یاد می‌کند."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 79,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان و بزرگان گذشته که زال یادشان می‌کند."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان گذشته که زال یادشان می‌کند. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 30,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زال او را چون فرزند خود می‌دانست. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 38,
+      "PersonId": 484,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که دستور داد پردهٔ بارگاه برداشته نشود و چهره‌اش پنهان بماند. (نام در متن: پیروز شاه)"
     }
   ]
 }

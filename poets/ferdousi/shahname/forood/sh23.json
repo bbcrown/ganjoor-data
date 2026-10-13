@@ -1,8 +1,8 @@
 {
   "Id": 87977,
   "CatId": 51,
-  "Title": "بخش ۲۳",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۳",
+  "Title": "بخش ۲۳ - بازگشت بهرام از پی تازیانهٔ گم‌شده، نبرد پیاده و قطع دست به تیغ تژاو",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۳ - بازگشت بهرام از پی تازیانهٔ گم‌شده، نبرد پیاده و قطع دست به تیغ تژاو",
   "FullUrl": "/ferdousi/shahname/forood/sh23",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -3119,6 +3119,107 @@
       "CoupletIndex": 114,
       "SectionIndex1": 0,
       "SectionIndex2": 115
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر بهرام و پهلوان یلان که او را از بازگشت باز می‌دارد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 166,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر گودرز؛ برای یافتن تازیانهٔ گم‌شده به میدان نبرد بازمی‌گردد. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار تورانی که بهرام می‌ترسد تازیانه به دست او بیفتد."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر بهرام که تازیانه‌های نو به او پیشنهاد می‌کند."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 149,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که گنجش را گشود و سلاح و کمر بخشید."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که یک تازیانهٔ زر و گوهرنشان بخشیده بود. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار دلیر کشته‌شده در میدان که بهرام بر او می‌گرید."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 145,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یلان پیران که برای گرفتن بهرام می‌رود و تیر می‌خورد."
+    },
+    {
+      "CoupletIndex": 75,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در گذشته بهرام در توران همراه او بوده است. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیران از رنج و خشم او در برابر کار خود می‌گوید."
+    },
+    {
+      "CoupletIndex": 92,
+      "PersonId": 520,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگجوی سوار که بهرام را از پشت زخمی می‌کند و دستش را می‌اندازد."
     }
   ]
 }

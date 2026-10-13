@@ -1,8 +1,8 @@
 {
   "Id": 1551,
   "CatId": 59,
-  "Title": "بخش ۲۵ - سخن دقیقی",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۵ - سخن دقیقی",
+  "Title": "بخش ۲۵ - سخن دقیقی: سفر گشتاسپ به زابلستان و آماده‌سازی دوبارهٔ ارجاسپ برای حمله",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۲۵ - سخن دقیقی: سفر گشتاسپ به زابلستان و آماده‌سازی دوبارهٔ ارجاسپ برای حمله",
   "FullUrl": "/ferdousi/shahname/goshtasp/sh25",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1185,6 +1185,89 @@
       "CoupletIndex": 42,
       "SectionIndex1": 0,
       "SectionIndex2": 44
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به سیستان می‌رود و دو سال مهمان زاول است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نیمروز و پسر زال که به پیشواز شاه می‌آید."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 48,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که رستم در سواری همتای او دانسته می‌شود"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رستم که با مهتران به پیشواز شاه می‌آید."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر شاه که در بند و زندان است"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بند شدن اسفندیار آگاه می‌شود"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 66,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه چین که مهتران را برای جنگ با لهراسپ برمی‌انگیزد. (نام در متن: ارجاسپ)"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که در بلخ مانده و سپاهی ندارد."
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 218,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کاخ او پاسبانانی دارد که در بلخ مانده‌اند"
     }
   ]
 }

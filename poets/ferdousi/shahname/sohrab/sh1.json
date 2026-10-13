@@ -1,8 +1,8 @@
 {
   "Id": 1459,
   "CatId": 48,
-  "Title": "بخش ۱",
-  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱",
+  "Title": "بخش ۱ - اندیشه در مرگ و سرنوشت",
+  "FullTitle": "فردوسی » شاهنامه » سهراب » بخش ۱ - اندیشه در مرگ و سرنوشت",
   "FullUrl": "/ferdousi/shahname/sohrab/sh1",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -402,6 +402,17 @@
       "CoupletIndex": 13,
       "SectionIndex1": 0,
       "SectionIndex2": 15
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 13,
+      "PersonId": 128,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موضوع داستان آغازشونده؛ نبردش با پدر روایت می‌شود."
     }
   ]
 }

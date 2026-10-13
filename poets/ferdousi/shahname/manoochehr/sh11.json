@@ -1,8 +1,8 @@
 {
   "Id": 1388,
   "CatId": 41,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۱",
+  "Title": "بخش ۱۱ - انجمن کردن سام با موبدان پیرامون نامهٔ زال و پیش‌بینی موبدان مبنی بر زاده شدن پهلوانی بی‌مانند از رودابه برای زال",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۱ - انجمن کردن سام با موبدان پیرامون نامهٔ زال و پیش‌بینی موبدان مبنی بر زاده شدن پهلوانی بی‌مانند از رودابه برای زال",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -888,6 +888,53 @@
       "CoupletIndex": 31,
       "SectionIndex1": 0,
       "SectionIndex2": 33
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در پیشگویی ستاره‌شمران، رقیب فریدون در کارزار روز شمار است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در پیشگویی ستاره‌شمران با ضحاک به کارزار روز شمار مانند شده است."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستاره‌شمر او را «گرد زرین کمر» می‌خواند و مژدهٔ پیشگویی را به او می‌دهد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستاده‌ای از جانب او آمده است و ستارگان مژدهٔ پیوندش را می‌دهند."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): با زال در پیشگویی ستاره‌شمران، مادر آیندهٔ پهلوانی نیرومند خوانده شده است."
     }
   ]
 }

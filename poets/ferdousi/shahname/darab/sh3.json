@@ -1,8 +1,8 @@
 {
   "Id": 1628,
   "CatId": 65,
-  "Title": "بخش ۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۳",
+  "Title": "بخش ۳ - جنگ دارا با فیلقوس در عموریه، گریز رومیان و آوردن ناهید با باژ به پارس",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی داراب دوازده سال بود » بخش ۳ - جنگ دارا با فیلقوس در عموریه، گریز رومیان و آوردن ناهید با باژ به پارس",
   "FullUrl": "/ferdousi/shahname/darab/sh3",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1428,6 +1428,71 @@
       "CoupletIndex": 51,
       "SectionIndex1": 0,
       "SectionIndex2": 53
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سالار روم که از دارا شکست می‌خورد و با او صلح می‌کند. (نام در متن: فیلقوس)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 251,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روم؛ شکست خورد و دخترش را به دارا پیشنهاد کرد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 370,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی هم‌رای فیلقوس."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر همای که با سپاه به روم می‌تازد و فیلقوس را شکست می‌دهد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 623,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر دارا که نامش در نام‌بردن از پسرش آمده است."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 248,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر شهریار روم که با جهیزیه و همراهان نزد دارا فرستاده می‌شود"
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 249,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه و رهنمون دختر رومی در سفر"
     }
   ]
 }

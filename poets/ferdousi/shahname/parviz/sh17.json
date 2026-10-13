@@ -1,8 +1,8 @@
 {
   "Id": 1852,
   "CatId": 88,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۷",
+  "Title": "بخش ۱۷ - بستن در کارستان بر سپاه خسرو، تندباد شب و پوزش رومیان، نامه به قیصر و رفتن به مانوی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۱۷ - بستن در کارستان بر سپاه خسرو، تندباد شب و پوزش رومیان، نامه به قیصر و رفتن به مانوی",
   "FullUrl": "/ferdousi/shahname/parviz/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -753,6 +753,17 @@
       "CoupletIndex": 26,
       "SectionIndex1": 0,
       "SectionIndex2": 28
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 120,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای روم؛ شارستان به نام او خوانده می‌شد و خسرو به او نامه می‌نویسد"
     }
   ]
 }

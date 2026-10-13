@@ -1,8 +1,8 @@
 {
   "Id": 1650,
   "CatId": 67,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۱",
+  "Title": "بخش ۱۱ - فرستادن فغستان با گنج و فیلسوف و پزشک، پیمان زناشویی اسکندر به رسم مسیحا",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۱ - فرستادن فغستان با گنج و فیلسوف و پزشک، پیمان زناشویی اسکندر به رسم مسیحا",
   "FullUrl": "/ferdousi/shahname/eskandar/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -699,6 +699,35 @@
       "CoupletIndex": 24,
       "SectionIndex1": 0,
       "SectionIndex2": 26
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 3,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه هند که از رنج اسکندر آزاد شد و گنج گشود. (نام در متن: سپهدار هندوستان)"
+    },
+    {
+      "CoupletIndex": 12,
+      "PersonId": 261,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانوی زیباروی که با هدایا نزد اسکندر برده می‌شود"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 262,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آیین او الگوی مراسم پیوند است"
     }
   ]
 }

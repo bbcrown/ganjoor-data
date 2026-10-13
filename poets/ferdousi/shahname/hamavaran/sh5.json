@@ -1,8 +1,8 @@
 {
   "Id": 1451,
   "CatId": 47,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۵",
+  "Title": "بخش ۵ - نبرد رستم با سپاه سه کشور، اسارت شاهان و آزادی کاووس",
+  "FullTitle": "فردوسی » شاهنامه » رزم کاووس با شاه هاماوران » بخش ۵ - نبرد رستم با سپاه سه کشور، اسارت شاهان و آزادی کاووس",
   "FullUrl": "/ferdousi/shahname/hamavaran/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,80 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 7,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبد ایرانی که در جنگ شاه شام را اسیر می‌کند"
+    },
+    {
+      "CoupletIndex": 18,
+      "PersonId": 110,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دست شاه شام را پس از افتادنش می‌بندد."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 119,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بربرستان به چنگ او با چهل رزم‌ساز اسیر می‌شود"
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از دژ رها می‌شود (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران همراه کاووس که از دژ رها می‌شود"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران همراه کاووس که از دژ رها می‌شود"
+    },
+    {
+      "CoupletIndex": 25,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران همراه کاووس که از دژ رها می‌شود"
+    },
+    {
+      "CoupletIndex": 32,
+      "PersonId": 116,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به فرمان کاووس در مهد زر می‌نشیند."
     }
   ]
 }

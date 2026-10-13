@@ -1,8 +1,8 @@
 {
   "Id": 1646,
   "CatId": 67,
-  "Title": "بخش ۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۷",
+  "Title": "بخش ۷ - لشکرکشی اسکندر سوی کید هندی، گشودن شارستان‌ها و نامهٔ تهدید به سپردن تاج و تخت",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۷ - لشکرکشی اسکندر سوی کید هندی، گشودن شارستان‌ها و نامهٔ تهدید به سپردن تاج و تخت",
   "FullUrl": "/ferdousi/shahname/eskandar/sh7",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -483,6 +483,26 @@
       "CoupletIndex": 16,
       "SectionIndex1": 0,
       "SectionIndex2": 18
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهِ لشکرکش که به سوی هند می‌تازد و به کید نامه می‌نویسد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 258,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای هند و شارستان میلاد، گیرندهٔ نامهٔ سکندر."
     }
   ]
 }

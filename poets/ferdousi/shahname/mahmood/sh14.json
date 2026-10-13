@@ -1,8 +1,8 @@
 {
   "Id": 88073,
   "CatId": 57,
-  "Title": "بخش ۱۴",
-  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۴",
+  "Title": "بخش ۱۴ - پاسخ کیخسرو به پیام افراسیاب: رد چاپلوسی، یادآوری کشتن سیاوش و پیمان شمشیر تا رستخیز",
+  "FullTitle": "فردوسی » شاهنامه » جنگ بزرگ کیخسرو با افراسیاب » بخش ۱۴ - پاسخ کیخسرو به پیام افراسیاب: رد چاپلوسی، یادآوری کشتن سیاوش و پیمان شمشیر تا رستخیز",
   "FullUrl": "/ferdousi/shahname/mahmood/sh14",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1806,6 +1806,134 @@
       "CoupletIndex": 65,
       "SectionIndex1": 0,
       "SectionIndex2": 67
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیام‌آوری که پیغام افراسیاب را نزد شاه آورده است."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ درود و پیام؛ شاه او را مخاطب سرزنش‌ها و گله‌ها قرار می‌دهد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامور که برای مقایسه و یادآوری آمده است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر گوینده که کشته شد و ستم بر او رفت. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 21,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خردمندی که گوینده را از دشت نزد مخاطب آورد."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه گذشته که نامش نشانهٔ آغاز یک دورهٔ زمانی است."
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): آغازگر زیان و بدی، همراه با پدرش یاد شده است."
+    },
+    {
+      "CoupletIndex": 42,
+      "PersonId": 55,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامدار و از تخمهٔ شهریاران که گردنش زده شد."
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 70,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر نیکخو و نیکنام مخاطب که کشته شد."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب را از تخم او دانسته‌اند. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 576,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مردمان که مخاطب را از تخم او نمی‌دانند."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه ضحاک، از نیکی ناامید شد و ابلیس را مقصر دانست."
+    },
+    {
+      "CoupletIndex": 48,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه جمشید، گناه خود را به فریب دیو و ابلیس نسبت داد."
+    },
+    {
+      "CoupletIndex": 49,
+      "PersonId": 15,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در گفتهٔ ضحاک و جمشید، دلشان را بی‌راه کرد."
     }
   ]
 }

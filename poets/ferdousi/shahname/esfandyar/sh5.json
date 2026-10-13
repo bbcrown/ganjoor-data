@@ -1,8 +1,8 @@
 {
   "Id": 1579,
   "CatId": 61,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۵",
+  "Title": "بخش ۵ - پند کتایون به اسفندیار: هشدار از رستم، ناگزیری فرمان شاه و زاری شبانهٔ مادر",
+  "FullTitle": "فردوسی » شاهنامه » داستان رستم و اسفندیار » بخش ۵ - پند کتایون به اسفندیار: هشدار از رستم، ناگزیری فرمان شاه و زاری شبانهٔ مادر",
   "FullUrl": "/ferdousi/shahname/esfandyar/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1023,6 +1023,89 @@
       "CoupletIndex": 36,
       "SectionIndex1": 0,
       "SectionIndex2": 38
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر اسفندیار که پسر را از جنگ با رستم باز می‌دارد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 198,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کتایون که آهنگ رفتن به زابلستان و بستن رستم دارد."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 221,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گزارشگر خبر سفر اسفندیار به زابلستان برای کتایون."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان خداوند شمشیر و گوپال که اسفندیار قصد بستن او را دارد."
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 102,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که جگرگاهش با شمشیر دریده شد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 128,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار جنگی بی‌همتا که به دست پدر در آوردگاه کشته شد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 62,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کین‌خواهی سیاوش از او سبب ریختن خون بسیار شد."
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 121,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کشته‌شده‌ای که به کین او جهان از خون پر شد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نماد بدی؛ خواست او با رفتن اسفندیار برآورده می‌شود. (نام در متن: آهرمن)"
     }
   ]
 }

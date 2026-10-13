@@ -1,8 +1,8 @@
 {
   "Id": 1840,
   "CatId": 88,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵",
+  "Title": "بخش ۵ - دیدار خسرو و بهرام چوبین در نهروان، رد آشتی و ستیزه بر شاهی، و بریدن کمند تاج",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۵ - دیدار خسرو و بهرام چوبین در نهروان، رد آشتی و ستیزه بر شاهی، و بریدن کمند تاج",
   "FullUrl": "/ferdousi/shahname/parviz/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -8232,6 +8232,278 @@
       "CoupletIndex": 303,
       "SectionIndex1": 0,
       "SectionIndex2": 305
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سرکش ابلق‌سوار که با خسرو روبه‌رو می‌شود و او را خوار می‌شمارد. (نام در متن: بهرام چوبین)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سردار ابلق‌سوار و خشمگین که به جنگ خسرو آمده است (نام در متن: بهرام چوبین)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بر خنگ عاج نشسته و در برابر بهرام ایستاده است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامور باستانی که خسرو در شکوه به او مانند شده است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 419,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه خسرو که بهرام را به او نشان می‌دهد"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 74,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان خسرو که او با وی سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 78,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان زرین‌کلاه خسرو (نام در متن: خراد برزین)"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 410,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از همراهان خسرو که شاه با او سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 405,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای خسرو که به‌عنوان نمونهٔ شاهی و تبار نام برده می‌شود."
+    },
+    {
+      "CoupletIndex": 78,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر خسرو که برای نشان دادن تبار شاهی یاد می‌شود. (نام در متن: هرمز)"
+    },
+    {
+      "CoupletIndex": 99,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): موجود اهریمنی که کیش بد به او مانند شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 127,
+      "PersonId": 96,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای بهرام که خسرو یادش را به او یادآوری می‌کند. (نام در متن: گرگین میلاد)"
+    },
+    {
+      "CoupletIndex": 163,
+      "PersonId": 202,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیر و پیغمبری که دین را از بهشت آورد. (نام در متن: زردهشت)"
+    },
+    {
+      "CoupletIndex": 164,
+      "PersonId": 176,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نخستین کسی که پیغمبر دین را به او داد."
+    },
+    {
+      "CoupletIndex": 164,
+      "PersonId": 177,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دین پس از لهراسپ به او رسید."
+    },
+    {
+      "CoupletIndex": 180,
+      "PersonId": 292,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر مادر اردشیر."
+    },
+    {
+      "CoupletIndex": 180,
+      "PersonId": 377,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): زادهٔ دختر بابک؛ اردوان را کشت و بر تخت نشست."
+    },
+    {
+      "CoupletIndex": 181,
+      "PersonId": 291,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): اشکانی که اردشیر او را کشت."
+    },
+    {
+      "CoupletIndex": 191,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانده‌ای که سپاه ری به سپاه او پیوست"
+    },
+    {
+      "CoupletIndex": 193,
+      "PersonId": 198,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای تباری که نسلش به دست ماهیار تیره شد"
+    },
+    {
+      "CoupletIndex": 193,
+      "PersonId": 254,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد ناپاکدل اهل ری که تخم اسفندیار را تیره کرد"
+    },
+    {
+      "CoupletIndex": 216,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یاور بهرام در این کار با لشکری در ایران و چین"
+    },
+    {
+      "CoupletIndex": 221,
+      "PersonId": 422,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که رأی بدش را بهرام به ایران می‌آورد"
+    },
+    {
+      "CoupletIndex": 233,
+      "PersonId": 423,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کسی که نشان مخاطب را به شاه داد و او را بالا کشید."
+    },
+    {
+      "CoupletIndex": 235,
+      "PersonId": 60,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که درفش او به مخاطب داده شد. (نام در متن: تهمتن)"
+    },
+    {
+      "CoupletIndex": 241,
+      "PersonId": 250,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نمونهٔ کسی که بخت شاهان را تیره می‌کند."
+    },
+    {
+      "CoupletIndex": 268,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی ناسپاس که با دیو و جادو جهان را پرهراس کرد"
+    },
+    {
+      "CoupletIndex": 273,
+      "PersonId": 424,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دشمنی که مخاطب بر او پیروز شد"
+    },
+    {
+      "CoupletIndex": 279,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه روزگار آرش"
+    },
+    {
+      "CoupletIndex": 288,
+      "PersonId": 371,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که مرد و تاج بزرگی را به ساسان نسپرد"
     }
   ]
 }

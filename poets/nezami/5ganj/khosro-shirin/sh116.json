@@ -1915,5 +1915,79 @@
       "SectionIndex1": 0,
       "SectionIndex2": 71
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که پیامبر را در خواب دید و بیمار شد (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 630,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در خواب خسرو آمد و او را به اسلام خواند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مخاطب خسرو برای رفتن به گنجخانه"
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 153,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نامش در وصف گنج‌های پادشاهان پیشین آمده است"
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 377,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه اخترشناسی که پیشگویی دربارهٔ پیامبر عرب را نوشت (نام در متن: اردشیر بابکان)"
+    },
+    {
+      "CoupletIndex": 43,
+      "PersonId": 288,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پیامبر برگزیدهٔ خدا که نگارهٔ او را می‌بینند و معجزه‌هایش ستوده می‌شود."
+    },
+    {
+      "CoupletIndex": 47,
+      "PersonId": 83,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه نامدار پیشین که شکوه تاج و تختش به شاه تشبیه می‌شود."
+    },
+    {
+      "CoupletIndex": 69,
+      "PersonId": 679,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرمانروای حبش که از نقش او سخن می‌رود."
+    }
   ]
 }

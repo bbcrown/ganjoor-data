@@ -1672,5 +1672,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 62
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 5,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5)"
+    },
+    {
+      "CoupletIndex": 60,
+      "PersonId": 628,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاعر که در دعا آسایش و بخشایش برایش خواسته می‌شود."
+    }
   ]
 }

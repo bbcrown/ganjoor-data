@@ -1,8 +1,8 @@
 {
   "Id": 1490,
   "CatId": 49,
-  "Title": "بخش ۱۱",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۱",
+  "Title": "بخش ۱۱ - فریب گرسیوز، خشم افراسیاب و بریدن سر بی‌گناه سیاوش به دست گروی زره",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۱ - فریب گرسیوز، خشم افراسیاب و بریدن سر بی‌گناه سیاوش به دست گروی زره",
   "FullUrl": "/ferdousi/shahname/siavosh/sh11",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -6450,6 +6450,242 @@
       "CoupletIndex": 237,
       "SectionIndex1": 0,
       "SectionIndex2": 239
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ترکان، مخاطب نامه و گرسیوز و پدر فرنگیس"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر سیاوش که از ماجرا اندوهگین است و بر خود می‌گرید."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ بدنژاد که نامه را به افراسیاب می‌رساند"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شوی فرنگیس که از سخن گرسیوز آزرده و پریشان می‌شود (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 76,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرزند نیامده‌ی سیاوش که نامش را پیش از زادن می‌گذارد؛ در آینده کین‌خواه می‌شود."
+    },
+    {
+      "CoupletIndex": 86,
+      "PersonId": 125,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهداری که به پیشگویی سیاوش در آینده به در می‌آید و پناه می‌دهد."
+    },
+    {
+      "CoupletIndex": 132,
+      "PersonId": 151,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دست‌های سیاوش را می‌بندد"
+    },
+    {
+      "CoupletIndex": 146,
+      "PersonId": 154,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جوان هنرمند و روشن‌روان که شاه را از شتاب و پشیمانی برحذر می‌دارد."
+    },
+    {
+      "CoupletIndex": 150,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شتاب و بدی کار به او نسبت داده شده است. (نام در متن: آهرمن)"
+    },
+    {
+      "CoupletIndex": 155,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرورندهٔ او و کینه‌خواه، سپهبد دمنده."
+    },
+    {
+      "CoupletIndex": 155,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدرِ شاه و کینه‌خواه او. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 157,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که برای کین کمر می‌بندند."
+    },
+    {
+      "CoupletIndex": 157,
+      "PersonId": 77,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که برای کین کمر می‌بندند."
+    },
+    {
+      "CoupletIndex": 157,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که برای کین کمر می‌بندند."
+    },
+    {
+      "CoupletIndex": 157,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان ایرانی که برای کین کمر می‌بندند."
+    },
+    {
+      "CoupletIndex": 159,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر کاووس، شیر درنده و جنگ‌آور."
+    },
+    {
+      "CoupletIndex": 171,
+      "PersonId": 152,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه گروی؛ نزد شاه ترکان می‌رود."
+    },
+    {
+      "CoupletIndex": 171,
+      "PersonId": 155,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه دمور نزد شاه ترکان می‌رود."
+    },
+    {
+      "CoupletIndex": 198,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ستمگر تازی که از آفریدون سزای خود دید"
+    },
+    {
+      "CoupletIndex": 198,
+      "PersonId": 24,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که ضحاک از او آسیب دید (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 199,
+      "PersonId": 33,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که از منوچهر شاه آسیب دیدند"
+    },
+    {
+      "CoupletIndex": 199,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از کسانی که از منوچهر شاه آسیب دیدند"
+    },
+    {
+      "CoupletIndex": 199,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بزرگی که سلم و تور از او آسیب دیدند"
+    },
+    {
+      "CoupletIndex": 200,
+      "PersonId": 54,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانان کینه‌خواه که فرنگیس به آنان هشدار می‌دهد (نام در متن: دستان)"
+    },
+    {
+      "CoupletIndex": 202,
+      "PersonId": 113,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی بی‌باک از گرز دلاوران"
+    },
+    {
+      "CoupletIndex": 202,
+      "PersonId": 344,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که در کنار زنگه به عنوان نمونه آمده"
     }
   ]
 }

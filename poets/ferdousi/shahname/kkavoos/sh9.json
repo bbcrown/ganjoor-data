@@ -1,8 +1,8 @@
 {
   "Id": 1438,
   "CatId": 46,
-  "Title": "بخش ۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۹",
+  "Title": "بخش ۹ - خان پنجم و ششم رستم: تاریکی و دشت سبز، برخورد با دشتبان و اسیر کردن اولاد",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی کی‌کاووس و رفتن او به مازندران » بخش ۹ - خان پنجم و ششم رستم: تاریکی و دشت سبز، برخورد با دشتبان و اسیر کردن اولاد",
   "FullUrl": "/ferdousi/shahname/kkavoos/sh9",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2562,6 +2562,89 @@
       "CoupletIndex": 93,
       "SectionIndex1": 0,
       "SectionIndex2": 95
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 14,
+      "PersonId": 60,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سوار بر رخش که در کشتزار می‌خوابد و گوش دشتبان را می‌کَند."
+    },
+    {
+      "CoupletIndex": 20,
+      "PersonId": 106,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامجو، دلیر و جوان آن مرز که به جست‌وجوی رستم می‌آید."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 102,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که رستم می‌خواهد جایگاهش را بیابد."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 104,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی همراه پولاد غندی و دیو سپید."
+    },
+    {
+      "CoupletIndex": 51,
+      "PersonId": 107,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیو و سپهدار بر سر راه، با تنی کوه‌پیکر."
+    },
+    {
+      "CoupletIndex": 52,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که در بند است و رستم در جست‌وجوی اوست. (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 54,
+      "PersonId": 100,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که رستم می‌خواهد تخت و تاجش را بگیرد."
+    },
+    {
+      "CoupletIndex": 65,
+      "PersonId": 101,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نگهدار و پاسبان، همراه بید."
+    },
+    {
+      "CoupletIndex": 90,
+      "PersonId": 108,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دیوی که گفته می‌شود در شهر مازندران است."
     }
   ]
 }

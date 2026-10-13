@@ -1,8 +1,8 @@
 {
   "Id": 87973,
   "CatId": 51,
-  "Title": "بخش ۱۹",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۹",
+  "Title": "بخش ۱۹ - شبیخون پیران بر سپاه مست ایرانیان، کشتار لشکر و نفرین کیخسرو بر طوس",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۱۹ - شبیخون پیران بر سپاه مست ایرانیان، کشتار لشکر و نفرین کیخسرو بر طوس",
   "FullUrl": "/ferdousi/shahname/forood/sh19",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1725,6 +1725,53 @@
       "CoupletIndex": 62,
       "SectionIndex1": 0,
       "SectionIndex2": 64
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار لشکر توران که شبیخون می‌زند"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهدار هشیار ایرانی و پدر گیو"
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 95,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و پسر گودرز که بیدار می‌ماند و می‌جنگد"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 165,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): جنگاوری که گیو با او سخن می‌گوید"
+    },
+    {
+      "CoupletIndex": 33,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی که سواران توران او را دنبال می‌کنند"
     }
   ]
 }

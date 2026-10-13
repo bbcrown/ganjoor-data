@@ -1,8 +1,8 @@
 {
   "Id": 1841,
   "CatId": 88,
-  "Title": "بخش ۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶",
+  "Title": "بخش ۶ - پند خواهر به بهرام گرد در نکوهش تاج‌خواهی و ناسپاسی و پاسخ او به دیرشدن کار",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶ - پند خواهر به بهرام گرد در نکوهش تاج‌خواهی و ناسپاسی و پاسخ او به دیرشدن کار",
   "FullUrl": "/ferdousi/shahname/parviz/sh6",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1401,6 +1401,98 @@
       "CoupletIndex": 50,
       "SectionIndex1": 0,
       "SectionIndex2": 52
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان جنگجو؛ برادر زن سخنگو، از خسرو ناخشنود و خواهان تخت شاهی"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و برادر، از رزمگاه آمده و با خواهرش گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 417,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار که خواستار بهرام بود و از گفتار آذرگشسپ آشفته شد"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 195,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار چین که با لشکر به ایران آمد و تخت و کلاهش به بهرام رسید (نام در متن: ساوه شاه)"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 424,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سالار چین که با لشکر به ایران آمد و بهرام تخت و کلاهش را گرفت."
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 416,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): گوینده‌ای که هرمز از گفتارش آشفته شد و پلید خوانده شده"
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 377,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای شاهان که تخمهٔ شاهان از او می‌آید"
+    },
+    {
+      "CoupletIndex": 40,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سوار و پهلوان بی‌مانند که مهتران او را برای تخت می‌خواهند."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 55,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که از بخت بیدادگر گرفتار شد و تختش بر جای مانده است."
+    },
+    {
+      "CoupletIndex": 44,
+      "PersonId": 38,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه پیشین که گاه و جایگاه او به سام نسبت داده می‌شود."
     }
   ]
 }

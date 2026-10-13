@@ -1,8 +1,8 @@
 {
   "Id": 87975,
   "CatId": 51,
-  "Title": "بخش ۲۱",
-  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۱",
+  "Title": "بخش ۲۱ - فرستادن رهام نزد پیران، پیام جنگ یا درنگ، مهلت یک ماه و آراستن لشکر فریبرز",
+  "FullTitle": "فردوسی » شاهنامه » گفتار اندر داستان فرود سیاوش » بخش ۲۱ - فرستادن رهام نزد پیران، پیام جنگ یا درنگ، مهلت یک ماه و آراستن لشکر فریبرز",
   "FullUrl": "/ferdousi/shahname/forood/sh21",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -942,6 +942,62 @@
       "CoupletIndex": 33,
       "SectionIndex1": 0,
       "SectionIndex2": 35
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران و پدر فریبرز. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 109,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و پسر شاه؛ فرمانده سپاه ایران که رهام را نزد پیران می‌فرستد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 97,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان ایرانی و پیام‌آور فریبرز نزد پیران."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان سپاه توران که پیام رهام را می‌شنود و پاسخ می‌دهد."
+    },
+    {
+      "CoupletIndex": 13,
+      "PersonId": 94,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر رهام."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 73,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از سران ایرانی که پیران از بی‌تدبیری در جنگ با او سخن می‌گوید."
     }
   ]
 }

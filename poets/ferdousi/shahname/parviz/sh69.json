@@ -1,8 +1,8 @@
 {
   "Id": 1904,
   "CatId": 88,
-  "Title": "بخش ۶۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۹",
+  "Title": "بخش ۶۹ - داستان تخت طاقدیس: از ساخت جهن برزین برای فریدون تا شکستن اسکندر و بازسازی پرویز",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۶۹ - داستان تخت طاقدیس: از ساخت جهن برزین برای فریدون تا شکستن اسکندر و بازسازی پرویز",
   "FullUrl": "/ferdousi/shahname/parviz/sh69",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2508,6 +2508,125 @@
       "CoupletIndex": 91,
       "SectionIndex1": 0,
       "SectionIndex2": 93
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 1,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که تخت را گرد آورد و استادان را فراخواند"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ناپارسا و ناپاک؛ سرمایهٔ تخت از او بود"
+    },
+    {
+      "CoupletIndex": 3,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که به جهن تخت‌ساز بخشش داد و بر تخت چیزی افزود (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 143,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد دماوند که برای شاه تخت ساخت و پاداش گرفت (نام در متن: جهن برزین)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): ایران به او رسید و تخت پس از آفریدون به او ماند"
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از وارثان تخت که از آن شاد بود"
+    },
+    {
+      "CoupletIndex": 16,
+      "PersonId": 153,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که بالای تخت را بسیار افزود"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از شاهان دارندهٔ تخت پیش از گشتاسپ"
+    },
+    {
+      "CoupletIndex": 17,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که تخت را دید و جاماسپ را فراخواند"
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 205,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دانشمند و ستاره‌شناس که نقش‌های سپهر را بر تخت کرد"
+    },
+    {
+      "CoupletIndex": 24,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): تخت را از نادانی پاره‌پاره کرد"
+    },
+    {
+      "CoupletIndex": 28,
+      "PersonId": 377,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که نام تخت در روزگار او کهن شده بود"
+    },
+    {
+      "CoupletIndex": 67,
+      "PersonId": 248,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در تشبیه درخشندگی گوهر در شب تیره آمده است."
     }
   ]
 }

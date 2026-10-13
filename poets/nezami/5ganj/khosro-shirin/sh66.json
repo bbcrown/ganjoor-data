@@ -2698,5 +2698,25 @@
       "SectionIndex1": 0,
       "SectionIndex2": 100
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 45,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): غم‌پرداز شیرین که ملک او را به خدمت درگاه خواند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 470,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی تنها و دل‌تنگ که شبی دراز و بی‌قرار را می‌گذراند."
+    }
   ]
 }

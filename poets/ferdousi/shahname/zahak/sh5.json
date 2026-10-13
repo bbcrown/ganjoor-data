@@ -484,5 +484,34 @@
       "SectionIndex1": 0,
       "SectionIndex2": 18
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 8,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه بدروزگار که در پی گاو برمایه و فرزند فرانک است."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 23,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادری سوگوار از ایران‌زمین که فرزندش را به البرز کوه می‌برد."
+    },
+    {
+      "CoupletIndex": 15,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): صاحب خانه‌ای که ضحاک به سراغش می‌رود و ایوانش را می‌سوزاند."
+    }
   ]
 }

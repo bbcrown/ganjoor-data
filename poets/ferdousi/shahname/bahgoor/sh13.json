@@ -1,8 +1,8 @@
 {
   "Id": 1782,
   "CatId": 83,
-  "Title": "بخش ۱۳",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۳",
+  "Title": "بخش ۱۳ - شکار هشتم بهرام: دوختن گور نر و ماده به یک تیر و آفرین لشکر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی بهرام گور » بخش ۱۳ - شکار هشتم بهرام: دوختن گور نر و ماده به یک تیر و آفرین لشکر",
   "FullUrl": "/ferdousi/shahname/bahgoor/sh13",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -375,6 +375,26 @@
       "CoupletIndex": 12,
       "SectionIndex1": 0,
       "SectionIndex2": 14
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 312,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همراه شاه در شکارگاه، با هزار سوار."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و شکارگر؛ با یک تیر نر و ماده گور را می‌دوزد و لشکریان او را می‌ستایند."
     }
   ]
 }

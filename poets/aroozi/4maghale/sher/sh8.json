@@ -93,5 +93,15 @@
       "CoupletIndex": 7,
       "CoupletSummary": "هوش مصنوعی: خداوند بزرگ و مهربان به هر دوی آنها رحمت و نعمت عطا کند."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 12,
+      "LunarYear": 509,
+      "VerifiedDate": true,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

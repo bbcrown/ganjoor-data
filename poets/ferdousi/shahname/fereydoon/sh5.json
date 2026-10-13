@@ -1,8 +1,8 @@
 {
   "Id": 1362,
   "CatId": 40,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۵",
+  "Title": "بخش ۵ - بخشیدن روم سلم را و تور توران را و ایرج ایران را",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۵ - بخشیدن روم سلم را و تور توران را و ایرج ایران را",
   "FullUrl": "/ferdousi/shahname/fereydoon/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -375,6 +375,41 @@
       "CoupletIndex": 12,
       "SectionIndex1": 0,
       "SectionIndex2": 14
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 24,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و پدر که جهان را میان سه پسر بخش می‌کند. (نام در متن: آفریدون)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 33,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 34,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 9,
+      "PersonId": 32,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
     }
   ]
 }

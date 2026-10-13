@@ -1,8 +1,8 @@
 {
   "Id": 1881,
   "CatId": 88,
-  "Title": "بخش ۴۶",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۶",
+  "Title": "بخش ۴۶ - خراد برزین و قلون: پیمان کشتن بهرام چوبینه و ستاندن مهر خاقان",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۴۶ - خراد برزین و قلون: پیمان کشتن بهرام چوبینه و ستاندن مهر خاقان",
   "FullUrl": "/ferdousi/shahname/parviz/sh46",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1158,6 +1158,62 @@
       "CoupletIndex": 41,
       "SectionIndex1": 0,
       "SectionIndex2": 43
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبدی که لشکر می‌آراید و هدف نقشهٔ کشتن است. (نام در متن: بهرام)"
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 168,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه چین که ورود کسان به ایران را منع می‌کند. (نام در متن: خاقان)"
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 469,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که گزارش و پاداش به او مربوط است (نام در متن: خسرو پرویز)"
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد دانا که قلون را برای کشتن بهرام فرستاد"
+    },
+    {
+      "CoupletIndex": 6,
+      "PersonId": 84,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرد سالخورده‌ای که خراد او را برای مأموریت برمی‌گزیند."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 459,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که مهر را از نگین خاقان خفته می‌گیرد."
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1526,
   "CatId": 58,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۷",
+  "Title": "بخش ۱۷ - تاج‌گذاری گشتاسپ نزد زریر، آمدن قیصر و کتایون، و سپردن تخت از لهراسپ",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی لهراسپ » بخش ۱۷ - تاج‌گذاری گشتاسپ نزد زریر، آمدن قیصر و کتایون، و سپردن تخت از لهراسپ",
   "FullUrl": "/ferdousi/shahname/lohrasp/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -2022,6 +2022,89 @@
       "CoupletIndex": 73,
       "SectionIndex1": 0,
       "SectionIndex2": 75
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 120,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه روم که با گشتاسپ سخن می‌گوید و پوزش می‌خواهد."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 177,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پسر لهراسپ، همسخن قیصر؛ به شاهی ایران می‌رسد و بر تخت می‌نشیند."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 178,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر گشتاسپ؛ به پیشواز او می‌آید و تاج و تخت را می‌آورد."
+    },
+    {
+      "CoupletIndex": 8,
+      "PersonId": 176,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پدر پیر گشتاسپ که تاج و گنج را به او می‌سپارد."
+    },
+    {
+      "CoupletIndex": 22,
+      "PersonId": 85,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای یکی از بزرگانِ حاضر که با نام او یاد می‌شود. (نام در متن: کاوس)"
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 194,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان که به شاهی گشتاسپ آفرین می‌خوانند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 195,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان سرافراز که به شاهی گشتاسپ آفرین می‌خوانند."
+    },
+    {
+      "CoupletIndex": 23,
+      "PersonId": 344,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از بزرگان گودرزیان که گشتاسپ را آفرین می‌گوید."
+    },
+    {
+      "CoupletIndex": 41,
+      "PersonId": 183,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی که قیصر برایش گنج و هدیه می‌فرستد و همراه سپاه می‌آید."
     }
   ]
 }

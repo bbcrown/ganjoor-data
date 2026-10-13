@@ -1,8 +1,8 @@
 {
   "Id": 1651,
   "CatId": 67,
-  "Title": "بخش ۱۲",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۲",
+  "Title": "بخش ۱۲ - آزمون رمزی سکندر و فیلسوف، زدودن زنگار دل و نپذیرفتن زر و گهر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اسکندر » بخش ۱۲ - آزمون رمزی سکندر و فیلسوف، زدودن زنگار دل و نپذیرفتن زر و گهر",
   "FullUrl": "/ferdousi/shahname/eskandar/sh12",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1212,6 +1212,26 @@
       "CoupletIndex": 43,
       "SectionIndex1": 0,
       "SectionIndex2": 45
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 6,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که فیلسوف را می‌آزماید و در پایان از او پند می‌پذیرد."
+    },
+    {
+      "CoupletIndex": 34,
+      "PersonId": 11,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن فیلسوف برای مقایسهٔ بدی خواسته و ثروت آمده است (نام در متن: آهرمن)"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "Id": 1874,
   "CatId": 88,
-  "Title": "بخش ۳۹",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۹",
+  "Title": "بخش ۳۹ - رسیدن بهرام چوبینه به دربار خاقان چین، پیمان یاری و چالش تیر با مقاتوره",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی خسرو پرویز » بخش ۳۹ - رسیدن بهرام چوبینه به دربار خاقان چین، پیمان یاری و چالش تیر با مقاتوره",
   "FullUrl": "/ferdousi/shahname/parviz/sh39",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1860,6 +1860,62 @@
       "CoupletIndex": 67,
       "SectionIndex1": 0,
       "SectionIndex2": 69
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 418,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی که نزد خاقان ترکان می‌رود و از او پناه و پیمان می‌خواهد."
+    },
+    {
+      "CoupletIndex": 4,
+      "PersonId": 421,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاه ترکان و چین که بهرام را می‌پذیرد و به او پیمان یاری می‌دهد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 413,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از یاران و بزرگانی که خاقان از حال او می‌پرسد. (نام در متن: ایزد گشسپ)"
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 428,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): از پهلوانانی که خاقان از حال او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 606,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): خاقان از حال او می‌پرسد."
+    },
+    {
+      "CoupletIndex": 29,
+      "PersonId": 457,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): یار نامبردار و جنگاور خاقان که هر بامداد هزار دینار می‌گرفت."
     }
   ]
 }

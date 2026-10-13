@@ -1,8 +1,8 @@
 {
   "Id": 1634,
   "CatId": 66,
-  "Title": "بخش ۵",
-  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۵",
+  "Title": "بخش ۵ - شکست دارا در نبرد سه‌روزه، امان سکندر و برانگیختن ایرانیان در اصطخر",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی دارای داراب چهارده سال بود » بخش ۵ - شکست دارا در نبرد سه‌روزه، امان سکندر و برانگیختن ایرانیان در اصطخر",
   "FullUrl": "/ferdousi/shahname/dara/sh5",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -1266,6 +1266,44 @@
       "CoupletIndex": 45,
       "SectionIndex1": 0,
       "SectionIndex2": 47
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 247,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که از سکندر شکست خورد و سپاه را برای نبرد دوباره فرامی‌خواند."
+    },
+    {
+      "CoupletIndex": 0,
+      "PersonId": 250,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه رومیان که دارا را شکست می‌دهد و ایرانیان را امان می‌دهد."
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 6,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن دارا نماد شاهی ایرانیان است و ایرانیان به او مانند شده‌اند"
+    },
+    {
+      "CoupletIndex": 39,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در سخن دارا نماد ستم‌گری است و روم به او مانند شده است"
     }
   ]
 }

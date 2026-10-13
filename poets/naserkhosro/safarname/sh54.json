@@ -30,5 +30,27 @@
       "CoupletIndex": 2,
       "CoupletSummary": "هوش مصنوعی: در سفر به شهر اسوان با مردی به نام عبدالله محمد بن فلیج آشنا شدم. او فردی پارسا و با فضیلت بود و در منطق دانش‌هایی داشت. او به من کمک کرد تا شتری به قیمت یک دینار و نیم اجاره کنم و از آن شهر خارج شدم. این اتفاق در پنجم ربیع‌الاول سال ۴۲۴ هجری رخ داد."
     }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "LocationId": 133,
+      "LunarYear": 441,
+      "LunarMonth": 12,
+      "LunarDay": 16,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    },
+    {
+      "CoupletIndex": 0,
+      "LocationId": 134,
+      "LunarYear": 441,
+      "LunarMonth": 12,
+      "LunarDay": 17,
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false
+    }
   ]
 }

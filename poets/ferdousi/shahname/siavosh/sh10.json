@@ -1,8 +1,8 @@
 {
   "Id": 1489,
   "CatId": 49,
-  "Title": "بخش ۱۰",
-  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۰",
+  "Title": "بخش ۱۰ - رشک گرسیوز از جاه و هنر سیاوش، بدگویی نزد افراسیاب و فریب سیاوش به زاری دروغین",
+  "FullTitle": "فردوسی » شاهنامه » داستان سیاوش » بخش ۱۰ - رشک گرسیوز از جاه و هنر سیاوش، بدگویی نزد افراسیاب و فریب سیاوش به زاری دروغین",
   "FullUrl": "/ferdousi/shahname/siavosh/sh10",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -8205,6 +8205,143 @@
       "CoupletIndex": 302,
       "SectionIndex1": 0,
       "SectionIndex2": 304
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 67,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سپهبد نامدار؛ با سپاه می‌آید، خلعت می‌آورد و به سیاوش رشک می‌برد."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 121,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شهریار و سپهبد؛ پدر فرود است و با گرسیوز به بازی می‌پردازد. (نام در متن: سیاوش)"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 147,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مادر کودک تازه‌زاده و سرور بانوان، دختر پهلوان سپاه"
+    },
+    {
+      "CoupletIndex": 10,
+      "PersonId": 150,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): کودکی که به مانند شاه زاده شد و نامش را فرخ فرود نهادند."
+    },
+    {
+      "CoupletIndex": 11,
+      "PersonId": 125,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در شب از تولد کودک آگاه می‌شود و برای شاه مژده می‌فرستد."
+    },
+    {
+      "CoupletIndex": 19,
+      "PersonId": 149,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): بانویی تاج‌دار با پرستاران که سیاوش را در کاخ خود می‌پذیرد"
+    },
+    {
+      "CoupletIndex": 77,
+      "PersonId": 151,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان تورانی که با سیاوش نبرد می‌کند و شکست می‌خورد"
+    },
+    {
+      "CoupletIndex": 83,
+      "PersonId": 152,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان نامور ترکان که به زور همتا نداشت و از سیاوش شکست خورد"
+    },
+    {
+      "CoupletIndex": 96,
+      "PersonId": 62,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه و سالار سپاه توران که نامه را می‌خواند و گرسیوز نزد او می‌رود"
+    },
+    {
+      "CoupletIndex": 113,
+      "PersonId": 85,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاه ایران که فرستاده‌ای نهانی نزد سیاوش فرستاده است (نام در متن: کاووس)"
+    },
+    {
+      "CoupletIndex": 116,
+      "PersonId": 32,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): قربانی ستم در مثال گذشته."
+    },
+    {
+      "CoupletIndex": 116,
+      "PersonId": 34,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): در مثال ستم به ایرج یاد شده است."
+    },
+    {
+      "CoupletIndex": 126,
+      "PersonId": 61,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): نیای مخاطب شاه، که او را «یادگار پشنگ» می‌نامند."
+    },
+    {
+      "CoupletIndex": 237,
+      "PersonId": 70,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): برادر بی‌گناه و خردمند که به دست افراسیاب کشته شد."
+    },
+    {
+      "CoupletIndex": 243,
+      "PersonId": 11,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): به گفتهٔ گرسیوز دل افراسیاب را از سیاوش آزرده کرده است. (نام در متن: آهرمن)"
     }
   ]
 }
