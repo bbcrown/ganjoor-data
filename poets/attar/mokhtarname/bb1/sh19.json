@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "یریكهبود",
-      "PlainText": "نه لایق کوی تست سیری که بود\r\nنه نیز موافقست خیری که بود\r\nیک ذره خیال غیر هرگز مگذار\r\nکافسوس بود خیال غیری که بود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه لایق کوی تست سیری که بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه نیز موافقست خیری که بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ذرّه خیال غیر، هرگز مگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکافسوس بود خیال غیری که بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "نه لایق کوی توست سیری که بود\r\nنه نیز موافقست خیری که بود\r\nیک ذره خیال غیر هرگز مگذار\r\nکافسوس بود خیال غیری که بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه لایق کوی توست سیری که بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه نیز موافقست خیری که بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ذرّه خیال غیر، هرگز مگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکافسوس بود خیال غیری که بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,9 +29,10 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "نه لایق کوی تست سیری که بود",
+      "Text": "نه لایق کوی توست سیری که بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که برای ورود به محفل و دنیای معشوق یا کسی که دوستش داریم، شایسته و مناسب نیستیم. همچنین، پیشرفت یا خوبی‌هایی که در زندگی‌مان بوده، در حال حاضر با وضعیت کنونی‌امان همخوانی ندارد و نمی‌تواند ما را راضی کند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "یک ذرّه خیال غیر، هرگز مگذار",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز اجازه نده که حتی یک ذره از خیال دیگری در ذهنت بماند، زیرا افسوس بر آن خیالی است که مربوط به دیگری است."
     },
     {
       "VOrder": 4,

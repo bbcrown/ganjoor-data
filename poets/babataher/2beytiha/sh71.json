@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "خداوندا به فریاد دلم رس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "خداوندا به درد ها و درخواست های دلم گوش بده و کمکم کن برای افرادی که هیچکس را ندارند تو همه چیزشان هستی ، من هم تنها مانده ام و کسی را ندارم پس تویی همه کس و کارم"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "همه گویند طاهر کس نداره",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "همه می گویند که طاهر تنها است و کسی رو ندارد . خدا با من است چه نیازی دارم به بقیه\u00A0"
     },
     {
       "VOrder": 4,

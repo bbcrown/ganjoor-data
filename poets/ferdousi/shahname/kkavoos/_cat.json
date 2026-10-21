@@ -4,91 +4,93 @@
   "ParentId": 33,
   "Title": "پادشاهی کی‌کاووس و رفتن او به مازندران",
   "FullUrl": "/ferdousi/shahname/kkavoos",
+  "Description": "هفت خان رستم",
+  "DescriptionHtml": "\u003Cp\u003Eهفت خان رستم\u003C/p\u003E",
   "ChildCats": [],
   "Poems": [
     {
       "Id": 1430,
-      "Title": "بخش ۱",
+      "Title": "بخش ۱ - وسوسهٔ دیو رامشگر و تصمیم کاووس برای لشکرکشی به مازندران و فراخواندن زال",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh1"
     },
     {
       "Id": 1431,
-      "Title": "بخش ۲",
+      "Title": "بخش ۲ - پند زال به کاووس دربارهٔ پرهیز از لشکرکشی به مازندران و رد شدن آن توسط شاه",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh2"
     },
     {
       "Id": 1432,
-      "Title": "بخش ۳",
+      "Title": "بخش ۳ - لشکرکشی کاووس به مازندران، غارت شهر و اسارت او به دست دیو سپید",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh3"
     },
     {
       "Id": 1433,
-      "Title": "بخش ۴",
+      "Title": "بخش ۴ - نامهٔ پریشان کاووس به زال، برانگیختن رستم برای نجات شاه و وداع با خانواده",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh4"
     },
     {
       "Id": 1434,
-      "Title": "بخش ۵",
+      "Title": "بخش ۵ - خان اول رستم: شکار گور و کشتن شیر توسط رخش",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh5"
     },
     {
       "Id": 1435,
-      "Title": "بخش ۶",
+      "Title": "بخش ۶ - خان دوم رستم: تشنگی در بیابان، هدایت توسط میش و یافتن چشمه",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh6"
     },
     {
       "Id": 1436,
-      "Title": "بخش ۷",
+      "Title": "بخش ۷ - خان سوم رستم: نبرد با اژدها و کشتن آن به یاری رخش",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh7"
     },
     {
       "Id": 1437,
-      "Title": "بخش ۸",
+      "Title": "بخش ۸ - خان چهارم رستم: رویارویی با زن جادو و کشتن او",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh8"
     },
     {
       "Id": 1438,
-      "Title": "بخش ۹",
+      "Title": "بخش ۹ - خان پنجم و ششم رستم: تاریکی و دشت سبز، برخورد با دشتبان و اسیر کردن اولاد",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh9"
     },
     {
       "Id": 1439,
-      "Title": "بخش ۱۰",
+      "Title": "بخش ۱۰ - خان ششم رستم: کشتن ارژنگ دیو و رسیدن به کاووس و آگاهی از درمان چشم‌ها",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh10"
     },
     {
       "Id": 1440,
-      "Title": "بخش ۱۱",
+      "Title": "بخش ۱۱ - خان هفتم رستم: کشتن دیو سپید، درمان چشم کاووس و گشودن مازندران",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh11"
     },
     {
       "Id": 1441,
-      "Title": "بخش ۱۲",
+      "Title": "بخش ۱۲ - نامهٔ تهدیدآمیز کاووس به شاه مازندران و فرستادن فرهاد",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh12"
     },
     {
       "Id": 1442,
-      "Title": "بخش ۱۳",
+      "Title": "بخش ۱۳ - پاسخ گستاخانهٔ شاه مازندران و تصمیم رستم برای بردن پیام تهدیدآمیز",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh13"
     },
     {
       "Id": 1443,
-      "Title": "بخش ۱۴",
+      "Title": "بخش ۱۴ - رفتن رستم به عنوان فرستاده به مازندران، نمایش قدرت و بازگشت با خبر",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh14"
     },
     {
       "Id": 1444,
-      "Title": "بخش ۱۵",
+      "Title": "بخش ۱۵ - آماده‌سازی سپاه کاووس برای جنگ با مازندران پس از بازگشت رستم",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh15"
     },
     {
       "Id": 1445,
-      "Title": "بخش ۱۶",
+      "Title": "بخش ۱۶ - نبرد نهایی با مازندران، کشتن جویان و شاه جادو و سپردن تاج به اولاد",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh16"
     },
     {
       "Id": 1446,
-      "Title": "بخش ۱۷",
+      "Title": "بخش ۱۷ - بازگشت پیروزمندانهٔ کاووس به ایران، بخشش به رستم و برقراری داد و آبادی",
       "FullUrl": "/ferdousi/shahname/kkavoos/sh17"
     }
   ]

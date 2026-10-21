@@ -20,7 +20,7 @@
       "VerseType": "First",
       "RhymeLetters": "واره",
       "PlainText": "ای در هر دم دو صد جهان پر چاره\r\nدر وادی جست و جوی تو آواره\r\nآتشکده دل مرا باز رهان\r\nاز صحبت نفس گبر آتش خواره",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در هر دم دو صد جهان پر چاره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وادی جست و جوی تو آواره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتشکدهٔ دلِ مرا باز رهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صحبتِ نفسِ گبرِ آتش خواره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در هر دم دو صد جهان پر چاره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وادی جست و جوی تو آواره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتشکدهٔ دلِ مرا باز رهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صحبتِ نفسِ گبرِ آتش‌خواره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای در هر دم دو صد جهان پر چاره",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در هر لحظه، دو صد جهان پر از مشکل را در راه جستجوی خود می‌گذرانی و آواره‌ای، تمام زندگی‌ات در پی توشه‌ای برای این جستجوست."
     },
     {
       "VOrder": 2,
@@ -45,12 +46,13 @@
       "Position": "Right",
       "Text": "آتشکدهٔ دلِ مرا باز رهان",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من مانند آتشکده‌ای است که باید از تأثیرات منفی و آتش افروزان دور بماند. خواهش می‌کنم مرا از صحبت و همراهی با کسانی که به دنیا و لذات آن وابسته‌اند، رها کن."
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "از صحبتِ نفسِ گبرِ آتش خواره",
+      "Text": "از صحبتِ نفسِ گبرِ آتش‌خواره",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

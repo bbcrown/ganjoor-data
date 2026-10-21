@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ایتتومیبایدوبس",
-      "PlainText": "یک ذره هدایت تو میباید و بس\r\nیک لحظه حمایت تو میباید و بس\r\nتر دامنی این همه سرگردان را\r\nباران عنایت تو میبایدو بس",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ذره هدایتِ تو میباید و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک لحظه حمایتِ تو میباید و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتر دامنی این همه سرگردان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبارانِ عنایتِ تو میبایدو بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "یک ذره هدایت تو می باید و بس\r\nیک لحظه حمایت تو می باید و بس\r\nتر دامنی این همه سرگردان را\r\nباران عنایت تو می باید و بس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ذره هدایتِ تو می‌باید و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک لحظه حمایتِ تو می‌باید و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتر دامنی این همه سرگردان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبارانِ عنایتِ تو می‌باید و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,14 +29,15 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "یک ذره هدایتِ تو میباید و بس",
+      "Text": "یک ذره هدایتِ تو می‌باید و بس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها یک قطره از هدایت تو کافی است و بی‌نهایت ارزشمند، همچنین فقط یک لحظه پشتیبانی تو نیاز است و بس."
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "یک لحظه حمایتِ تو میباید و بس",
+      "Text": "یک لحظه حمایتِ تو می‌باید و بس",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
@@ -45,12 +46,13 @@
       "Position": "Right",
       "Text": "تر دامنی این همه سرگردان را",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باران رحمت تو باید باشد تا این همه سرگردان و بی‌هدف به آرامش برسند."
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "بارانِ عنایتِ تو میبایدو بس",
+      "Text": "بارانِ عنایتِ تو می‌باید و بس",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "انیتو",
-      "PlainText": "ای آن که به حکم ملک میرانی تو\r\nوز دل خط نانوشته میخوانی تو\r\nگر باتو نگویم که چگویم در دل\r\nنا گفته وناشنیده میدانی تو",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آن که به حکم، ملک میرانی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دل، خطِ نانوشته، میخوانی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر باتو نگویم که چگویم در دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنا گفته وناشنیده میدانی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "ای آن که به حکم ملک می رانی تو\r\nوز دل خط نانوشته می خوانی تو\r\nگر با تو نگویم که چه گویم در دل\r\nناگفته و ناشنیده می دانی تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آن که به حکم، ملک می‌رانی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دل، خطِ نانوشته، می‌خوانی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر با تو نگویم که چه گویم در دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناگفته و ناشنیده می‌دانی تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,28 +29,30 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "ای آن که به حکم، ملک میرانی تو",
+      "Text": "ای آن که به حکم، ملک می‌رانی تو",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آن کس که با قدرت و فرمان خود، حکومت را اداره می‌کنی و از قلبت، مطالبی را می‌خوانی که هنوز بر روی کاغذ نیامده است."
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "وز دل، خطِ نانوشته، میخوانی تو",
+      "Text": "وز دل، خطِ نانوشته، می‌خوانی تو",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "گر باتو نگویم که چگویم در دل",
+      "Text": "گر با تو نگویم که چه گویم در دل",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر با تو صحبت نکنم، می‌دانی که در دل چه چیزهایی ناراحت و ناگفته دارم."
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "نا گفته وناشنیده میدانی تو",
+      "Text": "ناگفته و ناشنیده می‌دانی تو",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

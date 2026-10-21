@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "رنباشدچهبود",
-      "PlainText": "گر با تو به هم دگر نباشد چه بود\r\nیک ذره به سایه در نباشد چه بود\r\nجایی که هزار عرش یک سارخْک است\r\nمشتی سارخْک اگرنباشد چه بود",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر با تو به هم دگر نباشد چه بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذرّه به سایه در نباشد چه بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجائی که هزار عرش یک سارَخْک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشتی سارَخْک اگرنباشد چه بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "گر با تو به هم دگر نباشد چه بود\r\nیک ذره به سایه در نباشد چه بود\r\nجایی که هزار عرش یک سارخک است\r\nمشتی سارخک اگر نباشد چه بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر با تو به هم‌دگر نباشد چه بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ذرّه به سایه در نباشد چه بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجائی که هزار عرش یک سارَخْک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشتی سارَخْک اگر نباشد چه بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,9 +29,10 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "گر با تو به هم دگر نباشد چه بود",
+      "Text": "گر با تو به هم‌دگر نباشد چه بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما با یکدیگر در ارتباط نباشیم، چه اهمیتی دارد؟ حتی اگر یک ذره هم سایه‌ای از ما وجود نداشته باشد، چه اتفاقی می‌افتد؟"
     },
     {
       "VOrder": 2,
@@ -45,12 +46,13 @@
       "Position": "Right",
       "Text": "جائی که هزار عرش یک سارَخْک است",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جایی که با وجود هزاران عرش و مقام، فقط یک قطعه کوچک خاک وجود دارد، اگر آن خاک هم نباشد، ارزش آن مکان چه خواهد بود؟"
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "مشتی سارَخْک اگرنباشد چه بود",
+      "Text": "مشتی سارَخْک اگر نباشد چه بود",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

@@ -15,8 +15,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "انی",
-      "PlainText": "هزار سال رهست از تو تا مسلمانی\r\nهزار سال دیگر تا به شهر انسانی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار سال رهست از تو تا مسلمانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار سال دیگر تا به شهر انسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "هزار سال رهست از تو تا مسلمانی\r\nهزار سال دگر تا به شهر انسانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار سال رهست از تو تا مسلمانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار سال دگر تا به شهر انسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Generic",
       "CoupletsCount": 1
     }
@@ -27,12 +27,13 @@
       "Position": "Right",
       "Text": "هزار سال رهست از تو تا مسلمانی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بین ما و رسیدن به یک انسان واقعی، هزار سال فاصله وجود دارد و برای به دست آوردن معرفت و حقیقتی که به مسلمانی ختم می‌شود، هزار سال دیگر هم نیاز داریم."
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "هزار سال دیگر تا به شهر انسانی",
+      "Text": "هزار سال دگر تا به شهر انسانی",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     }

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "بر سنگ زدم دوش سبوی کاشی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "دیشب با کاشی به سنگ میزدم و آنرا تکه میکردم و از این کار ناشایست لذت میبردم"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "با من به زبان حال می‌گفت سبو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "کاشی (سبو یا گلی سیقل شده) با زبان ساده و حال بمن گفت که من زمانی مثل تو انسان زنده ای بودم و تو نیز یکروز مثل من به کاشی تبدیل میشوی."
     },
     {
       "VOrder": 4,

@@ -1,8 +1,8 @@
 {
   "Id": 1394,
   "CatId": 41,
-  "Title": "بخش ۱۷",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۷",
+  "Title": "بخش ۱۷ - آمدن سیندخت نزد سام با هدایا و شفاعت برای کابل و پذیرش وصلت زال و رودابه",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۷ - آمدن سیندخت نزد سام با هدایا و شفاعت برای کابل و پذیرش وصلت زال و رودابه",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh17",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
@@ -951,7 +951,8 @@
       "Text": "چو شد ساخته کار خود بر نشست",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "سیندخت چون اسباب تصمیم خود را فراهم کرد مانند یک مرد بر تصمیم خود استوار ماند."
     },
     {
       "VOrder": 2,
@@ -967,7 +968,8 @@
       "Text": "یکی ترگ رومی به سر بر نهاد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "کلاه خود رومی به سر کرد و بر یک اسب تیز رو سوار شد."
     },
     {
       "VOrder": 4,
@@ -983,7 +985,8 @@
       "Text": "بیامد گرازان به درگاه سام",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "شتابان به درگاه سام آمد ، نه سر و صدا ایجاد کرد و نه نامش را گفت."
     },
     {
       "VOrder": 6,
@@ -999,7 +1002,8 @@
       "Text": "به کار آگهان گفت تا ناگهان",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "به انسان های دانا که به کارشان آگاه بودند گفت که به طور ناگهانی به سام خبر دهند."
     },
     {
       "VOrder": 8,
@@ -1015,7 +1019,8 @@
       "Text": "که آمد فرستاده‌ای کابلی",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: یک فرستاده از کابل به نزد سردار یل زابلی آمده است."
     },
     {
       "VOrder": 10,
@@ -1031,7 +1036,8 @@
       "Text": "ز مهراب گرد آوریده پیام",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "از مهراب، پیام‌هایی آورده و به سمت سپهبد جهانگیر سام فرستاده شده است."
     },
     {
       "VOrder": 12,
@@ -1047,7 +1053,8 @@
       "Text": "بیامد بر سام یل پرده‌دار",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "با پوشش و حجاب به حضور سام پهلوان رفت و به او گفت تا به او اجازه حضور دهد."
     },
     {
       "VOrder": 14,
@@ -1063,7 +1070,8 @@
       "Text": "فرود آمد از اسپ سیندخت و رفت",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: سیندخت از اسب پایین آمد و به سوی سپهبد رفت، در حالی که با ناز و وقار حرکت می‌کرد."
     },
     {
       "VOrder": 16,
@@ -1079,7 +1087,8 @@
       "Text": "زمین را ببوسید و کرد آفرین",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "زمین را بوسید و به پادشاه بزرگ و پهلوان زمین درود فرستاد."
     },
     {
       "VOrder": 18,
@@ -1095,7 +1104,8 @@
       "Text": "نثار و پرستنده و اسپ و پیل",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "هدایا و کنیزان و اسب و فیل را به طور منظم و در یک راستا"
     },
     {
       "VOrder": 20,
@@ -1111,7 +1121,8 @@
       "Text": "یکایک همه پیش سام آورید",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "همه را به حضور سام آورد، سر پهلوان از دیدن این همه هدیه از تعجب مبهوت شد."
     },
     {
       "VOrder": 22,
@@ -1127,7 +1138,8 @@
       "Text": "پر اندیشه بنشست برسان مست",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "مانند انسان های مست نشست دستش را رها کرده و سرش را پایین انداخت."
     },
     {
       "VOrder": 24,
@@ -1143,7 +1155,8 @@
       "Text": "که جایی کجا مایه چندین بود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "کجا فرستادن زن اساس و رسم بوده است."
     },
     {
       "VOrder": 26,
@@ -1159,7 +1172,8 @@
       "Text": "گراین خواسته زو پذیرم همه",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر من این خواسته را بپذیرم، همه از من ناراحت خواهند شد، حتی شاه رمه."
     },
     {
       "VOrder": 28,
@@ -1175,7 +1189,8 @@
       "Text": "و گر بازگردانم از پیش زال",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "و اگر این هدایا را بازگردانم زال از من ناراحت می شود و مانند سیمرغ بال درمی آورد و می گریزد."
     },
     {
       "VOrder": 30,
@@ -1191,7 +1206,8 @@
       "Text": "برآورد سر گفت کاین خواسته",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "سر را بالا آورد و این طور دستور داد کنیزان و فیلان تزیین شده را"
     },
     {
       "VOrder": 32,
@@ -1207,7 +1223,8 @@
       "Text": "برید این به گنجور دستان دهید",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "ببرید و اینها را\u00A0 به نام ماه کابلستان به دستان ارزشمند بدهید."
     },
     {
       "VOrder": 34,
@@ -1223,7 +1240,8 @@
       "Text": "پری روی سیندخت بر پیش سام",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "سیندخت زیبا چهره در حضور سام با دل شاد سخن گفت ."
     },
     {
       "VOrder": 36,
@@ -1239,7 +1257,8 @@
       "Text": "چو آن هدیه‌ها را پذیرفته دید",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "چون دید سام هدایا را پذیرفت و دید شرایط خوب رسید و خطر بر طرف شد."
     },
     {
       "VOrder": 38,
@@ -1255,7 +1274,8 @@
       "Text": "سه بت روی با او به یک جا بدند",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "سه دختر که مانند بت زیبا بودند با او در آنجا بودند هرسه سمن‌تن و خوش‌قامت. (سمن‌: گلی سفید و خوشبوست؛ در اینجا گویا منظور گل یاسمن یا گل درختچه یاس می‌باشد)"
     },
     {
       "VOrder": 40,
@@ -1271,7 +1291,8 @@
       "Text": "گرفته یکی جام هر یک به دست",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: یک نفر جامی را در دست دارد و فرمان می‌دهد که به جای خود بنشیند."
     },
     {
       "VOrder": 42,
@@ -1287,7 +1308,8 @@
       "Text": "به پیش سپهبد فرو ریختند",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: همهٔ افراد به سوی فرمانده رفته و در کنار هم جمع شدند و به هم پیوستند."
     },
     {
       "VOrder": 44,
@@ -1303,7 +1325,8 @@
       "Text": "چو با پهلوان کار بر ساختند",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی که قهرمانان به توافق و همکاری رسیدند، خانه‌های بیگانه را رها کردند."
     },
     {
       "VOrder": 46,
@@ -1319,7 +1342,8 @@
       "Text": "چنین گفت سیندخت با پهلوان",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "سیندخت با سام پهلوان این گونه گفت که با نظر تو پیر جوان می شود."
     },
     {
       "VOrder": 48,
@@ -1335,7 +1359,8 @@
       "Text": "بزرگان ز تو دانش آموختند",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: بزرگان از تو علم و دانش یاد گرفتند و به کمک تو مشکلات و تاریکی‌ها را روشن کردند."
     },
     {
       "VOrder": 50,
@@ -1351,7 +1376,8 @@
       "Text": "به مهر تو شد بسته دست بدی",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "از مهر تو دست بدی بسته شد ، با گرزت راه خداوند یزدان باز می شود."
     },
     {
       "VOrder": 52,
@@ -1367,7 +1393,8 @@
       "Text": "گنهکار گر بود مهراب بود",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "اگر کسی گناهکار باشد مهراب است و از چشمانش خون میچکد."
     },
     {
       "VOrder": 54,
@@ -1383,7 +1410,8 @@
       "Text": "سر بیگناهان کابل چه کرد",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "بیگناهان کابل چه کرده اند کجا بروند و چکار کنند؟"
     },
     {
       "VOrder": 56,
@@ -1399,7 +1427,8 @@
       "Text": "همه شهر زنده برای تواند",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: تمامی شهر به خاطر تو در تلاش است و همه به ستایش و عبادت تو مشغول‌اند. حتی خاک زیر پای تو نیز ارزشمند است و مورد احترام قرار می‌گیرد."
     },
     {
       "VOrder": 58,
@@ -1415,7 +1444,8 @@
       "Text": "ازان ترس کو هوش و زور آفرید",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "از کسی بترس که خشم و قدرت را خلق کرد، ناهید درخشان و هور را به وجود آورد."
     },
     {
       "VOrder": 60,
@@ -1431,7 +1461,8 @@
       "Text": "نیاید چنین کارش از تو پسند",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: کار پسندیده‌ای نیست که برای رسیدن به خواسته‌ات دیگران را از پای درآوری و خون بریزی."
     },
     {
       "VOrder": 62,
@@ -1447,7 +1478,8 @@
       "Text": "بدو سام یل گفت با من بگوی",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: سام یل به او گفت: با من سخن بگو، تا من از آن موضوع بپرسم و بهانه‌ای نیاور."
     },
     {
       "VOrder": 64,
@@ -1463,7 +1495,8 @@
       "Text": "تو مهراب را کهتری گر همال",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "اگر تو فرمانبردار مهراب هستی به من بگو زال کجا دختر مهراب را دید."
     },
     {
       "VOrder": 66,
@@ -1479,7 +1512,8 @@
       "Text": "به روی و به موی و به خوی و خرد",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "\u00A0چهره و مو و شخصیت و دانش دختر مهراب بگو که چگونه است."
     },
     {
       "VOrder": 68,
@@ -1495,7 +1529,8 @@
       "Text": "ز بالا و دیدار و فرهنگ اوی",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "از قد و بالا و تربیت او همان چیزهایی که دیدی یکی یکی بگو."
     },
     {
       "VOrder": 70,
@@ -1511,7 +1546,8 @@
       "Text": "بدو گفت سیندخت کای پهلوان",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: سیندخت به پهلوان گفت: ای پهلوان قهرمان و نیرومند، تو بهترین و برجسته‌ترین مردان هستی."
     },
     {
       "VOrder": 72,
@@ -1527,7 +1563,8 @@
       "Text": "یکی سخت پیمانت خواهم نخست",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "ابتدا یک پیمان از تو می خواهم که از او سرزمین لرزان شود."
     },
     {
       "VOrder": 74,
@@ -1543,7 +1580,8 @@
       "Text": "که از تو نیاید به جانم گزند",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "که تو به من آسیب نرسانی، کسی از من گرامی تر نیست."
     },
     {
       "VOrder": 76,
@@ -1559,7 +1597,8 @@
       "Text": "مرا کاخ و ایوان آباد هست",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "من دارای کاخ و تالارهای زیبا هستم،\u00A0 ثروت و خانواده‌ و اصل و نصب دارم."
     },
     {
       "VOrder": 78,
@@ -1575,7 +1614,8 @@
       "Text": "چو ایمن شوم هر چه گویی بگوی",
       "CoupletIndex": 39,
       "SectionIndex1": 0,
-      "SectionIndex2": 41
+      "SectionIndex2": 41,
+      "CoupletSummary": "وقتی که در حالت امنیت و آرامش قرار بگیرم، هر چیزی را که بگویی می‌شنوم و می‌گویم. از این طریق آبرو بدست می آورم."
     },
     {
       "VOrder": 80,
@@ -1591,7 +1631,8 @@
       "Text": "نهفته همه گنج کابلستان",
       "CoupletIndex": 40,
       "SectionIndex1": 0,
-      "SectionIndex2": 42
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: در دل کابل، ثروت و ماجراهای زیادی وجود دارد و من تلاش می‌کنم که این گنجینه‌ها را به زابل برسانم."
     },
     {
       "VOrder": 82,
@@ -1607,7 +1648,8 @@
       "Text": "جزین نیز هر چیز کاندر خورد",
       "CoupletIndex": 41,
       "SectionIndex1": 0,
-      "SectionIndex2": 43
+      "SectionIndex2": 43,
+      "CoupletSummary": "به جز این هر چیز دیگری که بزرگتر باهوش\u00A0شایسته می بیند من انجام می دهم."
     },
     {
       "VOrder": 84,
@@ -1623,7 +1665,8 @@
       "Text": "گرفت آن زمان سام دستش به دست",
       "CoupletIndex": 42,
       "SectionIndex1": 0,
-      "SectionIndex2": 44
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان، سام دست خود را به دستان او داد و با محبت او را نوازش کرد و پیمانی میانشان بسته شد."
     },
     {
       "VOrder": 86,
@@ -1639,7 +1682,8 @@
       "Text": "چو بشنید سیندخت سوگند او",
       "CoupletIndex": 43,
       "SectionIndex1": 0,
-      "SectionIndex2": 45
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: سیندخت وقتی سوگند او را شنید، فهمید که او واقعاً راستگو و پایبند به عهد و پیمانش است."
     },
     {
       "VOrder": 88,
@@ -1655,7 +1699,8 @@
       "Text": "زمین را ببوسید و بر پای خاست",
       "CoupletIndex": 44,
       "SectionIndex1": 0,
-      "SectionIndex2": 46
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: زمین را بوسید و سپس برخواست و گفت آنچه را که در دل داشت و پنهان بود، به راستی بیان کرد."
     },
     {
       "VOrder": 90,
@@ -1671,7 +1716,8 @@
       "Text": "که من خویش ضحاکم ای پهلوان",
       "CoupletIndex": 45,
       "SectionIndex1": 0,
-      "SectionIndex2": 47
+      "SectionIndex2": 47,
+      "CoupletSummary": "من اقوام ضحاک هستم ای پهلوان، زن مهراب دلیر و زیرک هستم."
     },
     {
       "VOrder": 92,
@@ -1687,7 +1733,8 @@
       "Text": "همان مام رودابهٔ ماه روی",
       "CoupletIndex": 46,
       "SectionIndex1": 0,
-      "SectionIndex2": 48
+      "SectionIndex2": 48,
+      "CoupletSummary": "همان مادر رودابه ماه چهره که دستان برای او جانش را هم میدهد."
     },
     {
       "VOrder": 94,
@@ -1703,7 +1750,8 @@
       "Text": "همه دودمان پیش یزدان پاک",
       "CoupletIndex": 47,
       "SectionIndex1": 0,
-      "SectionIndex2": 49
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: تمام نسل‌ها و خانواده‌ها در مقابل خداوند پاک و بی‌نظیر، در شب تاریک زندگی خود انتظار دارند که روزی روشن و خوب بیاید و این شب تیره برطرف شود."
     },
     {
       "VOrder": 96,
@@ -1719,7 +1767,8 @@
       "Text": "همی بر تو بر خواندیم آفرین",
       "CoupletIndex": 48,
       "SectionIndex1": 0,
-      "SectionIndex2": 50
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: ما در حق تو پیوسته ستایش می‌کردیم، همان‌طور که بر پادشاه جهان می‌ستاییم."
     },
     {
       "VOrder": 98,
@@ -1735,7 +1784,8 @@
       "Text": "کنون آمدم تا هوای تو چیست",
       "CoupletIndex": 49,
       "SectionIndex1": 0,
-      "SectionIndex2": 51
+      "SectionIndex2": 51,
+      "CoupletSummary": "اکنون به اینجا آمده‌ام تا ببینم حال و هوای تو چگونه است. از کابل\u00A0چه کسانی\u00A0دشمن و دوست هستند."
     },
     {
       "VOrder": 100,
@@ -1751,7 +1801,8 @@
       "Text": "اگر ما گنهکار و بدگوهریم",
       "CoupletIndex": 50,
       "SectionIndex1": 0,
-      "SectionIndex2": 52
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: اگر ما گناهکار و ناپاک هستیم، پس شایسته‌ی این مقام و سلطنت نیستیم."
     },
     {
       "VOrder": 102,
@@ -1767,7 +1818,8 @@
       "Text": "من اینک به پیش توام مستمند",
       "CoupletIndex": 51,
       "SectionIndex1": 0,
-      "SectionIndex2": 53
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: من اکنون در برابر تو هستم و نیازمند هستم، اگر می‌خواهی مرا بکش، بکش، و اگر هم می‌خواهی مرا محبوس کن، محبوس کن."
     },
     {
       "VOrder": 104,
@@ -1783,7 +1835,8 @@
       "Text": "دل بیگناهان کابل مسوز",
       "CoupletIndex": 52,
       "SectionIndex1": 0,
-      "SectionIndex2": 54
+      "SectionIndex2": 54,
+      "CoupletSummary": "دل بیگناهان\u00A0 کابل را نسوزان ، زیرا در این روزهای تاریک، هیچ چیز جز بدبختی و مشقت برای آنها نمی‌آید."
     },
     {
       "VOrder": 106,
@@ -1799,7 +1852,8 @@
       "Text": "سخنها چو بشنید ازو پهلوان",
       "CoupletIndex": 53,
       "SectionIndex1": 0,
-      "SectionIndex2": 55
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: زمانی که پهلوان به سخنان او گوش داد، زنی را دید که با عقل و فکر روشن خود، توجهش را جلب کرد."
     },
     {
       "VOrder": 108,
@@ -1815,7 +1869,8 @@
       "Text": "به رخ چون بهار و به بالا چو سرو",
       "CoupletIndex": 54,
       "SectionIndex1": 0,
-      "SectionIndex2": 56
+      "SectionIndex2": 56,
+      "CoupletSummary": "چهره اش مانند بهار زیبا و قدش مانند سرو بلند ، کمرش باریک و در راه رفتن مانند قرقاول بود."
     },
     {
       "VOrder": 110,
@@ -1831,7 +1886,8 @@
       "Text": "چنین داد پاسخ که پیمان من",
       "CoupletIndex": 55,
       "SectionIndex1": 0,
-      "SectionIndex2": 57
+      "SectionIndex2": 57,
+      "CoupletSummary": "سام به او پاسخ داد که پیمان من درست است حتی اگر جان من از بین برود."
     },
     {
       "VOrder": 112,
@@ -1847,7 +1903,8 @@
       "Text": "تو با کابل و هر که پیوند تست",
       "CoupletIndex": 56,
       "SectionIndex1": 0,
-      "SectionIndex2": 58
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: شما با کابل و هر کسی که به او وابسته‌اید، خوشحال و سالم بمانید."
     },
     {
       "VOrder": 114,
@@ -1863,7 +1920,8 @@
       "Text": "بدین نیز همداستانم که زال",
       "CoupletIndex": 57,
       "SectionIndex1": 0,
-      "SectionIndex2": 59
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: من نیز با این نظر موافقم که زال باید مانند رودابه، در جستجوی همسری از دنیا باشد."
     },
     {
       "VOrder": 116,
@@ -1879,7 +1937,8 @@
       "Text": "شما گرچه از گوهر دیگرید",
       "CoupletIndex": 58,
       "SectionIndex1": 0,
-      "SectionIndex2": 60
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: شما هرچند که از جنس دیگری هستید، اما همان مقام و مرتبه را دارید."
     },
     {
       "VOrder": 118,
@@ -1895,7 +1954,8 @@
       "Text": "چنین است گیتی وزین ننگ نیست",
       "CoupletIndex": 59,
       "SectionIndex1": 0,
-      "SectionIndex2": 61
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: دنیا این‌گونه است و ننگی بر کسی نیست، زیرا جنگی بر علیه خدایی که جهان را خلق کرده وجود ندارد."
     },
     {
       "VOrder": 120,
@@ -1911,7 +1971,8 @@
       "Text": "چنان آفریند که آیدش رای",
       "CoupletIndex": 60,
       "SectionIndex1": 0,
-      "SectionIndex2": 62
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: او به نحوی خلق کرده که در برابر اندیشه‌اش نایستیم و ما همچنان به اشک و ناله ادامه دادیم."
     },
     {
       "VOrder": 122,
@@ -1927,7 +1988,8 @@
       "Text": "یکی بر فراز و یکی در نشیب",
       "CoupletIndex": 61,
       "SectionIndex1": 0,
-      "SectionIndex2": 63
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به تضاد و تفاوت‌های زندگی اشاره شده است. برخی افراد در اوج موفقیت و خوشبختی قرار دارند، در حالی که دیگران با مشکلات و چالش‌ها روبه‌رو هستند. بعضی‌ها در حال پیشرفت و افزایش منابع خود هستند، در حالی که عده‌ای ممکن است با سختی‌ها و ناکامی‌ها مواجه شوند."
     },
     {
       "VOrder": 124,
@@ -1943,7 +2005,8 @@
       "Text": "یکی از فزایش دل آراسته",
       "CoupletIndex": 62,
       "SectionIndex1": 0,
-      "SectionIndex2": 64
+      "SectionIndex2": 64,
+      "CoupletSummary": "یک نفر دلش به زیبایی آراسته شده و دیگری از زیبایی دلش کاسته شده است."
     },
     {
       "VOrder": 126,
@@ -1959,7 +2022,8 @@
       "Text": "یکی نامه با لابهٔ دردمند",
       "CoupletIndex": 63,
       "SectionIndex1": 0,
-      "SectionIndex2": 65
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: من یک نامه با دل پر درد و ناله نوشتم و به نزد شاه بزرگ فرستادم."
     },
     {
       "VOrder": 128,
@@ -1975,7 +2039,8 @@
       "Text": "به نزد منوچهر شد زال زر",
       "CoupletIndex": 64,
       "SectionIndex1": 0,
-      "SectionIndex2": 66
+      "SectionIndex2": 66,
+      "CoupletSummary": "زال با سرعت مانند پر به نزد منوچهر رفت ."
     },
     {
       "VOrder": 130,
@@ -1991,7 +2056,8 @@
       "Text": "به زین اندر آمد که زین را ندید",
       "CoupletIndex": 65,
       "SectionIndex1": 0,
-      "SectionIndex2": 67
+      "SectionIndex2": 67,
+      "CoupletSummary": "به گونه ای سوار بر\u00A0 زین شد که زین را بندید و چنان با سرعت حرکت می کرد که نعل اسبش به زمین برخورد نکرد."
     },
     {
       "VOrder": 132,
@@ -2007,7 +2073,8 @@
       "Text": "بدین زال را شاه پاسخ دهد",
       "CoupletIndex": 66,
       "SectionIndex1": 0,
-      "SectionIndex2": 68
+      "SectionIndex2": 68,
+      "CoupletSummary": "شاه اینگونه به زال پاسخ می دهد و اگر خندان شود نظر مساعد می دهد."
     },
     {
       "VOrder": 134,
@@ -2023,7 +2090,8 @@
       "Text": "که پروردهٔ مرغ بی‌دل شدست",
       "CoupletIndex": 67,
       "SectionIndex1": 0,
-      "SectionIndex2": 69
+      "SectionIndex2": 69,
+      "CoupletSummary": "که ، کسی که پرورش یافته مرغ است دلش را از دست داده ، انقدر گریه کرده که از اشکش زمین زیرپایش گلی شده است و پای او در آن گل گیر کرده."
     },
     {
       "VOrder": 136,
@@ -2039,7 +2107,8 @@
       "Text": "عروس ار به مهر اندرون همچو اوست",
       "CoupletIndex": 68,
       "SectionIndex1": 0,
-      "SectionIndex2": 70
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: اگر عروس به زیبایی و محبت او باشد، شایسته است که هر دو از قید و بندها آزاد شوند."
     },
     {
       "VOrder": 138,
@@ -2055,7 +2124,8 @@
       "Text": "یکی روی آن بچهٔ اژدها",
       "CoupletIndex": 69,
       "SectionIndex1": 0,
-      "SectionIndex2": 71
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: لطفاً آن بچه‌ی اژدها را به من نشان بده و برایش پاداشی بگیر."
     },
     {
       "VOrder": 140,
@@ -2071,7 +2141,8 @@
       "Text": "بدو گفت سیندخت اگر پهلوان",
       "CoupletIndex": 70,
       "SectionIndex1": 0,
-      "SectionIndex2": 72
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: سیندخت به او گفت: اگر قهرمان این کار را انجام دهد، مرا خوشحال و شاداب خواهد کرد."
     },
     {
       "VOrder": 142,
@@ -2087,7 +2158,8 @@
       "Text": "چماند به کاخ من اندر سمند",
       "CoupletIndex": 71,
       "SectionIndex1": 0,
-      "SectionIndex2": 73
+      "SectionIndex2": 73,
+      "CoupletSummary": "هوش مصنوعی: اسب زیبا و نیرومندی به کاخ من می‌آید و من را به آسمان بلند می‌برد."
     },
     {
       "VOrder": 144,
@@ -2103,7 +2175,8 @@
       "Text": "به کابل چنو شهریار آوریم",
       "CoupletIndex": 72,
       "SectionIndex1": 0,
-      "SectionIndex2": 74
+      "SectionIndex2": 74,
+      "CoupletSummary": "هوش مصنوعی: به کابل، شهریار را می‌آوریم و همه برای او جان خود را فدای او می‌کنیم."
     },
     {
       "VOrder": 146,
@@ -2119,7 +2192,8 @@
       "Text": "لب سام سیندخت پرخنده دید",
       "CoupletIndex": 73,
       "SectionIndex1": 0,
-      "SectionIndex2": 75
+      "SectionIndex2": 75,
+      "CoupletSummary": "سیندخت لب‌های زیبا و خندان سام را دید و متوجه شد که همه‌ی کینه‌ها و ناراحتی‌ها از دلش ریشه‌کن شده‌اند."
     },
     {
       "VOrder": 148,
@@ -2135,7 +2209,8 @@
       "Text": "نوندی دلاور به کردار باد",
       "CoupletIndex": 74,
       "SectionIndex1": 0,
-      "SectionIndex2": 76
+      "SectionIndex2": 76,
+      "CoupletSummary": "هوش مصنوعی: دلاوری مانند باد به جلو می‌تازد و به مهراب خبر خوشی می‌دهد."
     },
     {
       "VOrder": 150,
@@ -2151,7 +2226,8 @@
       "Text": "کز اندیشهٔ بد مکن یاد هیچ",
       "CoupletIndex": 75,
       "SectionIndex1": 0,
-      "SectionIndex2": 77
+      "SectionIndex2": 77,
+      "CoupletSummary": "هوش مصنوعی: از تفکر بد دوری کن و هیچ گاه به یاد نیاور. دل خود را شاد کن و به کارهای مهمان‌نوازی بپرداز."
     },
     {
       "VOrder": 152,
@@ -2167,7 +2243,8 @@
       "Text": "من اینک پس نامه اندر دمان",
       "CoupletIndex": 76,
       "SectionIndex1": 0,
-      "SectionIndex2": 78
+      "SectionIndex2": 78,
+      "CoupletSummary": "من بعد از نامه به سرعت می آیم ، اصلا زمان را از دست نمیدهم."
     },
     {
       "VOrder": 154,
@@ -2183,7 +2260,8 @@
       "Text": "دوم روز چون چشمهٔ آفتاب",
       "CoupletIndex": 77,
       "SectionIndex1": 0,
-      "SectionIndex2": 79
+      "SectionIndex2": 79,
+      "CoupletSummary": "هوش مصنوعی: دوم روز که آفتاب خنک و دلپذیر خود را به آسمان می‌تاباند، از خواب بیدار شد و شروع به حرکت کرد."
     },
     {
       "VOrder": 156,
@@ -2199,7 +2277,8 @@
       "Text": "گرانمایه سیندخت بنهاد روی",
       "CoupletIndex": 78,
       "SectionIndex1": 0,
-      "SectionIndex2": 80
+      "SectionIndex2": 80,
+      "CoupletSummary": "هوش مصنوعی: سیندخت با ارزش و گرانبها، رویش را به سوی درگاه پادشاهی که تاج و تخت دارد، قرار داد."
     },
     {
       "VOrder": 158,
@@ -2215,7 +2294,8 @@
       "Text": "روارو برآمد ز درگاه سام",
       "CoupletIndex": 79,
       "SectionIndex1": 0,
-      "SectionIndex2": 81
+      "SectionIndex2": 81,
+      "CoupletSummary": "هوش مصنوعی: یک زن زیبا به آرامی از درگاه سام خارج شد و بانوان او را به نام صدایش کردند."
     },
     {
       "VOrder": 160,
@@ -2231,7 +2311,8 @@
       "Text": "بیامد بر سام و بردش نماز",
       "CoupletIndex": 80,
       "SectionIndex1": 0,
-      "SectionIndex2": 82
+      "SectionIndex2": 82,
+      "CoupletSummary": "به پیش سام آمد و به او تعظیم کرد ، زمان طولانی با او سخن گفت."
     },
     {
       "VOrder": 162,
@@ -2247,7 +2328,8 @@
       "Text": "به دستوری بازگشتن به جای",
       "CoupletIndex": 81,
       "SectionIndex1": 0,
-      "SectionIndex2": 83
+      "SectionIndex2": 83,
+      "CoupletSummary": "با فرمانی به سمت وطن باز می‌گردند و با خوشحالی به سمت پادشاه با کابل می‌روند."
     },
     {
       "VOrder": 164,
@@ -2263,7 +2345,8 @@
       "Text": "دگر ساختن کار مهمان نو",
       "CoupletIndex": 82,
       "SectionIndex1": 0,
-      "SectionIndex2": 84
+      "SectionIndex2": 84,
+      "CoupletSummary": "با مهمان نو به شیوه جدید رفتار کردند. با داماد پیمان جدید بستند."
     },
     {
       "VOrder": 166,
@@ -2279,7 +2362,8 @@
       "Text": "ورا سام یل گفت برگرد و رو",
       "CoupletIndex": 83,
       "SectionIndex1": 0,
-      "SectionIndex2": 85
+      "SectionIndex2": 85,
+      "CoupletSummary": "سام پهلوان به او گفت: برگرد و هر چه را دیده‌ای به مهراب بگو."
     },
     {
       "VOrder": 168,
@@ -2295,7 +2379,8 @@
       "Text": "سزاوار او خلعت آراستند",
       "CoupletIndex": 84,
       "SectionIndex1": 0,
-      "SectionIndex2": 86
+      "SectionIndex2": 86,
+      "CoupletSummary": "هوش مصنوعی: او را به خاطر شایستگی‌اش به زیور و لباس‌های زیبا آراسته‌اند و از گنجینه‌اش بهترین چیزهایی که خواسته بودند، انتخاب کرده‌اند."
     },
     {
       "VOrder": 170,
@@ -2311,7 +2396,8 @@
       "Text": "بکابل دگر سام را هر چه بود",
       "CoupletIndex": 85,
       "SectionIndex1": 0,
-      "SectionIndex2": 87
+      "SectionIndex2": 87,
+      "CoupletSummary": "هوش مصنوعی: سام هر چه از کاخ، باغ، زمین‌های کشاورزی و نعمت‌ها داشت، به کابل دیگر منتقل کرد."
     },
     {
       "VOrder": 172,
@@ -2327,7 +2413,8 @@
       "Text": "دگر چارپایان دوشیدنی",
       "CoupletIndex": 86,
       "SectionIndex1": 0,
-      "SectionIndex2": 88
+      "SectionIndex2": 88,
+      "CoupletSummary": "هوش مصنوعی: دیگر برای چهارپایان، دوشیدن، گستراندن و پوشاندن لازم است."
     },
     {
       "VOrder": 174,
@@ -2343,7 +2430,8 @@
       "Text": "به سیندخت بخشید و دستش بدست",
       "CoupletIndex": 87,
       "SectionIndex1": 0,
-      "SectionIndex2": 89
+      "SectionIndex2": 89,
+      "CoupletSummary": "همه را به سیندخت داد و دستش را در دست گرفت و همچنین پیمانی نیز بستند."
     },
     {
       "VOrder": 176,
@@ -2359,7 +2447,8 @@
       "Text": "پذیرفت مر دخت او را بزال",
       "CoupletIndex": 88,
       "SectionIndex1": 0,
-      "SectionIndex2": 90
+      "SectionIndex2": 90,
+      "CoupletSummary": "دختر او را به همسری زال پذیرفتند، که هر با شادی زندگی کنند."
     },
     {
       "VOrder": 178,
@@ -2375,7 +2464,8 @@
       "Text": "سرافراز گردی و مردی دویست",
       "CoupletIndex": 89,
       "SectionIndex1": 0,
-      "SectionIndex2": 91
+      "SectionIndex2": 91,
+      "CoupletSummary": "دویست مرد\u00A0 سرافراز و پهلوان به او داد و به او گفت دیگر اینجا نمان ."
     },
     {
       "VOrder": 180,
@@ -2391,7 +2481,8 @@
       "Text": "به کابل بباش و به شادی بمان",
       "CoupletIndex": 90,
       "SectionIndex1": 0,
-      "SectionIndex2": 92
+      "SectionIndex2": 92,
+      "CoupletSummary": "به کابل برو و با شادی آنجا بمان، از این به بعد از بدی بدخواهان نترس."
     },
     {
       "VOrder": 182,
@@ -2407,7 +2498,8 @@
       "Text": "شگفته شد آن روی پژمرده ماه",
       "CoupletIndex": 91,
       "SectionIndex1": 0,
-      "SectionIndex2": 93
+      "SectionIndex2": 93,
+      "CoupletSummary": "چهره پژمرده سیندخت به نور\u00A0شکفته\u00A0شد و به راه افتاد."
     },
     {
       "VOrder": 184,
@@ -2416,6 +2508,80 @@
       "CoupletIndex": 91,
       "SectionIndex1": 0,
       "SectionIndex2": 93
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 2,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوان و سپهبد جهانگیر که سیندخت نزد او آمده است."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستندهٔ پیام و هدیه به سام؛ بزرگ کابلستان."
+    },
+    {
+      "CoupletIndex": 7,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): فرستادهٔ مهراب که با هدیه نزد سام آمده و با او سخن می‌گوید."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 53,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پرنده‌ای داستانی که تنها برای تشبیه بال‌گستردن او آمده است."
+    },
+    {
+      "CoupletIndex": 14,
+      "PersonId": 54,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سام دربارهٔ بازگرداندن هدیه‌ها نزد او می‌اندیشد؛ دخت مهراب را دیده است."
+    },
+    {
+      "CoupletIndex": 45,
+      "PersonId": 8,
+      "PersonMention": "Allusion",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): سیندخت خود را از خویشان او معرفی می‌کند."
+    },
+    {
+      "CoupletIndex": 46,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر سیندخت و مهراب که دلبستهٔ زال است."
+    },
+    {
+      "CoupletIndex": 63,
+      "PersonId": 38,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): شاهی که زال نزد او می‌رود و پاسخ او را می‌خواهد."
     }
   ]
 }

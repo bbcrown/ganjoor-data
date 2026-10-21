@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "رممیداری",
-      "PlainText": "هم حله فضل در برم میداری\r\nهر افسر حفظ بر سرم میداری\r\nهر چند زمن بیش بدی میبینی\r\nهر دم به کرم نکوترم میداری",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم حلهٔ فضل در برم میداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر افسرِ حفظ بر سرم میداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند زمن بیش بدی میبینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دم به کرم نکوترم میداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "هم حله فضل در برم می داری\r\nهم افسر حفظ بر سرم می داری\r\nهر چند ز من بیش بدی می بینی\r\nهر دم به کرم نکوترم می داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم حلّهٔ فضل در برم می‌داری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم افسرِ حفظ بر سرم می‌داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چند ز من بیش بدی می‌بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دم به کرم نکوترم می‌داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,28 +29,30 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "هم حلهٔ فضل در برم میداری",
+      "Text": "هم حلّهٔ فضل در برم می‌داری",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو همواره با فضیلت خود مرا می‌پوشانی و مانند یک محافظ، به طور دائمی در کنارم هستی."
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "هر افسرِ حفظ بر سرم میداری",
+      "Text": "هم افسرِ حفظ بر سرم می‌داری",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "هر چند زمن بیش بدی میبینی",
+      "Text": "هر چند ز من بیش بدی می‌بینی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که تو هر روز بدی‌های مرا مشاهده می‌کنی، اما با لطف و محبت خود، از من به نیکی یاد می‌کنی."
     },
     {
       "VOrder": 4,
       "Position": "Left",
-      "Text": "هر دم به کرم نکوترم میداری",
+      "Text": "هر دم به کرم نکوترم می‌داری",
       "CoupletIndex": 1,
       "SectionIndex1": 0
     }

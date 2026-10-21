@@ -1,0 +1,2218 @@
+{
+  "500": [
+    {
+      "PoemId": 1934,
+      "CoupletIndex": 5,
+      "PersonMention": "Participant"
+    }
+  ],
+  "501": [
+    {
+      "PoemId": 1937,
+      "CoupletIndex": 43,
+      "PersonMention": "Participant"
+    }
+  ],
+  "502": [
+    {
+      "PoemId": 1940,
+      "CoupletIndex": 6,
+      "PersonMention": "Participant"
+    }
+  ],
+  "503": [
+    {
+      "PoemId": 52170,
+      "CoupletIndex": 67,
+      "PersonMention": "Participant"
+    }
+  ],
+  "504": [
+    {
+      "PoemId": 52170,
+      "CoupletIndex": 70,
+      "PersonMention": "Participant"
+    }
+  ],
+  "505": [
+    {
+      "PoemId": 52170,
+      "CoupletIndex": 70,
+      "PersonMention": "Participant"
+    }
+  ],
+  "506": [
+    {
+      "PoemId": 52171,
+      "CoupletIndex": 42,
+      "PersonMention": "Participant"
+    }
+  ],
+  "507": [
+    {
+      "PoemId": 52171,
+      "CoupletIndex": 47,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52172,
+      "CoupletIndex": 190,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52176,
+      "CoupletIndex": 111,
+      "PersonMention": "Participant"
+    }
+  ],
+  "508": [
+    {
+      "PoemId": 52172,
+      "CoupletIndex": 188,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52176,
+      "CoupletIndex": 111,
+      "PersonMention": "Participant"
+    }
+  ],
+  "509": [
+    {
+      "PoemId": 52173,
+      "CoupletIndex": 133,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52174,
+      "CoupletIndex": 6,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52175,
+      "CoupletIndex": 93,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52176,
+      "CoupletIndex": 123,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "510": [
+    {
+      "PoemId": 52175,
+      "CoupletIndex": 122,
+      "PersonMention": "Participant"
+    }
+  ],
+  "511": [
+    {
+      "PoemId": 52170,
+      "CoupletIndex": 182,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 52175,
+      "CoupletIndex": 79,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52176,
+      "CoupletIndex": 98,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 52177,
+      "CoupletIndex": 28,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "512": [
+    {
+      "PoemId": 52177,
+      "CoupletIndex": 122,
+      "PersonMention": "Participant"
+    }
+  ],
+  "513": [
+    {
+      "PoemId": 52177,
+      "CoupletIndex": 123,
+      "PersonMention": "Participant"
+    }
+  ],
+  "514": [
+    {
+      "PoemId": 52177,
+      "CoupletIndex": 123,
+      "PersonMention": "Participant"
+    }
+  ],
+  "515": [
+    {
+      "PoemId": 52177,
+      "CoupletIndex": 124,
+      "PersonMention": "Participant"
+    }
+  ],
+  "516": [
+    {
+      "PoemId": 87955,
+      "CoupletIndex": 13,
+      "PersonMention": "Participant"
+    }
+  ],
+  "517": [
+    {
+      "PoemId": 87955,
+      "CoupletIndex": 15,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "518": [
+    {
+      "PoemId": 87955,
+      "CoupletIndex": 16,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87976,
+      "CoupletIndex": 55,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88042,
+      "CoupletIndex": 14,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88052,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "519": [
+    {
+      "PoemId": 87955,
+      "CoupletIndex": 41,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87970,
+      "CoupletIndex": 6,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87972,
+      "CoupletIndex": 73,
+      "PersonMention": "Participant"
+    }
+  ],
+  "520": [
+    {
+      "PoemId": 87955,
+      "CoupletIndex": 51,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87971,
+      "CoupletIndex": 45,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87972,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87977,
+      "CoupletIndex": 92,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87978,
+      "CoupletIndex": 11,
+      "PersonMention": "Participant"
+    }
+  ],
+  "521": [
+    {
+      "PoemId": 87955,
+      "CoupletIndex": 60,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87972,
+      "CoupletIndex": 48,
+      "PersonMention": "Participant"
+    }
+  ],
+  "522": [
+    {
+      "PoemId": 87965,
+      "CoupletIndex": 26,
+      "PersonMention": "Participant"
+    }
+  ],
+  "523": [
+    {
+      "PoemId": 87971,
+      "CoupletIndex": 42,
+      "PersonMention": "Participant"
+    }
+  ],
+  "524": [
+    {
+      "PoemId": 87971,
+      "CoupletIndex": 48,
+      "PersonMention": "Participant"
+    }
+  ],
+  "525": [
+    {
+      "PoemId": 87983,
+      "CoupletIndex": 20,
+      "PersonMention": "Participant"
+    }
+  ],
+  "526": [
+    {
+      "PoemId": 87983,
+      "CoupletIndex": 23,
+      "PersonMention": "Participant"
+    }
+  ],
+  "527": [
+    {
+      "PoemId": 87984,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "528": [
+    {
+      "PoemId": 87989,
+      "CoupletIndex": 66,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87992,
+      "CoupletIndex": 122,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87993,
+      "CoupletIndex": 70,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88003,
+      "CoupletIndex": 14,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 215,
+      "PersonMention": "Participant"
+    }
+  ],
+  "529": [
+    {
+      "PoemId": 87989,
+      "CoupletIndex": 92,
+      "PersonMention": "Participant"
+    }
+  ],
+  "530": [
+    {
+      "PoemId": 87990,
+      "CoupletIndex": 28,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87991,
+      "CoupletIndex": 37,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87992,
+      "CoupletIndex": 122,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87993,
+      "CoupletIndex": 70,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87996,
+      "CoupletIndex": 53,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87997,
+      "CoupletIndex": 72,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88001,
+      "CoupletIndex": 48,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88003,
+      "CoupletIndex": 14,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88006,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 140,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "531": [
+    {
+      "PoemId": 87992,
+      "CoupletIndex": 85,
+      "PersonMention": "Participant"
+    }
+  ],
+  "532": [
+    {
+      "PoemId": 87993,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "533": [
+    {
+      "PoemId": 87993,
+      "CoupletIndex": 78,
+      "PersonMention": "Participant"
+    }
+  ],
+  "534": [
+    {
+      "PoemId": 87993,
+      "CoupletIndex": 117,
+      "PersonMention": "Participant"
+    }
+  ],
+  "535": [
+    {
+      "PoemId": 87993,
+      "CoupletIndex": 117,
+      "PersonMention": "Participant"
+    }
+  ],
+  "536": [
+    {
+      "PoemId": 87994,
+      "CoupletIndex": 11,
+      "PersonMention": "Participant"
+    }
+  ],
+  "537": [
+    {
+      "PoemId": 87996,
+      "CoupletIndex": 48,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "538": [
+    {
+      "PoemId": 87997,
+      "CoupletIndex": 253,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 140,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "539": [
+    {
+      "PoemId": 88001,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "540": [
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 7,
+      "PersonMention": "Participant"
+    }
+  ],
+  "541": [
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 8,
+      "PersonMention": "Participant"
+    }
+  ],
+  "542": [
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 127,
+      "PersonMention": "Participant"
+    }
+  ],
+  "543": [
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 140,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "544": [
+    {
+      "PoemId": 87989,
+      "CoupletIndex": 64,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87993,
+      "CoupletIndex": 117,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87997,
+      "CoupletIndex": 252,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87999,
+      "CoupletIndex": 56,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 141,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "545": [
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 199,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88008,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88010,
+      "CoupletIndex": 31,
+      "PersonMention": "Participant"
+    }
+  ],
+  "546": [
+    {
+      "PoemId": 88008,
+      "CoupletIndex": 42,
+      "PersonMention": "Participant"
+    }
+  ],
+  "547": [
+    {
+      "PoemId": 88011,
+      "CoupletIndex": 129,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88012,
+      "CoupletIndex": 6,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88013,
+      "CoupletIndex": 46,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88019,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88020,
+      "CoupletIndex": 47,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88021,
+      "CoupletIndex": 32,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88022,
+      "CoupletIndex": 17,
+      "PersonMention": "Participant"
+    }
+  ],
+  "548": [
+    {
+      "PoemId": 88011,
+      "CoupletIndex": 207,
+      "PersonMention": "Participant"
+    }
+  ],
+  "549": [
+    {
+      "PoemId": 8870,
+      "CoupletIndex": 6,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88012,
+      "CoupletIndex": 11,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88024,
+      "CoupletIndex": 4,
+      "PersonMention": "Participant"
+    }
+  ],
+  "550": [
+    {
+      "PoemId": 88014,
+      "CoupletIndex": 99,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "551": [
+    {
+      "PoemId": 88015,
+      "CoupletIndex": 58,
+      "PersonMention": "Participant"
+    }
+  ],
+  "552": [
+    {
+      "PoemId": 88017,
+      "CoupletIndex": 60,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88030,
+      "CoupletIndex": 32,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88042,
+      "CoupletIndex": 15,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88046,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "553": [
+    {
+      "PoemId": 87955,
+      "CoupletIndex": 178,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87976,
+      "CoupletIndex": 7,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88017,
+      "CoupletIndex": 61,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88020,
+      "CoupletIndex": 46,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88021,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88022,
+      "CoupletIndex": 27,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88025,
+      "CoupletIndex": 57,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88034,
+      "CoupletIndex": 17,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88035,
+      "CoupletIndex": 35,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88036,
+      "CoupletIndex": 42,
+      "PersonMention": "Participant"
+    }
+  ],
+  "554": [
+    {
+      "PoemId": 88024,
+      "CoupletIndex": 4,
+      "PersonMention": "Participant"
+    }
+  ],
+  "555": [
+    {
+      "PoemId": 88027,
+      "CoupletIndex": 70,
+      "PersonMention": "Participant"
+    }
+  ],
+  "556": [
+    {
+      "PoemId": 88027,
+      "CoupletIndex": 83,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88050,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    }
+  ],
+  "557": [
+    {
+      "PoemId": 88027,
+      "CoupletIndex": 87,
+      "PersonMention": "Participant"
+    }
+  ],
+  "558": [
+    {
+      "PoemId": 1905,
+      "CoupletIndex": 26,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88028,
+      "CoupletIndex": 7,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88030,
+      "CoupletIndex": 97,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88031,
+      "CoupletIndex": 50,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88040,
+      "CoupletIndex": 187,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "559": [
+    {
+      "PoemId": 88042,
+      "CoupletIndex": 15,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 88046,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "560": [
+    {
+      "PoemId": 88061,
+      "CoupletIndex": 28,
+      "PersonMention": "Participant"
+    }
+  ],
+  "561": [
+    {
+      "PoemId": 88061,
+      "CoupletIndex": 30,
+      "PersonMention": "Participant"
+    }
+  ],
+  "562": [
+    {
+      "PoemId": 88061,
+      "CoupletIndex": 34,
+      "PersonMention": "Participant"
+    }
+  ],
+  "563": [
+    {
+      "PoemId": 88061,
+      "CoupletIndex": 89,
+      "PersonMention": "Participant"
+    }
+  ],
+  "564": [
+    {
+      "PoemId": 88062,
+      "CoupletIndex": 101,
+      "PersonMention": "Participant"
+    }
+  ],
+  "565": [
+    {
+      "PoemId": 88062,
+      "CoupletIndex": 101,
+      "PersonMention": "Participant"
+    }
+  ],
+  "566": [
+    {
+      "PoemId": 88062,
+      "CoupletIndex": 108,
+      "PersonMention": "Participant"
+    }
+  ],
+  "567": [
+    {
+      "PoemId": 88062,
+      "CoupletIndex": 110,
+      "PersonMention": "Participant"
+    }
+  ],
+  "568": [
+    {
+      "PoemId": 88067,
+      "CoupletIndex": 48,
+      "PersonMention": "Participant"
+    }
+  ],
+  "569": [
+    {
+      "PoemId": 88067,
+      "CoupletIndex": 50,
+      "PersonMention": "Participant"
+    }
+  ],
+  "570": [
+    {
+      "PoemId": 88067,
+      "CoupletIndex": 50,
+      "PersonMention": "Participant"
+    }
+  ],
+  "571": [
+    {
+      "PoemId": 88067,
+      "CoupletIndex": 53,
+      "PersonMention": "Participant"
+    }
+  ],
+  "572": [
+    {
+      "PoemId": 88067,
+      "CoupletIndex": 76,
+      "PersonMention": "Participant"
+    }
+  ],
+  "573": [
+    {
+      "PoemId": 88069,
+      "CoupletIndex": 49,
+      "PersonMention": "Participant"
+    }
+  ],
+  "574": [
+    {
+      "PoemId": 88070,
+      "CoupletIndex": 15,
+      "PersonMention": "Participant"
+    }
+  ],
+  "575": [
+    {
+      "PoemId": 88070,
+      "CoupletIndex": 127,
+      "PersonMention": "Participant"
+    }
+  ],
+  "576": [
+    {
+      "PoemId": 8869,
+      "CoupletIndex": 6,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88073,
+      "CoupletIndex": 44,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "577": [
+    {
+      "PoemId": 88079,
+      "CoupletIndex": 46,
+      "PersonMention": "Participant"
+    }
+  ],
+  "578": [
+    {
+      "PoemId": 88083,
+      "CoupletIndex": 12,
+      "PersonMention": "Participant"
+    }
+  ],
+  "579": [
+    {
+      "PoemId": 88103,
+      "CoupletIndex": 26,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "580": [
+    {
+      "PoemId": 151725,
+      "CoupletIndex": 5,
+      "PersonMention": "Participant"
+    }
+  ],
+  "581": [
+    {
+      "PoemId": 151725,
+      "CoupletIndex": 74,
+      "PersonMention": "Participant"
+    }
+  ],
+  "582": [
+    {
+      "PoemId": 151725,
+      "CoupletIndex": 113,
+      "PersonMention": "Participant"
+    }
+  ],
+  "583": [
+    {
+      "PoemId": 151726,
+      "CoupletIndex": 26,
+      "PersonMention": "Participant"
+    }
+  ],
+  "584": [
+    {
+      "PoemId": 151727,
+      "CoupletIndex": 7,
+      "PersonMention": "Participant"
+    }
+  ],
+  "585": [
+    {
+      "PoemId": 151728,
+      "CoupletIndex": 0,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "586": [
+    {
+      "PoemId": 151734,
+      "CoupletIndex": 9,
+      "PersonMention": "Participant"
+    }
+  ],
+  "587": [
+    {
+      "PoemId": 151736,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "588": [
+    {
+      "PoemId": 151743,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "589": [
+    {
+      "PoemId": 151743,
+      "CoupletIndex": 3,
+      "PersonMention": "Participant"
+    }
+  ],
+  "590": [
+    {
+      "PoemId": 151754,
+      "CoupletIndex": 6,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "591": [
+    {
+      "PoemId": 151755,
+      "CoupletIndex": 75,
+      "PersonMention": "Participant"
+    }
+  ],
+  "592": [
+    {
+      "PoemId": 151758,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    }
+  ],
+  "593": [
+    {
+      "PoemId": 151766,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "594": [
+    {
+      "PoemId": 151774,
+      "CoupletIndex": 175,
+      "PersonMention": "Participant"
+    }
+  ],
+  "595": [
+    {
+      "PoemId": 151774,
+      "CoupletIndex": 182,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "596": [
+    {
+      "PoemId": 151775,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    }
+  ],
+  "597": [
+    {
+      "PoemId": 151775,
+      "CoupletIndex": 11,
+      "PersonMention": "Participant"
+    }
+  ],
+  "598": [
+    {
+      "PoemId": 151776,
+      "CoupletIndex": 8,
+      "PersonMention": "Participant"
+    }
+  ],
+  "599": [
+    {
+      "PoemId": 151779,
+      "CoupletIndex": 77,
+      "PersonMention": "Participant"
+    }
+  ],
+  "600": [
+    {
+      "PoemId": 151781,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    }
+  ],
+  "601": [
+    {
+      "PoemId": 151783,
+      "CoupletIndex": 116,
+      "PersonMention": "Participant"
+    }
+  ],
+  "602": [
+    {
+      "PoemId": 151783,
+      "CoupletIndex": 120,
+      "PersonMention": "Participant"
+    }
+  ],
+  "603": [
+    {
+      "PoemId": 151783,
+      "CoupletIndex": 124,
+      "PersonMention": "Participant"
+    }
+  ],
+  "604": [
+    {
+      "PoemId": 1835,
+      "CoupletIndex": 187,
+      "PersonMention": "Participant"
+    }
+  ],
+  "606": [
+    {
+      "PoemId": 1860,
+      "CoupletIndex": 44,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1872,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1874,
+      "CoupletIndex": 7,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1880,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1881,
+      "CoupletIndex": 5,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1883,
+      "CoupletIndex": 12,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1884,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1898,
+      "CoupletIndex": 44,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1899,
+      "CoupletIndex": 45,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1912,
+      "CoupletIndex": 18,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1913,
+      "CoupletIndex": 232,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52171,
+      "CoupletIndex": 170,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52172,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52173,
+      "CoupletIndex": 78,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52175,
+      "CoupletIndex": 3,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 52176,
+      "CoupletIndex": 33,
+      "PersonMention": "Participant"
+    }
+  ],
+  "607": [
+    {
+      "PoemId": 1894,
+      "CoupletIndex": 7,
+      "PersonMention": "Participant"
+    }
+  ],
+  "609": [
+    {
+      "PoemId": 1908,
+      "CoupletIndex": 111,
+      "PersonMention": "Participant"
+    }
+  ],
+  "610": [
+    {
+      "PoemId": 1919,
+      "CoupletIndex": 6,
+      "PersonMention": "Participant"
+    }
+  ],
+  "612": [
+    {
+      "PoemId": 1933,
+      "CoupletIndex": 23,
+      "PersonMention": "Participant"
+    }
+  ],
+  "613": [
+    {
+      "PoemId": 1935,
+      "CoupletIndex": 37,
+      "PersonMention": "Participant"
+    }
+  ],
+  "614": [
+    {
+      "PoemId": 52171,
+      "CoupletIndex": 111,
+      "PersonMention": "Participant"
+    }
+  ],
+  "615": [
+    {
+      "PoemId": 52174,
+      "CoupletIndex": 107,
+      "PersonMention": "Participant"
+    }
+  ],
+  "616": [
+    {
+      "PoemId": 87989,
+      "CoupletIndex": 65,
+      "PersonMention": "Participant"
+    }
+  ],
+  "617": [
+    {
+      "PoemId": 88003,
+      "CoupletIndex": 49,
+      "PersonMention": "Participant"
+    }
+  ],
+  "618": [
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 140,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "619": [
+    {
+      "PoemId": 88007,
+      "CoupletIndex": 153,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "620": [
+    {
+      "PoemId": 88022,
+      "CoupletIndex": 30,
+      "PersonMention": "Participant"
+    }
+  ],
+  "621": [
+    {
+      "PoemId": 88030,
+      "CoupletIndex": 98,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "623": [
+    {
+      "PoemId": 1618,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1619,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1621,
+      "CoupletIndex": 27,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1624,
+      "CoupletIndex": 9,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1625,
+      "CoupletIndex": 7,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1626,
+      "CoupletIndex": 6,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1627,
+      "CoupletIndex": 11,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1628,
+      "CoupletIndex": 2,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1629,
+      "CoupletIndex": 34,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "625": [
+    {
+      "PoemId": 1819,
+      "CoupletIndex": 36,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1833,
+      "CoupletIndex": 9,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1835,
+      "CoupletIndex": 204,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1850,
+      "CoupletIndex": 5,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1854,
+      "CoupletIndex": 54,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1858,
+      "CoupletIndex": 11,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1871,
+      "CoupletIndex": 20,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1880,
+      "CoupletIndex": 27,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1913,
+      "CoupletIndex": 200,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 52177,
+      "CoupletIndex": 47,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 87961,
+      "CoupletIndex": 2,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 87988,
+      "CoupletIndex": 32,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88030,
+      "CoupletIndex": 64,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88037,
+      "CoupletIndex": 28,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88061,
+      "CoupletIndex": 36,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88072,
+      "CoupletIndex": 20,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88091,
+      "CoupletIndex": 28,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88100,
+      "CoupletIndex": 2,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "627": [
+    {
+      "PoemId": 1821,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1823,
+      "CoupletIndex": 14,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1824,
+      "CoupletIndex": 3,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1858,
+      "CoupletIndex": 11,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1859,
+      "CoupletIndex": 22,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1864,
+      "CoupletIndex": 15,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1871,
+      "CoupletIndex": 20,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1872,
+      "CoupletIndex": 7,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1896,
+      "CoupletIndex": 3,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 1911,
+      "CoupletIndex": 57,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1912,
+      "CoupletIndex": 57,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1913,
+      "CoupletIndex": 152,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 52177,
+      "CoupletIndex": 15,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 87960,
+      "CoupletIndex": 49,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 87965,
+      "CoupletIndex": 26,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 88101,
+      "CoupletIndex": 2,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "628": [
+    {
+      "PoemId": 8865,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8883,
+      "CoupletIndex": 41,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8895,
+      "CoupletIndex": 35,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8910,
+      "CoupletIndex": 60,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8914,
+      "CoupletIndex": 74,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8924,
+      "CoupletIndex": 102,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8974,
+      "CoupletIndex": 19,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8977,
+      "CoupletIndex": 116,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8979,
+      "CoupletIndex": 5,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8983,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8984,
+      "CoupletIndex": 46,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8985,
+      "CoupletIndex": 26,
+      "PersonMention": "Participant"
+    }
+  ],
+  "629": [
+    {
+      "PoemId": 8865,
+      "CoupletIndex": 4,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8943,
+      "CoupletIndex": 91,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "630": [
+    {
+      "PoemId": 8868,
+      "CoupletIndex": 44,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8980,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    }
+  ],
+  "631": [
+    {
+      "PoemId": 8869,
+      "CoupletIndex": 11,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "632": [
+    {
+      "PoemId": 8869,
+      "CoupletIndex": 19,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "633": [
+    {
+      "PoemId": 8870,
+      "CoupletIndex": 6,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "634": [
+    {
+      "PoemId": 8870,
+      "CoupletIndex": 13,
+      "PersonMention": "Participant"
+    }
+  ],
+  "635": [
+    {
+      "PoemId": 8870,
+      "CoupletIndex": 17,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8895,
+      "CoupletIndex": 35,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8906,
+      "CoupletIndex": 39,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8908,
+      "CoupletIndex": 16,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8915,
+      "CoupletIndex": 3,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8916,
+      "CoupletIndex": 3,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8926,
+      "CoupletIndex": 52,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8941,
+      "CoupletIndex": 34,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8943,
+      "CoupletIndex": 92,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8975,
+      "CoupletIndex": 64,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8977,
+      "CoupletIndex": 73,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8983,
+      "CoupletIndex": 37,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "636": [
+    {
+      "PoemId": 8870,
+      "CoupletIndex": 18,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8889,
+      "CoupletIndex": 28,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8899,
+      "CoupletIndex": 22,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8984,
+      "CoupletIndex": 59,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "637": [
+    {
+      "PoemId": 8871,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "638": [
+    {
+      "PoemId": 8871,
+      "CoupletIndex": 4,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "639": [
+    {
+      "PoemId": 8871,
+      "CoupletIndex": 20,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8985,
+      "CoupletIndex": 14,
+      "PersonMention": "Participant"
+    }
+  ],
+  "640": [
+    {
+      "PoemId": 8873,
+      "CoupletIndex": 19,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "641": [
+    {
+      "PoemId": 8874,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8984,
+      "CoupletIndex": 39,
+      "PersonMention": "Participant"
+    }
+  ],
+  "642": [
+    {
+      "PoemId": 8874,
+      "CoupletIndex": 4,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "643": [
+    {
+      "PoemId": 8874,
+      "CoupletIndex": 30,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8938,
+      "CoupletIndex": 8,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8981,
+      "CoupletIndex": 29,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "644": [
+    {
+      "PoemId": 8874,
+      "CoupletIndex": 52,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8895,
+      "CoupletIndex": 7,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8898,
+      "CoupletIndex": 6,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8912,
+      "CoupletIndex": 1,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8924,
+      "CoupletIndex": 90,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8929,
+      "CoupletIndex": 16,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8941,
+      "CoupletIndex": 34,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8975,
+      "CoupletIndex": 78,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8982,
+      "CoupletIndex": 18,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8983,
+      "CoupletIndex": 44,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8984,
+      "CoupletIndex": 116,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "645": [
+    {
+      "PoemId": 8877,
+      "CoupletIndex": 13,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8887,
+      "CoupletIndex": 74,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8928,
+      "CoupletIndex": 34,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 8934,
+      "CoupletIndex": 8,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "646": [
+    {
+      "PoemId": 8878,
+      "CoupletIndex": 35,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8889,
+      "CoupletIndex": 14,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8907,
+      "CoupletIndex": 30,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8954,
+      "CoupletIndex": 115,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8956,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8973,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8975,
+      "CoupletIndex": 6,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 8977,
+      "CoupletIndex": 9,
+      "PersonMention": "Participant"
+    }
+  ],
+  "647": [
+    {
+      "PoemId": 8882,
+      "CoupletIndex": 1,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "648": [
+    {
+      "PoemId": 8882,
+      "CoupletIndex": 13,
+      "PersonMention": "Participant"
+    }
+  ],
+  "649": [
+    {
+      "PoemId": 8882,
+      "CoupletIndex": 65,
+      "PersonMention": "Participant"
+    }
+  ],
+  "650": [
+    {
+      "PoemId": 8882,
+      "CoupletIndex": 55,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "651": [
+    {
+      "PoemId": 8882,
+      "CoupletIndex": 55,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "652": [
+    {
+      "PoemId": 8893,
+      "CoupletIndex": 57,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "653": [
+    {
+      "PoemId": 8895,
+      "CoupletIndex": 7,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "654": [
+    {
+      "PoemId": 8896,
+      "CoupletIndex": 5,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "655": [
+    {
+      "PoemId": 8899,
+      "CoupletIndex": 22,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "656": [
+    {
+      "PoemId": 8900,
+      "CoupletIndex": 23,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "657": [
+    {
+      "PoemId": 8900,
+      "CoupletIndex": 74,
+      "PersonMention": "Participant"
+    }
+  ],
+  "658": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 31,
+      "PersonMention": "Participant"
+    }
+  ],
+  "659": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 31,
+      "PersonMention": "Participant"
+    }
+  ],
+  "660": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 31,
+      "PersonMention": "Participant"
+    }
+  ],
+  "661": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 32,
+      "PersonMention": "Participant"
+    }
+  ],
+  "662": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 32,
+      "PersonMention": "Participant"
+    }
+  ],
+  "663": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 32,
+      "PersonMention": "Participant"
+    }
+  ],
+  "664": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 32,
+      "PersonMention": "Participant"
+    }
+  ],
+  "665": [
+    {
+      "PoemId": 8903,
+      "CoupletIndex": 32,
+      "PersonMention": "Participant"
+    }
+  ],
+  "666": [
+    {
+      "PoemId": 8904,
+      "CoupletIndex": 2,
+      "PersonMention": "Participant"
+    }
+  ],
+  "668": [
+    {
+      "PoemId": 8912,
+      "CoupletIndex": 1,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "669": [
+    {
+      "PoemId": 8916,
+      "CoupletIndex": 115,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "670": [
+    {
+      "PoemId": 8916,
+      "CoupletIndex": 130,
+      "PersonMention": "Participant"
+    }
+  ],
+  "671": [
+    {
+      "PoemId": 8920,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    }
+  ],
+  "672": [
+    {
+      "PoemId": 8929,
+      "CoupletIndex": 41,
+      "PersonMention": "Participant"
+    }
+  ],
+  "673": [
+    {
+      "PoemId": 8929,
+      "CoupletIndex": 55,
+      "PersonMention": "Participant"
+    }
+  ],
+  "674": [
+    {
+      "PoemId": 8937,
+      "CoupletIndex": 7,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "675": [
+    {
+      "PoemId": 8943,
+      "CoupletIndex": 97,
+      "PersonMention": "Participant"
+    }
+  ],
+  "676": [
+    {
+      "PoemId": 8975,
+      "CoupletIndex": 74,
+      "PersonMention": "Participant"
+    }
+  ],
+  "677": [
+    {
+      "PoemId": 8978,
+      "CoupletIndex": 3,
+      "PersonMention": "Participant"
+    }
+  ],
+  "678": [
+    {
+      "PoemId": 8978,
+      "CoupletIndex": 4,
+      "PersonMention": "Participant"
+    }
+  ],
+  "679": [
+    {
+      "PoemId": 8980,
+      "CoupletIndex": 69,
+      "PersonMention": "Participant"
+    }
+  ],
+  "680": [
+    {
+      "PoemId": 8982,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    }
+  ],
+  "681": [
+    {
+      "PoemId": 8982,
+      "CoupletIndex": 24,
+      "PersonMention": "Participant"
+    }
+  ],
+  "682": [
+    {
+      "PoemId": 8982,
+      "CoupletIndex": 18,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "683": [
+    {
+      "PoemId": 8983,
+      "CoupletIndex": 40,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "684": [
+    {
+      "PoemId": 8983,
+      "CoupletIndex": 57,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "685": [
+    {
+      "PoemId": 8984,
+      "CoupletIndex": 98,
+      "PersonMention": "Participant"
+    }
+  ],
+  "686": [
+    {
+      "PoemId": 8985,
+      "CoupletIndex": 6,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "688": [
+    {
+      "PoemId": 8908,
+      "CoupletIndex": 16,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "689": [
+    {
+      "PoemId": 2140,
+      "CoupletIndex": 9,
+      "PersonMention": "Allusion"
+    },
+    {
+      "PoemId": 2456,
+      "CoupletIndex": 9,
+      "PersonMention": "Allusion"
+    }
+  ],
+  "691": [
+    {
+      "PoemId": 1924,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1927,
+      "CoupletIndex": 12,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1928,
+      "CoupletIndex": 26,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1931,
+      "CoupletIndex": 5,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1935,
+      "CoupletIndex": 3,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1936,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1937,
+      "CoupletIndex": 0,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1938,
+      "CoupletIndex": 5,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 1940,
+      "CoupletIndex": 18,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 151751,
+      "CoupletIndex": 3,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 151752,
+      "CoupletIndex": 1,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 151753,
+      "CoupletIndex": 4,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 151761,
+      "CoupletIndex": 5,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 151762,
+      "CoupletIndex": 18,
+      "PersonMention": "Participant"
+    },
+    {
+      "PoemId": 151771,
+      "CoupletIndex": 47,
+      "PersonMention": "Allusion"
+    }
+  ]
+}

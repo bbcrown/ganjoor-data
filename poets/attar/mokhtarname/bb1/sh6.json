@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "اتیطلبد",
-      "PlainText": "دل زنده شود کز تو حیاتی طلبد\r\nجان باز رهد کز تو نجاتی طلبد\r\nگر بر سر ذرهای فتد سایه تو\r\nخورشید از آن ذره زکاتی طلبد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل زنده شود کز تو حیاتی طلبد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان باز رهد کز تو نجاتی طلبد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بر سر ذرّهای فتد سایهٔ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید، از آن ذرّه، زکاتی طلبد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "دل زنده شود کز تو حیاتی طلبد\r\nجان باز رهد کز تو نجاتی طلبد\r\nگر بر سر ذره ای فتد سایه تو\r\nخورشید از آن ذره زکاتی طلبد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل زنده شود کز تو حیاتی طلبد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان باز رهد کز تو نجاتی طلبد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بر سر ذرّه‌ای فتد سایهٔ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید، از آن ذرّه، زکاتی طلبد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دل زنده شود کز تو حیاتی طلبد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل زنده می‌شود وقتی که از تو زندگی بخواهد و جان دوباره می‌گیرد چون به دنبال نجاتی از تو باشد."
     },
     {
       "VOrder": 2,
@@ -43,9 +44,10 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "گر بر سر ذرّهای فتد سایهٔ تو",
+      "Text": "گر بر سر ذرّه‌ای فتد سایهٔ تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سایهٔ تو بر ذره‌ای از نور خورشید بیفتد، آن ذره به خاطر وجود تو، نیاز به زکات پیدا می‌کند."
     },
     {
       "VOrder": 4,

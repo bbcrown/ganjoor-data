@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "وزی",
-      "PlainText": "ای شمه لطف تو بهشت افروزی\r\nدوزخ ز تف آتش قهرت سوزی\r\nگرنامه درد تو فرو باید خواند\r\nپنجاه هزار ساله دارم روزی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمّهٔ لطف تو بهشت افروزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوزخ ز تف آتش قهرت سوزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرنامهٔ دردِ تو فرو باید خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنجاه هزار ساله دارم روزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "ای شمه لطف تو بهشت افروزی\r\nدوزخ ز تف آتش قهرت سوزی\r\nگر نامه درد تو فرو باید خواند\r\nپنجاه هزار ساله دارم روزی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمّهٔ لطف تو بهشت افروزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوزخ ز تف آتش قهرت سوزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نامهٔ دردِ تو فرو باید خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنجاه هزار ساله دارم روزی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "ای شمّهٔ لطف تو بهشت افروزی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود تو به قدری زیبا و دلنشین است که خود بهشتی را می‌سازد، و در عین حال، خشم و قهرت می‌تواند مانند آتش دوزخ، انسان را بسوزاند."
     },
     {
       "VOrder": 2,
@@ -43,9 +44,10 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "گرنامهٔ دردِ تو فرو باید خواند",
+      "Text": "گر نامهٔ دردِ تو فرو باید خواند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم درد تو را بنویسم و بیان کنم، باید تا مدت‌ها و سال‌های زیادی وقت صرف کنم، چون این درد بسیار عمیق و طولانی است."
     },
     {
       "VOrder": 4,

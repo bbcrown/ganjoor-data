@@ -1,12 +1,12 @@
 {
   "Id": 1393,
   "CatId": 41,
-  "Title": "بخش ۱۶",
-  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۶",
+  "Title": "بخش ۱۶ - خشم مهراب بر سیندخت و رودابه و چاره‌اندیشی سیندخت برای رفتن نزد سام با گنج",
+  "FullTitle": "فردوسی » شاهنامه » منوچهر » بخش ۱۶ - خشم مهراب بر سیندخت و رودابه و چاره‌اندیشی سیندخت برای رفتن نزد سام با گنج",
   "FullUrl": "/ferdousi/shahname/manoochehr/sh16",
   "SourceName": "ویکی‌درج",
   "SourceUrlSlug": "wikidorj",
-  "PoemSummary": "هوش مصنوعی: در کابل خبر ماجرای سیندخت و شاه فاش می‌شود و مرزبان به شدت خشمگین می‌شود. او سیندخت را می‌خواند و او را تهدید می‌کند که در صورت ادامه‌ی این وضعیت، هردو را به مجازات می‌کشاند. سیندخت که نگران می‌شود، به فکر چاره می‌افتد و تصمیم می‌گیرد نزد سام برود تا او را از ماجرا باخبر کند و راه حلی پیدا کند. در نهایت، سیندخت با تدارکاتی به دیدار سام می‌رود، با خود دارایی‌هایی چون طلا و جواهرات می‌بَرَد تا بتواند او را راضی کند و از خشم مرزبان جلوگیری کند. او همچنین لباس‌های زینتی و هدایا برای پذیرایی آماده می‌کند تا تاثیر خوبی بر سام بگذارد. در این بین، اسب‌ها و شترها را نیز برای سفر آماده می‌کند. سیندخت در تلاش است تا از عواقب منفی این داستان جلوگیری کند و به آرامش برگردد.",
+  "PoemSummary": "وقتی خبر جنگ و خشم منوچهر شاه ایران با کابل به علت عاشق شدن زال و رودابه در کابل پخش شد، مهراب عصبانی و خشمگین شد و سیندخت را نزد خود صدا زد و به او گفت هیچ چاره ای وجود ندارد جز اینکه تو و دخترت رودابه را در بین همگان بکشم شاید شاه ایران آرام گردد و از جنگ با کابل منصرف شود چون در کابل هیچ کس توانایی مقابله با سام و تحمل زخم گرز او را ندارد.سیندخت به فکر پیدا کردن\u00A0 چاره افتاد و عاقبت راه چاره را جست و به نزد مهراب رفت و گفت چاره این است که من با هدایا به نزد سام بروم\u00A0 و هر آنچه لازم است را به او بگویم. مهراب هم کلید گنج را به سیندخت داد و گفت هر چه می توانی انجام بده تا جان خودت و دخترت را نجات دهی. سیندخت از مهراب قول گرفت که در نبودش از جان رودابه بگذرد و او در امنیت باشد و بعد سیندخت با هدایای گرانبها سی هزار دینار پول ،پارچه های زر بفت و طلا و انواع گوهر های قیمتی و اسب زرین و قاطر های بارکش و فیل های بزرگ با فرش نفیس و ... به سمت منوچهر شاه حرکت کرد.",
   "Metre": {
     "Id": 23,
     "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
@@ -421,7 +421,8 @@
       "Text": "چو در کابل این داستان فاش گشت",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "وقتی که این ماجرا در کابل پخش شد ، مهراب بسیار خشمگین و عصبانی شد."
     },
     {
       "VOrder": 2,
@@ -437,7 +438,8 @@
       "Text": "برآشفت و سیندخت را پیش خواند",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او عصبانی شد و سیندخت را به پیش خود صدا کرد و تمام خشم رودابه را بر سر او ریخت."
     },
     {
       "VOrder": 4,
@@ -453,7 +455,8 @@
       "Text": "بدو گفت کاکنون جزین رای نیست",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "او گفت که اکنون جز این تدبیر وجود ندارد، زیرا من توانایی مقابله با پادشاه جهان را ندارم."
     },
     {
       "VOrder": 6,
@@ -469,7 +472,8 @@
       "Text": "که آرمت با دخت ناپاک تن",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "که تو را به همراه دختر ناپاکت در بین همگان با خواری بکشم."
     },
     {
       "VOrder": 8,
@@ -485,7 +489,8 @@
       "Text": "مگر شاه ایران ازین خشم و کین",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "شاید شاه ایران از این خشم و کینه آرام شود و زمین هم آرام گردد."
     },
     {
       "VOrder": 10,
@@ -501,7 +506,8 @@
       "Text": "به کابل که با سام یارد چخید",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "چه کسی در کابل وجود دارد که بتواند با سام ستیزه کند و تحمل چشیدن زخم گرز او را داشته باشد."
     },
     {
       "VOrder": 12,
@@ -517,7 +523,8 @@
       "Text": "چو بشنید سیندخت بنشست پست",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی سیندخت این خبر را شنید، نشسته و با دل شکست خورده به فکر چاره‌جویی افتاد."
     },
     {
       "VOrder": 14,
@@ -533,7 +540,8 @@
       "Text": "یکی چاره آورد از دل به جای",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "چاره ای پیدا کرد زیرا او زنی تیز بین و ژرف اندیش بود."
     },
     {
       "VOrder": 16,
@@ -549,7 +557,8 @@
       "Text": "وزان پس دوان دست کرده به کش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "از آن پس به سرعت به پیش شاه که مانند خورشید بود رفت."
     },
     {
       "VOrder": 18,
@@ -565,7 +574,8 @@
       "Text": "بدو گفت بشنو ز من یک سخن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "به او گفت: به من گوش کن و یک حرف را بشنو و اگر مطابق میلت نبود کار دیگری بکن."
     },
     {
       "VOrder": 20,
@@ -581,7 +591,8 @@
       "Text": "ترا خواسته گر ز بهر تنست",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر خواسته‌ی تو به خاطر جسم تو است، این را ببخش و بدان که این شب زمان جدیدی به وجود خواهد آورد."
     },
     {
       "VOrder": 22,
@@ -597,7 +608,8 @@
       "Text": "اگر چند باشد شب دیریاز",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: حتی اگر شب طولانی باشد و تاریکی زیادی را به همراه داشته باشد، اما باز هم این وضعیت پایدار نخواهد ماند و روزی خواهد آمد که نور و روشنی بر تاریکی غلبه کند."
     },
     {
       "VOrder": 24,
@@ -613,7 +625,8 @@
       "Text": "شود روز چون چشمه روشن شود",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: روزی خواهد رسید که همچون چشمه، روشنی در جهان پخش می‌شود و دنیا چون نگینی از الماس درخشان خواهد شد."
     },
     {
       "VOrder": 26,
@@ -629,7 +642,8 @@
       "Text": "بدو گفت مهراب کز باستان",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: مهراب به او گفت که از گذشته‌ها داستان‌های قهرمانان را در وسط نیاور."
     },
     {
       "VOrder": 28,
@@ -645,7 +659,8 @@
       "Text": "بگو آنچه دانی و جان را بکوش",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "آنچه را می دانی را بگو و برای نجات جان خودت تلاش کن ، و گرنه خود را برای مرگ آماده کن."
     },
     {
       "VOrder": 30,
@@ -661,7 +676,8 @@
       "Text": "بدو گفت سیندخت کای سرفراز",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: سیندخت به او گفت: ای بزرگوار، نیازی به خون من نیست."
     },
     {
       "VOrder": 32,
@@ -677,7 +693,8 @@
       "Text": "مرا رفت باید به نزدیک سام",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: من باید به سمت سام بروم و زبان خود را باز کنم، همچون تیغی که از نیام خارج می‌شود."
     },
     {
       "VOrder": 34,
@@ -693,7 +710,8 @@
       "Text": "بگویم بدو آنچه گفتن سزد",
       "CoupletIndex": 17,
       "SectionIndex1": 0,
-      "SectionIndex2": 19
+      "SectionIndex2": 19,
+      "CoupletSummary": "آنچه را که شایسته است را به او بگویم ، گفتارها عقل خام را می پزد."
     },
     {
       "VOrder": 36,
@@ -709,7 +727,8 @@
       "Text": "ز من رنج جان و ز تو خواسته",
       "CoupletIndex": 18,
       "SectionIndex1": 0,
-      "SectionIndex2": 20
+      "SectionIndex2": 20,
+      "CoupletSummary": "من\u00A0\u00A0به خاطر خواسته تو\u00A0درد و رنج جان را تحمل می کنم و تو گنج ارزشمند و زیبا را به من بسپار."
     },
     {
       "VOrder": 38,
@@ -725,7 +744,8 @@
       "Text": "بدو گفت مهراب بستان کلید",
       "CoupletIndex": 19,
       "SectionIndex1": 0,
-      "SectionIndex2": 21
+      "SectionIndex2": 21,
+      "CoupletSummary": "مهراب به او گفت این کلید گنج را بگیر ، برای گنج نباید غصه خورد."
     },
     {
       "VOrder": 40,
@@ -741,7 +761,8 @@
       "Text": "پرستنده و اسپ و تخت و کلاه",
       "CoupletIndex": 20,
       "SectionIndex1": 0,
-      "SectionIndex2": 22
+      "SectionIndex2": 22,
+      "CoupletSummary": "کنیز و اسب و تخت و کلاه را آرایش کن و با خیشتن ببر."
     },
     {
       "VOrder": 42,
@@ -757,7 +778,8 @@
       "Text": "مگر شهر کابل نسوزد به ما",
       "CoupletIndex": 21,
       "SectionIndex1": 0,
-      "SectionIndex2": 23
+      "SectionIndex2": 23,
+      "CoupletSummary": "شاید شهر کابل از آتش جنگ و ویرانی نجات پیدا کند و مردمش بر ما شورش نکنند."
     },
     {
       "VOrder": 44,
@@ -773,7 +795,8 @@
       "Text": "چنین گفت سیندخت کای نامدار",
       "CoupletIndex": 22,
       "SectionIndex1": 0,
-      "SectionIndex2": 24
+      "SectionIndex2": 24,
+      "CoupletSummary": "سیندخت گفت که ای نامدار روح و روان خودت را آزار نده ، از خواسته ات منصرف شو."
     },
     {
       "VOrder": 46,
@@ -789,7 +812,8 @@
       "Text": "نباید که چون من شوم چاره‌جوی",
       "CoupletIndex": 23,
       "SectionIndex1": 0,
-      "SectionIndex2": 25
+      "SectionIndex2": 25,
+      "CoupletSummary": "نباید وقتی که من برای چاره جویی می روم تو به رودابه سخت بگیری."
     },
     {
       "VOrder": 48,
@@ -805,7 +829,8 @@
       "Text": "مرا در جهان انده جان اوست",
       "CoupletIndex": 24,
       "SectionIndex1": 0,
-      "SectionIndex2": 26
+      "SectionIndex2": 26,
+      "CoupletSummary": "من در جهان نگران جان رودابه هستم ، اکنون روز پیمان من با تو در مورد امنیت جان رودابه است."
     },
     {
       "VOrder": 50,
@@ -821,7 +846,8 @@
       "Text": "ندارم همی انده خویشتن",
       "CoupletIndex": 25,
       "SectionIndex1": 0,
-      "SectionIndex2": 27
+      "SectionIndex2": 27,
+      "CoupletSummary": "من نگران خودم نیستم ولی نگران جان رودابه هستم."
     },
     {
       "VOrder": 52,
@@ -837,7 +863,8 @@
       "Text": "یکی سخت پیمان ستد زو نخست",
       "CoupletIndex": 26,
       "SectionIndex1": 0,
-      "SectionIndex2": 28
+      "SectionIndex2": 28,
+      "CoupletSummary": "یک پیمان سخت از گرفت و پس از آن مانند یک مرد به دنبال راه چاره رفت."
     },
     {
       "VOrder": 54,
@@ -853,7 +880,8 @@
       "Text": "بیاراست تن را به دیبا و زر",
       "CoupletIndex": 27,
       "SectionIndex1": 0,
-      "SectionIndex2": 29
+      "SectionIndex2": 29,
+      "CoupletSummary": "بدن خود را با دیبا و زر و سر خود را با مروارید و یاقوت\u00A0آرایش کرد."
     },
     {
       "VOrder": 56,
@@ -869,7 +897,8 @@
       "Text": "پس از گنج زرش ز بهر نثار",
       "CoupletIndex": 28,
       "SectionIndex1": 0,
-      "SectionIndex2": 30
+      "SectionIndex2": 30,
+      "CoupletSummary": "سپس از گنج زر برای هدیه دادن سی هزار دینار بیرون آورد."
     },
     {
       "VOrder": 58,
@@ -885,7 +914,8 @@
       "Text": "به زرین ستام آوریدند سی",
       "CoupletIndex": 29,
       "SectionIndex1": 0,
-      "SectionIndex2": 31
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: از اسبان تازی و پارسی، سی تا اسب زرین و زیبا آوردند."
     },
     {
       "VOrder": 60,
@@ -901,7 +931,8 @@
       "Text": "ابا طوق زرین پرستنده شست",
       "CoupletIndex": 30,
       "SectionIndex1": 0,
-      "SectionIndex2": 32
+      "SectionIndex2": 32,
+      "CoupletSummary": "در دست خدمتکاران طوق زرین آویخته بود و جام های زر در دستانشان بود."
     },
     {
       "VOrder": 62,
@@ -917,7 +948,8 @@
       "Text": "پر از مشک و کافور و یاقوت و زر",
       "CoupletIndex": 31,
       "SectionIndex1": 0,
-      "SectionIndex2": 33
+      "SectionIndex2": 33,
+      "CoupletSummary": "جام ها از مشک و کافور و یاقوت و طلا و فیروزه و چند گوهر دیگر پر بود."
     },
     {
       "VOrder": 64,
@@ -933,7 +965,8 @@
       "Text": "چهل جامه دیبای پیکر به زر",
       "CoupletIndex": 32,
       "SectionIndex1": 0,
-      "SectionIndex2": 34
+      "SectionIndex2": 34,
+      "CoupletSummary": "چهل عدد جامه زیبای طلایی که با گوهر های مختلف تزیین شده بود."
     },
     {
       "VOrder": 66,
@@ -949,7 +982,8 @@
       "Text": "به زرین و سیمین دوصد تیغ هند",
       "CoupletIndex": 33,
       "SectionIndex1": 0,
-      "SectionIndex2": 35
+      "SectionIndex2": 35,
+      "CoupletSummary": "دویست تیغ هندی طلایی و نقره ای و به غیر از آن سی شمشیر تیز زهرآلوده\u00A0\u00A0"
     },
     {
       "VOrder": 68,
@@ -965,7 +999,8 @@
       "Text": "صد اشتر همه مادهٔ سرخ موی",
       "CoupletIndex": 34,
       "SectionIndex1": 0,
-      "SectionIndex2": 36
+      "SectionIndex2": 36,
+      "CoupletSummary": "صد شتر ماده سرخ موی ، صد قاطر بارکش راه رو"
     },
     {
       "VOrder": 70,
@@ -981,7 +1016,8 @@
       "Text": "یکی تاج پرگوهر شاهوار",
       "CoupletIndex": 35,
       "SectionIndex1": 0,
-      "SectionIndex2": 37
+      "SectionIndex2": 37,
+      "CoupletSummary": "یک تاج پر از جواهر به سبک شاهانه، به همراه گردنبند و گوشواره و دستبند"
     },
     {
       "VOrder": 72,
@@ -997,7 +1033,8 @@
       "Text": "بسان سپهری یکی تخت زر",
       "CoupletIndex": 36,
       "SectionIndex1": 0,
-      "SectionIndex2": 38
+      "SectionIndex2": 38,
+      "CoupletSummary": "یک تخت طلایی مانند آسمان که بر روی آن با چند مدل گوهر ساخته و پرداخته شده بود."
     },
     {
       "VOrder": 74,
@@ -1013,7 +1050,8 @@
       "Text": "برش خسروی بیست پهنای او",
       "CoupletIndex": 37,
       "SectionIndex1": 0,
-      "SectionIndex2": 39
+      "SectionIndex2": 39,
+      "CoupletSummary": "ظاهرش شاهانه و عرضش بیست و طولش از سیصد بیشتر بود."
     },
     {
       "VOrder": 76,
@@ -1029,7 +1067,8 @@
       "Text": "وزان ژنده‌پیلان هندی چهار",
       "CoupletIndex": 38,
       "SectionIndex1": 0,
-      "SectionIndex2": 40
+      "SectionIndex2": 40,
+      "CoupletSummary": "چهار فیل بزرگ هندی که فرش و لباس بار کرده بودند"
     },
     {
       "VOrder": 78,
@@ -1038,6 +1077,53 @@
       "CoupletIndex": 38,
       "SectionIndex1": 0,
       "SectionIndex2": 40
+    }
+  ],
+  "Tags": [
+    {
+      "CoupletIndex": 0,
+      "PersonId": 56,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): مرزبان کابل که از رسوایی خشمگین است و با سیندخت گفتگو می‌کند."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 57,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): همسر مهراب که چاره‌جویی می‌کند و آمادهٔ رفتن نزد سام می‌شود."
+    },
+    {
+      "CoupletIndex": 1,
+      "PersonId": 58,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): دختر مهراب که خشم پدر به سبب او برانگیخته شده است."
+    },
+    {
+      "CoupletIndex": 2,
+      "PersonId": 357,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پادشاهی که از او بیم می‌رود و خشمش باید فرو نشیند."
+    },
+    {
+      "CoupletIndex": 5,
+      "PersonId": 48,
+      "PersonMention": "Participant",
+      "VerifiedDate": false,
+      "IgnoreInCategory": false,
+      "MachineGenerated": false,
+      "Note": "پیشنهاد هوش مصنوعی (claude-sonnet-5-5): پهلوانی نیرومند که گرزش مایهٔ هراس است و سیندخت باید نزد او رود."
     }
   ]
 }

@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ونتونیست",
-      "PlainText": "کس نیست که در دو کون ما دون تونیست\r\nمستغرق آن حضرت بی چون تو نیست\r\nنی نی تا کی ز کون و حضرت گفتن\r\nبیرون تو هرچه هست بیرون تو نیست",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس نیست که در دو کون ما دون تونیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستغرق آن حضرت بی چون تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی تا کی ز کون و حضرت گفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون تو هرچه هست بیرون تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "کس نیست که در دو کون مادون تو نیست\r\nمستغرق آن حضرت بی چون تو نیست\r\nنی نی تا کی ز کون و حضرت گفتن\r\nبیرون تو هرچه هست بیرون تو نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس نیست که در دو کون مادون تو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستغرق آن حضرت بی چون تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی تا کی ز کون و حضرت گفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون تو هرچه هست بیرون تو نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,9 +29,10 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "کس نیست که در دو کون ما دون تونیست",
+      "Text": "کس نیست که در دو کون مادون تو نیست",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نیست که در دو جهان، مانند او به کمال برسد. همه در عشق و مستی نسبت به آن بزرگوار، همانند تو نیستند."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "نی نی تا کی ز کون و حضرت گفتن",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا کی از ظواهر و کلمات بی‌معنا سخن بگوییم؟ هرچه در بیرون از تو وجود دارد، در واقع از خود تو نیست."
     },
     {
       "VOrder": 4,

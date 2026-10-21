@@ -91,7 +91,8 @@
       "Text": "مرا در نظامیه ادرار بود",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "در دانشگاه نظامیه من مشغول تحصیل بودم و\u00A0هر روز مشغول به یادگیری با تکرار مطالب بودم."
     },
     {
       "VOrder": 2,
@@ -107,7 +108,8 @@
       "Text": "مر استاد را گفتم ای پر خرد",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به استاد گفتم: ای انسان باهوش، فلان دوست نسبت به من حسادت می‌کند."
     },
     {
       "VOrder": 4,
@@ -123,7 +125,8 @@
       "Text": "چو من داد معنی دهم در حدیث",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "وقتی من معنای واقعی مطالب درسی را بیان میکنم، می‌بینم که دوستم از پیشرفت من ناراحت می‌شود\u00A0"
     },
     {
       "VOrder": 6,
@@ -139,7 +142,8 @@
       "Text": "شنید این سخن پیشوای ادب",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: رهبر فرهنگ و ادب وقتی این حرف را شنید به شدت ناراحت شد و گفت: \u0022این چه حرف عجیبی است!\u0022"
     },
     {
       "VOrder": 8,
@@ -155,7 +159,8 @@
       "Text": "حسودی پسندت نیامد ز دوست",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "تو که حسادت دوستت به خود را بسیار بد می‌دانی، از کجا فهمیدی که بدگویی از او کار خوبی است؟"
     },
     {
       "VOrder": 10,
@@ -171,7 +176,8 @@
       "Text": "گر او راه دوزخ گرفت از خسی",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "اگر او از راه حسادت به تو به جهنم برود ، تو هم بخاطر اینکه پشت سر دوستت بدگویی میکنی، به جهنم خواهی رفت."
     },
     {
       "VOrder": 12,

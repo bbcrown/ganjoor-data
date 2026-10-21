@@ -201,7 +201,8 @@
       "Text": "کسی مشکلی برد پیشِ علی",
       "CoupletIndex": 0,
       "SectionIndex1": 0,
-      "SectionIndex2": 2
+      "SectionIndex2": 2,
+      "CoupletSummary": "شخصی مسئله و مشکلی را نزد حضرت علی (ع) آورد تا مگر آن را برایش روشن و برطرف کند."
     },
     {
       "VOrder": 2,
@@ -217,7 +218,8 @@
       "Text": "امیرِ عدوبَندِ کشور‌گشای",
       "CoupletIndex": 1,
       "SectionIndex1": 0,
-      "SectionIndex2": 3
+      "SectionIndex2": 3,
+      "CoupletSummary": "آن پیشوای اسیرکنندهٔ دشمنان و فاتح سرزمین‌ها، با تکیه بر دانش، عقل و اندیشهٔ عمیق خود پاسخ او را داد."
     },
     {
       "VOrder": 4,
@@ -233,7 +235,8 @@
       "Text": "شنیدم که شخصی در آن انجمن",
       "CoupletIndex": 2,
       "SectionIndex1": 0,
-      "SectionIndex2": 4
+      "SectionIndex2": 4,
+      "CoupletSummary": "شنیده‌ام که فردی در آن جمع برخاست و به اعتراض گفت: ای ابالحسن (علی)، این‌گونه که می‌گویی نیست."
     },
     {
       "VOrder": 6,
@@ -249,7 +252,8 @@
       "Text": "نرنجید از او حیدرِ نامجوی",
       "CoupletIndex": 3,
       "SectionIndex1": 0,
-      "SectionIndex2": 5
+      "SectionIndex2": 5,
+      "CoupletSummary": "حیدر (علی (ع)) نام‌آور از سخن او آزرده نشد، بلکه فرمود: اگر پاسخی بهتر از این می‌دانی، بیان کن."
     },
     {
       "VOrder": 8,
@@ -265,7 +269,8 @@
       "Text": "بگفت آنچه دانست و بایسته گفت",
       "CoupletIndex": 4,
       "SectionIndex1": 0,
-      "SectionIndex2": 6
+      "SectionIndex2": 6,
+      "CoupletSummary": "آن مرد آنچه را می‌دانست گفت و سخنی درست و شایسته ادا کرد؛ چرا که خورشیدِ درخشانِ حقیقت را نمی‌توان با گِل پوشاند."
     },
     {
       "VOrder": 10,
@@ -281,7 +286,8 @@
       "Text": "پسندید از او شاهِ مردان جواب",
       "CoupletIndex": 5,
       "SectionIndex1": 0,
-      "SectionIndex2": 7
+      "SectionIndex2": 7,
+      "CoupletSummary": "شاه مردان (حضرت علی) سخن او را پذیرفت و تحسین کرد و فرمود: من اشتباه می‌کردم و حق با او بود."
     },
     {
       "VOrder": 12,
@@ -297,7 +303,8 @@
       "Text": "به از ما سخنگویِ دانا یکی است",
       "CoupletIndex": 6,
       "SectionIndex1": 0,
-      "SectionIndex2": 8
+      "SectionIndex2": 8,
+      "CoupletSummary": "داناتر و بهتر از همهٔ ما تنها یک سخنگوی خردمند وجود دارد و آن پروردگار یگانه‌ای است که دانشی فراتر از علم او نیست."
     },
     {
       "VOrder": 14,
@@ -313,7 +320,8 @@
       "Text": "گر امروز بودی خداوندِ جاه",
       "CoupletIndex": 7,
       "SectionIndex1": 0,
-      "SectionIndex2": 9
+      "SectionIndex2": 9,
+      "CoupletSummary": "اگر حاکمان و صاحب‌منصبان امروزی در چنین جایگاهی بودند، از روی غرور و خودبزرگ‌بینی حتی به آن منتقد نگاه هم نمی‌کردند."
     },
     {
       "VOrder": 16,
@@ -329,7 +337,8 @@
       "Text": "به در کردی از بارگه حاجبش",
       "CoupletIndex": 8,
       "SectionIndex1": 0,
-      "SectionIndex2": 10
+      "SectionIndex2": 10,
+      "CoupletSummary": "دربانِ کاخ او را با خواری از مجلس بیرون می‌انداخت و مأموران به‌ناحق و ظالمانه او را کتک می‌زدند."
     },
     {
       "VOrder": 18,
@@ -345,7 +354,8 @@
       "Text": "که مِن‌بعد بی‌آبرویی مکُن",
       "CoupletIndex": 9,
       "SectionIndex1": 0,
-      "SectionIndex2": 11
+      "SectionIndex2": 11,
+      "CoupletSummary": "و به او می‌گفتند: دیگر چنین جسارتی مکن، زیرا در حضور بزرگان و قدرتمندان سخن گفتن و مخالفت خلاف ادب است!"
     },
     {
       "VOrder": 20,
@@ -361,7 +371,8 @@
       "Text": "یکی را که پندار در سر بوَد",
       "CoupletIndex": 10,
       "SectionIndex1": 0,
-      "SectionIndex2": 12
+      "SectionIndex2": 12,
+      "CoupletSummary": "هرگز گمان مبر کسی که مغزش پر از غرور، خودبینی و توهم دانایی است، حقیقت و سخن حق را پذیرا شود."
     },
     {
       "VOrder": 22,
@@ -377,7 +388,8 @@
       "Text": "ز علمش ملال آید از وعظ ننگ",
       "CoupletIndex": 11,
       "SectionIndex1": 0,
-      "SectionIndex2": 13
+      "SectionIndex2": 13,
+      "CoupletSummary": "فرد مغرور از آموختن دانش دلزده می‌شود و شنیدن پند برایش مایهٔ سرشکستگی است؛ همان‌طور که با بارش باران، گُل شقایق بر سنگ سخت نمی‌روید."
     },
     {
       "VOrder": 24,
@@ -393,7 +405,8 @@
       "Text": "گرت دُرِّ دریای فضل است خیز",
       "CoupletIndex": 12,
       "SectionIndex1": 0,
-      "SectionIndex2": 14
+      "SectionIndex2": 14,
+      "CoupletSummary": "اگر از دریای فضل و کمال گوهری داری، برخیز و آن را با پند و اندرز، پیش پای انسان‌های فروتن و نیازمند معرفت نثار کن."
     },
     {
       "VOrder": 26,
@@ -409,7 +422,8 @@
       "Text": "نبینی که از خاکِ افتاده خوار",
       "CoupletIndex": 13,
       "SectionIndex1": 0,
-      "SectionIndex2": 15
+      "SectionIndex2": 15,
+      "CoupletSummary": "آیا نمی‌بینی تنها از خاکی که فروتنانه بر زمین افتاده، گل می‌روید و بهار شکوفا می‌شود؟"
     },
     {
       "VOrder": 28,
@@ -425,7 +439,8 @@
       "Text": "مریز ای حکیم آستین‌های دُر",
       "CoupletIndex": 14,
       "SectionIndex1": 0,
-      "SectionIndex2": 16
+      "SectionIndex2": 16,
+      "CoupletSummary": "ای دانای فرزانه، گوهر حکمت و سخن ارزشمندت را هدر نده هنگامی که می‌بینی فردِ روبه‌رو از غرور و خودخواهی سرشار است."
     },
     {
       "VOrder": 30,
@@ -441,7 +456,8 @@
       "Text": "به چشمِ کسان در‌نیاید کسی",
       "CoupletIndex": 15,
       "SectionIndex1": 0,
-      "SectionIndex2": 17
+      "SectionIndex2": 17,
+      "CoupletSummary": "کسی که ادعای بزرگی می‌کند و به خود می‌نازد، در چشم و دیدگاه دیگران کوچک و بی‌ارزش خواهد بود."
     },
     {
       "VOrder": 32,
@@ -457,7 +473,8 @@
       "Text": "مگو تا بگویند شُکرت هزار",
       "CoupletIndex": 16,
       "SectionIndex1": 0,
-      "SectionIndex2": 18
+      "SectionIndex2": 18,
+      "CoupletSummary": "از خودت تمجید مکن تا مردم تو را ستایش و قدردانی کنند؛ زیرا وقتی خودت لب به خودستایی گشودی، دیگر نباید از کسی انتظار احترام و تعریف داشته باشی."
     },
     {
       "VOrder": 34,

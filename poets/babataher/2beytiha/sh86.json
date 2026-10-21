@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "مگر شیر و پلنگی ای دل ای دل",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای دل من، مگر تو شیر و پلنگ هستی که با من همیشه در حال جنگیدن هستی؟"
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "اگر دستم فتی خونت بریجم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای دل اگر بدست من بیفتی خون تو را خواهم ریخت (اصطلاحا تو را میکُشم )تا ببینم به چه رنگی هستی،\u00A0"
     },
     {
       "VOrder": 4,

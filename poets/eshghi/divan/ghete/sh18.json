@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "این ملک، یک انقلاب می خواهد و بس",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این سرزمین به تغییر و تحولی اساسی نیاز دارد و هیچ چیز دیگری برای آن کافی نیست؛ باید بی‌حساب و کتاب خون‌هایی بر زمین ریخته شود."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "امروز دگر درخت آزادی ما",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "امروز دیگر درخت آزادی ما تنها می‌تواند با خون من و تو آبیاری شود، نه چیز دیگر."
     },
     {
       "VOrder": 4,

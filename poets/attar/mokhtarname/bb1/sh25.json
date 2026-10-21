@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "ست",
-      "PlainText": "در معرفت تو دم زدن نقصان است\r\nزیراکه ترا هم به تو بتوان دانست\r\nخورشید که روشن است بینایی او\r\nدر ذات تو چون صبحدمش تاوان است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر معرفت تو دم زدن نقصان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیراکه ترا هم به تو بتوان دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید که روشن است بینائی او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ذات تو چون صبحدمش تاوان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "در معرفت تو دم زدن نقصان است\r\nزیرا که تو را هم به تو بتوان دانست\r\nخورشید که روشن است بینایی او\r\nدر ذات تو چون صبحدمش تاوان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر معرفت تو دم زدن نقصان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که تو را هم به تو بتوان دانست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید که روشن است بینائی او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ذات تو چون صبحدمش تاوان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -31,12 +31,13 @@
       "Position": "Right",
       "Text": "در معرفت تو دم زدن نقصان است",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صحبت کردن درباره شناخت و معرفت تو، کاستی و نقصان دارد؛ چرا که حتی خودت را هم نمی‌توان به طور کامل فهمید و شناخته‌ای."
     },
     {
       "VOrder": 2,
       "Position": "Left",
-      "Text": "زیراکه ترا هم به تو بتوان دانست",
+      "Text": "زیرا که تو را هم به تو بتوان دانست",
       "CoupletIndex": 0,
       "SectionIndex1": 0
     },
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "خورشید که روشن است بینائی او",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید که می‌درخشد و نورش تمام زمین را روشن کرده است، بینایی و روشنی‌اش در وجود تو به اندازه‌ی لحظه‌ای بیداری صبح است که برای آن باید بها داد."
     },
     {
       "VOrder": 4,

@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "اهدهی",
-      "PlainText": "گه تحفه به ناله سحرگاه دهی\r\nگه تشریفم برای یک آه دهی\r\nزان میخواهم بیخودی خویش که تو\r\nبیخود کنی آنگاه بخود راه دهی",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه تحفه به نالهٔ سحرگاه دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه تشریفم برای یک آه دهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان میخواهم بیخودی خویش که تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخود کنی آنگاه بخود راه دهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "گه تحفه به ناله سحرگاه دهی\r\nگه تشریفم برای یک آه دهی\r\nزان می خواهم بیخودی خویش که تو\r\nبیخود کنی آنگاه بخود راه دهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه تحفه به نالهٔ سحرگاه دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه تشریفم برای یک آه دهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان می‌خواهم بیخودیِ خویش که تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخود کنی آنگاه بخود راه دهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "گه تحفه به نالهٔ سحرگاه دهی",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی با ناله‌های صبحگاهی به من هدیه‌ای می‌دهی و گاهی تنها با یک آه، مرا ارج می‌گذاری."
     },
     {
       "VOrder": 2,
@@ -43,9 +44,10 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "زان میخواهم بیخودی خویش که تو",
+      "Text": "زان می‌خواهم بیخودیِ خویش که تو",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم از خودم بی‌خبر شوم تا تو هم مرا از خود بی‌خود کنی و بعد خودم را به من بازگردانی."
     },
     {
       "VOrder": 4,

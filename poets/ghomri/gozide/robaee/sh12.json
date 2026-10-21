@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "من مِی خورم و هر که چو من اهل بود",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مشروب می‌نوشم و هر کس که مانند من چنین سلیقه‌ای دارد، نوشیدن من برای او آسان است."
     },
     {
       "VOrder": 2,
@@ -40,7 +41,8 @@
       "Position": "Right",
       "Text": "می خوردن من حق ز ازل می‌دانست",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "خدا از ابتدای خلقت عالم به می نوشی من بود. پس اگر می ننوشم، ننوشیدم برابر است با جهل بودن علم خدا."
     },
     {
       "VOrder": 4,

@@ -31,7 +31,8 @@
       "Position": "Right",
       "Text": "دلی دیرم ولی دیوانه و دنگ",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "زَدَستِم‌: زده‌ استم‌، زده‌ام."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "ازین دیوانگی روزی برآیم",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "روزی از این دیوانگی و جنون رها می شوم که چنگ در دامن دلبر بزنم"
     },
     {
       "VOrder": 4,

@@ -19,8 +19,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "رد",
-      "PlainText": "گر باد هوای کوی سرایت سپرد\r\nمی دان تو که جان ز دستم ای جان نبرد\r\nاندیشه نخواهم که به تو برگذرد\r\nرشک آیدم از دیده که در تو نگرد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر باد هوای کوی سرایت سپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی دان تو که جان ز دستم ای جان نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندیشه نخواهم که به تو برگذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرشک آیدم از دیده که در تو نگرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "گر باد هوا\u00A0 کوی سرایت سپرد\r\nمی دان تو که جان ز دستم ای جان نبرد\r\nاندیشه نخواهم که به تو برگذرد\r\nرشک آیدم از دیده که در تو نگرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر باد هوا\u00A0 کوی سرایت سپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی دان تو که جان ز دستم ای جان نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندیشه نخواهم که به تو برگذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرشک آیدم از دیده که در تو نگرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Robaee",
       "CoupletsCount": 2
     }
@@ -29,9 +29,10 @@
     {
       "VOrder": 1,
       "Position": "Right",
-      "Text": "گر باد هوای کوی سرایت سپرد",
+      "Text": "گر باد هوا\u00A0 کوی سرایت سپرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر باد به سمت کوچه و خانه‌ات بیفتد، می‌دانی که جانم به خاطر تو در خطر است و تو این را می‌دانی."
     },
     {
       "VOrder": 2,
@@ -45,7 +46,8 @@
       "Position": "Right",
       "Text": "اندیشه نخواهم که به تو برگذرد",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌خواهم به تو فکر کنم، چون اگر به تو بیندیشم، حسرت می‌خورم از اینکه چشمانم فقط به تو نمی‌نگرند."
     },
     {
       "VOrder": 4,

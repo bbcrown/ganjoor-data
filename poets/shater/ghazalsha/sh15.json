@@ -15,8 +15,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "یدنیاست",
-      "PlainText": "تا چند پیش ناز تو باید نیاز کرد\r\nبر ناز خود بناز که نازت کشیدنی است\r\nچشمت نظر ز لطف به عاشق نمی کند\r\nچون آهوی ختایی کارش رمیدنی است\r\nاز مشربت زلال لبست کام دل برآر\r\nسرچشمه حیات زلالت چشیدنی است\r\nخوشدل مرا نمای بد شنامت ای حبیب\r\nچون حرف تلخ از لب شیرین شنیدنی است\r\nبر نقد جان دو بوسه ز لعل تو خواستم\r\nگرچه گرانبهاست ولیکن خریدنی است\r\nمانع مشو ز لعل لبت بوسه خواستم\r\nهر شکرین لبی نمکین شد چشیدنی است\r\nجز من هر آنکه دست صبوحی بتو فکند\r\nقطعش نما ز دوش که دستش بریدنی است",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند پیش ناز تو باید نیاز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ناز خود بناز که نازت کشیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت نظر ز لُطف به عاشق نمی‌کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون آهوی ختائی کارش رمیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مشربت زلال لبست کام دل برآر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرچشمهٔ حیات زلالت چشیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشدل مرا نمای بد شنامت ای حبیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون حرف تلخ از لب شیرین شنیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر نقد جان دو بوسه ز لعل تو خواستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه گرانبهاست ولیکن خریدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانع مشو ز لعل لبت بوسه خواستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر شکرین لبی نمکین شد چشیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز من هر آنکه دست صبوحی بتو فکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطعش نما ز دوش که دستش بریدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "تا چند پیش ناز تو باید نیاز کرد\r\nبر ناز خود بناز که نازت کشیدنی است\r\nچشمت نظر ز لطف به عاشق نمی کند\r\nچون آهوی ختایی کارش رمیدنی است\r\nاز مشربت زلال لبست کام دل برآر\r\nسرچشمه حیات زلالت چشیدنی است\r\nخوشدل مرا نمای به دشنامت ای حبیب\r\nچون حرف تلخ از لب شیرین شنیدنی است\r\nبر نقد جان دو بوسه ز لعل تو خواستم\r\nگرچه گرانبهاست ولیکن خریدنی است\r\nمانع مشو ز لعل لبت بوسه خواستم\r\nهر شکرین لبی نمکین شد چشیدنی است\r\nجز من هر آنکه دست صبوحی بتو فکند\r\nقطعش نما ز دوش که دستش بریدنی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چند پیش ناز تو باید نیاز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ناز خود بناز که نازت کشیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت نظر ز لُطف به عاشق نمی‌کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون آهوی ختائی کارش رمیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مشربت زلال لبست کام دل برآر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرچشمهٔ حیات زلالت چشیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشدل مرا نمای به دشنامت ای حبیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون حرف تلخ از لب شیرین شنیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر نقد جان دو بوسه ز لعل تو خواستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه گرانبهاست ولیکن خریدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانع مشو ز لعل لبت بوسه خواستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر شکرین لبی نمکین شد چشیدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز من هر آنکه دست صبوحی بتو فکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطعش نما ز دوش که دستش بریدنی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghazal",
       "CoupletsCount": 7
     }
@@ -27,7 +27,8 @@
       "Position": "Right",
       "Text": "تا چند پیش ناز تو باید نیاز کرد",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند بار باید به خاطر ناز تو سر خم کرد؟ بر خودت ببال که ناز تو را باید تحمل کرد."
     },
     {
       "VOrder": 2,
@@ -41,7 +42,8 @@
       "Position": "Right",
       "Text": "چشمت نظر ز لُطف به عاشق نمی‌کند",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمانت به عاشق لطفی نمی‌کند، زیرا مانند آهوی ختایی، فقط مشغول فرار و رمیدن است."
     },
     {
       "VOrder": 4,
@@ -55,7 +57,8 @@
       "Position": "Right",
       "Text": "از مشربت زلال لبست کام دل برآر",
       "CoupletIndex": 2,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آب زلال لب‌هایت دل را سیراب کن، چرا که سرچشمهٔ زندگی، چشیدنی از زیبایی‌هایت است."
     },
     {
       "VOrder": 6,
@@ -67,9 +70,10 @@
     {
       "VOrder": 7,
       "Position": "Right",
-      "Text": "خوشدل مرا نمای بد شنامت ای حبیب",
+      "Text": "خوشدل مرا نمای به دشنامت ای حبیب",
       "CoupletIndex": 3,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، لطفاً برایم نگذار که از تو بدی بشنوم. شنیدن سخنان تلخ از زبان کسی که دوستش دارم، سخت است."
     },
     {
       "VOrder": 8,
@@ -83,7 +87,8 @@
       "Position": "Right",
       "Text": "بر نقد جان دو بوسه ز لعل تو خواستم",
       "CoupletIndex": 4,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دو بوسه از لبان تو را می‌خواهم که ارزش زیادی دارند، اما همچنان می‌توان آنها را به دست آورد."
     },
     {
       "VOrder": 10,
@@ -97,7 +102,8 @@
       "Position": "Right",
       "Text": "مانع مشو ز لعل لبت بوسه خواستم",
       "CoupletIndex": 5,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانع نشو که خواستم لبت را ببوسم. هر کسی که لبش شیرین است، با چشیدن آن لذتی وصف‌ناپذیر دارد."
     },
     {
       "VOrder": 12,
@@ -111,7 +117,8 @@
       "Position": "Right",
       "Text": "جز من هر آنکه دست صبوحی بتو فکند",
       "CoupletIndex": 6,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس غیر از من که در حال سرمستی به تو نزدیک شود، او را از خود دور کن، چون دستش به عذاب می‌رسد و باید قطع شود."
     },
     {
       "VOrder": 14,

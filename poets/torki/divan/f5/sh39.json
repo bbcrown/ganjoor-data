@@ -14,8 +14,8 @@
       "SectionType": "WholePoem",
       "VerseType": "First",
       "RhymeLetters": "اد",
-      "PlainText": "این چند روز عمر که هستی تو در جهان\r\nهشیار باش تا ندهی نام خود بباد\r\nفردا کز این جهان به جهلن دگر روی\r\nکاری بکن که خلق به خیرت کنند یاد",
-      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چند روز عمر، که هستی تو در جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیار باش، تا ندهی نام خود بباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا کز این جهان، به جهلن دگر روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاری بکن که خلق، به خیرت کنند یاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PlainText": "این چند روز عمر که هستی تو در جهان\r\nهشیار باش تا ندهی نام خود بباد\r\nفردا کز این جهان به جهان دگر روی\r\nکاری بکن که خلق به خیرت کنند یاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چند روز عمر، که هستی تو در جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیار باش، تا ندهی نام خود بباد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردا کز این جهان، به جهان دگر روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاری بکن که خلق، به خیرت کنند یاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
       "PoemFormat": "Ghete",
       "CoupletsCount": 2
     }
@@ -26,7 +26,8 @@
       "Position": "Right",
       "Text": "این چند روز عمر، که هستی تو در جهان",
       "CoupletIndex": 0,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این چند روز زندگی تا زمانی که در این دنیا هستی، هوشیار و آگاه باش تا نام و یاد خود را بی‌اعتبار نکنم."
     },
     {
       "VOrder": 2,
@@ -38,9 +39,10 @@
     {
       "VOrder": 3,
       "Position": "Right",
-      "Text": "فردا کز این جهان، به جهلن دگر روی",
+      "Text": "فردا کز این جهان، به جهان دگر روی",
       "CoupletIndex": 1,
-      "SectionIndex1": 0
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فردا که از این دنیا می‌روی، کاری کن که مردم به خوبی از تو یاد کنند."
     },
     {
       "VOrder": 4,

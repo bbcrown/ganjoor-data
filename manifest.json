@@ -1,8 +1,13 @@
 {
-  "SchemaVersion": 1,
-  "GeneratedAtUtc": "2026-09-01T05:06:57.6351851Z",
+  "SchemaVersion": 2,
+  "GeneratedAtUtc": "2026-10-13T06:38:12.7887571Z",
   "PoetsCount": 240,
-  "PoemsCount": 135319,
+  "PoemsCount": 135399,
+  "PeopleCount": 660,
+  "LocationsCount": 199,
+  "GeoTagsCount": 183,
+  "PersonTagsCount": 5720,
+  "PersonIndexShardSize": 500,
   "IdIndexShardSize": 2000,
   "UrlTemplates": {
     "Poet": "poets/{poetSlug}/poet.json",
@@ -10,7 +15,13 @@
     "Poem": "poets/{poetSlug}/{catPath}/{poemSlug}.json",
     "PoetIdIndex": "index/poets-by-id.json",
     "CatIdIndexShard": "index/cats-by-id/{bucket}.json",
-    "PoemIdIndexShard": "index/poems-by-id/{bucket}.json"
+    "PoemIdIndexShard": "index/poems-by-id/{bucket}.json",
+    "Locations": "locations.json",
+    "People": "people.json",
+    "PersonRelations": "person-relations.json",
+    "PersonAffiliations": "person-affiliations.json",
+    "GeoTags": "geotags.json",
+    "PersonTagsIndexShard": "index/person-tags/{bucket}.json"
   },
   "Poets": [
     {
